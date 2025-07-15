@@ -1,0 +1,26 @@
+{
+  "name": "aphrodite",
+  "difficulty": 1,
+  "display_name": "Aphrodite",
+  "ham_move_name": "Pretty_Face_rudeboy.move",
+  "milo_name": "pretty_face_rudeboy",
+  "song_name": "rudeboy",
+  "clips": {
+    "aphrodite_rudeboy_v0": {
+      "avg_beats_per_second": 1.45,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "aphrodite_rudeboy_v1": {
+      "avg_beats_per_second": 1.45,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

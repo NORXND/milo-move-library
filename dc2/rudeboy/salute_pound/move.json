@@ -1,0 +1,18 @@
+{
+  "name": "salute_pound",
+  "difficulty": 1,
+  "display_name": "Salute Pound",
+  "ham_move_name": "Cabam_rudeboy.move",
+  "milo_name": "cabam_rudeboy",
+  "song_name": "rudeboy",
+  "clips": {
+    "salute_pound_rudeboy_v0": {
+      "avg_beats_per_second": 1.45,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

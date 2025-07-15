@@ -1,0 +1,50 @@
+{
+  "name": "take_it",
+  "difficulty": 0,
+  "display_name": "Take It",
+  "ham_move_name": "Take_It_Dbl_rudeboy.move",
+  "milo_name": "take_it_dbl_rudeboy",
+  "song_name": "rudeboy",
+  "clips": {
+    "take_it_rudeboy_v2": {
+      "avg_beats_per_second": 1.45,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "take_it_rudeboy_v3": {
+      "avg_beats_per_second": 1.25,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "take_it_rudeboy_v4": {
+      "avg_beats_per_second": 1.45,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "take_it_rudeboy_v0": {
+      "avg_beats_per_second": 1.45,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "take_it_rudeboy_v1": {
+      "avg_beats_per_second": 1.25,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

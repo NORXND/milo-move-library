@@ -1,0 +1,26 @@
+{
+  "name": "ponytail",
+  "difficulty": 2,
+  "display_name": "Ponytail",
+  "ham_move_name": "Pull_Hair_rudeboy.move",
+  "milo_name": "pull_hair_rudeboy",
+  "song_name": "rudeboy",
+  "clips": {
+    "ponytail_rudeboy_v0": {
+      "avg_beats_per_second": 1.45,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ponytail_rudeboy_v1": {
+      "avg_beats_per_second": 1.45,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

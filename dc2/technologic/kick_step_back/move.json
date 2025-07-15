@@ -1,0 +1,42 @@
+{
+  "name": "kick_step_back",
+  "difficulty": 1,
+  "display_name": "Kick Step Back",
+  "ham_move_name": "House_Shuffle_technologic.move",
+  "milo_name": "house_shuffle_technologic",
+  "song_name": "technologic",
+  "clips": {
+    "kick_step_back_technologic_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_step_back_technologic_v3": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_step_back_technologic_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_step_back_technologic_v2": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

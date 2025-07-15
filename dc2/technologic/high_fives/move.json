@@ -1,0 +1,26 @@
+{
+  "name": "high_fives",
+  "difficulty": 0,
+  "display_name": "High Fives",
+  "ham_move_name": "High_Five_technologic.move",
+  "milo_name": "high_five_technologic",
+  "song_name": "technologic",
+  "clips": {
+    "high_fives_technologic_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "high_fives_technologic_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

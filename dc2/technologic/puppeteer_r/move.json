@@ -1,0 +1,26 @@
+{
+  "name": "puppeteer_r",
+  "difficulty": 1,
+  "display_name": "Puppeteer",
+  "ham_move_name": "Puppet_R_technologic.move",
+  "milo_name": "puppet_r_technologic",
+  "song_name": "technologic",
+  "clips": {
+    "puppeteer_r_technologic_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "puppeteer_l_technologic_v0",
+      "linked_from": ""
+    },
+    "puppeteer_r_technologic_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "puppeteer_l_technologic_v1",
+      "linked_from": "puppeteer_l_technologic_v0"
+    }
+  }
+}

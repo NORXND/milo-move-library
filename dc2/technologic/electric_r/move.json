@@ -1,0 +1,26 @@
+{
+  "name": "electric_r",
+  "difficulty": 0,
+  "display_name": "Electric",
+  "ham_move_name": "Electric_R_technologic.move",
+  "milo_name": "electric_r_technologic",
+  "song_name": "technologic",
+  "clips": {
+    "electric_r_technologic_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "electric_l_technologic_v1"
+    },
+    "electric_r_technologic_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

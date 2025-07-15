@@ -1,0 +1,42 @@
+{
+  "name": "mime_box",
+  "difficulty": 0,
+  "display_name": "Mime Box",
+  "ham_move_name": "Mime_Box_technologic.move",
+  "milo_name": "mime_box_technologic",
+  "song_name": "technologic",
+  "clips": {
+    "mime_box_technologic_v2": {
+      "avg_beats_per_second": 1.82,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "mime_box_technologic_v3": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "mime_box_technologic_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "mime_box_technologic_v1": {
+      "avg_beats_per_second": 1.81,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

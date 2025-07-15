@@ -1,0 +1,26 @@
+{
+  "name": "skeleton_raise",
+  "difficulty": 1,
+  "display_name": "Skeleton Raise",
+  "ham_move_name": "Pull_Across_Up_technologic.move",
+  "milo_name": "pull_across_up_technologic",
+  "song_name": "technologic",
+  "clips": {
+    "skeleton_raise_technologic_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "skeleton_raise_technologic_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

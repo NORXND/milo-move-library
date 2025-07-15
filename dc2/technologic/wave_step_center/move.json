@@ -1,0 +1,42 @@
+{
+  "name": "wave_step_center",
+  "difficulty": 0,
+  "display_name": "Wave Step Center",
+  "ham_move_name": "Shamrock_Wave_technologic.move",
+  "milo_name": "shamrock_wave_technologic",
+  "song_name": "technologic",
+  "clips": {
+    "wave_step_center_technologic_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wave_step_center_technologic_v3": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wave_step_center_technologic_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wave_step_center_technologic_v2": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

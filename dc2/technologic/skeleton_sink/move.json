@@ -1,0 +1,26 @@
+{
+  "name": "skeleton_sink",
+  "difficulty": 1,
+  "display_name": "Skeleton Sink",
+  "ham_move_name": "Pull_Across_Down_technologic.move",
+  "milo_name": "pull_across_down_technologic",
+  "song_name": "technologic",
+  "clips": {
+    "skeleton_sink_technologic_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "skeleton_sink_technologic_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

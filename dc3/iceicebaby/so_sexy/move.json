@@ -1,0 +1,34 @@
+{
+  "name": "so_sexy",
+  "difficulty": 0,
+  "display_name": "So Sexy",
+  "ham_move_name": "Humpty_iceicebaby.move",
+  "milo_name": "humpty_iceicebaby",
+  "song_name": "iceicebaby",
+  "clips": {
+    "so_sexy_iceicebaby_v1": {
+      "avg_beats_per_second": 1.93,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "so_sexy_iceicebaby_v2": {
+      "avg_beats_per_second": 1.93,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "so_sexy_iceicebaby_v0": {
+      "avg_beats_per_second": 1.93,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

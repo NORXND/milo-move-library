@@ -1,0 +1,26 @@
+{
+  "name": "sick_pumps",
+  "difficulty": 2,
+  "display_name": "Sick Pumps",
+  "ham_move_name": "Ghetto_Pumps_iceicebaby.move",
+  "milo_name": "ghetto_pumps_iceicebaby",
+  "song_name": "iceicebaby",
+  "clips": {
+    "sick_pumps_iceicebaby_v0": {
+      "avg_beats_per_second": 1.93,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sick_pumps_iceicebaby_v1": {
+      "avg_beats_per_second": 1.93,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

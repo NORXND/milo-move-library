@@ -1,0 +1,18 @@
+{
+  "name": "don_t_mind_me_r",
+  "difficulty": 0,
+  "display_name": "Don't Mind Me",
+  "ham_move_name": "Side_Walk_R_iceicebaby.move",
+  "milo_name": "side_walk_r_iceicebaby",
+  "song_name": "iceicebaby",
+  "clips": {
+    "don_t_mind_me_r_iceicebaby_v0": {
+      "avg_beats_per_second": 1.93,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "don_t_mind_me_l_iceicebaby_v0",
+      "linked_from": ""
+    }
+  }
+}

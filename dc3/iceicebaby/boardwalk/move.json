@@ -1,0 +1,26 @@
+{
+  "name": "boardwalk",
+  "difficulty": 0,
+  "display_name": "Boardwalk",
+  "ham_move_name": "Boardwalk_iceicebaby.move",
+  "milo_name": "boardwalk_iceicebaby",
+  "song_name": "iceicebaby",
+  "clips": {
+    "boardwalk_iceicebaby_v1": {
+      "avg_beats_per_second": 1.93,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "boardwalk_iceicebaby_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

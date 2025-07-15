@@ -1,0 +1,18 @@
+{
+  "name": "club_walker",
+  "difficulty": 0,
+  "display_name": "Club Walker",
+  "ham_move_name": "Front_Back_Step_iceicebaby.move",
+  "milo_name": "front_back_step_iceicebaby",
+  "song_name": "iceicebaby",
+  "clips": {
+    "club_walker_iceicebaby_v0": {
+      "avg_beats_per_second": 1.93,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

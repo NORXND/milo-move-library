@@ -1,0 +1,18 @@
+{
+  "name": "bang_it_r",
+  "difficulty": 2,
+  "display_name": "Bang It",
+  "ham_move_name": "Bump_It_R_iceicebaby.move",
+  "milo_name": "bump_it_r_iceicebaby",
+  "song_name": "iceicebaby",
+  "clips": {
+    "bang_it_r_iceicebaby_v0": {
+      "avg_beats_per_second": 1.93,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "bang_it_l_iceicebaby_v0",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "love_shove",
+  "difficulty": 2,
+  "display_name": "Love shove",
+  "ham_move_name": "Nilla_iceicebaby.move",
+  "milo_name": "nilla_iceicebaby",
+  "song_name": "iceicebaby",
+  "clips": {
+    "love_shove_iceicebaby_v0": {
+      "avg_beats_per_second": 1.93,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "love_shove_iceicebaby_v1": {
+      "avg_beats_per_second": 1.66,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

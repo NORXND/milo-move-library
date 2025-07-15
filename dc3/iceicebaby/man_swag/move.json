@@ -1,0 +1,26 @@
+{
+  "name": "man_swag",
+  "difficulty": 2,
+  "display_name": "Man Swag",
+  "ham_move_name": "Swaggah_iceicebaby.move",
+  "milo_name": "swaggah_iceicebaby",
+  "song_name": "iceicebaby",
+  "clips": {
+    "man_swag_iceicebaby_v0": {
+      "avg_beats_per_second": 1.93,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "man_swag_iceicebaby_v1": {
+      "avg_beats_per_second": 1.93,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "hood_r",
+  "difficulty": 2,
+  "display_name": "Hood",
+  "ham_move_name": "Hood_R_iceicebaby.move",
+  "milo_name": "hood_r_iceicebaby",
+  "song_name": "iceicebaby",
+  "clips": {
+    "hood_r_iceicebaby_v0": {
+      "avg_beats_per_second": 1.93,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "hood_l_iceicebaby_v0",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "double_bang_it",
+  "difficulty": 0,
+  "display_name": "Double Bang It",
+  "ham_move_name": "Dbl_Punch_Down_iceicebaby.move",
+  "milo_name": "dbl_punch_down_iceicebaby",
+  "song_name": "iceicebaby",
+  "clips": {
+    "double_bang_it_iceicebaby_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

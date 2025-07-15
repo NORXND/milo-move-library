@@ -1,0 +1,26 @@
+{
+  "name": "dj_booth_l",
+  "difficulty": 2,
+  "display_name": "DJ Booth",
+  "ham_move_name": "Dj_Groove_L_iceicebaby.move",
+  "milo_name": "dj_groove_l_iceicebaby",
+  "song_name": "iceicebaby",
+  "clips": {
+    "dj_booth_l_iceicebaby_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "dj_booth_r_iceicebaby_v0"
+    },
+    "dj_booth_l_iceicebaby_v1": {
+      "avg_beats_per_second": 1.93,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "dj_booth_r_iceicebaby_v1"
+    }
+  }
+}

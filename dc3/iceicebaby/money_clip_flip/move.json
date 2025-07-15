@@ -1,0 +1,18 @@
+{
+  "name": "money_clip_flip",
+  "difficulty": 2,
+  "display_name": "Money Clip Flip",
+  "ham_move_name": "Gunshots_iceicebaby.move",
+  "milo_name": "gunshots_iceicebaby",
+  "song_name": "iceicebaby",
+  "clips": {
+    "money_clip_flip_iceicebaby_v0": {
+      "avg_beats_per_second": 1.93,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

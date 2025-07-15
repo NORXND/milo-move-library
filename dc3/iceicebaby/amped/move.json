@@ -1,0 +1,26 @@
+{
+  "name": "amped",
+  "difficulty": 2,
+  "display_name": "Amped",
+  "ham_move_name": "Amped_iceicebaby.move",
+  "milo_name": "amped_iceicebaby",
+  "song_name": "iceicebaby",
+  "clips": {
+    "amped_iceicebaby_v0": {
+      "avg_beats_per_second": 1.93,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "amped_iceicebaby_v1": {
+      "avg_beats_per_second": 1.93,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

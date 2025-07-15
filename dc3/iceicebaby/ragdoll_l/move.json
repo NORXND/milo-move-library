@@ -1,0 +1,18 @@
+{
+  "name": "ragdoll_l",
+  "difficulty": 2,
+  "display_name": "Ragdoll",
+  "ham_move_name": "Cool_Stroll_L_iceicebaby.move",
+  "milo_name": "cool_stroll_l_iceicebaby",
+  "song_name": "iceicebaby",
+  "clips": {
+    "ragdoll_l_iceicebaby_v0": {
+      "avg_beats_per_second": 1.93,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "ragdoll_r_iceicebaby_v0"
+    }
+  }
+}

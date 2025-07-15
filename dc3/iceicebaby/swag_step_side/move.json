@@ -1,0 +1,26 @@
+{
+  "name": "swag_step_side",
+  "difficulty": 2,
+  "display_name": "Swag Step Side",
+  "ham_move_name": "Side_Scoops_iceicebaby.move",
+  "milo_name": "side_scoops_iceicebaby",
+  "song_name": "iceicebaby",
+  "clips": {
+    "swag_step_side_iceicebaby_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swag_step_side_iceicebaby_v1": {
+      "avg_beats_per_second": 1.93,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

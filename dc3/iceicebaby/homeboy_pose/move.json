@@ -1,0 +1,18 @@
+{
+  "name": "homeboy_pose",
+  "difficulty": 2,
+  "display_name": "Homeboy Pose",
+  "ham_move_name": "Bboy_Pose_iceicebaby.move",
+  "milo_name": "bboy_pose_iceicebaby",
+  "song_name": "iceicebaby",
+  "clips": {
+    "homeboy_pose_iceicebaby_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

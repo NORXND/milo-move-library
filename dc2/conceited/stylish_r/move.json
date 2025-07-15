@@ -1,0 +1,18 @@
+{
+  "name": "stylish_r",
+  "difficulty": 2,
+  "display_name": "Stylish",
+  "ham_move_name": "Doug_It_Out_R_conceited.move",
+  "milo_name": "doug_it_out_r_conceited",
+  "song_name": "conceited",
+  "clips": {
+    "stylish_r_conceited_v0": {
+      "avg_beats_per_second": 1.66,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "stylish_l_conceited_v0",
+      "linked_from": ""
+    }
+  }
+}

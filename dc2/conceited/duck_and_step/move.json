@@ -1,0 +1,26 @@
+{
+  "name": "duck_and_step",
+  "difficulty": 1,
+  "display_name": "Duck & Step",
+  "ham_move_name": "Dip_Low_conceited.move",
+  "milo_name": "dip_low_conceited",
+  "song_name": "conceited",
+  "clips": {
+    "duck_and_step_conceited_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "duck_and_step_conceited_v1": {
+      "avg_beats_per_second": 1.66,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

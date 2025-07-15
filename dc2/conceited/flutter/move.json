@@ -1,0 +1,34 @@
+{
+  "name": "flutter",
+  "difficulty": 0,
+  "display_name": "Flutter",
+  "ham_move_name": "Flutter_conceited.move",
+  "milo_name": "flutter_conceited",
+  "song_name": "conceited",
+  "clips": {
+    "flutter_conceited_v2": {
+      "avg_beats_per_second": 1.66,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "flutter_conceited_v0": {
+      "avg_beats_per_second": 1.66,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "flutter_conceited_v1": {
+      "avg_beats_per_second": 1.66,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

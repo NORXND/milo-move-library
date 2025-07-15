@@ -1,0 +1,18 @@
+{
+  "name": "libra",
+  "difficulty": 2,
+  "display_name": "Libra",
+  "ham_move_name": "Vanity_conceited.move",
+  "milo_name": "vanity_conceited",
+  "song_name": "conceited",
+  "clips": {
+    "libra_conceited_v0": {
+      "avg_beats_per_second": 1.66,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

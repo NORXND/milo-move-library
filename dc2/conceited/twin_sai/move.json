@@ -1,0 +1,18 @@
+{
+  "name": "twin_sai",
+  "difficulty": 2,
+  "display_name": "Twin Sai",
+  "ham_move_name": "I_Look_Good_conceited.move",
+  "milo_name": "i_look_good_conceited",
+  "song_name": "conceited",
+  "clips": {
+    "twin_sai_conceited_v0": {
+      "avg_beats_per_second": 1.66,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

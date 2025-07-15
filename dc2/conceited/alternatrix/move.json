@@ -1,0 +1,18 @@
+{
+  "name": "alternatrix",
+  "difficulty": 2,
+  "display_name": "Alternatrix",
+  "ham_move_name": "Her_Prerogative_conceited.move",
+  "milo_name": "her_prerogative_conceited",
+  "song_name": "conceited",
+  "clips": {
+    "alternatrix_conceited_v0": {
+      "avg_beats_per_second": 1.66,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

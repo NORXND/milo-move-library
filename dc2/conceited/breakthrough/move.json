@@ -1,0 +1,18 @@
+{
+  "name": "breakthrough",
+  "difficulty": 2,
+  "display_name": "Breakthrough",
+  "ham_move_name": "Breakthrough_conceited.move",
+  "milo_name": "breakthrough_conceited",
+  "song_name": "conceited",
+  "clips": {
+    "breakthrough_conceited_v0": {
+      "avg_beats_per_second": 1.66,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

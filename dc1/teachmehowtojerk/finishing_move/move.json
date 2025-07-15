@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_teachmehowtojerk_v1064",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "End_Pose_teachmehowtojerk.move",
+  "milo_name": "end_pose_teachmehowtojerk",
+  "song_name": "teachmehowtojerk",
+  "clips": {
+    "finishing_move_teachmehowtojerk_v1064": {
+      "avg_beats_per_second": 1.62,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

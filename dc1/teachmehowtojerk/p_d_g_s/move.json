@@ -1,0 +1,18 @@
+{
+  "name": "p_d_g_s",
+  "difficulty": 1,
+  "display_name": "P.D.G.S.",
+  "ham_move_name": "P_teachmehowtojerk.D.G.S..move",
+  "milo_name": "p_teachmehowtojerk",
+  "song_name": "teachmehowtojerk",
+  "clips": {
+    "p_d_g_s_teachmehowtojerk_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

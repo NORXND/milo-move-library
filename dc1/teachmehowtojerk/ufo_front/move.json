@@ -1,0 +1,26 @@
+{
+  "name": "ufo_front",
+  "difficulty": 0,
+  "display_name": "UFO Front",
+  "ham_move_name": "UFO_Front_teachmehowtojerk.move",
+  "milo_name": "ufo_front_teachmehowtojerk",
+  "song_name": "teachmehowtojerk",
+  "clips": {
+    "ufo_front_teachmehowtojerk_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "ufo_back_teachmehowtojerk_v0",
+      "linked_from": ""
+    },
+    "ufo_front_teachmehowtojerk_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "ufo_back_teachmehowtojerk_v1",
+      "linked_from": "ufo_back_teachmehowtojerk_v0"
+    }
+  }
+}

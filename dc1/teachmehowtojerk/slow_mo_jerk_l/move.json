@@ -1,0 +1,26 @@
+{
+  "name": "slow_mo_jerk_l",
+  "difficulty": 0,
+  "display_name": "Slow Mo Jerk",
+  "ham_move_name": "Slow_Mo_Jerk_L_teachmehowtojerk.move",
+  "milo_name": "slow_mo_jerk_r_teachmehowtojerk",
+  "song_name": "teachmehowtojerk",
+  "clips": {
+    "slow_mo_jerk_l_teachmehowtojerk_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "slow_mo_jerk_r_teachmehowtojerk_v0"
+    },
+    "slow_mo_jerk_l_teachmehowtojerk_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "slow_mo_jerk_r_teachmehowtojerk_v1"
+    }
+  }
+}

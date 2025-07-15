@@ -1,0 +1,26 @@
+{
+  "name": "side_jerk_l",
+  "difficulty": 0,
+  "display_name": "Side Jerk",
+  "ham_move_name": "Jerk_L_teachmehowtojerk.move",
+  "milo_name": "jerk_r_teachmehowtojerk",
+  "song_name": "teachmehowtojerk",
+  "clips": {
+    "side_jerk_l_teachmehowtojerk_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "side_jerk_r_teachmehowtojerk_v0"
+    },
+    "side_jerk_l_teachmehowtojerk_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "side_jerk_r_teachmehowtojerk_v1"
+    }
+  }
+}

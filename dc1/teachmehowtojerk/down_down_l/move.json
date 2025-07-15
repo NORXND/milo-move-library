@@ -1,0 +1,18 @@
+{
+  "name": "down_down_l",
+  "difficulty": 0,
+  "display_name": "Down Down",
+  "ham_move_name": "Down_Down_L_teachmehowtojerk.move",
+  "milo_name": "down_down_l_teachmehowtojerk",
+  "song_name": "teachmehowtojerk",
+  "clips": {
+    "down_down_l_teachmehowtojerk_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

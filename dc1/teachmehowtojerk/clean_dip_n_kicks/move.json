@@ -1,0 +1,18 @@
+{
+  "name": "clean_dip_n_kicks",
+  "difficulty": 1,
+  "display_name": "Clean Dip 'n' Kicks",
+  "ham_move_name": "Clean_Dip_N_Kicks_teachmehowtojerk.move",
+  "milo_name": "clean_dip_n_kicks_teachmehowtojerk",
+  "song_name": "teachmehowtojerk",
+  "clips": {
+    "clean_dip_n_kicks_teachmehowtojerk_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

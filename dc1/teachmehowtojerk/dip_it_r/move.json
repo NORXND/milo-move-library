@@ -1,0 +1,18 @@
+{
+  "name": "dip_it_r",
+  "difficulty": 0,
+  "display_name": "Dip It",
+  "ham_move_name": "Dip_It_R_teachmehowtojerk.move",
+  "milo_name": "dip_it_r_teachmehowtojerk",
+  "song_name": "teachmehowtojerk",
+  "clips": {
+    "dip_it_r_teachmehowtojerk_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

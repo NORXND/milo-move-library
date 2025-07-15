@@ -1,0 +1,26 @@
+{
+  "name": "repel_l",
+  "difficulty": 2,
+  "display_name": "Repel",
+  "ham_move_name": "Fade_Away_L_whatdoesntkillyou.move",
+  "milo_name": "fade_away_l_whatdoesntkillyou",
+  "song_name": "whatdoesntkillyou",
+  "clips": {
+    "repel_l_whatdoesntkillyou_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "repel_r_whatdoesntkillyou_v0"
+    },
+    "repel_l_whatdoesntkillyou_v1": {
+      "avg_beats_per_second": 1.94,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "repel_r_whatdoesntkillyou_v1"
+    }
+  }
+}

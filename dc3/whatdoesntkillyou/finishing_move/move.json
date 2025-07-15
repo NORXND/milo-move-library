@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_whatdoesntkillyou_v1093",
+  "difficulty": 2,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_whatdoesntkillyou.move",
+  "milo_name": "finishing_move_whatdoesntkillyou",
+  "song_name": "whatdoesntkillyou",
+  "clips": {
+    "finishing_move_whatdoesntkillyou_v1093": {
+      "avg_beats_per_second": 1.94,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 74,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

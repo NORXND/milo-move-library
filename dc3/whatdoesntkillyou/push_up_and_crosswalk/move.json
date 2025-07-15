@@ -1,0 +1,34 @@
+{
+  "name": "push_up_and_crosswalk",
+  "difficulty": 2,
+  "display_name": "Push Up / Crosswalk",
+  "ham_move_name": "Pump_Iron_whatdoesntkillyou.move",
+  "milo_name": "pump_iron_whatdoesntkillyou",
+  "song_name": "whatdoesntkillyou",
+  "clips": {
+    "push_up_and_crosswalk_whatdoesntkillyou_v1": {
+      "avg_beats_per_second": 1.94,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "push_up_and_crosswalk_whatdoesntkillyou_v2": {
+      "avg_beats_per_second": 1.94,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "push_up_and_crosswalk_whatdoesntkillyou_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

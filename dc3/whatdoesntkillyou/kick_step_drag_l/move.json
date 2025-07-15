@@ -1,0 +1,34 @@
+{
+  "name": "kick_step_drag_l",
+  "difficulty": 2,
+  "display_name": "Kick Step Drag",
+  "ham_move_name": "Kick_And_Drag_Up_L_whatdoesntkillyou.move",
+  "milo_name": "kick_and_drag_up_l_whatdoesntkillyou",
+  "song_name": "whatdoesntkillyou",
+  "clips": {
+    "kick_step_drag_l_whatdoesntkillyou_v2": {
+      "avg_beats_per_second": 1.94,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "kick_step_drag_r_whatdoesntkillyou_v2"
+    },
+    "kick_step_drag_l_whatdoesntkillyou_v0": {
+      "avg_beats_per_second": 1.93,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "kick_step_drag_r_whatdoesntkillyou_v0"
+    },
+    "kick_step_drag_l_whatdoesntkillyou_v1": {
+      "avg_beats_per_second": 1.93,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "kick_step_drag_r_whatdoesntkillyou_v1"
+    }
+  }
+}

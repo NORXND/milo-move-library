@@ -1,0 +1,18 @@
+{
+  "name": "plate_echo",
+  "difficulty": 2,
+  "display_name": "Plate Echo",
+  "ham_move_name": "Focus_whatdoesntkillyou.move",
+  "milo_name": "focus_whatdoesntkillyou",
+  "song_name": "whatdoesntkillyou",
+  "clips": {
+    "plate_echo_whatdoesntkillyou_v0": {
+      "avg_beats_per_second": 1.93,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

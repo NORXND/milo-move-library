@@ -1,0 +1,18 @@
+{
+  "name": "back_scrub",
+  "difficulty": 0,
+  "display_name": "Back Scrub",
+  "ham_move_name": "Box_Rl_whatdoesntkillyou.move",
+  "milo_name": "box_rl_whatdoesntkillyou",
+  "song_name": "whatdoesntkillyou",
+  "clips": {
+    "back_scrub_whatdoesntkillyou_v0": {
+      "avg_beats_per_second": 1.93,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

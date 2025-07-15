@@ -1,0 +1,34 @@
+{
+  "name": "stronger",
+  "difficulty": 2,
+  "display_name": "Stronger",
+  "ham_move_name": "Stronger_whatdoesntkillyou.move",
+  "milo_name": "stronger_whatdoesntkillyou",
+  "song_name": "whatdoesntkillyou",
+  "clips": {
+    "stronger_whatdoesntkillyou_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stronger_whatdoesntkillyou_v1": {
+      "avg_beats_per_second": 1.94,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stronger_whatdoesntkillyou_v2": {
+      "avg_beats_per_second": 1.94,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

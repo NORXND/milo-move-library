@@ -1,0 +1,18 @@
+{
+  "name": "side_sass_and_dash",
+  "difficulty": 2,
+  "display_name": "Side Sass / Dash",
+  "ham_move_name": "Runnin_whatdoesntkillyou.move",
+  "milo_name": "runnin_whatdoesntkillyou",
+  "song_name": "whatdoesntkillyou",
+  "clips": {
+    "side_sass_and_dash_whatdoesntkillyou_v0": {
+      "avg_beats_per_second": 1.93,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

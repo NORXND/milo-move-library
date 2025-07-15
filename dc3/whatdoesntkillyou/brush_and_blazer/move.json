@@ -1,0 +1,34 @@
+{
+  "name": "brush_and_blazer",
+  "difficulty": 2,
+  "display_name": "Brush / Blazer",
+  "ham_move_name": "Elvis_Legs_whatdoesntkillyou.move",
+  "milo_name": "elvis_legs_whatdoesntkillyou",
+  "song_name": "whatdoesntkillyou",
+  "clips": {
+    "brush_and_blazer_whatdoesntkillyou_v1": {
+      "avg_beats_per_second": 1.93,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "brush_and_blazer_whatdoesntkillyou_v2": {
+      "avg_beats_per_second": 1.93,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "brush_and_blazer_whatdoesntkillyou_v0": {
+      "avg_beats_per_second": 1.93,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "olympian",
+  "difficulty": 2,
+  "display_name": "Olympian",
+  "ham_move_name": "Weight_Lifting_whatdoesntkillyou.move",
+  "milo_name": "weight_lifting_whatdoesntkillyou",
+  "song_name": "whatdoesntkillyou",
+  "clips": {
+    "olympian_whatdoesntkillyou_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "olympian_whatdoesntkillyou_v1": {
+      "avg_beats_per_second": 1.94,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "olympian_whatdoesntkillyou_v2": {
+      "avg_beats_per_second": 1.94,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

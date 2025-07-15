@@ -1,0 +1,18 @@
+{
+  "name": "touch_up",
+  "difficulty": 2,
+  "display_name": "Touch Up",
+  "ham_move_name": "Flick_Your_Eyebrows_whatdoesntkillyou.move",
+  "milo_name": "flick_your_eyebrows_whatdoesntkillyou",
+  "song_name": "whatdoesntkillyou",
+  "clips": {
+    "touch_up_whatdoesntkillyou_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

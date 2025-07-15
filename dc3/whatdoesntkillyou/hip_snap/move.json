@@ -1,0 +1,18 @@
+{
+  "name": "hip_snap",
+  "difficulty": 2,
+  "display_name": "Hip Snap",
+  "ham_move_name": "Watch_Me_Now_Hey_whatdoesntkillyou.move",
+  "milo_name": "watch_me_now_hey_whatdoesntkillyou",
+  "song_name": "whatdoesntkillyou",
+  "clips": {
+    "hip_snap_whatdoesntkillyou_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

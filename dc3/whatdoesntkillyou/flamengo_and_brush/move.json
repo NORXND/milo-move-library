@@ -1,0 +1,34 @@
+{
+  "name": "flamengo_and_brush",
+  "difficulty": 2,
+  "display_name": "Flamengo / Brush",
+  "ham_move_name": "Grow_Up_whatdoesntkillyou.move",
+  "milo_name": "grow_up_whatdoesntkillyou",
+  "song_name": "whatdoesntkillyou",
+  "clips": {
+    "flamengo_and_brush_whatdoesntkillyou_v0": {
+      "avg_beats_per_second": 1.93,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "flamengo_and_brush_whatdoesntkillyou_v1": {
+      "avg_beats_per_second": 1.93,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "flamengo_and_brush_whatdoesntkillyou_v2": {
+      "avg_beats_per_second": 1.93,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

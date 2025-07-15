@@ -1,0 +1,18 @@
+{
+  "name": "walk_forward",
+  "difficulty": 2,
+  "display_name": "Walk Forward",
+  "ham_move_name": "Catwalk_whatdoesntkillyou.move",
+  "milo_name": "catwalk_whatdoesntkillyou",
+  "song_name": "whatdoesntkillyou",
+  "clips": {
+    "walk_forward_whatdoesntkillyou_v0": {
+      "avg_beats_per_second": 1.93,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

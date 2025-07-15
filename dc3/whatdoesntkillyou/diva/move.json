@@ -1,0 +1,26 @@
+{
+  "name": "diva",
+  "difficulty": 0,
+  "display_name": "Diva",
+  "ham_move_name": "Run_The_World_whatdoesntkillyou.move",
+  "milo_name": "run_the_world_whatdoesntkillyou",
+  "song_name": "whatdoesntkillyou",
+  "clips": {
+    "diva_whatdoesntkillyou_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_whatdoesntkillyou_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

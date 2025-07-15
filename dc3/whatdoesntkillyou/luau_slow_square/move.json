@@ -1,0 +1,18 @@
+{
+  "name": "luau_slow_square",
+  "difficulty": 2,
+  "display_name": "Luau Slow Square",
+  "ham_move_name": "Wave_Your_Arms_whatdoesntkillyou.move",
+  "milo_name": "wave_your_arms_whatdoesntkillyou",
+  "song_name": "whatdoesntkillyou",
+  "clips": {
+    "luau_slow_square_whatdoesntkillyou_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

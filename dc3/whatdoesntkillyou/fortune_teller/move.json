@@ -1,0 +1,18 @@
+{
+  "name": "fortune_teller",
+  "difficulty": 2,
+  "display_name": "Fortune Teller",
+  "ham_move_name": "Roll_It_Down_Rl_whatdoesntkillyou.move",
+  "milo_name": "roll_it_down_rl_whatdoesntkillyou",
+  "song_name": "whatdoesntkillyou",
+  "clips": {
+    "fortune_teller_whatdoesntkillyou_v0": {
+      "avg_beats_per_second": 1.93,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

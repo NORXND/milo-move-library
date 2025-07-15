@@ -1,0 +1,18 @@
+{
+  "name": "wall_walk",
+  "difficulty": 2,
+  "display_name": "Wall Walk",
+  "ham_move_name": "Mans_Body_Rl_whatdoesntkillyou.move",
+  "milo_name": "mans_body_rl_whatdoesntkillyou",
+  "song_name": "whatdoesntkillyou",
+  "clips": {
+    "wall_walk_whatdoesntkillyou_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

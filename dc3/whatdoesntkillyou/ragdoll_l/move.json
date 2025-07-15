@@ -1,0 +1,26 @@
+{
+  "name": "ragdoll_l",
+  "difficulty": 2,
+  "display_name": "Ragdoll",
+  "ham_move_name": "Air_Punching_L_whatdoesntkillyou.move",
+  "milo_name": "air_punching_l_whatdoesntkillyou",
+  "song_name": "whatdoesntkillyou",
+  "clips": {
+    "ragdoll_l_whatdoesntkillyou_v0": {
+      "avg_beats_per_second": 1.66,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "ragdoll_r_whatdoesntkillyou_v0",
+      "linked_from": ""
+    },
+    "ragdoll_l_whatdoesntkillyou_v1": {
+      "avg_beats_per_second": 1.94,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "ragdoll_r_whatdoesntkillyou_v0"
+    }
+  }
+}

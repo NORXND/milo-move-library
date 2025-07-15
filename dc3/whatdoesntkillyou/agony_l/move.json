@@ -1,0 +1,18 @@
+{
+  "name": "agony_l",
+  "difficulty": 2,
+  "display_name": "Agony",
+  "ham_move_name": "Rippin_My_Heart_L_whatdoesntkillyou.move",
+  "milo_name": "rippin_my_heart_l_whatdoesntkillyou",
+  "song_name": "whatdoesntkillyou",
+  "clips": {
+    "agony_l_whatdoesntkillyou_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "come_get_it",
+  "difficulty": 2,
+  "display_name": "Come Get It",
+  "ham_move_name": "Come_Get_It_bustamove.move",
+  "milo_name": "come_get_it_bustamove",
+  "song_name": "bustamove",
+  "clips": {
+    "come_get_it_bustamove_v0": {
+      "avg_beats_per_second": 1.98,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

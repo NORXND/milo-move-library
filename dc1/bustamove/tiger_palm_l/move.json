@@ -1,0 +1,18 @@
+{
+  "name": "tiger_palm_l",
+  "difficulty": 2,
+  "display_name": "Tiger Palm",
+  "ham_move_name": "Tiger_Palm_L_bustamove.move",
+  "milo_name": "tiger_palm_r_bustamove",
+  "song_name": "bustamove",
+  "clips": {
+    "tiger_palm_l_bustamove_v0": {
+      "avg_beats_per_second": 1.95,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "tiger_palm_r_bustamove_v0"
+    }
+  }
+}

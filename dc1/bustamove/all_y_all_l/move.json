@@ -1,0 +1,34 @@
+{
+  "name": "all_y_all_l",
+  "difficulty": 0,
+  "display_name": "All Y'all",
+  "ham_move_name": "All_Y_all_L_bustamove.move",
+  "milo_name": "all_y_all_r_bustamove",
+  "song_name": "bustamove",
+  "clips": {
+    "all_y_all_l_bustamove_v2": {
+      "avg_beats_per_second": 1.96,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "all_y_all_r_bustamove_v2",
+      "linked_from": ""
+    },
+    "all_y_all_l_bustamove_v0": {
+      "avg_beats_per_second": 1.96,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "all_y_all_r_bustamove_v0",
+      "linked_from": ""
+    },
+    "all_y_all_l_bustamove_v1": {
+      "avg_beats_per_second": 1.96,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "all_y_all_r_bustamove_v1",
+      "linked_from": ""
+    }
+  }
+}

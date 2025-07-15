@@ -1,0 +1,18 @@
+{
+  "name": "robotic_l",
+  "difficulty": 1,
+  "display_name": "Robotic",
+  "ham_move_name": "Robotic_L_bustamove.move",
+  "milo_name": "robotic_r_bustamove",
+  "song_name": "bustamove",
+  "clips": {
+    "robotic_l_bustamove_v0": {
+      "avg_beats_per_second": 1.96,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "robotic_r_bustamove_v0"
+    }
+  }
+}

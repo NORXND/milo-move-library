@@ -1,0 +1,26 @@
+{
+  "name": "flury",
+  "difficulty": 1,
+  "display_name": "Flury",
+  "ham_move_name": "X_d_Out_bustamove.move",
+  "milo_name": "x_d_out_bustamove",
+  "song_name": "bustamove",
+  "clips": {
+    "flury_bustamove_v0": {
+      "avg_beats_per_second": 1.97,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "flury_bustamove_v1": {
+      "avg_beats_per_second": 1.97,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

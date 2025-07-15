@@ -1,0 +1,34 @@
+{
+  "name": "bust_a_move",
+  "difficulty": 1,
+  "display_name": "Bust A Move",
+  "ham_move_name": "Bust_A_Move_bustamove.move",
+  "milo_name": "bust_a_move_bustamove",
+  "song_name": "bustamove",
+  "clips": {
+    "bust_a_move_bustamove_v0": {
+      "avg_beats_per_second": 1.97,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bust_a_move_bustamove_v1": {
+      "avg_beats_per_second": 1.96,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bust_a_move_bustamove_v2": {
+      "avg_beats_per_second": 1.96,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

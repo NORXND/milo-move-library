@@ -1,0 +1,18 @@
+{
+  "name": "eyes_on_the_prize",
+  "difficulty": 2,
+  "display_name": "Eyes On The Prize",
+  "ham_move_name": "Eyes_On_The_Prize_bustamove.move",
+  "milo_name": "eyes_on_the_prize_bustamove",
+  "song_name": "bustamove",
+  "clips": {
+    "eyes_on_the_prize_bustamove_v0": {
+      "avg_beats_per_second": 1.95,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

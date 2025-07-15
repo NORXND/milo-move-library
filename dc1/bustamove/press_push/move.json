@@ -1,0 +1,18 @@
+{
+  "name": "press_push",
+  "difficulty": 1,
+  "display_name": "Press Push",
+  "ham_move_name": "Press_Walk_bustamove.move",
+  "milo_name": "press_walk_bustamove",
+  "song_name": "bustamove",
+  "clips": {
+    "press_push_bustamove_v0": {
+      "avg_beats_per_second": 1.96,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

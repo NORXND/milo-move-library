@@ -1,0 +1,18 @@
+{
+  "name": "peek_a_boo",
+  "difficulty": 2,
+  "display_name": "Peek-A-Boo",
+  "ham_move_name": "Peek_A_Boo_bustamove.move",
+  "milo_name": "peek_a_boo_bustamove",
+  "song_name": "bustamove",
+  "clips": {
+    "peek_a_boo_bustamove_v0": {
+      "avg_beats_per_second": 1.96,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "snappin",
+  "difficulty": 0,
+  "display_name": "Snappin'",
+  "ham_move_name": "Clockwork_bustamove.move",
+  "milo_name": "clockwork_bustamove",
+  "song_name": "bustamove",
+  "clips": {
+    "snappin_bustamove_v0": {
+      "avg_beats_per_second": 1.97,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "exception_heel_flick_l",
+  "difficulty": 0,
+  "display_name": "Heel Flick",
+  "ham_move_name": "heelflickL_pushit.move",
+  "milo_name": "heelflickl_pushit",
+  "song_name": "pushit",
+  "clips": {
+    "heel_flick_pushit_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

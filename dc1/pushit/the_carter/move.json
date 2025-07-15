@@ -1,0 +1,26 @@
+{
+  "name": "the_carter",
+  "difficulty": 0,
+  "display_name": "The Carter",
+  "ham_move_name": "stepkneestepdown_pushit.move",
+  "milo_name": "stepkneestepdown_pushit",
+  "song_name": "pushit",
+  "clips": {
+    "the_carter_pushit_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "the_carter_pushit_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

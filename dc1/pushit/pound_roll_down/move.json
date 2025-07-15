@@ -1,0 +1,66 @@
+{
+  "name": "pound_roll_down",
+  "difficulty": 0,
+  "display_name": "Pound Roll Down",
+  "ham_move_name": "poundrolldown_pushit.move",
+  "milo_name": "poundrolldown_pushit",
+  "song_name": "pushit",
+  "clips": {
+    "pound_roll_down_pushit_v0": {
+      "avg_beats_per_second": 1.82,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_roll_down_pushit_v5": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_roll_down_pushit_v3": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_roll_down_pushit_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_roll_down_pushit_v6": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_roll_down_pushit_v4": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_roll_down_pushit_v2": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "tush_push",
+  "difficulty": 2,
+  "display_name": "Tush Push",
+  "ham_move_name": "tushpush_pushit.move",
+  "milo_name": "tushpush_pushit",
+  "song_name": "pushit",
+  "clips": {
+    "tush_push_pushit_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

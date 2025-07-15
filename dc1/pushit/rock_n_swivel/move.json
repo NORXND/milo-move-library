@@ -1,0 +1,26 @@
+{
+  "name": "exception_rock_n_swivel_l",
+  "difficulty": 1,
+  "display_name": "Rock n' Swivel",
+  "ham_move_name": "rocknswivelL_pushit.move",
+  "milo_name": "rocknswivell_pushit",
+  "song_name": "pushit",
+  "clips": {
+    "rock_n_swivel_pushit_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rock_n_swivel_pushit_v3": {
+      "avg_beats_per_second": 2.13,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

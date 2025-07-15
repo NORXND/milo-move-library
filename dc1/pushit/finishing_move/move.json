@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_pushit_v1065",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "End_Pose_pushit.move",
+  "milo_name": "end_pose_pushit",
+  "song_name": "pushit",
+  "clips": {
+    "finishing_move_pushit_v1065": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "cocoon_r",
+  "difficulty": 2,
+  "display_name": "Cocoon",
+  "ham_move_name": "Cocoon_R_titanium.move",
+  "milo_name": "cocoon_r_titanium",
+  "song_name": "titanium",
+  "clips": {
+    "cocoon_r_titanium_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

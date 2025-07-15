@@ -1,0 +1,26 @@
+{
+  "name": "spotted",
+  "difficulty": 0,
+  "display_name": "Spotted",
+  "ham_move_name": "Spotted_titanium.move",
+  "milo_name": "spotted_titanium",
+  "song_name": "titanium",
+  "clips": {
+    "spotted_titanium_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spotted_titanium_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

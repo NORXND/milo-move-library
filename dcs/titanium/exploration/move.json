@@ -1,0 +1,18 @@
+{
+  "name": "exploration",
+  "difficulty": 2,
+  "display_name": "Exploration",
+  "ham_move_name": "Exploration_titanium.move",
+  "milo_name": "exploration_titanium",
+  "song_name": "titanium",
+  "clips": {
+    "exploration_titanium_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

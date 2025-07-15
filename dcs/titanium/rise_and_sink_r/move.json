@@ -1,0 +1,18 @@
+{
+  "name": "rise_and_sink_r",
+  "difficulty": 2,
+  "display_name": "Rise & Sink",
+  "ham_move_name": "Rise_And_Sink_R_titanium.move",
+  "milo_name": "rise_and_sink_r_titanium",
+  "song_name": "titanium",
+  "clips": {
+    "rise_and_sink_r_titanium_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

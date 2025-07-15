@@ -1,0 +1,58 @@
+{
+  "name": "model_l",
+  "difficulty": 2,
+  "display_name": "Model",
+  "ham_move_name": "Model_L_titanium.move",
+  "milo_name": "model_l_titanium",
+  "song_name": "titanium",
+  "clips": {
+    "model_l_titanium_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "model_r_titanium_v0"
+    },
+    "model_l_titanium_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "model_r_titanium_v1"
+    },
+    "model_l_titanium_v2": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "model_r_titanium_v2"
+    },
+    "model_l_titanium_v3": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "model_r_titanium_v3"
+    },
+    "model_l_titanium_v4": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "model_r_titanium_v4"
+    },
+    "model_l_titanium_v5": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "model_r_titanium_v5"
+    }
+  }
+}

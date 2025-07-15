@@ -1,0 +1,34 @@
+{
+  "name": "dawn",
+  "difficulty": 0,
+  "display_name": "Dawn",
+  "ham_move_name": "Dawn_titanium.move",
+  "milo_name": "dawn_titanium",
+  "song_name": "titanium",
+  "clips": {
+    "dawn_titanium_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dawn_titanium_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dawn_titanium_v2": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

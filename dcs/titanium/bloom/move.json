@@ -1,0 +1,18 @@
+{
+  "name": "bloom_2",
+  "difficulty": 2,
+  "display_name": "Bloom",
+  "ham_move_name": "Bloom_2_titanium.move",
+  "milo_name": "bloom_2_titanium",
+  "song_name": "titanium",
+  "clips": {
+    "bloom_titanium_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

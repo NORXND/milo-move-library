@@ -1,0 +1,50 @@
+{
+  "name": "push_push",
+  "difficulty": 0,
+  "display_name": "Push Push",
+  "ham_move_name": "Push_Push_titanium.move",
+  "milo_name": "push_push_titanium",
+  "song_name": "titanium",
+  "clips": {
+    "push_push_titanium_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "push_push_titanium_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "push_push_titanium_v2": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "push_push_titanium_v3": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "push_push_titanium_v4": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "archer",
+  "difficulty": 2,
+  "display_name": "Archer",
+  "ham_move_name": "Archer_titanium.move",
+  "milo_name": "archer_titanium",
+  "song_name": "titanium",
+  "clips": {
+    "archer_titanium_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "archer_titanium_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "disarm",
+  "difficulty": 0,
+  "display_name": "Disarm",
+  "ham_move_name": "Disarm_titanium.move",
+  "milo_name": "disarm_titanium",
+  "song_name": "titanium",
+  "clips": {
+    "disarm_titanium_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "disarm_titanium_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "disarm_titanium_v2": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "disarm_titanium_v3": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

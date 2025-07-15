@@ -1,0 +1,42 @@
+{
+  "name": "tug_o_warp",
+  "difficulty": 0,
+  "display_name": "Tug O' Warp",
+  "ham_move_name": "Tug_O_Warp_titanium.move",
+  "milo_name": "tug_o_warp_titanium",
+  "song_name": "titanium",
+  "clips": {
+    "tug_o_warp_titanium_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tug_o_warp_titanium_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tug_o_warp_titanium_v2": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tug_o_warp_titanium_v3": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "bear_hug_r",
+  "difficulty": 1,
+  "display_name": "Bear Hug",
+  "ham_move_name": "Bear_Hug_R_titanium.move",
+  "milo_name": "bear_hug_r_titanium",
+  "song_name": "titanium",
+  "clips": {
+    "bear_hug_r_titanium_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "bear_hug_l_titanium_v0",
+      "linked_from": ""
+    },
+    "bear_hug_r_titanium_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "bear_hug_l_titanium_v1",
+      "linked_from": ""
+    },
+    "bear_hug_r_titanium_v2": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "bear_hug_l_titanium_v2",
+      "linked_from": ""
+    },
+    "bear_hug_r_titanium_v3": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "bear_hug_l_titanium_v3",
+      "linked_from": ""
+    },
+    "bear_hug_r_titanium_v4": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "bear_hug_l_titanium_v4",
+      "linked_from": ""
+    },
+    "bear_hug_r_titanium_v5": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "bear_hug_l_titanium_v5",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "compass",
+  "difficulty": 2,
+  "display_name": "Compass",
+  "ham_move_name": "Compass_titanium.move",
+  "milo_name": "compass_titanium",
+  "song_name": "titanium",
+  "clips": {
+    "compass_titanium_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "compass_titanium_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

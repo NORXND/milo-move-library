@@ -1,0 +1,18 @@
+{
+  "name": "warp_blaze_r",
+  "difficulty": 2,
+  "display_name": "Warp Blaze",
+  "ham_move_name": "Warp_Blaze_R_titanium.move",
+  "milo_name": "warp_blaze_r_titanium",
+  "song_name": "titanium",
+  "clips": {
+    "warp_blaze_r_titanium_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

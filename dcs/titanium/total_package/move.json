@@ -1,0 +1,18 @@
+{
+  "name": "total_package",
+  "difficulty": 2,
+  "display_name": "Total Package",
+  "ham_move_name": "Total_Package_titanium.move",
+  "milo_name": "total_package_titanium",
+  "song_name": "titanium",
+  "clips": {
+    "total_package_titanium_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

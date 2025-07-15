@@ -1,0 +1,18 @@
+{
+  "name": "heartthrob_and_heart_pump_l",
+  "difficulty": 1,
+  "display_name": "Heartthrob / Heart Pump",
+  "ham_move_name": "Heartthrob_And_Heart_Pump_L_titanium.move",
+  "milo_name": "heartthrob_and_heart_pump_l_titanium",
+  "song_name": "titanium",
+  "clips": {
+    "heartthrob_and_heart_pump_l_titanium_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "heartthrob_and_heart_pump_r_titanium_v0",
+      "linked_from": ""
+    }
+  }
+}

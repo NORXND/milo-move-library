@@ -1,0 +1,18 @@
+{
+  "name": "carter_remix",
+  "difficulty": 2,
+  "display_name": "Carter Remix",
+  "ham_move_name": "Carter_Remix_sayaah.move",
+  "milo_name": "carter_remix_sayaah",
+  "song_name": "sayaah",
+  "clips": {
+    "carter_remix_sayaah_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

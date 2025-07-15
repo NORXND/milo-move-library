@@ -1,0 +1,18 @@
+{
+  "name": "say_aah",
+  "difficulty": 0,
+  "display_name": "Say Aah",
+  "ham_move_name": "Say_Aah_R_And_End_sayaah.move",
+  "milo_name": "say_aah_r_and_end_sayaah",
+  "song_name": "sayaah",
+  "clips": {
+    "say_aah_sayaah_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

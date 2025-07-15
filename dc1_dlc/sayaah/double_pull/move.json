@@ -1,0 +1,58 @@
+{
+  "name": "double_pull",
+  "difficulty": 0,
+  "display_name": "Double Pull",
+  "ham_move_name": "Double_Pull_sayaah.move",
+  "milo_name": "double_pull_sayaah",
+  "song_name": "sayaah",
+  "clips": {
+    "double_pull_sayaah_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_pull_sayaah_v1": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_pull_sayaah_v2": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_pull_sayaah_v3": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_pull_sayaah_v4": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_pull_sayaah_v5": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

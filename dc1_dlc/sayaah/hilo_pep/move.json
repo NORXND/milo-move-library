@@ -1,0 +1,74 @@
+{
+  "name": "hilo_pep",
+  "difficulty": 1,
+  "display_name": "HiLo Pep",
+  "ham_move_name": "Happy_Bday_sayaah.move",
+  "milo_name": "happy_bday_sayaah",
+  "song_name": "sayaah",
+  "clips": {
+    "hilo_pep_sayaah_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hilo_pep_sayaah_v5": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hilo_pep_sayaah_v3": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hilo_pep_sayaah_v1": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hilo_pep_sayaah_v6": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hilo_pep_sayaah_v4": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hilo_pep_sayaah_v2": {
+      "avg_beats_per_second": 1.33,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hilo_pep_sayaah_v7": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

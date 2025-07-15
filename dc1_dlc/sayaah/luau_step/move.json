@@ -1,0 +1,26 @@
+{
+  "name": "luau_step",
+  "difficulty": 0,
+  "display_name": "Luau Step",
+  "ham_move_name": "Luau_Step_sayaah.move",
+  "milo_name": "luau_step_sayaah",
+  "song_name": "sayaah",
+  "clips": {
+    "luau_step_sayaah_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "luau_step_sayaah_v1": {
+      "avg_beats_per_second": 1.33,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

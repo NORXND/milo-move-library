@@ -1,0 +1,18 @@
+{
+  "name": "fatt_boi",
+  "difficulty": 0,
+  "display_name": "Fatt Boi",
+  "ham_move_name": "_4_Corners_sayaah.move",
+  "milo_name": "_4_corners_sayaah",
+  "song_name": "sayaah",
+  "clips": {
+    "fatt_boi_sayaah_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

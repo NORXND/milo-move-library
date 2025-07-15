@@ -1,0 +1,58 @@
+{
+  "name": "say_aah_r",
+  "difficulty": 0,
+  "display_name": "Say Aah",
+  "ham_move_name": "Say_Aah_R_sayaah.move",
+  "milo_name": "say_aah_r_sayaah",
+  "song_name": "sayaah",
+  "clips": {
+    "say_aah_r_sayaah_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "say_aah_l_sayaah_v0"
+    },
+    "say_aah_r_sayaah_v1": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "say_aah_l_sayaah_v1"
+    },
+    "say_aah_r_sayaah_v2": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "say_aah_l_sayaah_v2"
+    },
+    "say_aah_r_sayaah_v3": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "say_aah_l_sayaah_v3"
+    },
+    "say_aah_r_sayaah_v4": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "say_aah_l_sayaah_v4"
+    },
+    "say_aah_r_sayaah_v5": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "say_aah_l_sayaah_v5"
+    }
+  }
+}

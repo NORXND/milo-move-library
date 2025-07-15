@@ -1,0 +1,18 @@
+{
+  "name": "cash_in",
+  "difficulty": 2,
+  "display_name": "Cash In",
+  "ham_move_name": "Drag_Money_sayaah.move",
+  "milo_name": "drag_money_sayaah",
+  "song_name": "sayaah",
+  "clips": {
+    "cash_in_sayaah_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

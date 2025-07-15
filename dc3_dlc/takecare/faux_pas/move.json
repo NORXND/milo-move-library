@@ -1,0 +1,26 @@
+{
+  "name": "faux_pas",
+  "difficulty": 2,
+  "display_name": "Faux Pas",
+  "ham_move_name": "His_Mistakes_2_takecare.move",
+  "milo_name": "his_mistakes_2_takecare",
+  "song_name": "takecare",
+  "clips": {
+    "faux_pas_takecare_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "offering_takecare_v0"
+    },
+    "faux_pas_takecare_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "offering_takecare_v1"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "offering",
+  "difficulty": 2,
+  "display_name": "Offering",
+  "ham_move_name": "His_Mistakes_takecare.move",
+  "milo_name": "his_mistakes_takecare",
+  "song_name": "takecare",
+  "clips": {
+    "offering_takecare_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "faux_pas_takecare_v0",
+      "linked_from": ""
+    },
+    "offering_takecare_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "faux_pas_takecare_v1",
+      "linked_from": ""
+    }
+  }
+}

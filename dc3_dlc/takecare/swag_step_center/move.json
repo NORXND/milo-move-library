@@ -1,0 +1,74 @@
+{
+  "name": "swag_step_center",
+  "difficulty": 2,
+  "display_name": "Swag Step Center",
+  "ham_move_name": "Scoop_Chest_takecare.move",
+  "milo_name": "scoop_chest_takecare",
+  "song_name": "takecare",
+  "clips": {
+    "swag_step_center_takecare_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swag_step_center_takecare_v1": {
+      "avg_beats_per_second": 1.75,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swag_step_center_takecare_v2": {
+      "avg_beats_per_second": 1.76,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swag_step_center_takecare_v3": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swag_step_center_takecare_v4": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swag_step_center_takecare_v5": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swag_step_center_takecare_v6": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swag_step_center_takecare_v7": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

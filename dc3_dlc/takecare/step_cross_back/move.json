@@ -1,0 +1,26 @@
+{
+  "name": "step_cross_back",
+  "difficulty": 0,
+  "display_name": "Step Cross Back",
+  "ham_move_name": "Exclusive_Turn_takecare.move",
+  "milo_name": "exclusive_turn_takecare",
+  "song_name": "takecare",
+  "clips": {
+    "step_cross_back_takecare_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "step_cross_back_takecare_v1",
+      "linked_from": ""
+    },
+    "step_cross_back_takecare_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "step_cross_back_takecare_v0"
+    }
+  }
+}

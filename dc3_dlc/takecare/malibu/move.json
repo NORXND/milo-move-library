@@ -1,0 +1,34 @@
+{
+  "name": "malibu",
+  "difficulty": 2,
+  "display_name": "Malibu",
+  "ham_move_name": "Head_Rock_takecare.move",
+  "milo_name": "head_rock_takecare",
+  "song_name": "takecare",
+  "clips": {
+    "malibu_takecare_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "malibu_takecare_v1": {
+      "avg_beats_per_second": 1.75,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "malibu_takecare_v2": {
+      "avg_beats_per_second": 1.75,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

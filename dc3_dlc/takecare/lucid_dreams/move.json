@@ -1,0 +1,18 @@
+{
+  "name": "lucid_dreams",
+  "difficulty": 2,
+  "display_name": "Lucid Dreams",
+  "ham_move_name": "Little_Taste_takecare.move",
+  "milo_name": "little_taste_takecare",
+  "song_name": "takecare",
+  "clips": {
+    "lucid_dreams_takecare_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

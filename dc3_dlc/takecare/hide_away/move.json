@@ -1,0 +1,26 @@
+{
+  "name": "hide_away",
+  "difficulty": 2,
+  "display_name": "Hide Away",
+  "ham_move_name": "Hide_Slow_takecare.move",
+  "milo_name": "hide_slow_takecare",
+  "song_name": "takecare",
+  "clips": {
+    "hide_away_takecare_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hide_away_takecare_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

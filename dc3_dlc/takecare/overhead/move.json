@@ -1,0 +1,26 @@
+{
+  "name": "overhead",
+  "difficulty": 0,
+  "display_name": "Overhead",
+  "ham_move_name": "Love_Stamp_takecare.move",
+  "milo_name": "love_stamp_takecare",
+  "song_name": "takecare",
+  "clips": {
+    "overhead_takecare_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "overhead_takecare_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "selector_step",
+  "difficulty": 2,
+  "display_name": "Selector Step",
+  "ham_move_name": "Coming_For_You_takecare.move",
+  "milo_name": "coming_for_you_takecare",
+  "song_name": "takecare",
+  "clips": {
+    "selector_step_takecare_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "selector_step_takecare_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "selector_step_takecare_v2": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

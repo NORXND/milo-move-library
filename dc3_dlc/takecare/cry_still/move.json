@@ -1,0 +1,18 @@
+{
+  "name": "cry_still",
+  "difficulty": 2,
+  "display_name": "Cry Still",
+  "ham_move_name": "Cry_Still_takecare.move",
+  "milo_name": "cry_still_takecare",
+  "song_name": "takecare",
+  "clips": {
+    "cry_still_takecare_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

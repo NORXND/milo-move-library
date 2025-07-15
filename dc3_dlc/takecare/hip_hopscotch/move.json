@@ -1,0 +1,42 @@
+{
+  "name": "hip_hopscotch",
+  "difficulty": 2,
+  "display_name": "Hip Hopscotch",
+  "ham_move_name": "House_Run_C_takecare.move",
+  "milo_name": "house_run_c_takecare",
+  "song_name": "takecare",
+  "clips": {
+    "hip_hopscotch_takecare_v0": {
+      "avg_beats_per_second": 2.04,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_hopscotch_takecare_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_hopscotch_takecare_v2": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_hopscotch_takecare_v3": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "lean_and_grind_r",
+  "difficulty": 2,
+  "display_name": "Lean & Grind",
+  "ham_move_name": "Reggae_Groove_R_takecare.move",
+  "milo_name": "reggae_groove_r_takecare",
+  "song_name": "takecare",
+  "clips": {
+    "lean_and_grind_r_takecare_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "lean_and_grind_l_takecare_v0",
+      "linked_from": ""
+    }
+  }
+}

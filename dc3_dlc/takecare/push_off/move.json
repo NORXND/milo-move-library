@@ -1,0 +1,18 @@
+{
+  "name": "push_off",
+  "difficulty": 2,
+  "display_name": "Push Off",
+  "ham_move_name": "Push_Off_takecare.move",
+  "milo_name": "push_off_takecare",
+  "song_name": "takecare",
+  "clips": {
+    "push_off_takecare_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

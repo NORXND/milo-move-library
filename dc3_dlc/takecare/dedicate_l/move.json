@@ -1,0 +1,26 @@
+{
+  "name": "dedicate_l",
+  "difficulty": 2,
+  "display_name": "Dedicate",
+  "ham_move_name": "Worry_Slow_L_takecare.move",
+  "milo_name": "worry_slow_l_takecare",
+  "song_name": "takecare",
+  "clips": {
+    "dedicate_l_takecare_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dedicate_l_takecare_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

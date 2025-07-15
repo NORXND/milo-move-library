@@ -1,0 +1,34 @@
+{
+  "name": "gotta_go",
+  "difficulty": 2,
+  "display_name": "Gotta Go",
+  "ham_move_name": "Party_Time_takecare.move",
+  "milo_name": "party_time_takecare",
+  "song_name": "takecare",
+  "clips": {
+    "gotta_go_takecare_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "gotta_go_takecare_v1": {
+      "avg_beats_per_second": 2.04,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "gotta_go_takecare_v2": {
+      "avg_beats_per_second": 1.74,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

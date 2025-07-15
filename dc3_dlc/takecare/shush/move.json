@@ -1,0 +1,26 @@
+{
+  "name": "shush",
+  "difficulty": 2,
+  "display_name": "Shush",
+  "ham_move_name": "Worry_Slow_R2_takecare.move",
+  "milo_name": "worry_slow_r2_takecare",
+  "song_name": "takecare",
+  "clips": {
+    "shush_takecare_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shush_takecare_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

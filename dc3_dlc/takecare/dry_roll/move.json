@@ -1,0 +1,42 @@
+{
+  "name": "dry_roll",
+  "difficulty": 2,
+  "display_name": "Dry Roll",
+  "ham_move_name": "Chest_Up_takecare.move",
+  "milo_name": "chest_up_takecare",
+  "song_name": "takecare",
+  "clips": {
+    "dry_roll_takecare_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dry_roll_takecare_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dry_roll_takecare_v2": {
+      "avg_beats_per_second": 1.74,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dry_roll_takecare_v3": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "swing_bothandpush_step",
+  "difficulty": 2,
+  "display_name": "Swing Both/Push Step",
+  "ham_move_name": "Jokes_Aside_takecare.move",
+  "milo_name": "jokes_aside_takecare",
+  "song_name": "takecare",
+  "clips": {
+    "swing_bothandpush_step_takecare_v0": {
+      "avg_beats_per_second": 2.04,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swing_bothandpush_step_takecare_v1": {
+      "avg_beats_per_second": 2.04,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

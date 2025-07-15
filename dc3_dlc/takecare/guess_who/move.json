@@ -1,0 +1,42 @@
+{
+  "name": "guess_who",
+  "difficulty": 1,
+  "display_name": "Guess Who",
+  "ham_move_name": "Look_Me_In_My_Eyes_takecare.move",
+  "milo_name": "look_me_in_my_eyes_takecare",
+  "song_name": "takecare",
+  "clips": {
+    "guess_who_takecare_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "guess_who_takecare_v1",
+      "linked_from": ""
+    },
+    "guess_who_takecare_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "guess_who_takecare_v0"
+    },
+    "guess_who_takecare_v2": {
+      "avg_beats_per_second": 1.74,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "guess_who_takecare_v3",
+      "linked_from": ""
+    },
+    "guess_who_takecare_v3": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "guess_who_takecare_v2"
+    }
+  }
+}

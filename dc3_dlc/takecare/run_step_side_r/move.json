@@ -1,0 +1,18 @@
+{
+  "name": "run_step_side_r",
+  "difficulty": 2,
+  "display_name": "Run Step Side",
+  "ham_move_name": "House_Run_R_takecare.move",
+  "milo_name": "house_run_r_takecare",
+  "song_name": "takecare",
+  "clips": {
+    "run_step_side_r_takecare_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

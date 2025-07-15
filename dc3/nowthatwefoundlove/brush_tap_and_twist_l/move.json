@@ -1,0 +1,18 @@
+{
+  "name": "brush_tap_and_twist_l",
+  "difficulty": 2,
+  "display_name": "Brush Tap & Twist",
+  "ham_move_name": "Brush_Tap_Shuffle_L_nowthatwefoundlove.move",
+  "milo_name": "brush_tap_shuffle_l_nowthatwefoundlove",
+  "song_name": "nowthatwefoundlove",
+  "clips": {
+    "brush_tap_and_twist_l_nowthatwefoundlove_v0": {
+      "avg_beats_per_second": 1.99,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "brush_tap_and_twist_r_nowthatwefoundlove_v0"
+    }
+  }
+}

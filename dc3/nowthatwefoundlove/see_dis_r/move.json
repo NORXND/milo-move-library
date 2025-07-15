@@ -1,0 +1,18 @@
+{
+  "name": "see_dis_r",
+  "difficulty": 2,
+  "display_name": "See Dis",
+  "ham_move_name": "Propeller_Lean_R_nowthatwefoundlove.move",
+  "milo_name": "propeller_lean_r_nowthatwefoundlove",
+  "song_name": "nowthatwefoundlove",
+  "clips": {
+    "see_dis_r_nowthatwefoundlove_v0": {
+      "avg_beats_per_second": 1.99,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "see_dis_l_nowthatwefoundlove_v0",
+      "linked_from": ""
+    }
+  }
+}

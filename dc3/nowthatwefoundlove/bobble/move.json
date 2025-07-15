@@ -1,0 +1,18 @@
+{
+  "name": "bobble",
+  "difficulty": 2,
+  "display_name": "Bobble",
+  "ham_move_name": "Skeleton_Shake_nowthatwefoundlove.move",
+  "milo_name": "skeleton_shake_nowthatwefoundlove",
+  "song_name": "nowthatwefoundlove",
+  "clips": {
+    "bobble_nowthatwefoundlove_v0": {
+      "avg_beats_per_second": 1.99,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "new_booty",
+  "difficulty": 2,
+  "display_name": "New Booty",
+  "ham_move_name": "Mookie_nowthatwefoundlove.move",
+  "milo_name": "mookie_nowthatwefoundlove",
+  "song_name": "nowthatwefoundlove",
+  "clips": {
+    "new_booty_nowthatwefoundlove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "new_booty_nowthatwefoundlove_v1": {
+      "avg_beats_per_second": 1.99,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "sidekicks_and_floor_smash",
+  "difficulty": 2,
+  "display_name": "Sidekicks / Floor Smash",
+  "ham_move_name": "Bash_That_nowthatwefoundlove.move",
+  "milo_name": "bash_that_nowthatwefoundlove",
+  "song_name": "nowthatwefoundlove",
+  "clips": {
+    "sidekicks_and_floor_smash_nowthatwefoundlove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

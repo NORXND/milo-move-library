@@ -1,0 +1,26 @@
+{
+  "name": "cross_thread",
+  "difficulty": 2,
+  "display_name": "Cross Thread",
+  "ham_move_name": "Dum_Dum_Diddley_Dee_nowthatwefoundlove.move",
+  "milo_name": "dum_dum_diddley_dee_nowthatwefoundlove",
+  "song_name": "nowthatwefoundlove",
+  "clips": {
+    "cross_thread_nowthatwefoundlove_v0": {
+      "avg_beats_per_second": 1.99,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_thread_nowthatwefoundlove_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

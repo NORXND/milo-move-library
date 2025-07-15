@@ -1,0 +1,26 @@
+{
+  "name": "action",
+  "difficulty": 2,
+  "display_name": "Action",
+  "ham_move_name": "Rosie_nowthatwefoundlove.move",
+  "milo_name": "rosie_nowthatwefoundlove",
+  "song_name": "nowthatwefoundlove",
+  "clips": {
+    "action_nowthatwefoundlove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "action_nowthatwefoundlove_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

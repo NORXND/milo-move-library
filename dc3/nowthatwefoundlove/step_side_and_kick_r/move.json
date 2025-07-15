@@ -1,0 +1,34 @@
+{
+  "name": "step_side_and_kick_r",
+  "difficulty": 2,
+  "display_name": "Step Side & Kick",
+  "ham_move_name": "Big_Daddy_R_nowthatwefoundlove.move",
+  "milo_name": "big_daddy_r_nowthatwefoundlove",
+  "song_name": "nowthatwefoundlove",
+  "clips": {
+    "step_side_and_kick_r_nowthatwefoundlove_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_and_kick_r_nowthatwefoundlove_v2": {
+      "avg_beats_per_second": 2.0,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_and_kick_r_nowthatwefoundlove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

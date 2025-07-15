@@ -1,0 +1,18 @@
+{
+  "name": "goodie_bounce_l",
+  "difficulty": 2,
+  "display_name": "Goodie Bounce",
+  "ham_move_name": "Mary_J_L_nowthatwefoundlove.move",
+  "milo_name": "mary_j_l_nowthatwefoundlove",
+  "song_name": "nowthatwefoundlove",
+  "clips": {
+    "goodie_bounce_l_nowthatwefoundlove_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

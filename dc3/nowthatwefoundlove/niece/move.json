@@ -1,0 +1,26 @@
+{
+  "name": "niece",
+  "difficulty": 0,
+  "display_name": "Niece",
+  "ham_move_name": "Niece_nowthatwefoundlove.move",
+  "milo_name": "niece_nowthatwefoundlove",
+  "song_name": "nowthatwefoundlove",
+  "clips": {
+    "niece_nowthatwefoundlove_v1": {
+      "avg_beats_per_second": 2.01,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "niece_nowthatwefoundlove_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

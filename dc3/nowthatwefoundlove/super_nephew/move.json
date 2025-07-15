@@ -1,0 +1,26 @@
+{
+  "name": "super_nephew",
+  "difficulty": 2,
+  "display_name": "Super Nephew",
+  "ham_move_name": "Heavy_D_nowthatwefoundlove.move",
+  "milo_name": "heavy_d_nowthatwefoundlove",
+  "song_name": "nowthatwefoundlove",
+  "clips": {
+    "super_nephew_nowthatwefoundlove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "super_nephew_nowthatwefoundlove_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

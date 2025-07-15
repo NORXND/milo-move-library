@@ -1,0 +1,34 @@
+{
+  "name": "front_kicks_r",
+  "difficulty": 2,
+  "display_name": "Front Kicks",
+  "ham_move_name": "Do_The_Right_Thing_R_nowthatwefoundlove.move",
+  "milo_name": "do_the_right_thing_r_nowthatwefoundlove",
+  "song_name": "nowthatwefoundlove",
+  "clips": {
+    "front_kicks_r_nowthatwefoundlove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "front_kicks_r_nowthatwefoundlove_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "front_kicks_r_nowthatwefoundlove_v2": {
+      "avg_beats_per_second": 2.0,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

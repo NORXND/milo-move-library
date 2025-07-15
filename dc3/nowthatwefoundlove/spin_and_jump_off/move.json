@@ -1,0 +1,26 @@
+{
+  "name": "spin_and_jump_off",
+  "difficulty": 2,
+  "display_name": "Spin / Jump Off",
+  "ham_move_name": "X_It_Out_nowthatwefoundlove.move",
+  "milo_name": "x_it_out_nowthatwefoundlove",
+  "song_name": "nowthatwefoundlove",
+  "clips": {
+    "spin_and_jump_off_nowthatwefoundlove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spin_and_jump_off_nowthatwefoundlove_v1": {
+      "avg_beats_per_second": 1.71,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

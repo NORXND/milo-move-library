@@ -1,0 +1,58 @@
+{
+  "name": "step_back_twist_l",
+  "difficulty": 2,
+  "display_name": "Step Back Twist",
+  "ham_move_name": "Foot_Swap_L_nowthatwefoundlove.move",
+  "milo_name": "foot_swap_l_nowthatwefoundlove",
+  "song_name": "nowthatwefoundlove",
+  "clips": {
+    "step_back_twist_l_nowthatwefoundlove_v4": {
+      "avg_beats_per_second": 2.0,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_back_twist_l_nowthatwefoundlove_v5": {
+      "avg_beats_per_second": 1.71,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_back_twist_l_nowthatwefoundlove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_back_twist_l_nowthatwefoundlove_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_back_twist_l_nowthatwefoundlove_v2": {
+      "avg_beats_per_second": 2.0,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_back_twist_l_nowthatwefoundlove_v3": {
+      "avg_beats_per_second": 1.72,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

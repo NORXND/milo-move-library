@@ -1,0 +1,26 @@
+{
+  "name": "loom",
+  "difficulty": 1,
+  "display_name": "Loom",
+  "ham_move_name": "Loom_nowthatwefoundlove.move",
+  "milo_name": "loom_nowthatwefoundlove",
+  "song_name": "nowthatwefoundlove",
+  "clips": {
+    "loom_nowthatwefoundlove_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "loom_nowthatwefoundlove_v1": {
+      "avg_beats_per_second": 2.01,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

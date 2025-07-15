@@ -1,0 +1,42 @@
+{
+  "name": "superflex",
+  "difficulty": 2,
+  "display_name": "Superflex",
+  "ham_move_name": "Flex_nowthatwefoundlove.move",
+  "milo_name": "flex_nowthatwefoundlove",
+  "song_name": "nowthatwefoundlove",
+  "clips": {
+    "superflex_nowthatwefoundlove_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "superflex_nowthatwefoundlove_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "superflex_nowthatwefoundlove_v2": {
+      "avg_beats_per_second": 1.99,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "superflex_nowthatwefoundlove_v3": {
+      "avg_beats_per_second": 1.99,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

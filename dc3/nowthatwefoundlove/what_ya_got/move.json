@@ -1,0 +1,18 @@
+{
+  "name": "what_ya_got",
+  "difficulty": 2,
+  "display_name": "What Ya Got?",
+  "ham_move_name": "Hit_Wonder_nowthatwefoundlove.move",
+  "milo_name": "hit_wonder_nowthatwefoundlove",
+  "song_name": "nowthatwefoundlove",
+  "clips": {
+    "what_ya_got_nowthatwefoundlove_v0": {
+      "avg_beats_per_second": 1.71,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "whip_it",
+  "difficulty": 2,
+  "display_name": "Whip It",
+  "ham_move_name": "Rock_The_House_takeovercontrol.move",
+  "milo_name": "rock_the_house_takeovercontrol",
+  "song_name": "takeovercontrol",
+  "clips": {
+    "whip_it_takeovercontrol_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "corset",
+  "difficulty": 1,
+  "display_name": "Corset",
+  "ham_move_name": "Watch_Me_takeovercontrol.move",
+  "milo_name": "watch_me_takeovercontrol",
+  "song_name": "takeovercontrol",
+  "clips": {
+    "corset_takeovercontrol_v2": {
+      "avg_beats_per_second": 1.86,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "corset_takeovercontrol_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "corset_takeovercontrol_v3": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "corset_takeovercontrol_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

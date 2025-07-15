@@ -1,0 +1,18 @@
+{
+  "name": "moonrise",
+  "difficulty": 2,
+  "display_name": "Moonrise",
+  "ham_move_name": "Moonrise_takeovercontrol.move",
+  "milo_name": "moonrise_takeovercontrol",
+  "song_name": "takeovercontrol",
+  "clips": {
+    "moonrise_takeovercontrol_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "gears_and_guns",
+  "difficulty": 2,
+  "display_name": "Gears & Guns",
+  "ham_move_name": "Ready_Ok_takeovercontrol.move",
+  "milo_name": "ready_ok_takeovercontrol",
+  "song_name": "takeovercontrol",
+  "clips": {
+    "gears_and_guns_takeovercontrol_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

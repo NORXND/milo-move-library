@@ -1,0 +1,42 @@
+{
+  "name": "hook_it_center",
+  "difficulty": 2,
+  "display_name": "Hook It Center",
+  "ham_move_name": "Take_Over_takeovercontrol.move",
+  "milo_name": "take_over_takeovercontrol",
+  "song_name": "takeovercontrol",
+  "clips": {
+    "hook_it_center_takeovercontrol_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hook_it_center_takeovercontrol_v1": {
+      "avg_beats_per_second": 1.87,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hook_it_center_takeovercontrol_v2": {
+      "avg_beats_per_second": 1.87,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hook_it_center_takeovercontrol_v3": {
+      "avg_beats_per_second": 1.87,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

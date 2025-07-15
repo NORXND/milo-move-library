@@ -1,0 +1,42 @@
+{
+  "name": "rally",
+  "difficulty": 2,
+  "display_name": "Rally",
+  "ham_move_name": "Pump_It_Up_takeovercontrol.move",
+  "milo_name": "pump_it_up_takeovercontrol",
+  "song_name": "takeovercontrol",
+  "clips": {
+    "rally_takeovercontrol_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rally_takeovercontrol_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rally_takeovercontrol_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rally_takeovercontrol_v3": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

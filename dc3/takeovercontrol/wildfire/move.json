@@ -1,0 +1,42 @@
+{
+  "name": "wildfire",
+  "difficulty": 2,
+  "display_name": "Wildfire",
+  "ham_move_name": "House_Back_takeovercontrol.move",
+  "milo_name": "house_back_takeovercontrol",
+  "song_name": "takeovercontrol",
+  "clips": {
+    "wildfire_takeovercontrol_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wildfire_takeovercontrol_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wildfire_takeovercontrol_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wildfire_takeovercontrol_v3": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

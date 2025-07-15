@@ -1,0 +1,74 @@
+{
+  "name": "diva_walk",
+  "difficulty": 2,
+  "display_name": "Diva Walk",
+  "ham_move_name": "Model_Walk_takeovercontrol.move",
+  "milo_name": "model_walk_takeovercontrol",
+  "song_name": "takeovercontrol",
+  "clips": {
+    "diva_walk_takeovercontrol_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_walk_takeovercontrol_v5": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_walk_takeovercontrol_v4": {
+      "avg_beats_per_second": 1.87,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_walk_takeovercontrol_v2": {
+      "avg_beats_per_second": 1.87,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_walk_takeovercontrol_v6": {
+      "avg_beats_per_second": 1.87,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_walk_takeovercontrol_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_walk_takeovercontrol_v3": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_walk_takeovercontrol_v7": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "snood_and_shawl",
+  "difficulty": 2,
+  "display_name": "Snood & Shawl",
+  "ham_move_name": "Frame_takeovercontrol.move",
+  "milo_name": "frame_takeovercontrol",
+  "song_name": "takeovercontrol",
+  "clips": {
+    "snood_and_shawl_takeovercontrol_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "snood_and_shawl_takeovercontrol_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "snood_and_shawl_takeovercontrol_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "snood_and_shawl_takeovercontrol_v3": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

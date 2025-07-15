@@ -1,0 +1,18 @@
+{
+  "name": "mecha_nod",
+  "difficulty": 2,
+  "display_name": "Mecha Nod",
+  "ham_move_name": "Getting_Jiggy_Wit_It_takeovercontrol.move",
+  "milo_name": "getting_jiggy_wit_it_takeovercontrol",
+  "song_name": "takeovercontrol",
+  "clips": {
+    "mecha_nod_takeovercontrol_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

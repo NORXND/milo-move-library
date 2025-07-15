@@ -1,0 +1,18 @@
+{
+  "name": "step_step",
+  "difficulty": 2,
+  "display_name": "Step Step",
+  "ham_move_name": "Step_Out_takeovercontrol.move",
+  "milo_name": "step_out_takeovercontrol",
+  "song_name": "takeovercontrol",
+  "clips": {
+    "step_step_takeovercontrol_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

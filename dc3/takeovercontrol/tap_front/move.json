@@ -1,0 +1,18 @@
+{
+  "name": "tap_front",
+  "difficulty": 0,
+  "display_name": "Tap Front",
+  "ham_move_name": "In_Place_takeovercontrol.move",
+  "milo_name": "in_place_takeovercontrol",
+  "song_name": "takeovercontrol",
+  "clips": {
+    "tap_front_takeovercontrol_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

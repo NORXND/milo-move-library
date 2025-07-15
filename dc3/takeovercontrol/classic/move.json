@@ -1,0 +1,42 @@
+{
+  "name": "classic",
+  "difficulty": 2,
+  "display_name": "Classic",
+  "ham_move_name": "Housing_takeovercontrol.move",
+  "milo_name": "housing_takeovercontrol",
+  "song_name": "takeovercontrol",
+  "clips": {
+    "classic_takeovercontrol_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "classic_takeovercontrol_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "classic_takeovercontrol_v3": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "classic_takeovercontrol_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

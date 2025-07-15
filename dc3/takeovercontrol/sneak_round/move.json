@@ -1,0 +1,18 @@
+{
+  "name": "sneak_round",
+  "difficulty": 2,
+  "display_name": "Sneak 'round",
+  "ham_move_name": "Watch_The_Booty_takeovercontrol.move",
+  "milo_name": "watch_the_booty_takeovercontrol",
+  "song_name": "takeovercontrol",
+  "clips": {
+    "sneak_round_takeovercontrol_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

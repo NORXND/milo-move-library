@@ -1,0 +1,74 @@
+{
+  "name": "ymca",
+  "difficulty": 2,
+  "display_name": "YMCA",
+  "ham_move_name": "Ymca_ymca.move",
+  "milo_name": "ymca_ymca",
+  "song_name": "ymca",
+  "clips": {
+    "ymca_ymca_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ymca_ymca_v5": {
+      "avg_beats_per_second": 2.09,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ymca_ymca_v3": {
+      "avg_beats_per_second": 2.1,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ymca_ymca_v1": {
+      "avg_beats_per_second": 2.09,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ymca_ymca_v6": {
+      "avg_beats_per_second": 2.11,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ymca_ymca_v4": {
+      "avg_beats_per_second": 2.1,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ymca_ymca_v2": {
+      "avg_beats_per_second": 2.11,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ymca_ymca_v7": {
+      "avg_beats_per_second": 2.1,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

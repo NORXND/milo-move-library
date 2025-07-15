@@ -1,0 +1,42 @@
+{
+  "name": "cross_front",
+  "difficulty": 0,
+  "display_name": "Cross Front",
+  "ham_move_name": "Cross_Jabs_ymca.move",
+  "milo_name": "cross_jabs_ymca",
+  "song_name": "ymca",
+  "clips": {
+    "cross_front_ymca_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_front_ymca_v2": {
+      "avg_beats_per_second": 2.1,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_front_ymca_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_front_ymca_v3": {
+      "avg_beats_per_second": 2.1,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

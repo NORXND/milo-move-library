@@ -1,0 +1,26 @@
+{
+  "name": "jump_off",
+  "difficulty": 2,
+  "display_name": "Jump Off",
+  "ham_move_name": "Criss_Cross_ymca.move",
+  "milo_name": "criss_cross_ymca",
+  "song_name": "ymca",
+  "clips": {
+    "jump_off_ymca_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jump_off_ymca_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

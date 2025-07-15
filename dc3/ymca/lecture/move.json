@@ -1,0 +1,42 @@
+{
+  "name": "lecture",
+  "difficulty": 2,
+  "display_name": "Lecture",
+  "ham_move_name": "Lecture_ymca.move",
+  "milo_name": "lecture_ymca",
+  "song_name": "ymca",
+  "clips": {
+    "lecture_ymca_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "lecture_ymca_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "lecture_ymca_v2": {
+      "avg_beats_per_second": 2.1,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "lecture_ymca_v3": {
+      "avg_beats_per_second": 2.11,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

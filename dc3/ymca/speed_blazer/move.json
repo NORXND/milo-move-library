@@ -1,0 +1,26 @@
+{
+  "name": "speed_blazer",
+  "difficulty": 2,
+  "display_name": "Speed Blazer",
+  "ham_move_name": "Cheesy_ymca.move",
+  "milo_name": "cheesy_ymca",
+  "song_name": "ymca",
+  "clips": {
+    "speed_blazer_ymca_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "speed_blazer_ymca_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

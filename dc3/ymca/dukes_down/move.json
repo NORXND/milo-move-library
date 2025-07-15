@@ -1,0 +1,42 @@
+{
+  "name": "exception_dukes_down_2",
+  "difficulty": 2,
+  "display_name": "Dukes Down",
+  "ham_move_name": "Special_Moment_2_ymca.move",
+  "milo_name": "special_moment_2_ymca",
+  "song_name": "ymca",
+  "clips": {
+    "dukes_down_ymca_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dukes_down_ymca_v3": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dukes_down_ymca_v5": {
+      "avg_beats_per_second": 2.13,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dukes_down_ymca_v7": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

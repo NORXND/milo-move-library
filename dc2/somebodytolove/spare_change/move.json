@@ -1,0 +1,18 @@
+{
+  "name": "spare_change",
+  "difficulty": 2,
+  "display_name": "Spare Change",
+  "ham_move_name": "Spend_It_somebodytolove.move",
+  "milo_name": "spend_it_somebodytolove",
+  "song_name": "somebodytolove",
+  "clips": {
+    "spare_change_somebodytolove_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

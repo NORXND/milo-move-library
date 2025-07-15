@@ -1,0 +1,26 @@
+{
+  "name": "double_take",
+  "difficulty": 2,
+  "display_name": "Double Take",
+  "ham_move_name": "Give_It_To_Me_somebodytolove.move",
+  "milo_name": "give_it_to_me_somebodytolove",
+  "song_name": "somebodytolove",
+  "clips": {
+    "double_take_somebodytolove_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_take_somebodytolove_v0": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "circuit_breaker",
+  "difficulty": 1,
+  "display_name": "Circuit Breaker",
+  "ham_move_name": "Earthquake_somebodytolove.move",
+  "milo_name": "earthquake_somebodytolove",
+  "song_name": "somebodytolove",
+  "clips": {
+    "circuit_breaker_somebodytolove_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

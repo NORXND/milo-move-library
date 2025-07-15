@@ -1,0 +1,42 @@
+{
+  "name": "to_a_t",
+  "difficulty": 2,
+  "display_name": "To A T",
+  "ham_move_name": "Kickin_It_Old_School_somebodytolove.move",
+  "milo_name": "kickin_it_old_school_somebodytolove",
+  "song_name": "somebodytolove",
+  "clips": {
+    "to_a_t_somebodytolove_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "to_a_t_somebodytolove_v3": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "to_a_t_somebodytolove_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "to_a_t_somebodytolove_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

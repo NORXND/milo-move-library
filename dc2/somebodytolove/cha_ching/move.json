@@ -1,0 +1,26 @@
+{
+  "name": "cha_ching",
+  "difficulty": 0,
+  "display_name": "Cha Ching",
+  "ham_move_name": "Money_Cha_Ching_somebodytolove.move",
+  "milo_name": "money_cha_ching_somebodytolove",
+  "song_name": "somebodytolove",
+  "clips": {
+    "cha_ching_somebodytolove_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cha_ching_somebodytolove_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

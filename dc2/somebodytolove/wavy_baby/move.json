@@ -1,0 +1,26 @@
+{
+  "name": "wavy_baby",
+  "difficulty": 1,
+  "display_name": "Wavy Baby",
+  "ham_move_name": "Wavy_Baby_somebodytolove.move",
+  "milo_name": "wavy_baby_somebodytolove",
+  "song_name": "somebodytolove",
+  "clips": {
+    "wavy_baby_somebodytolove_v0": {
+      "avg_beats_per_second": 2.16,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wavy_baby_somebodytolove_v1": {
+      "avg_beats_per_second": 1.85,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

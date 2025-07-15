@@ -1,0 +1,18 @@
+{
+  "name": "low_stranger_r",
+  "difficulty": 2,
+  "display_name": "Low Stranger",
+  "ham_move_name": "Get_Off_Me_R_somebodytolove.move",
+  "milo_name": "get_off_me_r_somebodytolove",
+  "song_name": "somebodytolove",
+  "clips": {
+    "low_stranger_r_somebodytolove_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

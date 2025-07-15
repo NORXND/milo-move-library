@@ -1,0 +1,34 @@
+{
+  "name": "keep_it_easy",
+  "difficulty": 2,
+  "display_name": "Keep It Easy",
+  "ham_move_name": "Harlem_somebodytolove.move",
+  "milo_name": "harlem_somebodytolove",
+  "song_name": "somebodytolove",
+  "clips": {
+    "keep_it_easy_somebodytolove_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "keep_it_easy_somebodytolove_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "keep_it_easy_somebodytolove_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

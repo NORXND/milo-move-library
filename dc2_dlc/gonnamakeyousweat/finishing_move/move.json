@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_gonnamakeyousweat_v1076",
+  "difficulty": 2,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_gonnamakeyousweat.move",
+  "milo_name": "finishing_move_gonnamakeyousweat",
+  "song_name": "gonnamakeyousweat",
+  "clips": {
+    "finishing_move_gonnamakeyousweat_v1076": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

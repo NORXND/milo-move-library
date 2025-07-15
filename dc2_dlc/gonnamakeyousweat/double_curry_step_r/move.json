@@ -1,0 +1,50 @@
+{
+  "name": "double_curry_step_r",
+  "difficulty": 2,
+  "display_name": "Double Curry Step",
+  "ham_move_name": "Curry_Step_R_gonnamakeyousweat.move",
+  "milo_name": "curry_step_r_gonnamakeyousweat",
+  "song_name": "gonnamakeyousweat",
+  "clips": {
+    "double_curry_step_r_gonnamakeyousweat_v0": {
+      "avg_beats_per_second": 1.64,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_curry_step_r_gonnamakeyousweat_v3": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_curry_step_r_gonnamakeyousweat_v1": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_curry_step_r_gonnamakeyousweat_v4": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_curry_step_r_gonnamakeyousweat_v2": {
+      "avg_beats_per_second": 1.9,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

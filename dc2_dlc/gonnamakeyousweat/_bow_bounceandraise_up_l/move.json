@@ -1,0 +1,26 @@
+{
+  "name": "_bow_bounceandraise_up_l",
+  "difficulty": 2,
+  "display_name": "'Bow Bounce/Raise Up",
+  "ham_move_name": "Bow_Bounce_Thats_Right_L_gonnamakeyousweat.move",
+  "milo_name": "bow_bounce_thats_right_l_gonnamakeyousweat",
+  "song_name": "gonnamakeyousweat",
+  "clips": {
+    "_bow_bounceandraise_up_l_gonnamakeyousweat_v0": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "_bow_bounceandraise_up_r_gonnamakeyousweat_v1",
+      "linked_from": "_bow_bounceandraise_up_r_gonnamakeyousweat_v0"
+    },
+    "_bow_bounceandraise_up_l_gonnamakeyousweat_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "_bow_bounceandraise_up_r_gonnamakeyousweat_v1"
+    }
+  }
+}

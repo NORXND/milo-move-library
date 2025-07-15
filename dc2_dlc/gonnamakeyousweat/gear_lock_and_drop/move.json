@@ -1,0 +1,18 @@
+{
+  "name": "gear_lock_and_drop",
+  "difficulty": 2,
+  "display_name": "Gear Lock & Drop",
+  "ham_move_name": "Go_White_Boy_gonnamakeyousweat.move",
+  "milo_name": "go_white_boy_gonnamakeyousweat",
+  "song_name": "gonnamakeyousweat",
+  "clips": {
+    "gear_lock_and_drop_gonnamakeyousweat_v0": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "the_chace_l",
+  "difficulty": 2,
+  "display_name": "The Chace",
+  "ham_move_name": "The_Chace_L_gonnamakeyousweat.move",
+  "milo_name": "the_chace_l_gonnamakeyousweat",
+  "song_name": "gonnamakeyousweat",
+  "clips": {
+    "the_chace_l_gonnamakeyousweat_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "the_chace_r_gonnamakeyousweat_v1",
+      "linked_from": ""
+    },
+    "the_chace_l_gonnamakeyousweat_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "the_chace_r_gonnamakeyousweat_v2",
+      "linked_from": "the_chace_r_gonnamakeyousweat_v1"
+    }
+  }
+}

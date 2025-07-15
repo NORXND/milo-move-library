@@ -1,0 +1,26 @@
+{
+  "name": "threaded",
+  "difficulty": 2,
+  "display_name": "Threaded",
+  "ham_move_name": "Threadless_gonnamakeyousweat.move",
+  "milo_name": "threadless_gonnamakeyousweat",
+  "song_name": "gonnamakeyousweat",
+  "clips": {
+    "threaded_gonnamakeyousweat_v0": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "threaded_gonnamakeyousweat_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

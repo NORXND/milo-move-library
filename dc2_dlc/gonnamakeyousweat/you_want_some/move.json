@@ -1,0 +1,42 @@
+{
+  "name": "you_want_some",
+  "difficulty": 2,
+  "display_name": "You Want Some?",
+  "ham_move_name": "Membrane_gonnamakeyousweat.move",
+  "milo_name": "membrane_gonnamakeyousweat",
+  "song_name": "gonnamakeyousweat",
+  "clips": {
+    "you_want_some_gonnamakeyousweat_v3": {
+      "avg_beats_per_second": 1.64,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "you_want_some_gonnamakeyousweat_v0": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "you_want_some_gonnamakeyousweat_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "you_want_some_gonnamakeyousweat_v2": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "slam_down_r",
+  "difficulty": 2,
+  "display_name": "Slam Down",
+  "ham_move_name": "Slam_Down_R_gonnamakeyousweat.move",
+  "milo_name": "slam_down_r_gonnamakeyousweat",
+  "song_name": "gonnamakeyousweat",
+  "clips": {
+    "slam_down_r_gonnamakeyousweat_v0": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "slam_down_l_gonnamakeyousweat_v0",
+      "linked_from": ""
+    }
+  }
+}

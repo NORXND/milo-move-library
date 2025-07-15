@@ -1,0 +1,26 @@
+{
+  "name": "pound_walk",
+  "difficulty": 0,
+  "display_name": "Pound Walk",
+  "ham_move_name": "Runnin_wildthing.move",
+  "milo_name": "runnin_wildthing",
+  "song_name": "wildthing",
+  "clips": {
+    "pound_walk_wildthing_v1": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_walk_wildthing_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "name": "chugga_chugga",
+  "difficulty": 0,
+  "display_name": "Chugga Chugga",
+  "ham_move_name": "Chugga_Chugga_wildthing.move",
+  "milo_name": "chugga_chugga_wildthing",
+  "song_name": "wildthing",
+  "clips": {
+    "chugga_chugga_wildthing_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chugga_chugga_wildthing_v4": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chugga_chugga_wildthing_v7": {
+      "avg_beats_per_second": 2.1,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chugga_chugga_wildthing_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chugga_chugga_wildthing_v5": {
+      "avg_beats_per_second": 2.1,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chugga_chugga_wildthing_v3": {
+      "avg_beats_per_second": 2.1,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chugga_chugga_wildthing_v2": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chugga_chugga_wildthing_v6": {
+      "avg_beats_per_second": 1.81,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

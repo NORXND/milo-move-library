@@ -1,0 +1,18 @@
+{
+  "name": "rollin",
+  "difficulty": 0,
+  "display_name": "Rollin'",
+  "ham_move_name": "Roll_Bounce_wildthing.move",
+  "milo_name": "roll_bounce_wildthing",
+  "song_name": "wildthing",
+  "clips": {
+    "rollin_wildthing_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

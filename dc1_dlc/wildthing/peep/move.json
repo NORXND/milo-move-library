@@ -1,0 +1,18 @@
+{
+  "name": "peep",
+  "difficulty": 1,
+  "display_name": "Peep",
+  "ham_move_name": "Scout_wildthing.move",
+  "milo_name": "scout_wildthing",
+  "song_name": "wildthing",
+  "clips": {
+    "peep_wildthing_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

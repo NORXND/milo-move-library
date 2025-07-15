@@ -1,0 +1,26 @@
+{
+  "name": "alternator",
+  "difficulty": 2,
+  "display_name": "Alternator",
+  "ham_move_name": "Twist_N_Pump_wildthing.move",
+  "milo_name": "twist_n_pump_wildthing",
+  "song_name": "wildthing",
+  "clips": {
+    "alternator_wildthing_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "alternator_wildthing_v1": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "the_bouncer",
+  "difficulty": 2,
+  "display_name": "The Bouncer",
+  "ham_move_name": "Kid_Sway_wildthing.move",
+  "milo_name": "kid_sway_wildthing",
+  "song_name": "wildthing",
+  "clips": {
+    "the_bouncer_wildthing_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

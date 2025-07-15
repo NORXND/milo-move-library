@@ -1,0 +1,74 @@
+{
+  "name": "chug_r",
+  "difficulty": 0,
+  "display_name": "Chug",
+  "ham_move_name": "Chug_R_wildthing.move",
+  "milo_name": "chug_r_wildthing",
+  "song_name": "wildthing",
+  "clips": {
+    "chug_r_wildthing_v4": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "chug_l_wildthing_v4",
+      "linked_from": ""
+    },
+    "chug_r_wildthing_v2": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "chug_l_wildthing_v2",
+      "linked_from": ""
+    },
+    "chug_r_wildthing_v7": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "chug_l_wildthing_v7",
+      "linked_from": ""
+    },
+    "chug_r_wildthing_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "chug_l_wildthing_v0",
+      "linked_from": ""
+    },
+    "chug_r_wildthing_v5": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "chug_l_wildthing_v5",
+      "linked_from": ""
+    },
+    "chug_r_wildthing_v3": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "chug_l_wildthing_v3",
+      "linked_from": ""
+    },
+    "chug_r_wildthing_v1": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "chug_l_wildthing_v1",
+      "linked_from": ""
+    },
+    "chug_r_wildthing_v6": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "chug_l_wildthing_v6",
+      "linked_from": ""
+    }
+  }
+}

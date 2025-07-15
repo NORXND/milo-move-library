@@ -1,0 +1,18 @@
+{
+  "name": "hit_it",
+  "difficulty": 0,
+  "display_name": "Hit It",
+  "ham_move_name": "Hit_It_wildthing.move",
+  "milo_name": "hit_it_wildthing",
+  "song_name": "wildthing",
+  "clips": {
+    "hit_it_wildthing_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

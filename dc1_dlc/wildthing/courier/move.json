@@ -1,0 +1,18 @@
+{
+  "name": "courier",
+  "difficulty": 2,
+  "display_name": "Courier",
+  "ham_move_name": "Bag_It_Up_wildthing.move",
+  "milo_name": "bag_it_up_wildthing",
+  "song_name": "wildthing",
+  "clips": {
+    "courier_wildthing_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

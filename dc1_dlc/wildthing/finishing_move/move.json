@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_wildthing_v1082",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_wildthing.move",
+  "milo_name": "finishing_move_wildthing",
+  "song_name": "wildthing",
+  "clips": {
+    "finishing_move_wildthing_v1082": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

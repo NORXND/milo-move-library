@@ -1,0 +1,18 @@
+{
+  "name": "not_it",
+  "difficulty": 1,
+  "display_name": "Not It",
+  "ham_move_name": "Liar_Liar_wildthing.move",
+  "milo_name": "liar_liar_wildthing",
+  "song_name": "wildthing",
+  "clips": {
+    "not_it_wildthing_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

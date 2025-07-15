@@ -1,0 +1,26 @@
+{
+  "name": "lasso",
+  "difficulty": 0,
+  "display_name": "Lasso",
+  "ham_move_name": "Lasso_wildthing.move",
+  "milo_name": "lasso_wildthing",
+  "song_name": "wildthing",
+  "clips": {
+    "lasso_wildthing_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "lasso_wildthing_v1": {
+      "avg_beats_per_second": 1.98,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

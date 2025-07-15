@@ -1,0 +1,34 @@
+{
+  "name": "cross_and_lean_l",
+  "difficulty": 2,
+  "display_name": "Cross & Lean",
+  "ham_move_name": "Cross_Step_Boogaloo_L_dance.move",
+  "milo_name": "cross_step_boogaloo_l_dance",
+  "song_name": "dance",
+  "clips": {
+    "cross_and_lean_l_dance_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "cross_and_lean_r_dance_v0",
+      "linked_from": ""
+    },
+    "cross_and_lean_l_dance_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "cross_and_lean_r_dance_v1",
+      "linked_from": ""
+    },
+    "cross_and_lean_l_dance_v2": {
+      "avg_beats_per_second": 1.89,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "cross_and_lean_r_dance_v2",
+      "linked_from": ""
+    }
+  }
+}

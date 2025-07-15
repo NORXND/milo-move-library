@@ -1,0 +1,18 @@
+{
+  "name": "exception_warp_scale_2",
+  "difficulty": 2,
+  "display_name": "Warp Scale",
+  "ham_move_name": "Warp_Scale_2_dance.move",
+  "milo_name": "warp_scale_2_dance",
+  "song_name": "dance",
+  "clips": {
+    "warp_scale_dance_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

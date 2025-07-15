@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_dance_v1060",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_dance.move",
+  "milo_name": "finishing_move_dance",
+  "song_name": "dance",
+  "clips": {
+    "finishing_move_dance_v1060": {
+      "avg_beats_per_second": 2.33,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

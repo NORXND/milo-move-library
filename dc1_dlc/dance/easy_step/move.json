@@ -1,0 +1,18 @@
+{
+  "name": "easy_step",
+  "difficulty": 1,
+  "display_name": "Easy Step",
+  "ham_move_name": "Easy_Step_dance.move",
+  "milo_name": "easy_step_dance",
+  "song_name": "dance",
+  "clips": {
+    "easy_step_dance_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

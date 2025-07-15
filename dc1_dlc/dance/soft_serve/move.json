@@ -1,0 +1,26 @@
+{
+  "name": "soft_serve",
+  "difficulty": 0,
+  "display_name": "Soft Serve",
+  "ham_move_name": "Feed_The_Pigs_dance.move",
+  "milo_name": "feed_the_pigs_dance",
+  "song_name": "dance",
+  "clips": {
+    "soft_serve_dance_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "soft_serve_dance_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

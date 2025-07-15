@@ -1,0 +1,42 @@
+{
+  "name": "soft_pop",
+  "difficulty": 0,
+  "display_name": "Soft Pop",
+  "ham_move_name": "Dime_Stop_dance.move",
+  "milo_name": "dime_stop_dance",
+  "song_name": "dance",
+  "clips": {
+    "soft_pop_dance_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "soft_pop_dance_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "soft_pop_dance_v2": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "soft_pop_dance_v3": {
+      "avg_beats_per_second": 1.89,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

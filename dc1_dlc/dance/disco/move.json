@@ -1,0 +1,26 @@
+{
+  "name": "disco",
+  "difficulty": 0,
+  "display_name": "Disco",
+  "ham_move_name": "Disco_dance.move",
+  "milo_name": "disco_dance",
+  "song_name": "dance",
+  "clips": {
+    "disco_dance_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "disco_dance_v1": {
+      "avg_beats_per_second": 1.89,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

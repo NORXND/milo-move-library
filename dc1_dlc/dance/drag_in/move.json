@@ -1,0 +1,18 @@
+{
+  "name": "drag_in",
+  "difficulty": 0,
+  "display_name": "Drag In",
+  "ham_move_name": "Drag_In_dance.move",
+  "milo_name": "drag_in_dance",
+  "song_name": "dance",
+  "clips": {
+    "drag_in_dance_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

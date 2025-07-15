@@ -1,0 +1,26 @@
+{
+  "name": "low_voltage_r",
+  "difficulty": 0,
+  "display_name": "Low Voltage",
+  "ham_move_name": "Air_Pop_R_dance.move",
+  "milo_name": "air_pop_r_dance",
+  "song_name": "dance",
+  "clips": {
+    "low_voltage_r_dance_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "low_voltage_l_dance_v1",
+      "linked_from": "low_voltage_l_dance_v0"
+    },
+    "low_voltage_r_dance_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "low_voltage_l_dance_v1"
+    }
+  }
+}

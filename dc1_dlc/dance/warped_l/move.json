@@ -1,0 +1,18 @@
+{
+  "name": "warped_l",
+  "difficulty": 0,
+  "display_name": "Warped",
+  "ham_move_name": "Warped_L_dance.move",
+  "milo_name": "warped_l_dance",
+  "song_name": "dance",
+  "clips": {
+    "warped_l_dance_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "warped_r_dance_v0",
+      "linked_from": ""
+    }
+  }
+}

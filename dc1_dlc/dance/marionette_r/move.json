@@ -1,0 +1,18 @@
+{
+  "name": "marionette_r",
+  "difficulty": 1,
+  "display_name": "Marionette",
+  "ham_move_name": "Marionette_R_dance.move",
+  "milo_name": "marionette_r_dance",
+  "song_name": "dance",
+  "clips": {
+    "marionette_r_dance_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "marionette_l_dance_v0",
+      "linked_from": ""
+    }
+  }
+}

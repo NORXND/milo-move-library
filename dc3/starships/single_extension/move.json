@@ -1,0 +1,42 @@
+{
+  "name": "single_extension",
+  "difficulty": 2,
+  "display_name": "Single Extension",
+  "ham_move_name": "Open_A_Window_starships.move",
+  "milo_name": "open_a_window_starships",
+  "song_name": "starships",
+  "clips": {
+    "single_extension_starships_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "single_extension_starships_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "single_extension_starships_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "single_extension_starships_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

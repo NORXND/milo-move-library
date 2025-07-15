@@ -1,0 +1,18 @@
+{
+  "name": "lost_it",
+  "difficulty": 2,
+  "display_name": "Lost It",
+  "ham_move_name": "Shawanda_starships.move",
+  "milo_name": "shawanda_starships",
+  "song_name": "starships",
+  "clips": {
+    "lost_it_starships_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

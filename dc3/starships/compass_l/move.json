@@ -1,0 +1,42 @@
+{
+  "name": "compass_l",
+  "difficulty": 2,
+  "display_name": "Compass",
+  "ham_move_name": "Starships_L_starships.move",
+  "milo_name": "starships_l_starships",
+  "song_name": "starships",
+  "clips": {
+    "compass_l_starships_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "compass_l_starships_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "compass_l_starships_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "compass_l_starships_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "stopwatch_lean",
+  "difficulty": 2,
+  "display_name": "Stopwatch Lean",
+  "ham_move_name": "Tick_Tock_starships.move",
+  "milo_name": "tick_tock_starships",
+  "song_name": "starships",
+  "clips": {
+    "stopwatch_lean_starships_v0": {
+      "avg_beats_per_second": 1.79,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stopwatch_lean_starships_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stopwatch_lean_starships_v2": {
+      "avg_beats_per_second": 1.79,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stopwatch_lean_starships_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

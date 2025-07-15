@@ -1,0 +1,18 @@
+{
+  "name": "exception_amazon_2",
+  "difficulty": 2,
+  "display_name": "Amazon",
+  "ham_move_name": "Gymming_Fb_starships.move",
+  "milo_name": "gymming_fb_starships",
+  "song_name": "starships",
+  "clips": {
+    "amazon_starships_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

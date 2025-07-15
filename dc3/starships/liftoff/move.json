@@ -1,0 +1,42 @@
+{
+  "name": "liftoff",
+  "difficulty": 2,
+  "display_name": "Liftoff",
+  "ham_move_name": "Nayko_starships.move",
+  "milo_name": "nayko_starships",
+  "song_name": "starships",
+  "clips": {
+    "liftoff_starships_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "liftoff_starships_v1": {
+      "avg_beats_per_second": 1.79,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "liftoff_starships_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "liftoff_starships_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "to_the_moons_l",
+  "difficulty": 2,
+  "display_name": "To The Moons",
+  "ham_move_name": "Fly_L_starships.move",
+  "milo_name": "fly_l_starships",
+  "song_name": "starships",
+  "clips": {
+    "to_the_moons_l_starships_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "to_the_moons_l_starships_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "to_the_moons_l_starships_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "to_the_moons_l_starships_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

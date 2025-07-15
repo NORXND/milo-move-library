@@ -1,0 +1,26 @@
+{
+  "name": "onus",
+  "difficulty": 2,
+  "display_name": "Onus",
+  "ham_move_name": "Fist_Throw_starships.move",
+  "milo_name": "fist_throw_starships",
+  "song_name": "starships",
+  "clips": {
+    "onus_starships_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "onus_starships_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "plead_l",
+  "difficulty": 2,
+  "display_name": "Plead",
+  "ham_move_name": "Wop_L_starships.move",
+  "milo_name": "wop_l_starships",
+  "song_name": "starships",
+  "clips": {
+    "plead_l_starships_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "plead_r_starships_v0",
+      "linked_from": ""
+    },
+    "plead_l_starships_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

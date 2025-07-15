@@ -1,0 +1,42 @@
+{
+  "name": "bear_hug_l",
+  "difficulty": 2,
+  "display_name": "Bear Hug",
+  "ham_move_name": "Hulk_L_starships.move",
+  "milo_name": "hulk_l_starships",
+  "song_name": "starships",
+  "clips": {
+    "bear_hug_l_starships_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "bear_hug_r_starships_v1"
+    },
+    "bear_hug_l_starships_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "bear_hug_r_starships_v2"
+    },
+    "bear_hug_l_starships_v3": {
+      "avg_beats_per_second": 1.78,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "bear_hug_r_starships_v3"
+    },
+    "bear_hug_l_starships_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "bear_hug_r_starships_v0"
+    }
+  }
+}

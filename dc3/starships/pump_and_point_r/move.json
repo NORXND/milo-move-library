@@ -1,0 +1,26 @@
+{
+  "name": "pump_and_point_r",
+  "difficulty": 2,
+  "display_name": "Pump & Point",
+  "ham_move_name": "Pump_Point_R_starships.move",
+  "milo_name": "pump_point_r_starships",
+  "song_name": "starships",
+  "clips": {
+    "pump_and_point_r_starships_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "pump_and_point_l_starships_v0",
+      "linked_from": ""
+    },
+    "pump_and_point_r_starships_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "stud_knee",
+  "difficulty": 2,
+  "display_name": "Stud Knee",
+  "ham_move_name": "Kay_And_Jay_starships.move",
+  "milo_name": "kay_and_jay_starships",
+  "song_name": "starships",
+  "clips": {
+    "stud_knee_starships_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stud_knee_starships_v1": {
+      "avg_beats_per_second": 1.79,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

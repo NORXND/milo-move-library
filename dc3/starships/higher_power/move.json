@@ -1,0 +1,26 @@
+{
+  "name": "higher_power",
+  "difficulty": 2,
+  "display_name": "Higher Power",
+  "ham_move_name": "Raise_The_Roof_starships.move",
+  "milo_name": "raise_the_roof_starships",
+  "song_name": "starships",
+  "clips": {
+    "higher_power_starships_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "higher_power_starships_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "whip_back",
+  "difficulty": 2,
+  "display_name": "Whip Back",
+  "ham_move_name": "Sneaker_starships.move",
+  "milo_name": "sneaker_starships",
+  "song_name": "starships",
+  "clips": {
+    "whip_back_starships_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "whip_back_starships_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "whip_back_starships_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "whip_back_starships_v3": {
+      "avg_beats_per_second": 1.78,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

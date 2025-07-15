@@ -1,0 +1,18 @@
+{
+  "name": "interstellar",
+  "difficulty": 2,
+  "display_name": "Interstellar",
+  "ham_move_name": "Twinkle_Twinkle_starships.move",
+  "milo_name": "twinkle_twinkle_starships",
+  "song_name": "starships",
+  "clips": {
+    "interstellar_starships_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

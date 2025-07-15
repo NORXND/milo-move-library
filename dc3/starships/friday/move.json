@@ -1,0 +1,26 @@
+{
+  "name": "friday",
+  "difficulty": 2,
+  "display_name": "Friday",
+  "ham_move_name": "Party_Pump_starships.move",
+  "milo_name": "party_pump_starships",
+  "song_name": "starships",
+  "clips": {
+    "friday_starships_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "friday_starships_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

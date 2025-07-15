@@ -1,0 +1,26 @@
+{
+  "name": "swing",
+  "difficulty": 0,
+  "display_name": "Swing",
+  "ham_move_name": "Tightrope_Low_starships.move",
+  "milo_name": "tightrope_low_starships",
+  "song_name": "starships",
+  "clips": {
+    "swing_starships_v0": {
+      "avg_beats_per_second": 1.79,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swing_starships_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

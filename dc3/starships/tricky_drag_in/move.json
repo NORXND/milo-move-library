@@ -1,0 +1,42 @@
+{
+  "name": "tricky_drag_in",
+  "difficulty": 2,
+  "display_name": "Tricky Drag In",
+  "ham_move_name": "Dance_Dance_starships.move",
+  "milo_name": "dance_dance_starships",
+  "song_name": "starships",
+  "clips": {
+    "tricky_drag_in_starships_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tricky_drag_in_starships_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tricky_drag_in_starships_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tricky_drag_in_starships_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

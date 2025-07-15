@@ -1,0 +1,18 @@
+{
+  "name": "scream_l",
+  "difficulty": 2,
+  "display_name": "Scream",
+  "ham_move_name": "Scream_L_starships.move",
+  "milo_name": "scream_l_starships",
+  "song_name": "starships",
+  "clips": {
+    "scream_l_starships_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "scream_r_starships_v0"
+    }
+  }
+}

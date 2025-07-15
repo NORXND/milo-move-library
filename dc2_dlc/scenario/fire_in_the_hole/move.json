@@ -1,0 +1,18 @@
+{
+  "name": "fire_in_the_hole",
+  "difficulty": 2,
+  "display_name": "Fire In The Hole",
+  "ham_move_name": "Sonic_Boom_scenario.move",
+  "milo_name": "sonic_boom_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "fire_in_the_hole_scenario_v0": {
+      "avg_beats_per_second": 1.46,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

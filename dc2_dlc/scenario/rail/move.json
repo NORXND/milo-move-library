@@ -1,0 +1,18 @@
+{
+  "name": "rail",
+  "difficulty": 1,
+  "display_name": "Rail",
+  "ham_move_name": "Goal_scenario.move",
+  "milo_name": "goal_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "rail_scenario_v0": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "goody_bounce_l",
+  "difficulty": 2,
+  "display_name": "Goody Bounce",
+  "ham_move_name": "Lean_Bounce_L_scenario.move",
+  "milo_name": "lean_bounce_l_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "goody_bounce_l_scenario_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "goody_bounce_r_scenario_v0"
+    }
+  }
+}

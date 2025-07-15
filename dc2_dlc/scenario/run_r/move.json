@@ -1,0 +1,18 @@
+{
+  "name": "run_r",
+  "difficulty": 2,
+  "display_name": "Run",
+  "ham_move_name": "Gimme_A_Run_R_scenario.move",
+  "milo_name": "gimme_a_run_r_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "run_r_scenario_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "run_l_scenario_v0",
+      "linked_from": ""
+    }
+  }
+}

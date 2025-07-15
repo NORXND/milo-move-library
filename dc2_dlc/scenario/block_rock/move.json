@@ -1,0 +1,18 @@
+{
+  "name": "exception_block_rock_f",
+  "difficulty": 2,
+  "display_name": "Block Rock",
+  "ham_move_name": "Chill_Forward_scenario.move",
+  "milo_name": "chill_forward_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "block_rock_scenario_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

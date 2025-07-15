@@ -1,0 +1,18 @@
+{
+  "name": "exception_dip_and_think_2",
+  "difficulty": 2,
+  "display_name": "Dip & Think",
+  "ham_move_name": "Rodeo_Clockwise_scenario.move",
+  "milo_name": "rodeo_clockwise_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "dip_and_think_scenario_v1": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

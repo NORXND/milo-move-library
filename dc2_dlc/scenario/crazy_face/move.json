@@ -1,0 +1,34 @@
+{
+  "name": "crazy_face",
+  "difficulty": 2,
+  "display_name": "Crazy Face",
+  "ham_move_name": "Crazy_Face_scenario.move",
+  "milo_name": "crazy_face_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "crazy_face_scenario_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "crazy_face_scenario_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "crazy_face_scenario_v2": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

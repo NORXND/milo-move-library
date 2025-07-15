@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_scenario_v1106",
+  "difficulty": 2,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_scenario.move",
+  "milo_name": "finishing_move_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "finishing_move_scenario_v1106": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 74,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "slam_out_l",
+  "difficulty": 0,
+  "display_name": "Slam Out",
+  "ham_move_name": "Kris_Kross_L_scenario.move",
+  "milo_name": "kris_kross_l_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "slam_out_l_scenario_v4": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "slam_out_r_scenario_v4",
+      "linked_from": ""
+    },
+    "slam_out_l_scenario_v2": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "slam_out_r_scenario_v2",
+      "linked_from": ""
+    },
+    "slam_out_l_scenario_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "slam_out_r_scenario_v0",
+      "linked_from": ""
+    },
+    "slam_out_l_scenario_v5": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "slam_out_r_scenario_v5",
+      "linked_from": "slam_out_r_scenario_v4"
+    },
+    "slam_out_l_scenario_v3": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "slam_out_r_scenario_v3",
+      "linked_from": ""
+    },
+    "slam_out_l_scenario_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "slam_out_r_scenario_v1",
+      "linked_from": ""
+    }
+  }
+}

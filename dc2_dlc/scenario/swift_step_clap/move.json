@@ -1,0 +1,26 @@
+{
+  "name": "swift_step_clap",
+  "difficulty": 2,
+  "display_name": "Swift Step Clap",
+  "ham_move_name": "Side_Wipe_Clap_scenario.move",
+  "milo_name": "side_wipe_clap_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "swift_step_clap_scenario_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swift_step_clap_scenario_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

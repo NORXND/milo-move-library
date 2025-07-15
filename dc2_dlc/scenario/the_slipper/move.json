@@ -1,0 +1,26 @@
+{
+  "name": "the_slipper",
+  "difficulty": 2,
+  "display_name": "The Slipper",
+  "ham_move_name": "Booty_Roll_scenario.move",
+  "milo_name": "booty_roll_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "the_slipper_scenario_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "the_slipper_scenario_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "hop_cross_front",
+  "difficulty": 1,
+  "display_name": "Hop Cross Front",
+  "ham_move_name": "Hip_Hop_scenario.move",
+  "milo_name": "hip_hop_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "hop_cross_front_scenario_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_cross_front_scenario_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

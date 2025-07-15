@@ -1,0 +1,18 @@
+{
+  "name": "i_m_so_devin",
+  "difficulty": 2,
+  "display_name": "I'm So Devin",
+  "ham_move_name": "Im_So_Devin_scenario.move",
+  "milo_name": "im_so_devin_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "i_m_so_devin_scenario_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

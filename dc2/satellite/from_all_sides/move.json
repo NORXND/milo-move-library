@@ -1,0 +1,18 @@
+{
+  "name": "from_all_sides",
+  "difficulty": 2,
+  "display_name": "From All Sides",
+  "ham_move_name": "Spears_Cant_Leave_satellite.move",
+  "milo_name": "spears_cant_leave_satellite",
+  "song_name": "satellite",
+  "clips": {
+    "from_all_sides_satellite_v0": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

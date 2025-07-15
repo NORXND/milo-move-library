@@ -1,0 +1,18 @@
+{
+  "name": "brush_step",
+  "difficulty": 1,
+  "display_name": "Brush Step",
+  "ham_move_name": "Cupid_Pinches_satellite.move",
+  "milo_name": "cupid_pinches_satellite",
+  "song_name": "satellite",
+  "clips": {
+    "brush_step_satellite_v0": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

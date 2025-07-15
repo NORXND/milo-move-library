@@ -1,0 +1,18 @@
+{
+  "name": "cloak_dip",
+  "difficulty": 1,
+  "display_name": "Cloak Dip",
+  "ham_move_name": "Walking_satellite.move",
+  "milo_name": "walking_satellite",
+  "song_name": "satellite",
+  "clips": {
+    "cloak_dip_satellite_v0": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

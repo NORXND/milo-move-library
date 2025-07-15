@@ -1,0 +1,34 @@
+{
+  "name": "step_and_wind",
+  "difficulty": 2,
+  "display_name": "Step & Wind",
+  "ham_move_name": "Loving_You_Down_satellite.move",
+  "milo_name": "loving_you_down_satellite",
+  "song_name": "satellite",
+  "clips": {
+    "step_and_wind_satellite_v0": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_and_wind_satellite_v1": {
+      "avg_beats_per_second": 1.35,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_and_wind_satellite_v2": {
+      "avg_beats_per_second": 1.36,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "orbit",
+  "difficulty": 1,
+  "display_name": "Orbit",
+  "ham_move_name": "Orbit_satellite.move",
+  "milo_name": "orbit_satellite",
+  "song_name": "satellite",
+  "clips": {
+    "orbit_satellite_v0": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "orbit_satellite_v1": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "orbit_satellite_v2": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

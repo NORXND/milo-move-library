@@ -1,0 +1,18 @@
+{
+  "name": "open_hip_wind",
+  "difficulty": 2,
+  "display_name": "Open Hip Wind",
+  "ham_move_name": "Focus_satellite.move",
+  "milo_name": "focus_satellite",
+  "song_name": "satellite",
+  "clips": {
+    "open_hip_wind_satellite_v0": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

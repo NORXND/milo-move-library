@@ -1,0 +1,18 @@
+{
+  "name": "miranda",
+  "difficulty": 2,
+  "display_name": "Miranda",
+  "ham_move_name": "Sad_And_Blue_satellite.move",
+  "milo_name": "sad_and_blue_satellite",
+  "song_name": "satellite",
+  "clips": {
+    "miranda_satellite_v0": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

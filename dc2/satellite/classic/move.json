@@ -1,0 +1,34 @@
+{
+  "name": "classic",
+  "difficulty": 2,
+  "display_name": "Classic",
+  "ham_move_name": "Falling_satellite.move",
+  "milo_name": "falling_satellite",
+  "song_name": "satellite",
+  "clips": {
+    "classic_satellite_v0": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "classic_satellite_v2": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "classic_satellite_v1": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

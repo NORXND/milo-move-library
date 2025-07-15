@@ -1,0 +1,18 @@
+{
+  "name": "head_games",
+  "difficulty": 2,
+  "display_name": "Head Games",
+  "ham_move_name": "Head_Games_satellite.move",
+  "milo_name": "head_games_satellite",
+  "song_name": "satellite",
+  "clips": {
+    "head_games_satellite_v0": {
+      "avg_beats_per_second": 1.36,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

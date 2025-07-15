@@ -1,0 +1,26 @@
+{
+  "name": "candy_cane",
+  "difficulty": 0,
+  "display_name": "Candy Cane",
+  "ham_move_name": "Candy_Cane_iknowyouwantme.move",
+  "milo_name": "candy_cane_iknowyouwantme",
+  "song_name": "iknowyouwantme",
+  "clips": {
+    "candy_cane_iknowyouwantme_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "candy_cane_iknowyouwantme_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

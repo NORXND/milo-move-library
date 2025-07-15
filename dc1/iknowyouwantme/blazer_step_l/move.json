@@ -1,0 +1,18 @@
+{
+  "name": "blazer_step_l",
+  "difficulty": 0,
+  "display_name": "Blazer Step",
+  "ham_move_name": "Shifty_Walk_L_iknowyouwantme.move",
+  "milo_name": "shifty_walk_l_iknowyouwantme",
+  "song_name": "iknowyouwantme",
+  "clips": {
+    "blazer_step_l_iknowyouwantme_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "blazer_step_r_iknowyouwantme_v0"
+    }
+  }
+}

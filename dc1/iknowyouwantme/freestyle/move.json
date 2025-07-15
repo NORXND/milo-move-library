@@ -1,0 +1,26 @@
+{
+  "name": "freestyle_iknowyouwantme",
+  "difficulty": 2,
+  "display_name": "FREESTYLE!",
+  "ham_move_name": "Freestyle.move",
+  "milo_name": "freestyle",
+  "song_name": "iknowyouwantme",
+  "clips": {
+    "freestyle_iknowyouwantme_v0": {
+      "avg_beats_per_second": 1.81,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 96,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freestyle_iknowyouwantme_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 96,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

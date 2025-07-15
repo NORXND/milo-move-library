@@ -1,0 +1,42 @@
+{
+  "name": "dope",
+  "difficulty": 2,
+  "display_name": "Dope",
+  "ham_move_name": "Dope_iknowyouwantme.move",
+  "milo_name": "dope_iknowyouwantme",
+  "song_name": "iknowyouwantme",
+  "clips": {
+    "dope_iknowyouwantme_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dope_iknowyouwantme_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dope_iknowyouwantme_v2": {
+      "avg_beats_per_second": 2.12,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dope_iknowyouwantme_v3": {
+      "avg_beats_per_second": 2.12,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "latino",
+  "difficulty": 0,
+  "display_name": "Latino",
+  "ham_move_name": "Swigg_iknowyouwantme.move",
+  "milo_name": "swigg_iknowyouwantme",
+  "song_name": "iknowyouwantme",
+  "clips": {
+    "latino_iknowyouwantme_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "latino_iknowyouwantme_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "latino_iknowyouwantme_v3": {
+      "avg_beats_per_second": 2.12,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "latino_iknowyouwantme_v4": {
+      "avg_beats_per_second": 2.12,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "latino_iknowyouwantme_v5": {
+      "avg_beats_per_second": 2.13,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "latino_iknowyouwantme_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

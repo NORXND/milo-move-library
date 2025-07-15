@@ -1,0 +1,18 @@
+{
+  "name": "tell_em_l",
+  "difficulty": 0,
+  "display_name": "Tell 'em",
+  "ham_move_name": "Tell_Em_L_iknowyouwantme.move",
+  "milo_name": "tell_em_r_iknowyouwantme",
+  "song_name": "iknowyouwantme",
+  "clips": {
+    "tell_em_l_iknowyouwantme_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "tell_em_r_iknowyouwantme_v0"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "snap_l",
+  "difficulty": 0,
+  "display_name": "Snap",
+  "ham_move_name": "Snap_L_weaponofchoice.move",
+  "milo_name": "snap_r_weaponofchoice",
+  "song_name": "weaponofchoice",
+  "clips": {
+    "snap_l_weaponofchoice_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "snap_r_weaponofchoice_v0"
+    },
+    "snap_l_weaponofchoice_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "snap_r_weaponofchoice_v1"
+    },
+    "snap_l_weaponofchoice_v2": {
+      "avg_beats_per_second": 1.63,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "snap_r_weaponofchoice_v2"
+    },
+    "snap_l_weaponofchoice_v3": {
+      "avg_beats_per_second": 1.63,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "snap_r_weaponofchoice_v3"
+    }
+  }
+}

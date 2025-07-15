@@ -1,0 +1,58 @@
+{
+  "name": "funky_roll",
+  "difficulty": 1,
+  "display_name": "Funky Roll",
+  "ham_move_name": "Funky_Roll_weaponofchoice.move",
+  "milo_name": "funky_roll_weaponofchoice",
+  "song_name": "weaponofchoice",
+  "clips": {
+    "funky_roll_weaponofchoice_v2": {
+      "avg_beats_per_second": 1.63,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "funky_roll_weaponofchoice_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "funky_roll_weaponofchoice_v5": {
+      "avg_beats_per_second": 1.63,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "funky_roll_weaponofchoice_v3": {
+      "avg_beats_per_second": 1.63,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "funky_roll_weaponofchoice_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "funky_roll_weaponofchoice_v4": {
+      "avg_beats_per_second": 1.63,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

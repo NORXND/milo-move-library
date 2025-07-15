@@ -1,0 +1,90 @@
+{
+  "name": "step_touch",
+  "difficulty": 0,
+  "display_name": "Step Touch",
+  "ham_move_name": "Step_Touch_weaponofchoice.move",
+  "milo_name": "step_touch_weaponofchoice",
+  "song_name": "weaponofchoice",
+  "clips": {
+    "step_touch_weaponofchoice_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_touch_weaponofchoice_v5": {
+      "avg_beats_per_second": 1.63,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_touch_weaponofchoice_v3": {
+      "avg_beats_per_second": 1.63,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_touch_weaponofchoice_v8": {
+      "avg_beats_per_second": 1.63,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_touch_weaponofchoice_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_touch_weaponofchoice_v6": {
+      "avg_beats_per_second": 1.63,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_touch_weaponofchoice_v4": {
+      "avg_beats_per_second": 1.63,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_touch_weaponofchoice_v9": {
+      "avg_beats_per_second": 1.63,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_touch_weaponofchoice_v2": {
+      "avg_beats_per_second": 1.63,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_touch_weaponofchoice_v7": {
+      "avg_beats_per_second": 1.63,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

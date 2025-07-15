@@ -1,0 +1,26 @@
+{
+  "name": "riseon_and_set",
+  "difficulty": 0,
+  "display_name": "RiseOn & Set",
+  "ham_move_name": "Riseon_and_Set_weaponofchoice.move",
+  "milo_name": "riseon_and_set_weaponofchoice",
+  "song_name": "weaponofchoice",
+  "clips": {
+    "riseon_and_set_weaponofchoice_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "riseon_and_set_weaponofchoice_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

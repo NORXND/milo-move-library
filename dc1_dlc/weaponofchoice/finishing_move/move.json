@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_weaponofchoice_v1065",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_weaponofchoice.move",
+  "milo_name": "finishing_move_weaponofchoice",
+  "song_name": "weaponofchoice",
+  "clips": {
+    "finishing_move_weaponofchoice_v1065": {
+      "avg_beats_per_second": 1.41,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

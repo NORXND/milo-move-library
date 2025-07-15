@@ -1,0 +1,18 @@
+{
+  "name": "conniption",
+  "difficulty": 2,
+  "display_name": "Conniption",
+  "ham_move_name": "He_Drives_Me_Mad_iwillsurvive.move",
+  "milo_name": "he_drives_me_mad_iwillsurvive",
+  "song_name": "iwillsurvive",
+  "clips": {
+    "conniption_iwillsurvive_v0": {
+      "avg_beats_per_second": 1.95,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

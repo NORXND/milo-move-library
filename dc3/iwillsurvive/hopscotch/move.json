@@ -1,0 +1,26 @@
+{
+  "name": "hopscotch",
+  "difficulty": 2,
+  "display_name": "Hopscotch",
+  "ham_move_name": "Jump_Out_Turns_iwillsurvive.move",
+  "milo_name": "jump_out_turns_iwillsurvive",
+  "song_name": "iwillsurvive",
+  "clips": {
+    "hopscotch_iwillsurvive_v0": {
+      "avg_beats_per_second": 1.95,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hopscotch_iwillsurvive_v1": {
+      "avg_beats_per_second": 1.95,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

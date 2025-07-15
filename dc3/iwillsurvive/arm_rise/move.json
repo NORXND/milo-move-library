@@ -1,0 +1,18 @@
+{
+  "name": "arm_rise",
+  "difficulty": 2,
+  "display_name": "Arm Rise",
+  "ham_move_name": "Rise_Up_iwillsurvive.move",
+  "milo_name": "rise_up_iwillsurvive",
+  "song_name": "iwillsurvive",
+  "clips": {
+    "arm_rise_iwillsurvive_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

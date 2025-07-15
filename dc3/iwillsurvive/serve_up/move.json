@@ -1,0 +1,18 @@
+{
+  "name": "serve_up",
+  "difficulty": 2,
+  "display_name": "Serve Up",
+  "ham_move_name": "Present_Upward_iwillsurvive.move",
+  "milo_name": "present_upward_iwillsurvive",
+  "song_name": "iwillsurvive",
+  "clips": {
+    "serve_up_iwillsurvive_v0": {
+      "avg_beats_per_second": 1.95,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

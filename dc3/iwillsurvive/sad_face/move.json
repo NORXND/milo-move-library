@@ -1,0 +1,18 @@
+{
+  "name": "sad_face",
+  "difficulty": 2,
+  "display_name": "Sad Face",
+  "ham_move_name": "Pitiful_Face_iwillsurvive.move",
+  "milo_name": "pitiful_face_iwillsurvive",
+  "song_name": "iwillsurvive",
+  "clips": {
+    "sad_face_iwillsurvive_v0": {
+      "avg_beats_per_second": 1.95,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "hold_up",
+  "difficulty": 2,
+  "display_name": "Hold Up",
+  "ham_move_name": "You_iwillsurvive.move",
+  "milo_name": "you_iwillsurvive",
+  "song_name": "iwillsurvive",
+  "clips": {
+    "hold_up_iwillsurvive_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hold_up_iwillsurvive_v1": {
+      "avg_beats_per_second": 1.94,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

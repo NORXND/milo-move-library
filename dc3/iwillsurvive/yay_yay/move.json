@@ -1,0 +1,18 @@
+{
+  "name": "yay_yay",
+  "difficulty": 2,
+  "display_name": "Yay Yay!",
+  "ham_move_name": "Turn_Gurl_Up_iwillsurvive.move",
+  "milo_name": "turn_gurl_up_iwillsurvive",
+  "song_name": "iwillsurvive",
+  "clips": {
+    "yay_yay_iwillsurvive_v0": {
+      "avg_beats_per_second": 1.95,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "headache_sway",
+  "difficulty": 2,
+  "display_name": "Headache Sway",
+  "ham_move_name": "Headache_Sway_iwillsurvive.move",
+  "milo_name": "headache_sway_iwillsurvive",
+  "song_name": "iwillsurvive",
+  "clips": {
+    "headache_sway_iwillsurvive_v0": {
+      "avg_beats_per_second": 1.96,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "heartbroken",
+  "difficulty": 2,
+  "display_name": "Heartbroken",
+  "ham_move_name": "Brokenhearted_iwillsurvive.move",
+  "milo_name": "brokenhearted_iwillsurvive",
+  "song_name": "iwillsurvive",
+  "clips": {
+    "heartbroken_iwillsurvive_v1": {
+      "avg_beats_per_second": 1.95,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heartbroken_iwillsurvive_v0": {
+      "avg_beats_per_second": 1.95,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

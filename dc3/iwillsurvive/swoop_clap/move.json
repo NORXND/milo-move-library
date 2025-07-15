@@ -1,0 +1,26 @@
+{
+  "name": "swoop_clap",
+  "difficulty": 2,
+  "display_name": "Swoop Clap",
+  "ham_move_name": "Swing_Clap_iwillsurvive.move",
+  "milo_name": "swing_clap_iwillsurvive",
+  "song_name": "iwillsurvive",
+  "clips": {
+    "swoop_clap_iwillsurvive_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swoop_clap_iwillsurvive_v1": {
+      "avg_beats_per_second": 1.94,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

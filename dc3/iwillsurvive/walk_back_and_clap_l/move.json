@@ -1,0 +1,18 @@
+{
+  "name": "walk_back_and_clap_l",
+  "difficulty": 2,
+  "display_name": "Walk Back & Clap",
+  "ham_move_name": "Back_Clap_L_iwillsurvive.move",
+  "milo_name": "back_clap_l_iwillsurvive",
+  "song_name": "iwillsurvive",
+  "clips": {
+    "walk_back_and_clap_l_iwillsurvive_v0": {
+      "avg_beats_per_second": 1.95,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "poison",
+  "difficulty": 0,
+  "display_name": "Poison",
+  "ham_move_name": "May_Mel_Together_Weep_iwillsurvive.move",
+  "milo_name": "may_mel_together_weep_iwillsurvive",
+  "song_name": "iwillsurvive",
+  "clips": {
+    "poison_iwillsurvive_v0": {
+      "avg_beats_per_second": 1.95,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

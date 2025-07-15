@@ -1,0 +1,18 @@
+{
+  "name": "regret",
+  "difficulty": 2,
+  "display_name": "Regret",
+  "ham_move_name": "Griev_Hands_iwillsurvive.move",
+  "milo_name": "griev_hands_iwillsurvive",
+  "song_name": "iwillsurvive",
+  "clips": {
+    "regret_iwillsurvive_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

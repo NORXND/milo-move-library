@@ -1,0 +1,26 @@
+{
+  "name": "luxurious_l",
+  "difficulty": 2,
+  "display_name": "Luxurious",
+  "ham_move_name": "Fall_Out_L_iwillsurvive.move",
+  "milo_name": "fall_out_l_iwillsurvive",
+  "song_name": "iwillsurvive",
+  "clips": {
+    "luxurious_l_iwillsurvive_v0": {
+      "avg_beats_per_second": 1.95,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "luxurious_r_iwillsurvive_v0"
+    },
+    "luxurious_l_iwillsurvive_v1": {
+      "avg_beats_per_second": 1.96,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "luxurious_r_iwillsurvive_v1"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "diva_pose",
+  "difficulty": 2,
+  "display_name": "Diva Pose",
+  "ham_move_name": "She_Woman_iwillsurvive.move",
+  "milo_name": "she_woman_iwillsurvive",
+  "song_name": "iwillsurvive",
+  "clips": {
+    "diva_pose_iwillsurvive_v0": {
+      "avg_beats_per_second": 1.96,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

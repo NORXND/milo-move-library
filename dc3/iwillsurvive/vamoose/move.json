@@ -1,0 +1,26 @@
+{
+  "name": "vamoose",
+  "difficulty": 2,
+  "display_name": "Vamoose",
+  "ham_move_name": "Shoo_Turn_iwillsurvive.move",
+  "milo_name": "shoo_turn_iwillsurvive",
+  "song_name": "iwillsurvive",
+  "clips": {
+    "vamoose_iwillsurvive_v0": {
+      "avg_beats_per_second": 1.95,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "vamoose_iwillsurvive_v1": {
+      "avg_beats_per_second": 1.95,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

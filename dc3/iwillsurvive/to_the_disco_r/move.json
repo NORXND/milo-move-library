@@ -1,0 +1,18 @@
+{
+  "name": "to_the_disco_r",
+  "difficulty": 0,
+  "display_name": "To The Disco",
+  "ham_move_name": "To_The_Disco_R_iwillsurvive.move",
+  "milo_name": "to_the_disco_r_iwillsurvive",
+  "song_name": "iwillsurvive",
+  "clips": {
+    "to_the_disco_r_iwillsurvive_v0": {
+      "avg_beats_per_second": 1.96,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "to_the_disco_l_iwillsurvive_v0"
+    }
+  }
+}

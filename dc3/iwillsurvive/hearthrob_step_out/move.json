@@ -1,0 +1,26 @@
+{
+  "name": "hearthrob_step_out",
+  "difficulty": 2,
+  "display_name": "Hearthrob Step Out",
+  "ham_move_name": "All_My_Heart_iwillsurvive.move",
+  "milo_name": "all_my_heart_iwillsurvive",
+  "song_name": "iwillsurvive",
+  "clips": {
+    "hearthrob_step_out_iwillsurvive_v1": {
+      "avg_beats_per_second": 1.68,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hearthrob_step_out_iwillsurvive_v0": {
+      "avg_beats_per_second": 1.67,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

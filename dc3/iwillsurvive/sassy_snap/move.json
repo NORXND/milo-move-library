@@ -1,0 +1,18 @@
+{
+  "name": "sassy_snap",
+  "difficulty": 2,
+  "display_name": "Sassy Snap",
+  "ham_move_name": "Sassy_Snap_iwillsurvive.move",
+  "milo_name": "sassy_snap_iwillsurvive",
+  "song_name": "iwillsurvive",
+  "clips": {
+    "sassy_snap_iwillsurvive_v0": {
+      "avg_beats_per_second": 1.95,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "juliet_and_sunshine_l",
+  "difficulty": 2,
+  "display_name": "Juliet / Sunshine",
+  "ham_move_name": "Dramatic_L_iwillsurvive.move",
+  "milo_name": "dramatic_l_iwillsurvive",
+  "song_name": "iwillsurvive",
+  "clips": {
+    "juliet_and_sunshine_l_iwillsurvive_v0": {
+      "avg_beats_per_second": 1.95,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "juliet_and_sunshine_r_iwillsurvive_v0"
+    }
+  }
+}

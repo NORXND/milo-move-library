@@ -1,0 +1,18 @@
+{
+  "name": "step_over_and_hands_up",
+  "difficulty": 2,
+  "display_name": "Step Over / Hands Up",
+  "ham_move_name": "Back_To_The_Middle_lights.move",
+  "milo_name": "back_to_the_middle_lights",
+  "song_name": "lights",
+  "clips": {
+    "step_over_and_hands_up_lights_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

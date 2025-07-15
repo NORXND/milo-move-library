@@ -1,0 +1,18 @@
+{
+  "name": "succeed",
+  "difficulty": 2,
+  "display_name": "Succeed",
+  "ham_move_name": "The_Throne_lights.move",
+  "milo_name": "the_throne_lights",
+  "song_name": "lights",
+  "clips": {
+    "succeed_lights_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

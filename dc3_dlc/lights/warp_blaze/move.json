@@ -1,0 +1,18 @@
+{
+  "name": "warp_blaze",
+  "difficulty": 2,
+  "display_name": "Warp Blaze",
+  "ham_move_name": "Robot_Sit_lights.move",
+  "milo_name": "robot_sit_lights",
+  "song_name": "lights",
+  "clips": {
+    "warp_blaze_lights_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

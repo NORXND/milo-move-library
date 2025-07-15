@@ -1,0 +1,18 @@
+{
+  "name": "u_turn_and_scuff",
+  "difficulty": 2,
+  "display_name": "U-Turn & Scuff",
+  "ham_move_name": "Lock_Walk_lights.move",
+  "milo_name": "lock_walk_lights",
+  "song_name": "lights",
+  "clips": {
+    "u_turn_and_scuff_lights_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

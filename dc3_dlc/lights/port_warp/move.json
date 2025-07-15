@@ -1,0 +1,18 @@
+{
+  "name": "port_warp",
+  "difficulty": 2,
+  "display_name": "Port Warp",
+  "ham_move_name": "West_lights.move",
+  "milo_name": "west_lights",
+  "song_name": "lights",
+  "clips": {
+    "port_warp_lights_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

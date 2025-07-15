@@ -1,0 +1,26 @@
+{
+  "name": "rocker",
+  "difficulty": 2,
+  "display_name": "Rocker",
+  "ham_move_name": "Pendulum_lights.move",
+  "milo_name": "pendulum_lights",
+  "song_name": "lights",
+  "clips": {
+    "rocker_lights_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rocker_lights_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

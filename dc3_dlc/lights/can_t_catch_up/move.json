@@ -1,0 +1,26 @@
+{
+  "name": "can_t_catch_up",
+  "difficulty": 2,
+  "display_name": "Can't Catch Up",
+  "ham_move_name": "Cant_Catch_Up_lights.move",
+  "milo_name": "cant_catch_up_lights",
+  "song_name": "lights",
+  "clips": {
+    "can_t_catch_up_lights_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "can_t_catch_up_lights_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "heel_grind_in",
+  "difficulty": 2,
+  "display_name": "Heel Grind In",
+  "ham_move_name": "Follow_The_Feet_lights.move",
+  "milo_name": "follow_the_feet_lights",
+  "song_name": "lights",
+  "clips": {
+    "heel_grind_in_lights_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "heel_grind_in_lights_v1",
+      "linked_from": ""
+    },
+    "heel_grind_in_lights_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "heel_grind_in_lights_v0"
+    }
+  }
+}

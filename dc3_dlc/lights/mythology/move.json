@@ -1,0 +1,18 @@
+{
+  "name": "mythology",
+  "difficulty": 2,
+  "display_name": "Mythology",
+  "ham_move_name": "Bounce_Slinky_Hogan_lights.move",
+  "milo_name": "bounce_slinky_hogan_lights",
+  "song_name": "lights",
+  "clips": {
+    "mythology_lights_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "run_turn_out",
+  "difficulty": 2,
+  "display_name": "Run Turn Out",
+  "ham_move_name": "Run_Turn_Out_lights.move",
+  "milo_name": "run_turn_out_lights",
+  "song_name": "lights",
+  "clips": {
+    "run_turn_out_lights_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "run_turn_out_lights_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "run_turn_out_lights_v2": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "run_turn_out_lights_v3": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

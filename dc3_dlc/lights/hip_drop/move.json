@@ -1,0 +1,26 @@
+{
+  "name": "hip_drop",
+  "difficulty": 0,
+  "display_name": "Hip Drop",
+  "ham_move_name": "Hip_Lr_lights.move",
+  "milo_name": "hip_lr_lights",
+  "song_name": "lights",
+  "clips": {
+    "hip_drop_lights_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_drop_lights_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

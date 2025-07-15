@@ -1,0 +1,26 @@
+{
+  "name": "howler_and_shelter",
+  "difficulty": 2,
+  "display_name": "Howler / Shelter",
+  "ham_move_name": "Call_Me_Home_lights.move",
+  "milo_name": "call_me_home_lights",
+  "song_name": "lights",
+  "clips": {
+    "howler_and_shelter_lights_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "howler_and_shelter_lights_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

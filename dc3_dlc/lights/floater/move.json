@@ -1,0 +1,18 @@
+{
+  "name": "floater",
+  "difficulty": 2,
+  "display_name": "Floater",
+  "ham_move_name": "Extraction_lights.move",
+  "milo_name": "extraction_lights",
+  "song_name": "lights",
+  "clips": {
+    "floater_lights_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

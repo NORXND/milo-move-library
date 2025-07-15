@@ -1,0 +1,26 @@
+{
+  "name": "tug_o_warp",
+  "difficulty": 2,
+  "display_name": "Tug O' Warp",
+  "ham_move_name": "Warp_Lr_lights.move",
+  "milo_name": "warp_lr_lights",
+  "song_name": "lights",
+  "clips": {
+    "tug_o_warp_lights_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tug_o_warp_lights_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

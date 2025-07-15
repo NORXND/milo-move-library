@@ -1,0 +1,18 @@
+{
+  "name": "suede_stunner",
+  "difficulty": 2,
+  "display_name": "Suede Stunner",
+  "ham_move_name": "Slider_lights.move",
+  "milo_name": "slider_lights",
+  "song_name": "lights",
+  "clips": {
+    "suede_stunner_lights_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "mecha_genie",
+  "difficulty": 2,
+  "display_name": "Mecha Genie",
+  "ham_move_name": "Genie_Reset_lights.move",
+  "milo_name": "genie_reset_lights",
+  "song_name": "lights",
+  "clips": {
+    "mecha_genie_lights_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

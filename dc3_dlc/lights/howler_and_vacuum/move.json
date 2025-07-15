@@ -1,0 +1,26 @@
+{
+  "name": "howler_and_vacuum",
+  "difficulty": 2,
+  "display_name": "Howler / Vacuum",
+  "ham_move_name": "Call_Me_Home_Breakdown_lights.move",
+  "milo_name": "call_me_home_breakdown_lights",
+  "song_name": "lights",
+  "clips": {
+    "howler_and_vacuum_lights_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "howler_and_vacuum_lights_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "lucid_dreams",
+  "difficulty": 2,
+  "display_name": "Lucid Dreams",
+  "ham_move_name": "Dreamland_1_lights.move",
+  "milo_name": "dreamland_1_lights",
+  "song_name": "lights",
+  "clips": {
+    "lucid_dreams_lights_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "lucid_dreams_lights_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

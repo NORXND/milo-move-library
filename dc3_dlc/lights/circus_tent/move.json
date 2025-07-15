@@ -1,0 +1,18 @@
+{
+  "name": "circus_tent",
+  "difficulty": 2,
+  "display_name": "Circus Tent",
+  "ham_move_name": "Meditation_lights.move",
+  "milo_name": "meditation_lights",
+  "song_name": "lights",
+  "clips": {
+    "circus_tent_lights_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

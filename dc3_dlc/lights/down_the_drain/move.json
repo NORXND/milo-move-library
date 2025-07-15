@@ -1,0 +1,18 @@
+{
+  "name": "down_the_drain",
+  "difficulty": 2,
+  "display_name": "Down The Drain",
+  "ham_move_name": "Gear_Down_lights.move",
+  "milo_name": "gear_down_lights",
+  "song_name": "lights",
+  "clips": {
+    "down_the_drain_lights_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

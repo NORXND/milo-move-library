@@ -1,0 +1,18 @@
+{
+  "name": "rise_and_sink",
+  "difficulty": 2,
+  "display_name": "Rise & Sink",
+  "ham_move_name": "Elevator_lights.move",
+  "milo_name": "elevator_lights",
+  "song_name": "lights",
+  "clips": {
+    "rise_and_sink_lights_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

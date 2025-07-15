@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_lights_v1076",
+  "difficulty": 2,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_lights.move",
+  "milo_name": "finishing_move_lights",
+  "song_name": "lights",
+  "clips": {
+    "finishing_move_lights_v1076": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 74,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

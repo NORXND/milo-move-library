@@ -1,0 +1,42 @@
+{
+  "name": "big_heart",
+  "difficulty": 2,
+  "display_name": "Big Heart",
+  "ham_move_name": "Coming_Home_lights.move",
+  "milo_name": "coming_home_lights",
+  "song_name": "lights",
+  "clips": {
+    "big_heart_lights_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "big_heart_lights_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "big_heart_lights_v2": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "big_heart_lights_v3": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

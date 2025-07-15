@@ -1,0 +1,18 @@
+{
+  "name": "swing_one_and_cleo",
+  "difficulty": 2,
+  "display_name": "Swing One / Cleo",
+  "ham_move_name": "Whippit_Nation_lights.move",
+  "milo_name": "whippit_nation_lights",
+  "song_name": "lights",
+  "clips": {
+    "swing_one_and_cleo_lights_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

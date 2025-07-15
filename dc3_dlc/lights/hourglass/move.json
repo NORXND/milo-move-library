@@ -1,0 +1,26 @@
+{
+  "name": "hourglass",
+  "difficulty": 2,
+  "display_name": "Hourglass",
+  "ham_move_name": "Hourglass_lights.move",
+  "milo_name": "hourglass_lights",
+  "song_name": "lights",
+  "clips": {
+    "hourglass_lights_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hourglass_lights_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

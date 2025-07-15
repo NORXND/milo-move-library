@@ -1,0 +1,18 @@
+{
+  "name": "stutter_l",
+  "difficulty": 0,
+  "display_name": "Stutter",
+  "ham_move_name": "Stutter_Walk_L_daysgoby.move",
+  "milo_name": "stutter_walk_r_daysgoby",
+  "song_name": "daysgoby",
+  "clips": {
+    "stutter_l_daysgoby_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "stutter_r_daysgoby_v0"
+    }
+  }
+}

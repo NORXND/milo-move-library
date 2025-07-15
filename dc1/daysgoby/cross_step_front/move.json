@@ -1,0 +1,18 @@
+{
+  "name": "cross_step_front",
+  "difficulty": 0,
+  "display_name": "Cross Step Front",
+  "ham_move_name": "Top_Rock_daysgoby.move",
+  "milo_name": "top_rock_daysgoby",
+  "song_name": "daysgoby",
+  "clips": {
+    "cross_step_front_daysgoby_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

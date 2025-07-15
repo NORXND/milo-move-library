@@ -1,0 +1,18 @@
+{
+  "name": "twist_o_flex_l",
+  "difficulty": 2,
+  "display_name": "Twist-o-Flex",
+  "ham_move_name": "Twist_o_Flex_L_daysgoby.move",
+  "milo_name": "twist_o_flex_l_daysgoby",
+  "song_name": "daysgoby",
+  "clips": {
+    "twist_o_flex_l_daysgoby_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "twist_o_flex_r_daysgoby_v0",
+      "linked_from": ""
+    }
+  }
+}

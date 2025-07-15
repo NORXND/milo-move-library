@@ -1,0 +1,26 @@
+{
+  "name": "robot_pivot",
+  "difficulty": 1,
+  "display_name": "Robot Pivot",
+  "ham_move_name": "Robot_Pivot_daysgoby.move",
+  "milo_name": "robot_pivot_daysgoby",
+  "song_name": "daysgoby",
+  "clips": {
+    "robot_pivot_daysgoby_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "robot_pivot_daysgoby_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

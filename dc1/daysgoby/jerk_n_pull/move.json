@@ -1,0 +1,18 @@
+{
+  "name": "jerk_n_pull",
+  "difficulty": 2,
+  "display_name": "Jerk 'n' Pull",
+  "ham_move_name": "Jerk_n_Pull_daysgoby.move",
+  "milo_name": "jerk_n_pull_daysgoby",
+  "song_name": "daysgoby",
+  "clips": {
+    "jerk_n_pull_daysgoby_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

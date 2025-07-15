@@ -1,0 +1,26 @@
+{
+  "name": "oohh",
+  "difficulty": 1,
+  "display_name": "Oohh",
+  "ham_move_name": "WOAH_daysgoby.move",
+  "milo_name": "woah_daysgoby",
+  "song_name": "daysgoby",
+  "clips": {
+    "oohh_daysgoby_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "oohh_daysgoby_v1": {
+      "avg_beats_per_second": 1.98,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

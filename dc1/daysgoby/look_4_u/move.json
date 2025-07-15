@@ -1,0 +1,18 @@
+{
+  "name": "look_4_u",
+  "difficulty": 0,
+  "display_name": "Look 4 U",
+  "ham_move_name": "Look_4_U_daysgoby.move",
+  "milo_name": "look_4_u_daysgoby",
+  "song_name": "daysgoby",
+  "clips": {
+    "look_4_u_daysgoby_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

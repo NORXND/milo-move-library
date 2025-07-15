@@ -1,0 +1,26 @@
+{
+  "name": "get_back",
+  "difficulty": 0,
+  "display_name": "Get Back",
+  "ham_move_name": "Get_Back_daysgoby.move",
+  "milo_name": "get_back_daysgoby",
+  "song_name": "daysgoby",
+  "clips": {
+    "get_back_daysgoby_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "get_back_dragosteadintei_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

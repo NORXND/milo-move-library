@@ -1,0 +1,18 @@
+{
+  "name": "air_pop_r",
+  "difficulty": 0,
+  "display_name": "Air Pop",
+  "ham_move_name": "Air_Pop_R_daysgoby.move",
+  "milo_name": "air_pop_r_daysgoby",
+  "song_name": "daysgoby",
+  "clips": {
+    "air_pop_r_daysgoby_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "air_pop_l_daysgoby_v0"
+    }
+  }
+}

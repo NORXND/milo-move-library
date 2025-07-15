@@ -1,0 +1,18 @@
+{
+  "name": "kick_turnout",
+  "difficulty": 1,
+  "display_name": "Kick Turnout",
+  "ham_move_name": "Kick_Turn_Out_daysgoby.move",
+  "milo_name": "kick_turn_out_daysgoby",
+  "song_name": "daysgoby",
+  "clips": {
+    "kick_turnout_daysgoby_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

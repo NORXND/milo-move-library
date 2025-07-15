@@ -1,0 +1,18 @@
+{
+  "name": "hangman",
+  "difficulty": 2,
+  "display_name": "Hangman",
+  "ham_move_name": "Hangman_daysgoby.move",
+  "milo_name": "hangman_daysgoby",
+  "song_name": "daysgoby",
+  "clips": {
+    "hangman_daysgoby_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

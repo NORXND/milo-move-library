@@ -1,0 +1,18 @@
+{
+  "name": "hot_foot",
+  "difficulty": 2,
+  "display_name": "Hot Foot",
+  "ham_move_name": "Hot_Foot_daysgoby.move",
+  "milo_name": "hot_foot_daysgoby",
+  "song_name": "daysgoby",
+  "clips": {
+    "hot_foot_daysgoby_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

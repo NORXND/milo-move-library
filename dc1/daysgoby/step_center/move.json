@@ -1,0 +1,18 @@
+{
+  "name": "step_center",
+  "difficulty": 0,
+  "display_name": "Step Center",
+  "ham_move_name": "Meringue_daysgoby.move",
+  "milo_name": "meringue_daysgoby",
+  "song_name": "daysgoby",
+  "clips": {
+    "step_center_daysgoby_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

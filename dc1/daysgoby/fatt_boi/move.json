@@ -1,0 +1,18 @@
+{
+  "name": "fatt_boi",
+  "difficulty": 0,
+  "display_name": "Fatt Boi",
+  "ham_move_name": "Fatt_Boi_daysgoby.move",
+  "milo_name": "fatt_boi_daysgoby",
+  "song_name": "daysgoby",
+  "clips": {
+    "fatt_boi_daysgoby_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

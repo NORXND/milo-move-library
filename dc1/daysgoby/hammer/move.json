@@ -1,0 +1,26 @@
+{
+  "name": "hammer",
+  "difficulty": 0,
+  "display_name": "Hammer",
+  "ham_move_name": "Hammer_daysgoby.move",
+  "milo_name": "hammer_daysgoby",
+  "song_name": "daysgoby",
+  "clips": {
+    "hammer_daysgoby_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hammer_dragosteadintei_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

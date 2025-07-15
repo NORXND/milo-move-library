@@ -1,0 +1,26 @@
+{
+  "name": "step_over",
+  "difficulty": 2,
+  "display_name": "Step Over",
+  "ham_move_name": "Step_Over_letthemusicplay.move",
+  "milo_name": "step_over_letthemusicplay",
+  "song_name": "letthemusicplay",
+  "clips": {
+    "step_over_letthemusicplay_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_over_letthemusicplay_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

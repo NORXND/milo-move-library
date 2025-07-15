@@ -1,0 +1,18 @@
+{
+  "name": "crazy_legs",
+  "difficulty": 2,
+  "display_name": "Crazy Legs",
+  "ham_move_name": "Cartoon_Feet_letthemusicplay.move",
+  "milo_name": "cartoon_feet_letthemusicplay",
+  "song_name": "letthemusicplay",
+  "clips": {
+    "crazy_legs_letthemusicplay_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

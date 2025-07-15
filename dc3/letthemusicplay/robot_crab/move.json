@@ -1,0 +1,18 @@
+{
+  "name": "robot_crab",
+  "difficulty": 2,
+  "display_name": "Robot Crab",
+  "ham_move_name": "Robot_Crab_letthemusicplay.move",
+  "milo_name": "robot_crab_letthemusicplay",
+  "song_name": "letthemusicplay",
+  "clips": {
+    "robot_crab_letthemusicplay_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

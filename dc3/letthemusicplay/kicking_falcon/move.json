@@ -1,0 +1,26 @@
+{
+  "name": "kicking_falcon",
+  "difficulty": 2,
+  "display_name": "Kicking Falcon",
+  "ham_move_name": "Kicking_Eagle_letthemusicplay.move",
+  "milo_name": "kicking_eagle_letthemusicplay",
+  "song_name": "letthemusicplay",
+  "clips": {
+    "kicking_falcon_letthemusicplay_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kicking_falcon_letthemusicplay_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

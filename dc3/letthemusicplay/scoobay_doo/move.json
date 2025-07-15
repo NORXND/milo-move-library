@@ -1,0 +1,18 @@
+{
+  "name": "scoobay_doo",
+  "difficulty": 0,
+  "display_name": "Scoobay Doo",
+  "ham_move_name": "Scooby_Doo_letthemusicplay.move",
+  "milo_name": "scooby_doo_letthemusicplay",
+  "song_name": "letthemusicplay",
+  "clips": {
+    "scoobay_doo_letthemusicplay_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

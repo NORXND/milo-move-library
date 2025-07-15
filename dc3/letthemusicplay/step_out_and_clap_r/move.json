@@ -1,0 +1,26 @@
+{
+  "name": "step_out_and_clap_r",
+  "difficulty": 2,
+  "display_name": "Step Out & Clap",
+  "ham_move_name": "Es_Easy_R_letthemusicplay.move",
+  "milo_name": "es_easy_r_letthemusicplay",
+  "song_name": "letthemusicplay",
+  "clips": {
+    "step_out_and_clap_r_letthemusicplay_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "step_out_and_clap_l_letthemusicplay_v1",
+      "linked_from": ""
+    },
+    "step_out_and_clap_r_letthemusicplay_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "step_out_and_clap_l_letthemusicplay_v0",
+      "linked_from": ""
+    }
+  }
+}

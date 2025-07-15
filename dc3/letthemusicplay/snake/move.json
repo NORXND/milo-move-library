@@ -1,0 +1,26 @@
+{
+  "name": "snake",
+  "difficulty": 0,
+  "display_name": "Snake",
+  "ham_move_name": "Body_Roll_letthemusicplay.move",
+  "milo_name": "body_roll_letthemusicplay",
+  "song_name": "letthemusicplay",
+  "clips": {
+    "snake_letthemusicplay_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "snake_letthemusicplay_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

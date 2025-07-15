@@ -1,0 +1,26 @@
+{
+  "name": "running_man",
+  "difficulty": 1,
+  "display_name": "Running Man",
+  "ham_move_name": "Running_Man_letthemusicplay.move",
+  "milo_name": "running_man_letthemusicplay",
+  "song_name": "letthemusicplay",
+  "clips": {
+    "running_man_letthemusicplay_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "running_man_letthemusicplay_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

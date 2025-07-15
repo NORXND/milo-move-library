@@ -1,0 +1,26 @@
+{
+  "name": "grapevine_r",
+  "difficulty": 1,
+  "display_name": "Grapevine",
+  "ham_move_name": "Es_Grapevine_R_letthemusicplay.move",
+  "milo_name": "es_grapevine_r_letthemusicplay",
+  "song_name": "letthemusicplay",
+  "clips": {
+    "grapevine_r_letthemusicplay_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "grapevine_l_letthemusicplay_v0",
+      "linked_from": ""
+    },
+    "grapevine_r_letthemusicplay_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "grapevine_l_letthemusicplay_v1",
+      "linked_from": ""
+    }
+  }
+}

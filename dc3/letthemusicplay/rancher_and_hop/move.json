@@ -1,0 +1,26 @@
+{
+  "name": "rancher_and_hop",
+  "difficulty": 2,
+  "display_name": "Rancher & Hop",
+  "ham_move_name": "Kermit_letthemusicplay.move",
+  "milo_name": "kermit_letthemusicplay",
+  "song_name": "letthemusicplay",
+  "clips": {
+    "rancher_and_hop_letthemusicplay_v1": {
+      "avg_beats_per_second": 1.66,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rancher_and_hop_letthemusicplay_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

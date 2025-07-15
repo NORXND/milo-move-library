@@ -1,0 +1,26 @@
+{
+  "name": "roger_rabbit",
+  "difficulty": 2,
+  "display_name": "Roger Rabbit",
+  "ham_move_name": "Roger_Rabbit_letthemusicplay.move",
+  "milo_name": "roger_rabbit_letthemusicplay",
+  "song_name": "letthemusicplay",
+  "clips": {
+    "roger_rabbit_letthemusicplay_v0": {
+      "avg_beats_per_second": 1.64,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roger_rabbit_letthemusicplay_v1": {
+      "avg_beats_per_second": 1.75,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

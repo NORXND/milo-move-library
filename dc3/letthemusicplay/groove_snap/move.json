@@ -1,0 +1,26 @@
+{
+  "name": "groove_snap",
+  "difficulty": 0,
+  "display_name": "Groove Snap",
+  "ham_move_name": "Groove_Snap_letthemusicplay.move",
+  "milo_name": "groove_snap_letthemusicplay",
+  "song_name": "letthemusicplay",
+  "clips": {
+    "groove_snap_letthemusicplay_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "groove_snap_letthemusicplay_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

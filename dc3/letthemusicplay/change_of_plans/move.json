@@ -1,0 +1,26 @@
+{
+  "name": "change_of_plans",
+  "difficulty": 2,
+  "display_name": "Change Of Plans",
+  "ham_move_name": "Slow_Point_Whip_letthemusicplay.move",
+  "milo_name": "slow_point_whip_letthemusicplay",
+  "song_name": "letthemusicplay",
+  "clips": {
+    "change_of_plans_letthemusicplay_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "change_of_plans_letthemusicplay_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

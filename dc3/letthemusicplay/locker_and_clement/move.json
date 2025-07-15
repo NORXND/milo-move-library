@@ -1,0 +1,26 @@
+{
+  "name": "locker_and_clement",
+  "difficulty": 2,
+  "display_name": "Locker / Clement",
+  "ham_move_name": "Lock_Combo_letthemusicplay.move",
+  "milo_name": "lock_combo_letthemusicplay",
+  "song_name": "letthemusicplay",
+  "clips": {
+    "locker_and_clement_letthemusicplay_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "locker_and_clement_letthemusicplay_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "kick_step_back",
+  "difficulty": 1,
+  "display_name": "Kick Step Back",
+  "ham_move_name": "House_Step_Back_letthemusicplay.move",
+  "milo_name": "house_step_back_letthemusicplay",
+  "song_name": "letthemusicplay",
+  "clips": {
+    "kick_step_back_letthemusicplay_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_step_back_letthemusicplay_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

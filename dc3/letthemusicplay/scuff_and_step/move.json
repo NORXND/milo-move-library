@@ -1,0 +1,26 @@
+{
+  "name": "scuff_and_step",
+  "difficulty": 2,
+  "display_name": "Scuff & Step",
+  "ham_move_name": "Lock_Glide_letthemusicplay.move",
+  "milo_name": "lock_glide_letthemusicplay",
+  "song_name": "letthemusicplay",
+  "clips": {
+    "scuff_and_step_letthemusicplay_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scuff_and_step_letthemusicplay_v1": {
+      "avg_beats_per_second": 1.66,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

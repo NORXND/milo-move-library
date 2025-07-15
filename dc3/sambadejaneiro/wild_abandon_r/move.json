@@ -1,0 +1,26 @@
+{
+  "name": "wild_abandon_r",
+  "difficulty": 2,
+  "display_name": "Wild Abandon",
+  "ham_move_name": "Motherland_R_sambadejaneiro.move",
+  "milo_name": "motherland_r_sambadejaneiro",
+  "song_name": "sambadejaneiro",
+  "clips": {
+    "wild_abandon_r_sambadejaneiro_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "wild_abandon_l_sambadejaneiro_v1"
+    },
+    "wild_abandon_r_sambadejaneiro_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "wild_abandon_l_sambadejaneiro_v0"
+    }
+  }
+}

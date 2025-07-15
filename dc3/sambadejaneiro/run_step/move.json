@@ -1,0 +1,74 @@
+{
+  "name": "run_step",
+  "difficulty": 2,
+  "display_name": "Run Step",
+  "ham_move_name": "Run_Step_sambadejaneiro.move",
+  "milo_name": "run_step_sambadejaneiro",
+  "song_name": "sambadejaneiro",
+  "clips": {
+    "run_step_sambadejaneiro_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "run_step_sambadejaneiro_v5": {
+      "avg_beats_per_second": 2.22,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "run_step_sambadejaneiro_v3": {
+      "avg_beats_per_second": 2.22,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "run_step_sambadejaneiro_v1": {
+      "avg_beats_per_second": 2.22,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "run_step_sambadejaneiro_v6": {
+      "avg_beats_per_second": 1.91,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "run_step_sambadejaneiro_v4": {
+      "avg_beats_per_second": 2.21,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "run_step_sambadejaneiro_v2": {
+      "avg_beats_per_second": 1.91,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "run_step_sambadejaneiro_v7": {
+      "avg_beats_per_second": 2.22,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

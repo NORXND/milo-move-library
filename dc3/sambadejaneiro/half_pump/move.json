@@ -1,0 +1,18 @@
+{
+  "name": "half_pump",
+  "difficulty": 2,
+  "display_name": "Half Pump",
+  "ham_move_name": "Slower_Pump_sambadejaneiro.move",
+  "milo_name": "slower_pump_sambadejaneiro",
+  "song_name": "sambadejaneiro",
+  "clips": {
+    "half_pump_sambadejaneiro_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

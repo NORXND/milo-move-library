@@ -1,0 +1,42 @@
+{
+  "name": "scoot_kick_r",
+  "difficulty": 2,
+  "display_name": "Scoot Kick",
+  "ham_move_name": "Shoe_Shake_R_sambadejaneiro.move",
+  "milo_name": "shoe_shake_r_sambadejaneiro",
+  "song_name": "sambadejaneiro",
+  "clips": {
+    "scoot_kick_r_sambadejaneiro_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "scoot_kick_l_sambadejaneiro_v0",
+      "linked_from": ""
+    },
+    "scoot_kick_r_sambadejaneiro_v1": {
+      "avg_beats_per_second": 1.93,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "scoot_kick_l_sambadejaneiro_v1",
+      "linked_from": ""
+    },
+    "scoot_kick_r_sambadejaneiro_v2": {
+      "avg_beats_per_second": 2.21,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "scoot_kick_l_sambadejaneiro_v2",
+      "linked_from": ""
+    },
+    "scoot_kick_r_sambadejaneiro_v3": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "scoot_kick_l_sambadejaneiro_v3",
+      "linked_from": ""
+    }
+  }
+}

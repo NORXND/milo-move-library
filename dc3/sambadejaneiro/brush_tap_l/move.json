@@ -1,0 +1,42 @@
+{
+  "name": "brush_tap_l",
+  "difficulty": 1,
+  "display_name": "Brush Tap",
+  "ham_move_name": "Brush_Tap_L_sambadejaneiro.move",
+  "milo_name": "brush_tap_l_sambadejaneiro",
+  "song_name": "sambadejaneiro",
+  "clips": {
+    "brush_tap_l_sambadejaneiro_v3": {
+      "avg_beats_per_second": 2.22,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "brush_tap_r_sambadejaneiro_v3"
+    },
+    "brush_tap_l_sambadejaneiro_v1": {
+      "avg_beats_per_second": 2.22,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "brush_tap_r_sambadejaneiro_v1"
+    },
+    "brush_tap_l_sambadejaneiro_v2": {
+      "avg_beats_per_second": 2.02,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "brush_tap_r_sambadejaneiro_v2"
+    },
+    "brush_tap_l_sambadejaneiro_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "brush_tap_r_sambadejaneiro_v0"
+    }
+  }
+}

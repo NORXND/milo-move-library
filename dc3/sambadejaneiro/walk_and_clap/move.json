@@ -1,0 +1,74 @@
+{
+  "name": "walk_and_clap",
+  "difficulty": 2,
+  "display_name": "Walk & Clap",
+  "ham_move_name": "Glory_sambadejaneiro.move",
+  "milo_name": "glory_sambadejaneiro",
+  "song_name": "sambadejaneiro",
+  "clips": {
+    "walk_and_clap_sambadejaneiro_v0": {
+      "avg_beats_per_second": 2.22,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "walk_and_clap_sambadejaneiro_v5": {
+      "avg_beats_per_second": 2.22,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "walk_and_clap_sambadejaneiro_v3": {
+      "avg_beats_per_second": 1.89,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "walk_and_clap_sambadejaneiro_v1": {
+      "avg_beats_per_second": 2.22,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "walk_and_clap_sambadejaneiro_v6": {
+      "avg_beats_per_second": 2.21,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "walk_and_clap_sambadejaneiro_v4": {
+      "avg_beats_per_second": 2.21,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "walk_and_clap_sambadejaneiro_v2": {
+      "avg_beats_per_second": 2.22,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "walk_and_clap_sambadejaneiro_v7": {
+      "avg_beats_per_second": 2.22,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

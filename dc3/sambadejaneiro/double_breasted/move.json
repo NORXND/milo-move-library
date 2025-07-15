@@ -1,0 +1,34 @@
+{
+  "name": "double_breasted",
+  "difficulty": 2,
+  "display_name": "Double Breasted",
+  "ham_move_name": "Dbl_Femme_sambadejaneiro.move",
+  "milo_name": "dbl_femme_sambadejaneiro",
+  "song_name": "sambadejaneiro",
+  "clips": {
+    "double_breasted_sambadejaneiro_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_breasted_sambadejaneiro_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_breasted_sambadejaneiro_v2": {
+      "avg_beats_per_second": 2.21,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "plead_l",
+  "difficulty": 2,
+  "display_name": "Plead",
+  "ham_move_name": "Plead_L_sambadejaneiro.move",
+  "milo_name": "plead_l_sambadejaneiro",
+  "song_name": "sambadejaneiro",
+  "clips": {
+    "plead_l_sambadejaneiro_v2": {
+      "avg_beats_per_second": 2.21,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "plead_r_sambadejaneiro_v2"
+    },
+    "plead_l_sambadejaneiro_v3": {
+      "avg_beats_per_second": 2.22,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "plead_r_sambadejaneiro_v3"
+    },
+    "plead_l_sambadejaneiro_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "plead_r_sambadejaneiro_v0"
+    },
+    "plead_l_sambadejaneiro_v1": {
+      "avg_beats_per_second": 2.22,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "plead_r_sambadejaneiro_v1"
+    }
+  }
+}

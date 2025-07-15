@@ -1,0 +1,18 @@
+{
+  "name": "dusk_shake",
+  "difficulty": 2,
+  "display_name": "Dusk Shake",
+  "ham_move_name": "Set_sambadejaneiro.move",
+  "milo_name": "set_sambadejaneiro",
+  "song_name": "sambadejaneiro",
+  "clips": {
+    "dusk_shake_sambadejaneiro_v0": {
+      "avg_beats_per_second": 2.22,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

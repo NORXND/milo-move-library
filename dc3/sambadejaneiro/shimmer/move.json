@@ -1,0 +1,34 @@
+{
+  "name": "shimmer",
+  "difficulty": 2,
+  "display_name": "Shimmer",
+  "ham_move_name": "Shimmy_sambadejaneiro.move",
+  "milo_name": "shimmy_sambadejaneiro",
+  "song_name": "sambadejaneiro",
+  "clips": {
+    "shimmer_sambadejaneiro_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shimmer_sambadejaneiro_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shimmer_sambadejaneiro_v2": {
+      "avg_beats_per_second": 2.21,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

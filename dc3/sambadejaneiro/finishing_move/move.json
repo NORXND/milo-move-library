@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_sambadejaneiro_v1084",
+  "difficulty": 2,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_sambadejaneiro.move",
+  "milo_name": "finishing_move_sambadejaneiro",
+  "song_name": "sambadejaneiro",
+  "clips": {
+    "finishing_move_sambadejaneiro_v1084": {
+      "avg_beats_per_second": 2.21,
+      "genre": "other",
+      "era": "1990s",
+      "flags": 74,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

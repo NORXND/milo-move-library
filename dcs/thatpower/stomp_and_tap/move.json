@@ -1,0 +1,26 @@
+{
+  "name": "stomp_and_tap",
+  "difficulty": 0,
+  "display_name": "Stomp & Tap",
+  "ham_move_name": "Stomp_And_Tap_thatpower.move",
+  "milo_name": "stomp_and_tap_thatpower",
+  "song_name": "thatpower",
+  "clips": {
+    "stomp_and_tap_thatpower_v0": {
+      "avg_beats_per_second": 2.48,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stomp_and_tap_thatpower_v1": {
+      "avg_beats_per_second": 2.48,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

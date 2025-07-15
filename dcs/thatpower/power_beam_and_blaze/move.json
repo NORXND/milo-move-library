@@ -1,0 +1,18 @@
+{
+  "name": "power_beam_and_blaze",
+  "difficulty": 0,
+  "display_name": "Power Beam & Blaze",
+  "ham_move_name": "Power_Beam_And_Blaze_thatpower.move",
+  "milo_name": "power_beam_and_blaze_thatpower",
+  "song_name": "thatpower",
+  "clips": {
+    "power_beam_and_blaze_thatpower_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "payday",
+  "difficulty": 2,
+  "display_name": "Payday",
+  "ham_move_name": "Payday_thatpower.move",
+  "milo_name": "payday_thatpower",
+  "song_name": "thatpower",
+  "clips": {
+    "payday_thatpower_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

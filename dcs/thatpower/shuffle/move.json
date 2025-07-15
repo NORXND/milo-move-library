@@ -1,0 +1,26 @@
+{
+  "name": "shuffle",
+  "difficulty": 1,
+  "display_name": "Shuffle",
+  "ham_move_name": "Shuffle_thatpower.move",
+  "milo_name": "shuffle_thatpower",
+  "song_name": "thatpower",
+  "clips": {
+    "shuffle_thatpower_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shuffle_thatpower_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

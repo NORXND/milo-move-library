@@ -1,0 +1,26 @@
+{
+  "name": "spin",
+  "difficulty": 1,
+  "display_name": "Spin",
+  "ham_move_name": "Spin_thatpower.move",
+  "milo_name": "spin_thatpower",
+  "song_name": "thatpower",
+  "clips": {
+    "spin_thatpower_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spin_thatpower_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

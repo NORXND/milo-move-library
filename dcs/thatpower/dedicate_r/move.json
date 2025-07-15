@@ -1,0 +1,26 @@
+{
+  "name": "dedicate_r",
+  "difficulty": 0,
+  "display_name": "Dedicate",
+  "ham_move_name": "Dedicate_R_thatpower.move",
+  "milo_name": "dedicate_r_thatpower",
+  "song_name": "thatpower",
+  "clips": {
+    "dedicate_r_thatpower_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dedicate_r_thatpower_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

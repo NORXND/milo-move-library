@@ -1,0 +1,18 @@
+{
+  "name": "carpenter_r",
+  "difficulty": 2,
+  "display_name": "Carpenter",
+  "ham_move_name": "Carpenter_R_thatpower.move",
+  "milo_name": "carpenter_r_thatpower",
+  "song_name": "thatpower",
+  "clips": {
+    "carpenter_r_thatpower_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

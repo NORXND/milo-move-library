@@ -1,0 +1,26 @@
+{
+  "name": "triple_pump",
+  "difficulty": 2,
+  "display_name": "Triple Pump",
+  "ham_move_name": "Triple_Pump_thatpower.move",
+  "milo_name": "triple_pump_thatpower",
+  "song_name": "thatpower",
+  "clips": {
+    "triple_pump_thatpower_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "triple_pump_thatpower_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

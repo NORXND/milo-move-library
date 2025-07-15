@@ -1,0 +1,26 @@
+{
+  "name": "curls",
+  "difficulty": 0,
+  "display_name": "Curls",
+  "ham_move_name": "Curls_thatpower.move",
+  "milo_name": "curls_thatpower",
+  "song_name": "thatpower",
+  "clips": {
+    "curls_thatpower_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "curls_thatpower_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

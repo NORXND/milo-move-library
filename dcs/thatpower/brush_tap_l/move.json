@@ -1,0 +1,26 @@
+{
+  "name": "brush_tap_l",
+  "difficulty": 1,
+  "display_name": "Brush Tap",
+  "ham_move_name": "Brush_Tap_L_thatpower.move",
+  "milo_name": "brush_tap_l_thatpower",
+  "song_name": "thatpower",
+  "clips": {
+    "brush_tap_l_thatpower_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "brush_tap_r_thatpower_v0",
+      "linked_from": ""
+    },
+    "brush_tap_l_thatpower_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "brush_tap_r_thatpower_v1",
+      "linked_from": ""
+    }
+  }
+}

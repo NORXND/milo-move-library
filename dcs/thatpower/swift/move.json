@@ -1,0 +1,26 @@
+{
+  "name": "swift",
+  "difficulty": 0,
+  "display_name": "Swift",
+  "ham_move_name": "Swift_thatpower.move",
+  "milo_name": "swift_thatpower",
+  "song_name": "thatpower",
+  "clips": {
+    "swift_thatpower_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swift_thatpower_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

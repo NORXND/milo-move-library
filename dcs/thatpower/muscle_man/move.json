@@ -1,0 +1,26 @@
+{
+  "name": "muscle_man",
+  "difficulty": 0,
+  "display_name": "Muscle Man",
+  "ham_move_name": "Muscle_Man_thatpower.move",
+  "milo_name": "muscle_man_thatpower",
+  "song_name": "thatpower",
+  "clips": {
+    "muscle_man_thatpower_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "muscle_man_thatpower_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

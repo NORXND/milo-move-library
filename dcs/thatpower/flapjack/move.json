@@ -1,0 +1,18 @@
+{
+  "name": "flapjack",
+  "difficulty": 2,
+  "display_name": "Flapjack",
+  "ham_move_name": "Flapjack_thatpower.move",
+  "milo_name": "flapjack_thatpower",
+  "song_name": "thatpower",
+  "clips": {
+    "flapjack_thatpower_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

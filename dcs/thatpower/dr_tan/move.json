@@ -1,0 +1,42 @@
+{
+  "name": "dr_tan",
+  "difficulty": 2,
+  "display_name": "Dr. Tan",
+  "ham_move_name": "Dr_Tan_thatpower.move",
+  "milo_name": "dr_tan_thatpower",
+  "song_name": "thatpower",
+  "clips": {
+    "dr_tan_thatpower_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dr_tan_thatpower_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dr_tan_thatpower_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dr_tan_thatpower_v3": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

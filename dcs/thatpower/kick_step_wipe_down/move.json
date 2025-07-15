@@ -1,0 +1,18 @@
+{
+  "name": "kick_step_wipe_down",
+  "difficulty": 2,
+  "display_name": "Kick Step Wipe Down",
+  "ham_move_name": "Kick_Step_Wipe_Down_thatpower.move",
+  "milo_name": "kick_step_wipe_down_thatpower",
+  "song_name": "thatpower",
+  "clips": {
+    "kick_step_wipe_down_thatpower_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "and_what",
+  "difficulty": 1,
+  "display_name": "And What?",
+  "ham_move_name": "And_What_thatpower.move",
+  "milo_name": "and_what_thatpower",
+  "song_name": "thatpower",
+  "clips": {
+    "and_what_thatpower_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "and_what_thatpower_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "and_what_thatpower_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

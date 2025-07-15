@@ -1,0 +1,26 @@
+{
+  "name": "spirit_r",
+  "difficulty": 0,
+  "display_name": "Spirit",
+  "ham_move_name": "Spirit_R_thatpower.move",
+  "milo_name": "spirit_r_thatpower",
+  "song_name": "thatpower",
+  "clips": {
+    "spirit_r_thatpower_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spirit_r_thatpower_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

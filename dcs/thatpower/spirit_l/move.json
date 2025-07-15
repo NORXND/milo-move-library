@@ -1,0 +1,18 @@
+{
+  "name": "spirit_l",
+  "difficulty": 0,
+  "display_name": "Spirit",
+  "ham_move_name": "Spirit_L_thatpower.move",
+  "milo_name": "spirit_l_thatpower",
+  "song_name": "thatpower",
+  "clips": {
+    "spirit_l_thatpower_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

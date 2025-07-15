@@ -1,0 +1,26 @@
+{
+  "name": "heely_l",
+  "difficulty": 1,
+  "display_name": "Heely",
+  "ham_move_name": "Heely_L_thatpower.move",
+  "milo_name": "heely_l_thatpower",
+  "song_name": "thatpower",
+  "clips": {
+    "heely_l_thatpower_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "heely_r_thatpower_v0"
+    },
+    "heely_l_thatpower_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "heely_r_thatpower_v1"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "give_step_out_r",
+  "difficulty": 1,
+  "display_name": "Give Step Out",
+  "ham_move_name": "Give_Step_Out_R_thatpower.move",
+  "milo_name": "give_step_out_r_thatpower",
+  "song_name": "thatpower",
+  "clips": {
+    "give_step_out_r_thatpower_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "give_step_out_l_thatpower_v0"
+    }
+  }
+}

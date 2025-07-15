@@ -1,0 +1,18 @@
+{
+  "name": "yeah_step_center",
+  "difficulty": 2,
+  "display_name": "Yeah Step Center",
+  "ham_move_name": "Atomic_low.move",
+  "milo_name": "atomic_low",
+  "song_name": "low",
+  "clips": {
+    "yeah_step_center_low_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "wipe_down",
+  "difficulty": 2,
+  "display_name": "Wipe Down",
+  "ham_move_name": "Washboard_low.move",
+  "milo_name": "washboard_low",
+  "song_name": "low",
+  "clips": {
+    "wipe_down_low_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wipe_down_low_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wipe_down_low_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

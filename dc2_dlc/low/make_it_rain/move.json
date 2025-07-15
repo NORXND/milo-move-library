@@ -1,0 +1,18 @@
+{
+  "name": "make_it_rain",
+  "difficulty": 1,
+  "display_name": "Make It Rain",
+  "ham_move_name": "Make_It_Rain_low.move",
+  "milo_name": "make_it_rain_low",
+  "song_name": "low",
+  "clips": {
+    "make_it_rain_low_v0": {
+      "avg_beats_per_second": 1.82,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

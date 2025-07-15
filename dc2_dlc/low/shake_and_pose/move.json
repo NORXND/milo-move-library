@@ -1,0 +1,26 @@
+{
+  "name": "shake_and_pose",
+  "difficulty": 2,
+  "display_name": "Shake & Pose",
+  "ham_move_name": "Shake_Shake_Sexy_low.move",
+  "milo_name": "shake_shake_sexy_low",
+  "song_name": "low",
+  "clips": {
+    "shake_and_pose_low_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shake_and_pose_low_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

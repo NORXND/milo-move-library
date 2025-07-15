@@ -1,0 +1,34 @@
+{
+  "name": "freq_whip_and_jump",
+  "difficulty": 2,
+  "display_name": "Freq Whip / Jump",
+  "ham_move_name": "Freq_Whip_And_Jump_low.move",
+  "milo_name": "freq_whip_and_jump_low",
+  "song_name": "low",
+  "clips": {
+    "freq_whip_and_jump_low_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freq_whip_and_jump_low_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freq_whip_and_jump_low_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

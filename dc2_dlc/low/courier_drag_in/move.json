@@ -1,0 +1,26 @@
+{
+  "name": "courier_drag_in",
+  "difficulty": 0,
+  "display_name": "Courier Drag In",
+  "ham_move_name": "What_Lock_low.move",
+  "milo_name": "what_lock_low",
+  "song_name": "low",
+  "clips": {
+    "courier_drag_in_low_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "courier_drag_in_low_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

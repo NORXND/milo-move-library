@@ -1,0 +1,26 @@
+{
+  "name": "throwdown",
+  "difficulty": 2,
+  "display_name": "Throwdown",
+  "ham_move_name": "Say_It_Wit_Yo_Chest_aint2proud2beg.move",
+  "milo_name": "say_it_wit_yo_chest_aint2proud2beg",
+  "song_name": "aint2proud2beg",
+  "clips": {
+    "throwdown_aint2proud2beg_v1": {
+      "avg_beats_per_second": 1.31,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "throwdown_aint2proud2beg_v0": {
+      "avg_beats_per_second": 1.31,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

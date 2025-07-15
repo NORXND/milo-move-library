@@ -1,0 +1,42 @@
+{
+  "name": "sidesway",
+  "difficulty": 2,
+  "display_name": "Sidesway",
+  "ham_move_name": "The_Wop_aint2proud2beg.move",
+  "milo_name": "the_wop_aint2proud2beg",
+  "song_name": "aint2proud2beg",
+  "clips": {
+    "sidesway_aint2proud2beg_v3": {
+      "avg_beats_per_second": 1.74,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sidesway_aint2proud2beg_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sidesway_aint2proud2beg_v1": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sidesway_aint2proud2beg_v2": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

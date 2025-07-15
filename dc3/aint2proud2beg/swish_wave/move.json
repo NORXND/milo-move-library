@@ -1,0 +1,34 @@
+{
+  "name": "swish_wave",
+  "difficulty": 2,
+  "display_name": "Swish Wave",
+  "ham_move_name": "Swish_Wave_aint2proud2beg.move",
+  "milo_name": "swish_wave_aint2proud2beg",
+  "song_name": "aint2proud2beg",
+  "clips": {
+    "swish_wave_aint2proud2beg_v2": {
+      "avg_beats_per_second": 1.74,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swish_wave_aint2proud2beg_v0": {
+      "avg_beats_per_second": 1.74,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swish_wave_aint2proud2beg_v1": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

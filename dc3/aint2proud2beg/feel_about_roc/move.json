@@ -1,0 +1,18 @@
+{
+  "name": "feel_about_roc",
+  "difficulty": 2,
+  "display_name": "Feel About Roc",
+  "ham_move_name": "Feel_About_Punch_aint2proud2beg.move",
+  "milo_name": "feel_about_punch_aint2proud2beg",
+  "song_name": "aint2proud2beg",
+  "clips": {
+    "feel_about_roc_aint2proud2beg_v0": {
+      "avg_beats_per_second": 1.57,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "sexy_dip_r",
+  "difficulty": 2,
+  "display_name": "Sexy Dip",
+  "ham_move_name": "Wipe_The_X_Off_R_aint2proud2beg.move",
+  "milo_name": "wipe_the_x_off_r_aint2proud2beg",
+  "song_name": "aint2proud2beg",
+  "clips": {
+    "sexy_dip_r_aint2proud2beg_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "sexy_dip_l_aint2proud2beg_v0"
+    },
+    "sexy_dip_r_aint2proud2beg_v1": {
+      "avg_beats_per_second": 1.5,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "sexy_dip_l_aint2proud2beg_v1"
+    },
+    "sexy_dip_r_aint2proud2beg_v2": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "sexy_dip_l_aint2proud2beg_v2"
+    },
+    "sexy_dip_r_aint2proud2beg_v3": {
+      "avg_beats_per_second": 1.5,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "sexy_dip_l_aint2proud2beg_v3"
+    }
+  }
+}

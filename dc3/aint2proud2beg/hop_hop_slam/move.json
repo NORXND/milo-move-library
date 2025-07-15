@@ -1,0 +1,26 @@
+{
+  "name": "hop_hop_slam",
+  "difficulty": 0,
+  "display_name": "Hop Hop Slam",
+  "ham_move_name": "Hop_Smack_Down_aint2proud2beg.move",
+  "milo_name": "hop_smack_down_aint2proud2beg",
+  "song_name": "aint2proud2beg",
+  "clips": {
+    "hop_hop_slam_aint2proud2beg_v0": {
+      "avg_beats_per_second": 1.49,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_hop_slam_aint2proud2beg_v1": {
+      "avg_beats_per_second": 1.49,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

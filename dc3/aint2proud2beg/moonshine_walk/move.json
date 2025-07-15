@@ -1,0 +1,34 @@
+{
+  "name": "moonshine_walk",
+  "difficulty": 2,
+  "display_name": "Moonshine Walk",
+  "ham_move_name": "Back_Up_Bootay_aint2proud2beg.move",
+  "milo_name": "back_up_bootay_aint2proud2beg",
+  "song_name": "aint2proud2beg",
+  "clips": {
+    "moonshine_walk_aint2proud2beg_v1": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "moonshine_walk_aint2proud2beg_v2": {
+      "avg_beats_per_second": 1.74,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "moonshine_walk_aint2proud2beg_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

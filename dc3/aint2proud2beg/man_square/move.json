@@ -1,0 +1,26 @@
+{
+  "name": "man_square",
+  "difficulty": 2,
+  "display_name": "Man Square ",
+  "ham_move_name": "Hood_Sq_aint2proud2beg.move",
+  "milo_name": "hood_sq_aint2proud2beg",
+  "song_name": "aint2proud2beg",
+  "clips": {
+    "man_square_aint2proud2beg_v1": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "man_square_aint2proud2beg_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

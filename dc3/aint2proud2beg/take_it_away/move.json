@@ -1,0 +1,18 @@
+{
+  "name": "take_it_away",
+  "difficulty": 0,
+  "display_name": "Take it Away",
+  "ham_move_name": "Golly_Gee_aint2proud2beg.move",
+  "milo_name": "golly_gee_aint2proud2beg",
+  "song_name": "aint2proud2beg",
+  "clips": {
+    "take_it_away_aint2proud2beg_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

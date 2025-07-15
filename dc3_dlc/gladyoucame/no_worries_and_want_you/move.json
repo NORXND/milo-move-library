@@ -1,0 +1,26 @@
+{
+  "name": "no_worries_and_want_you",
+  "difficulty": 2,
+  "display_name": "No Worries / Want You",
+  "ham_move_name": "You_And_Me_gladyoucame.move",
+  "milo_name": "you_and_me_gladyoucame",
+  "song_name": "gladyoucame",
+  "clips": {
+    "no_worries_and_want_you_gladyoucame_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "no_worries_and_want_you_gladyoucame_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

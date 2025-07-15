@@ -1,0 +1,42 @@
+{
+  "name": "heely_l",
+  "difficulty": 2,
+  "display_name": "Heely",
+  "ham_move_name": "House_It_L_gladyoucame.move",
+  "milo_name": "house_it_l_gladyoucame",
+  "song_name": "gladyoucame",
+  "clips": {
+    "heely_l_gladyoucame_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "heely_r_gladyoucame_v0"
+    },
+    "heely_l_gladyoucame_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "heely_r_gladyoucame_v1"
+    },
+    "heely_l_gladyoucame_v2": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "heely_r_gladyoucame_v2"
+    },
+    "heely_l_gladyoucame_v3": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "heely_r_gladyoucame_v3"
+    }
+  }
+}

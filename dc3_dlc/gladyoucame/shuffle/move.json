@@ -1,0 +1,26 @@
+{
+  "name": "shuffle",
+  "difficulty": 2,
+  "display_name": "Shuffle",
+  "ham_move_name": "Side_Shuffle_gladyoucame.move",
+  "milo_name": "side_shuffle_gladyoucame",
+  "song_name": "gladyoucame",
+  "clips": {
+    "shuffle_gladyoucame_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shuffle_gladyoucame_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "no_worries",
+  "difficulty": 0,
+  "display_name": "No Worries",
+  "ham_move_name": "Never_Ever_gladyoucame.move",
+  "milo_name": "never_ever_gladyoucame",
+  "song_name": "gladyoucame",
+  "clips": {
+    "no_worries_gladyoucame_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "no_worries_gladyoucame_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

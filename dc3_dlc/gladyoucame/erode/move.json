@@ -1,0 +1,26 @@
+{
+  "name": "erode",
+  "difficulty": 2,
+  "display_name": "Erode",
+  "ham_move_name": "Grabbing_gladyoucame.move",
+  "milo_name": "grabbing_gladyoucame",
+  "song_name": "gladyoucame",
+  "clips": {
+    "erode_gladyoucame_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "erode_gladyoucame_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

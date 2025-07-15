@@ -1,0 +1,42 @@
+{
+  "name": "carpenter",
+  "difficulty": 2,
+  "display_name": "Carpenter",
+  "ham_move_name": "Wrist_Bangs_gladyoucame.move",
+  "milo_name": "wrist_bangs_gladyoucame",
+  "song_name": "gladyoucame",
+  "clips": {
+    "carpenter_gladyoucame_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "carpenter_gladyoucame_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "carpenter_gladyoucame_v2": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "carpenter_gladyoucame_v3": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

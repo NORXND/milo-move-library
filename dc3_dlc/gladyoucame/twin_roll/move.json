@@ -1,0 +1,26 @@
+{
+  "name": "twin_roll",
+  "difficulty": 2,
+  "display_name": "Twin Roll",
+  "ham_move_name": "Pull_Back_And_Forth_gladyoucame.move",
+  "milo_name": "pull_back_and_forth_gladyoucame",
+  "song_name": "gladyoucame",
+  "clips": {
+    "twin_roll_gladyoucame_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "twin_roll_gladyoucame_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

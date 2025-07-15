@@ -1,0 +1,26 @@
+{
+  "name": "santo",
+  "difficulty": 0,
+  "display_name": "Santo",
+  "ham_move_name": "Chill_Out_gladyoucame.move",
+  "milo_name": "chill_out_gladyoucame",
+  "song_name": "gladyoucame",
+  "clips": {
+    "santo_gladyoucame_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "santo_gladyoucame_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

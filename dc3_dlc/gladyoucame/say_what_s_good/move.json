@@ -1,0 +1,42 @@
+{
+  "name": "say_what_s_good",
+  "difficulty": 2,
+  "display_name": "Say What's Good",
+  "ham_move_name": "Hi_Babe_gladyoucame.move",
+  "milo_name": "hi_babe_gladyoucame",
+  "song_name": "gladyoucame",
+  "clips": {
+    "say_what_s_good_gladyoucame_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "say_what_s_good_gladyoucame_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "say_what_s_good_gladyoucame_v2": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "say_what_s_good_gladyoucame_v3": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

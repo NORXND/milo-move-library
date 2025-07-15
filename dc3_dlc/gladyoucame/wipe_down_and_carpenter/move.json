@@ -1,0 +1,26 @@
+{
+  "name": "wipe_down_and_carpenter",
+  "difficulty": 2,
+  "display_name": "Wipe Down / Carpenter",
+  "ham_move_name": "Beat_It_Down_gladyoucame.move",
+  "milo_name": "beat_it_down_gladyoucame",
+  "song_name": "gladyoucame",
+  "clips": {
+    "wipe_down_and_carpenter_gladyoucame_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wipe_down_and_carpenter_gladyoucame_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

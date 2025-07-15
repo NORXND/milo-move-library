@@ -1,0 +1,26 @@
+{
+  "name": "chest_pump",
+  "difficulty": 0,
+  "display_name": "Chest Pump",
+  "ham_move_name": "King_Of_Hearts_gladyoucame.move",
+  "milo_name": "king_of_hearts_gladyoucame",
+  "song_name": "gladyoucame",
+  "clips": {
+    "chest_pump_gladyoucame_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chest_pump_gladyoucame_v1": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

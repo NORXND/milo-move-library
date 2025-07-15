@@ -1,0 +1,26 @@
+{
+  "name": "tip_toe_flip",
+  "difficulty": 2,
+  "display_name": "Tip Toe Flip",
+  "ham_move_name": "Back_Toe_Drop_hellogoodmorning.move",
+  "milo_name": "back_toe_drop_hellogoodmorning",
+  "song_name": "hellogoodmorning",
+  "clips": {
+    "tip_toe_flip_hellogoodmorning_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tip_toe_flip_hellogoodmorning_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

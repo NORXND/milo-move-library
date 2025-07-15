@@ -1,0 +1,26 @@
+{
+  "name": "cross_walk_and_stop",
+  "difficulty": 2,
+  "display_name": "Cross Walk & Stop",
+  "ham_move_name": "Mad_Stop_hellogoodmorning.move",
+  "milo_name": "mad_stop_hellogoodmorning",
+  "song_name": "hellogoodmorning",
+  "clips": {
+    "cross_walk_and_stop_hellogoodmorning_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_walk_and_stop_hellogoodmorning_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

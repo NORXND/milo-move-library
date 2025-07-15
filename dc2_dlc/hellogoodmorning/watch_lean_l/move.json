@@ -1,0 +1,26 @@
+{
+  "name": "watch_lean_l",
+  "difficulty": 2,
+  "display_name": "Watch Lean",
+  "ham_move_name": "Jump_And_Groove_L_hellogoodmorning.move",
+  "milo_name": "jump_and_groove_l_hellogoodmorning",
+  "song_name": "hellogoodmorning",
+  "clips": {
+    "watch_lean_l_hellogoodmorning_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "watch_lean_r_hellogoodmorning_v1"
+    },
+    "watch_lean_l_hellogoodmorning_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "watch_lean_r_hellogoodmorning_v0"
+    }
+  }
+}

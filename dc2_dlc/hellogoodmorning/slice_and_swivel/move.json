@@ -1,0 +1,26 @@
+{
+  "name": "slice_and_swivel",
+  "difficulty": 2,
+  "display_name": "Slice & Swivel",
+  "ham_move_name": "Slide_Knee_Out_hellogoodmorning.move",
+  "milo_name": "slide_knee_out_hellogoodmorning",
+  "song_name": "hellogoodmorning",
+  "clips": {
+    "slice_and_swivel_hellogoodmorning_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slice_and_swivel_hellogoodmorning_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

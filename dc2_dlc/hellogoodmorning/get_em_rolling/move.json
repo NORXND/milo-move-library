@@ -1,0 +1,26 @@
+{
+  "name": "get_em_rolling",
+  "difficulty": 2,
+  "display_name": "Get 'em Rolling",
+  "ham_move_name": "A_Rolling_Chest_hellogoodmorning.move",
+  "milo_name": "a_rolling_chest_hellogoodmorning",
+  "song_name": "hellogoodmorning",
+  "clips": {
+    "get_em_rolling_hellogoodmorning_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "get_em_rolling_hellogoodmorning_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

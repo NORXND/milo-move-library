@@ -1,0 +1,26 @@
+{
+  "name": "exception_bon_voyage_2",
+  "difficulty": 2,
+  "display_name": "Bon Voyage",
+  "ham_move_name": "Wave_Around_2_hellogoodmorning.move",
+  "milo_name": "wave_around_2_hellogoodmorning",
+  "song_name": "hellogoodmorning",
+  "clips": {
+    "bon_voyage_hellogoodmorning_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bon_voyage_hellogoodmorning_v3": {
+      "avg_beats_per_second": 1.74,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

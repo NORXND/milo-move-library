@@ -1,0 +1,18 @@
+{
+  "name": "wave_slide_center_l",
+  "difficulty": 2,
+  "display_name": "Wave Slide Center",
+  "ham_move_name": "Wave_And_In_L_hellogoodmorning.move",
+  "milo_name": "wave_and_in_l_hellogoodmorning",
+  "song_name": "hellogoodmorning",
+  "clips": {
+    "wave_slide_center_l_hellogoodmorning_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "wave_slide_center_r_hellogoodmorning_v0"
+    }
+  }
+}

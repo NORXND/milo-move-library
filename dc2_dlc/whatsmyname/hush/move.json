@@ -1,0 +1,18 @@
+{
+  "name": "hush",
+  "difficulty": 2,
+  "display_name": "Hush",
+  "ham_move_name": "Say_Low_whatsmyname.move",
+  "milo_name": "say_low_whatsmyname",
+  "song_name": "whatsmyname",
+  "clips": {
+    "hush_whatsmyname_v0": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

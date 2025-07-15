@@ -1,0 +1,26 @@
+{
+  "name": "african_windmill",
+  "difficulty": 2,
+  "display_name": "African Windmill",
+  "ham_move_name": "African_Windmill_whatsmyname.move",
+  "milo_name": "african_windmill_whatsmyname",
+  "song_name": "whatsmyname",
+  "clips": {
+    "african_windmill_whatsmyname_v0": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "african_windmill_whatsmyname_v1": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

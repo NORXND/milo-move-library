@@ -1,0 +1,42 @@
+{
+  "name": "prissy_kiss",
+  "difficulty": 2,
+  "display_name": "Prissy Kiss",
+  "ham_move_name": "Prissy_Kiss_whatsmyname.move",
+  "milo_name": "prissy_kiss_whatsmyname",
+  "song_name": "whatsmyname",
+  "clips": {
+    "prissy_kiss_whatsmyname_v0": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "prissy_kiss_whatsmyname_v1": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "prissy_kiss_whatsmyname_v2": {
+      "avg_beats_per_second": 1.61,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "prissy_kiss_whatsmyname_v3": {
+      "avg_beats_per_second": 1.44,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

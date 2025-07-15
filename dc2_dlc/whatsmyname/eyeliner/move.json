@@ -1,0 +1,26 @@
+{
+  "name": "eyeliner",
+  "difficulty": 2,
+  "display_name": "Eyeliner",
+  "ham_move_name": "Eyeliner_whatsmyname.move",
+  "milo_name": "eyeliner_whatsmyname",
+  "song_name": "whatsmyname",
+  "clips": {
+    "eyeliner_whatsmyname_v1": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "eyeliner_whatsmyname_v0": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

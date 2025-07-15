@@ -1,0 +1,26 @@
+{
+  "name": "drop_it_and_dive_jerk",
+  "difficulty": 2,
+  "display_name": "Drop It / Dive Jerk",
+  "ham_move_name": "Punger_Open_whatsmyname.move",
+  "milo_name": "punger_open_whatsmyname",
+  "song_name": "whatsmyname",
+  "clips": {
+    "drop_it_and_dive_jerk_whatsmyname_v0": {
+      "avg_beats_per_second": 1.43,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drop_it_and_dive_jerk_whatsmyname_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

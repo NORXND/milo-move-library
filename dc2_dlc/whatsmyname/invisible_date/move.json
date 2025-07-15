@@ -1,0 +1,18 @@
+{
+  "name": "invisible_date",
+  "difficulty": 2,
+  "display_name": "Invisible Date",
+  "ham_move_name": "Seni_Walk_whatsmyname.move",
+  "milo_name": "seni_walk_whatsmyname",
+  "song_name": "whatsmyname",
+  "clips": {
+    "invisible_date_whatsmyname_v0": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

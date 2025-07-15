@@ -1,0 +1,58 @@
+{
+  "name": "bounce_in",
+  "difficulty": 0,
+  "display_name": "Bounce In",
+  "ham_move_name": "Bounce_In_getup.move",
+  "milo_name": "bounce_in_getup",
+  "song_name": "getup",
+  "clips": {
+    "bounce_in_getup_v0": {
+      "avg_beats_per_second": 1.82,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bounce_in_getup_v5": {
+      "avg_beats_per_second": 1.81,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bounce_in_getup_v3": {
+      "avg_beats_per_second": 1.8,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bounce_in_getup_v1": {
+      "avg_beats_per_second": 1.82,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bounce_in_getup_v4": {
+      "avg_beats_per_second": 1.82,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bounce_in_getup_v2": {
+      "avg_beats_per_second": 1.79,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

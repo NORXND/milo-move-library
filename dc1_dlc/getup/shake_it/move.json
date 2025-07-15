@@ -1,0 +1,42 @@
+{
+  "name": "shake_it",
+  "difficulty": 0,
+  "display_name": "Shake It",
+  "ham_move_name": "Shake_It_getup.move",
+  "milo_name": "shake_it_getup",
+  "song_name": "getup",
+  "clips": {
+    "shake_it_getup_v3": {
+      "avg_beats_per_second": 1.81,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 82,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shake_it_getup_v0": {
+      "avg_beats_per_second": 1.82,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 82,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shake_it_getup_v1": {
+      "avg_beats_per_second": 1.81,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 82,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shake_it_getup_v2": {
+      "avg_beats_per_second": 1.81,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 82,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

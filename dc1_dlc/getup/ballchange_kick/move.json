@@ -1,0 +1,26 @@
+{
+  "name": "ballchange_kick",
+  "difficulty": 2,
+  "display_name": "Ballchange Kick",
+  "ham_move_name": "Right_On_getup.move",
+  "milo_name": "right_on_getup",
+  "song_name": "getup",
+  "clips": {
+    "ballchange_kick_getup_v0": {
+      "avg_beats_per_second": 1.82,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ballchange_kick_getup_v1": {
+      "avg_beats_per_second": 1.81,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

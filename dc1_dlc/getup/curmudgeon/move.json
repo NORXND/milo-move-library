@@ -1,0 +1,26 @@
+{
+  "name": "curmudgeon",
+  "difficulty": 2,
+  "display_name": "Curmudgeon",
+  "ham_move_name": "Click_Click_getup.move",
+  "milo_name": "click_click_getup",
+  "song_name": "getup",
+  "clips": {
+    "curmudgeon_getup_v0": {
+      "avg_beats_per_second": 1.79,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "curmudgeon_getup_v1": {
+      "avg_beats_per_second": 1.8,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

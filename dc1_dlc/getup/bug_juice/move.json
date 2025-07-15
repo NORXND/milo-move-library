@@ -1,0 +1,26 @@
+{
+  "name": "exception_bug_juice_b",
+  "difficulty": 1,
+  "display_name": "Bug Juice",
+  "ham_move_name": "Squish_Bug_Back_getup.move",
+  "milo_name": "squish_bug_back_getup",
+  "song_name": "getup",
+  "clips": {
+    "bug_juice_getup_v1": {
+      "avg_beats_per_second": 1.81,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "bug_juice_getup_v0"
+    },
+    "bug_juice_getup_v3": {
+      "avg_beats_per_second": 1.81,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "bug_juice_getup_v2"
+    }
+  }
+}

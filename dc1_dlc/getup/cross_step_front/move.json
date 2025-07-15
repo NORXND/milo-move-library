@@ -1,0 +1,74 @@
+{
+  "name": "cross_step_front",
+  "difficulty": 0,
+  "display_name": "Cross Step Front",
+  "ham_move_name": "Step_Cross_Front_getup.move",
+  "milo_name": "step_cross_front_getup",
+  "song_name": "getup",
+  "clips": {
+    "cross_step_front_getup_v5": {
+      "avg_beats_per_second": 1.78,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "cross_step_back_getup_v4",
+      "linked_from": ""
+    },
+    "cross_step_front_getup_v2": {
+      "avg_beats_per_second": 1.82,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_step_front_getup_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_step_front_getup_v6": {
+      "avg_beats_per_second": 1.79,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_step_front_getup_v3": {
+      "avg_beats_per_second": 1.79,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "cross_step_back_getup_v2",
+      "linked_from": ""
+    },
+    "cross_step_front_getup_v4": {
+      "avg_beats_per_second": 1.79,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_step_front_getup_v1": {
+      "avg_beats_per_second": 1.79,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "cross_step_back_getup_v0",
+      "linked_from": ""
+    },
+    "cross_step_front_getup_v7": {
+      "avg_beats_per_second": 1.81,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "cross_step_back_getup_v6",
+      "linked_from": ""
+    }
+  }
+}

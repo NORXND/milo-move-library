@@ -1,0 +1,34 @@
+{
+  "name": "georgie",
+  "difficulty": 0,
+  "display_name": "Georgie",
+  "ham_move_name": "Swayin_getup.move",
+  "milo_name": "swayin_getup",
+  "song_name": "getup",
+  "clips": {
+    "georgie_getup_v0": {
+      "avg_beats_per_second": 1.81,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "georgie_getup_v1": {
+      "avg_beats_per_second": 1.8,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "georgie_getup_v2": {
+      "avg_beats_per_second": 1.8,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

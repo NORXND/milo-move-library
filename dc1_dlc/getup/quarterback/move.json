@@ -1,0 +1,26 @@
+{
+  "name": "quarterback",
+  "difficulty": 1,
+  "display_name": "Quarterback",
+  "ham_move_name": "Quarterback_getup.move",
+  "milo_name": "quarterback_getup",
+  "song_name": "getup",
+  "clips": {
+    "quarterback_getup_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "quarterback_getup_v1": {
+      "avg_beats_per_second": 1.82,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

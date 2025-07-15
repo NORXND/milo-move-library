@@ -1,0 +1,26 @@
+{
+  "name": "bear_cub",
+  "difficulty": 0,
+  "display_name": "Bear Cub",
+  "ham_move_name": "Swat_Fly_getup.move",
+  "milo_name": "swat_fly_getup",
+  "song_name": "getup",
+  "clips": {
+    "bear_cub_getup_v0": {
+      "avg_beats_per_second": 1.82,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bear_cub_getup_v1": {
+      "avg_beats_per_second": 1.82,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

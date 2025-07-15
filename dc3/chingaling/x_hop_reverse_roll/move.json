@@ -1,0 +1,18 @@
+{
+  "name": "x_hop_reverse_roll",
+  "difficulty": 2,
+  "display_name": "X Hop Reverse Roll",
+  "ham_move_name": "Kriss_Kross_Roll_Up_chingaling.move",
+  "milo_name": "kriss_kross_roll_up_chingaling",
+  "song_name": "chingaling",
+  "clips": {
+    "x_hop_reverse_roll_chingaling_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

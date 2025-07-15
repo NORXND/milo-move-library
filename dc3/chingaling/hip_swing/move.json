@@ -1,0 +1,18 @@
+{
+  "name": "hip_swing",
+  "difficulty": 0,
+  "display_name": "Hip Swing",
+  "ham_move_name": "Hip_Sway_chingaling.move",
+  "milo_name": "hip_sway_chingaling",
+  "song_name": "chingaling",
+  "clips": {
+    "hip_swing_chingaling_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

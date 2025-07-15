@@ -1,0 +1,18 @@
+{
+  "name": "hop_hop_hold_up_r",
+  "difficulty": 2,
+  "display_name": "Hop Hop Hold Up",
+  "ham_move_name": "Hop_Hop_L_Smush_R_chingaling.move",
+  "milo_name": "hop_hop_l_smush_r_chingaling",
+  "song_name": "chingaling",
+  "clips": {
+    "hop_hop_hold_up_r_chingaling_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

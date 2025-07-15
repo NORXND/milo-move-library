@@ -1,0 +1,18 @@
+{
+  "name": "nod_around",
+  "difficulty": 2,
+  "display_name": "Nod Around",
+  "ham_move_name": "Yack_Yack_Yack_chingaling.move",
+  "milo_name": "yack_yack_yack_chingaling",
+  "song_name": "chingaling",
+  "clips": {
+    "nod_around_chingaling_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

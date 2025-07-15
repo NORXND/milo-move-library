@@ -1,0 +1,42 @@
+{
+  "name": "t_n_t",
+  "difficulty": 2,
+  "display_name": "T 'n' T",
+  "ham_move_name": "Gitty_Knees_Flap_chingaling.move",
+  "milo_name": "gitty_knees_flap_chingaling",
+  "song_name": "chingaling",
+  "clips": {
+    "t_n_t_chingaling_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "t_n_t_chingaling_v1": {
+      "avg_beats_per_second": 1.47,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "t_n_t_chingaling_v2": {
+      "avg_beats_per_second": 1.46,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "t_n_t_chingaling_v3": {
+      "avg_beats_per_second": 1.46,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

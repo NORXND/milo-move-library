@@ -1,0 +1,18 @@
+{
+  "name": "push_me",
+  "difficulty": 0,
+  "display_name": "Push Me",
+  "ham_move_name": "Chin_Sit_chingaling.move",
+  "milo_name": "chin_sit_chingaling",
+  "song_name": "chingaling",
+  "clips": {
+    "push_me_chingaling_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

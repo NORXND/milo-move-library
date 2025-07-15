@@ -1,0 +1,42 @@
+{
+  "name": "rivulet_and_come_here",
+  "difficulty": 2,
+  "display_name": "Rivulet / Come Here",
+  "ham_move_name": "Oh_Waiter_chingaling.move",
+  "milo_name": "oh_waiter_chingaling",
+  "song_name": "chingaling",
+  "clips": {
+    "rivulet_and_come_here_chingaling_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rivulet_and_come_here_chingaling_v2": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rivulet_and_come_here_chingaling_v3": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rivulet_and_come_here_chingaling_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

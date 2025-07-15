@@ -1,0 +1,18 @@
+{
+  "name": "static_cling",
+  "difficulty": 2,
+  "display_name": "Static Cling",
+  "ham_move_name": "Push_Down_Socks_Pulled_Up_chingaling.move",
+  "milo_name": "push_down_socks_pulled_up_chingaling",
+  "song_name": "chingaling",
+  "clips": {
+    "static_cling_chingaling_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

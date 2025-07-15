@@ -1,0 +1,42 @@
+{
+  "name": "keyboard_brat_and_catch",
+  "difficulty": 2,
+  "display_name": "Keyboard Brat / Catch",
+  "ham_move_name": "Flick_Reeerrrow_chingaling.move",
+  "milo_name": "flick_reeerrrow_chingaling",
+  "song_name": "chingaling",
+  "clips": {
+    "keyboard_brat_and_catch_chingaling_v0": {
+      "avg_beats_per_second": 1.71,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "keyboard_brat_and_catch_chingaling_v1": {
+      "avg_beats_per_second": 1.46,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "keyboard_brat_and_catch_chingaling_v2": {
+      "avg_beats_per_second": 1.46,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "keyboard_brat_and_catch_chingaling_v3": {
+      "avg_beats_per_second": 1.46,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

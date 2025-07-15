@@ -1,0 +1,18 @@
+{
+  "name": "side_kick",
+  "difficulty": 2,
+  "display_name": "Side Kick",
+  "ham_move_name": "R_Side_Flick_chingaling.move",
+  "milo_name": "r_side_flick_chingaling",
+  "song_name": "chingaling",
+  "clips": {
+    "side_kick_chingaling_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

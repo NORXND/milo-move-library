@@ -1,0 +1,18 @@
+{
+  "name": "coxswain",
+  "difficulty": 2,
+  "display_name": "Coxswain",
+  "ham_move_name": "Arm_Wave_Drive_Pull_Back_chingaling.move",
+  "milo_name": "arm_wave_drive_pull_back_chingaling",
+  "song_name": "chingaling",
+  "clips": {
+    "coxswain_chingaling_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

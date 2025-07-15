@@ -1,0 +1,18 @@
+{
+  "name": "batter_up",
+  "difficulty": 2,
+  "display_name": "Batter Up",
+  "ham_move_name": "Marilyn_Spikey_Wiggle_Hit_chingaling.move",
+  "milo_name": "marilyn_spikey_wiggle_hit_chingaling",
+  "song_name": "chingaling",
+  "clips": {
+    "batter_up_chingaling_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

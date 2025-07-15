@@ -1,0 +1,18 @@
+{
+  "name": "wednesday_night",
+  "difficulty": 2,
+  "display_name": "Wednesday Night",
+  "ham_move_name": "Hump_Roll_Sleep_chingaling.move",
+  "milo_name": "hump_roll_sleep_chingaling",
+  "song_name": "chingaling",
+  "clips": {
+    "wednesday_night_chingaling_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

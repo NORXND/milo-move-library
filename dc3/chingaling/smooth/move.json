@@ -1,0 +1,18 @@
+{
+  "name": "smooth",
+  "difficulty": 0,
+  "display_name": "Smooth",
+  "ham_move_name": "Cold_Arm_chingaling.move",
+  "milo_name": "cold_arm_chingaling",
+  "song_name": "chingaling",
+  "clips": {
+    "smooth_chingaling_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

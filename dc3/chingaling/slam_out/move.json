@@ -1,0 +1,18 @@
+{
+  "name": "slam_out",
+  "difficulty": 1,
+  "display_name": "Slam Out",
+  "ham_move_name": "March_Punch_chingaling.move",
+  "milo_name": "march_punch_chingaling",
+  "song_name": "chingaling",
+  "clips": {
+    "slam_out_chingaling_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

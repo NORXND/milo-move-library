@@ -1,0 +1,18 @@
+{
+  "name": "exception_ragdoll_party_r",
+  "difficulty": 2,
+  "display_name": "Ragdoll Party",
+  "ham_move_name": "Fist_Circle_R_Tick_Tock_chingaling.move",
+  "milo_name": "fist_circle_r_tick_tock_chingaling",
+  "song_name": "chingaling",
+  "clips": {
+    "ragdoll_party_chingaling_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

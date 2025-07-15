@@ -1,0 +1,18 @@
+{
+  "name": "hop_round",
+  "difficulty": 2,
+  "display_name": "Hop 'round",
+  "ham_move_name": "Jack_Hammer_Large_Hip_Circle_chingaling.move",
+  "milo_name": "jack_hammer_large_hip_circle_chingaling",
+  "song_name": "chingaling",
+  "clips": {
+    "hop_round_chingaling_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

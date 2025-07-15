@@ -1,0 +1,18 @@
+{
+  "name": "say_what_clap",
+  "difficulty": 2,
+  "display_name": "Say What Clap",
+  "ham_move_name": "Yeaheeee_Clap_chingaling.move",
+  "milo_name": "yeaheeee_clap_chingaling",
+  "song_name": "chingaling",
+  "clips": {
+    "say_what_clap_chingaling_v0": {
+      "avg_beats_per_second": 1.46,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

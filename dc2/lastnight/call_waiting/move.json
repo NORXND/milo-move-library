@@ -1,0 +1,42 @@
+{
+  "name": "call_waiting",
+  "difficulty": 2,
+  "display_name": "Call Waiting",
+  "ham_move_name": "Call_Waiting_lastnight.move",
+  "milo_name": "call_waiting_lastnight",
+  "song_name": "lastnight",
+  "clips": {
+    "call_waiting_lastnight_v2": {
+      "avg_beats_per_second": 2.01,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "call_waiting_lastnight_v3": {
+      "avg_beats_per_second": 2.01,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "call_waiting_lastnight_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "call_waiting_lastnight_v1": {
+      "avg_beats_per_second": 2.01,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

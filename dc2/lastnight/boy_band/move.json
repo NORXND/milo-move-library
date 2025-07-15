@@ -1,0 +1,26 @@
+{
+  "name": "boy_band",
+  "difficulty": 0,
+  "display_name": "Boy Band",
+  "ham_move_name": "Boyband_lastnight.move",
+  "milo_name": "boyband_lastnight",
+  "song_name": "lastnight",
+  "clips": {
+    "boy_band_lastnight_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "boy_band_lastnight_v1": {
+      "avg_beats_per_second": 2.01,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

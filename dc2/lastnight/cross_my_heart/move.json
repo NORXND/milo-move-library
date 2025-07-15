@@ -1,0 +1,18 @@
+{
+  "name": "cross_my_heart",
+  "difficulty": 2,
+  "display_name": "Cross My Heart",
+  "ham_move_name": "Dk_Heart_X_lastnight.move",
+  "milo_name": "dk_heart_x_lastnight",
+  "song_name": "lastnight",
+  "clips": {
+    "cross_my_heart_lastnight_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

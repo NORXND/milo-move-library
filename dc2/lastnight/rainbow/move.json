@@ -1,0 +1,26 @@
+{
+  "name": "rainbow",
+  "difficulty": 0,
+  "display_name": "Rainbow",
+  "ham_move_name": "Half_Moon_lastnight.move",
+  "milo_name": "half_moon_lastnight",
+  "song_name": "lastnight",
+  "clips": {
+    "rainbow_lastnight_v0": {
+      "avg_beats_per_second": 1.74,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rainbow_lastnight_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

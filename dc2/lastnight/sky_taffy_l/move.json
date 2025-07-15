@@ -1,0 +1,34 @@
+{
+  "name": "sky_taffy_l",
+  "difficulty": 0,
+  "display_name": "Sky Taffy",
+  "ham_move_name": "Sky_Taffy_L_lastnight.move",
+  "milo_name": "sky_taffy_l_lastnight",
+  "song_name": "lastnight",
+  "clips": {
+    "sky_taffy_l_lastnight_v2": {
+      "avg_beats_per_second": 2.02,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "sky_taffy_r_lastnight_v2"
+    },
+    "sky_taffy_l_lastnight_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "sky_taffy_r_lastnight_v0"
+    },
+    "sky_taffy_l_lastnight_v1": {
+      "avg_beats_per_second": 1.93,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "sky_taffy_r_lastnight_v1"
+    }
+  }
+}

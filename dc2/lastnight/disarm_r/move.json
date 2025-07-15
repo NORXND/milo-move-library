@@ -1,0 +1,26 @@
+{
+  "name": "disarm_r",
+  "difficulty": 2,
+  "display_name": "Disarm",
+  "ham_move_name": "Stress_R_lastnight.move",
+  "milo_name": "stress_r_lastnight",
+  "song_name": "lastnight",
+  "clips": {
+    "disarm_r_lastnight_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "disarm_l_lastnight_v0"
+    },
+    "disarm_r_lastnight_v1": {
+      "avg_beats_per_second": 2.02,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "disarm_l_lastnight_v1"
+    }
+  }
+}

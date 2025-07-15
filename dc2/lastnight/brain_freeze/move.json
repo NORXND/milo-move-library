@@ -1,0 +1,18 @@
+{
+  "name": "brain_freeze",
+  "difficulty": 0,
+  "display_name": "Brain Freeze",
+  "ham_move_name": "Headache_lastnight.move",
+  "milo_name": "headache_lastnight",
+  "song_name": "lastnight",
+  "clips": {
+    "brain_freeze_lastnight_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

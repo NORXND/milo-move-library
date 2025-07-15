@@ -1,0 +1,26 @@
+{
+  "name": "new_shoes_l",
+  "difficulty": 1,
+  "display_name": "New Shoes",
+  "ham_move_name": "Pretty_Feet_L_lastnight.move",
+  "milo_name": "pretty_feet_l_lastnight",
+  "song_name": "lastnight",
+  "clips": {
+    "new_shoes_l_lastnight_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "new_shoes_r_lastnight_v0"
+    },
+    "new_shoes_l_lastnight_v1": {
+      "avg_beats_per_second": 2.01,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "new_shoes_r_lastnight_v1"
+    }
+  }
+}

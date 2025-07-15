@@ -1,0 +1,18 @@
+{
+  "name": "hair_slick_step",
+  "difficulty": 1,
+  "display_name": "Hair Slick Step",
+  "ham_move_name": "Tears_lastnight.move",
+  "milo_name": "tears_lastnight",
+  "song_name": "lastnight",
+  "clips": {
+    "hair_slick_step_lastnight_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

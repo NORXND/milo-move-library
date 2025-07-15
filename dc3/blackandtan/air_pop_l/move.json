@@ -1,0 +1,18 @@
+{
+  "name": "air_pop_l",
+  "difficulty": 0,
+  "display_name": "Air Pop",
+  "ham_move_name": "Slow_Pulse_L_blackandtan.move",
+  "milo_name": "slow_pulse_l_blackandtan",
+  "song_name": "blackandtan",
+  "clips": {
+    "air_pop_l_blackandtan_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "air_pop_r_blackandtan_v0",
+      "linked_from": ""
+    }
+  }
+}

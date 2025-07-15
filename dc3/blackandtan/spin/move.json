@@ -1,0 +1,26 @@
+{
+  "name": "spin",
+  "difficulty": 2,
+  "display_name": "Spin",
+  "ham_move_name": "Slow_Turn_blackandtan.move",
+  "milo_name": "slow_turn_blackandtan",
+  "song_name": "blackandtan",
+  "clips": {
+    "spin_blackandtan_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spin_blackandtan_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

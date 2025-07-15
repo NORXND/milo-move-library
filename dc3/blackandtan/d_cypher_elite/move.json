@@ -1,0 +1,26 @@
+{
+  "name": "d_cypher_elite",
+  "difficulty": 2,
+  "display_name": "D-Cypher Elite",
+  "ham_move_name": "Mjt_blackandtan.move",
+  "milo_name": "mjt_blackandtan",
+  "song_name": "blackandtan",
+  "clips": {
+    "d_cypher_elite_blackandtan_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "d_cypher_elite_blackandtan_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

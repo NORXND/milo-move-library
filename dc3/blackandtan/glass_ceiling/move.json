@@ -1,0 +1,26 @@
+{
+  "name": "glass_ceiling",
+  "difficulty": 2,
+  "display_name": "Glass Ceiling",
+  "ham_move_name": "Arm_Swing_blackandtan.move",
+  "milo_name": "arm_swing_blackandtan",
+  "song_name": "blackandtan",
+  "clips": {
+    "glass_ceiling_blackandtan_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "glass_ceiling_blackandtan_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

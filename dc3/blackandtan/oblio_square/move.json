@@ -1,0 +1,26 @@
+{
+  "name": "oblio_square",
+  "difficulty": 2,
+  "display_name": "Oblio Square",
+  "ham_move_name": "Buck_Square_blackandtan.move",
+  "milo_name": "buck_square_blackandtan",
+  "song_name": "blackandtan",
+  "clips": {
+    "oblio_square_blackandtan_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "oblio_square_blackandtan_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

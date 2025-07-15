@@ -1,0 +1,26 @@
+{
+  "name": "get_off_my_back",
+  "difficulty": 2,
+  "display_name": "Get Off My Back",
+  "ham_move_name": "Start_Up_blackandtan.move",
+  "milo_name": "start_up_blackandtan",
+  "song_name": "blackandtan",
+  "clips": {
+    "get_off_my_back_blackandtan_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "get_off_my_back_blackandtan_v1": {
+      "avg_beats_per_second": 1.64,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

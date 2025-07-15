@@ -1,0 +1,26 @@
+{
+  "name": "can_crush",
+  "difficulty": 2,
+  "display_name": "Can Crush",
+  "ham_move_name": "Can_Crush_blackandtan.move",
+  "milo_name": "can_crush_blackandtan",
+  "song_name": "blackandtan",
+  "clips": {
+    "can_crush_blackandtan_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "can_crush_blackandtan_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

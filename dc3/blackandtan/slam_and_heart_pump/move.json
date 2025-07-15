@@ -1,0 +1,26 @@
+{
+  "name": "slam_and_heart_pump",
+  "difficulty": 2,
+  "display_name": "Slam & Heart Pump",
+  "ham_move_name": "Suck_It_blackandtan.move",
+  "milo_name": "suck_it_blackandtan",
+  "song_name": "blackandtan",
+  "clips": {
+    "slam_and_heart_pump_blackandtan_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slam_and_heart_pump_blackandtan_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

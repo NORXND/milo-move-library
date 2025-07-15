@@ -1,0 +1,26 @@
+{
+  "name": "titan_step",
+  "difficulty": 2,
+  "display_name": "Titan Step",
+  "ham_move_name": "Busta_Run_blackandtan.move",
+  "milo_name": "busta_run_blackandtan",
+  "song_name": "blackandtan",
+  "clips": {
+    "titan_step_blackandtan_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "titan_step_blackandtan_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

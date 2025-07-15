@@ -1,0 +1,26 @@
+{
+  "name": "cross_bones",
+  "difficulty": 2,
+  "display_name": "Cross Bones",
+  "ham_move_name": "Cross_Bones_blackandtan.move",
+  "milo_name": "cross_bones_blackandtan",
+  "song_name": "blackandtan",
+  "clips": {
+    "cross_bones_blackandtan_v1": {
+      "avg_beats_per_second": 1.75,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_bones_blackandtan_v0": {
+      "avg_beats_per_second": 1.64,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

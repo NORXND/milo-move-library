@@ -1,0 +1,26 @@
+{
+  "name": "shoulder_cut",
+  "difficulty": 2,
+  "display_name": "Shoulder Cut",
+  "ham_move_name": "Youll_Never_Stop_Dci_blackandtan.move",
+  "milo_name": "youll_never_stop_dci_blackandtan",
+  "song_name": "blackandtan",
+  "clips": {
+    "shoulder_cut_blackandtan_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_cut_blackandtan_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

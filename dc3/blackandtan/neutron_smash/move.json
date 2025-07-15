@@ -1,0 +1,26 @@
+{
+  "name": "neutron_smash",
+  "difficulty": 2,
+  "display_name": "Neutron Smash",
+  "ham_move_name": "Grimey_East_blackandtan.move",
+  "milo_name": "grimey_east_blackandtan",
+  "song_name": "blackandtan",
+  "clips": {
+    "neutron_smash_blackandtan_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "neutron_smash_blackandtan_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

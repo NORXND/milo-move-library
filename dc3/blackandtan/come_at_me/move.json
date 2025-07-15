@@ -1,0 +1,26 @@
+{
+  "name": "come_at_me",
+  "difficulty": 2,
+  "display_name": "Come At Me",
+  "ham_move_name": "Bring_It_blackandtan.move",
+  "milo_name": "bring_it_blackandtan",
+  "song_name": "blackandtan",
+  "clips": {
+    "come_at_me_blackandtan_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "come_at_me_blackandtan_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

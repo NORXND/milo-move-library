@@ -1,0 +1,26 @@
+{
+  "name": "riptide_and_heart_pump",
+  "difficulty": 2,
+  "display_name": "Riptide / Heart Pump",
+  "ham_move_name": "Lean_Back_blackandtan.move",
+  "milo_name": "lean_back_blackandtan",
+  "song_name": "blackandtan",
+  "clips": {
+    "riptide_and_heart_pump_blackandtan_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "riptide_and_heart_pump_blackandtan_v1": {
+      "avg_beats_per_second": 1.69,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

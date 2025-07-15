@@ -1,0 +1,26 @@
+{
+  "name": "evil_eliot",
+  "difficulty": 2,
+  "display_name": "Evil ELIOT",
+  "ham_move_name": "Eliot_blackandtan.move",
+  "milo_name": "eliot_blackandtan",
+  "song_name": "blackandtan",
+  "clips": {
+    "evil_eliot_blackandtan_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "evil_eliot_blackandtan_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

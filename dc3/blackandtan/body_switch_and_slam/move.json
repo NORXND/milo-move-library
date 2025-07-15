@@ -1,0 +1,26 @@
+{
+  "name": "body_switch_and_slam",
+  "difficulty": 2,
+  "display_name": "Body Switch & Slam",
+  "ham_move_name": "Grichka_blackandtan.move",
+  "milo_name": "grichka_blackandtan",
+  "song_name": "blackandtan",
+  "clips": {
+    "body_switch_and_slam_blackandtan_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "body_switch_and_slam_blackandtan_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

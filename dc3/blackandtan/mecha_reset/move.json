@@ -1,0 +1,26 @@
+{
+  "name": "mecha_reset",
+  "difficulty": 2,
+  "display_name": "Mecha Reset",
+  "ham_move_name": "Pinnochio_blackandtan.move",
+  "milo_name": "pinnochio_blackandtan",
+  "song_name": "blackandtan",
+  "clips": {
+    "mecha_reset_blackandtan_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "mecha_reset_blackandtan_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "one_step_for_man",
+  "difficulty": 2,
+  "display_name": "One Step For Man",
+  "ham_move_name": "Soccer_Kick_blackandtan.move",
+  "milo_name": "soccer_kick_blackandtan",
+  "song_name": "blackandtan",
+  "clips": {
+    "one_step_for_man_blackandtan_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "one_step_for_man_blackandtan_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "major_scorcher",
+  "difficulty": 0,
+  "display_name": "Major Scorcher",
+  "ham_move_name": "Nuclear_donttouchme.move",
+  "milo_name": "nuclear_donttouchme",
+  "song_name": "donttouchme",
+  "clips": {
+    "major_scorcher_donttouchme_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "major_scorcher_donttouchme_v1": {
+      "avg_beats_per_second": 1.89,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "major_scorcher_donttouchme_v2": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "major_scorcher_donttouchme_v3": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

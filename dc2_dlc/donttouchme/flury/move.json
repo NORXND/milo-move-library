@@ -1,0 +1,18 @@
+{
+  "name": "flury",
+  "difficulty": 1,
+  "display_name": "Flury",
+  "ham_move_name": "Flury_donttouchme.move",
+  "milo_name": "flury_donttouchme",
+  "song_name": "donttouchme",
+  "clips": {
+    "flury_donttouchme_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "hop_cross_front",
+  "difficulty": 1,
+  "display_name": "Hop Cross Front",
+  "ham_move_name": "Hop_Rock_donttouchme.move",
+  "milo_name": "hop_rock_donttouchme",
+  "song_name": "donttouchme",
+  "clips": {
+    "hop_cross_front_donttouchme_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_cross_front_donttouchme_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_cross_front_donttouchme_v2": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_cross_front_donttouchme_v3": {
+      "avg_beats_per_second": 1.89,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

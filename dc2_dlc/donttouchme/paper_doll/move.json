@@ -1,0 +1,26 @@
+{
+  "name": "paper_doll",
+  "difficulty": 2,
+  "display_name": "Paper Doll",
+  "ham_move_name": "B_Boy_Bounce_donttouchme.move",
+  "milo_name": "b_boy_bounce_donttouchme",
+  "song_name": "donttouchme",
+  "clips": {
+    "paper_doll_donttouchme_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "paper_doll_donttouchme_v1": {
+      "avg_beats_per_second": 1.89,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

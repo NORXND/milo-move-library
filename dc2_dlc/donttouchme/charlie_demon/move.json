@@ -1,0 +1,26 @@
+{
+  "name": "charlie_demon",
+  "difficulty": 2,
+  "display_name": "Charlie Demon",
+  "ham_move_name": "Lil_Chuckie_donttouchme.move",
+  "milo_name": "lil_chuckie_donttouchme",
+  "song_name": "donttouchme",
+  "clips": {
+    "charlie_demon_donttouchme_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "charlie_demon_donttouchme_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

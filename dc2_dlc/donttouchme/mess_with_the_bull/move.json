@@ -1,0 +1,18 @@
+{
+  "name": "mess_with_the_bull",
+  "difficulty": 2,
+  "display_name": "Mess With The Bull",
+  "ham_move_name": "Half_Star_Step_Touch_donttouchme.move",
+  "milo_name": "half_star_step_touch_donttouchme",
+  "song_name": "donttouchme",
+  "clips": {
+    "mess_with_the_bull_donttouchme_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

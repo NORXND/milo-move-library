@@ -1,0 +1,42 @@
+{
+  "name": "mechanoid_l",
+  "difficulty": 0,
+  "display_name": "Mechanoid",
+  "ham_move_name": "Slo_Mo_L_donttouchme.move",
+  "milo_name": "slo_mo_l_donttouchme",
+  "song_name": "donttouchme",
+  "clips": {
+    "mechanoid_l_donttouchme_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "mechanoid_r_donttouchme_v1",
+      "linked_from": "mechanoid_r_donttouchme_v0"
+    },
+    "mechanoid_l_donttouchme_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "mechanoid_r_donttouchme_v1"
+    },
+    "mechanoid_l_donttouchme_v2": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "mechanoid_r_donttouchme_v2"
+    },
+    "mechanoid_l_donttouchme_v3": {
+      "avg_beats_per_second": 1.62,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "mechanoid_r_donttouchme_v3"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "move_trick",
+  "difficulty": 1,
+  "display_name": "Move Trick",
+  "ham_move_name": "Move_Trick_donttouchme.move",
+  "milo_name": "move_trick_donttouchme",
+  "song_name": "donttouchme",
+  "clips": {
+    "move_trick_donttouchme_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "move_trick_donttouchme_v3": {
+      "avg_beats_per_second": 1.89,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "move_trick_donttouchme_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "move_trick_donttouchme_v2": {
+      "avg_beats_per_second": 1.62,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

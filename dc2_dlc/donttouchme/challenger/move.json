@@ -1,0 +1,18 @@
+{
+  "name": "challenger",
+  "difficulty": 0,
+  "display_name": "Challenger",
+  "ham_move_name": "Banger_donttouchme.move",
+  "milo_name": "banger_donttouchme",
+  "song_name": "donttouchme",
+  "clips": {
+    "challenger_donttouchme_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "boogie_up",
+  "difficulty": 2,
+  "display_name": "Boogie Up",
+  "ham_move_name": "Boogie_Up_jungleboogie.move",
+  "milo_name": "boogie_up_jungleboogie",
+  "song_name": "jungleboogie",
+  "clips": {
+    "boogie_up_jungleboogie_v0": {
+      "avg_beats_per_second": 1.77,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

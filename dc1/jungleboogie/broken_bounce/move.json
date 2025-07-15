@@ -1,0 +1,18 @@
+{
+  "name": "broken_bounce",
+  "difficulty": 0,
+  "display_name": "Broken Bounce",
+  "ham_move_name": "Broken_Bounce_jungleboogie.move",
+  "milo_name": "broken_bounce_jungleboogie",
+  "song_name": "jungleboogie",
+  "clips": {
+    "broken_bounce_jungleboogie_v0": {
+      "avg_beats_per_second": 1.76,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

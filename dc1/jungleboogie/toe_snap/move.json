@@ -1,0 +1,58 @@
+{
+  "name": "toe_snap",
+  "difficulty": 0,
+  "display_name": "Toe Snap",
+  "ham_move_name": "Toe_Snap_jungleboogie.move",
+  "milo_name": "toe_snap_jungleboogie",
+  "song_name": "jungleboogie",
+  "clips": {
+    "toe_snap_jungleboogie_v0": {
+      "avg_beats_per_second": 1.76,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "toe_snap_jungleboogie_v5": {
+      "avg_beats_per_second": 1.77,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "toe_snap_jungleboogie_v3": {
+      "avg_beats_per_second": 1.76,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "toe_snap_jungleboogie_v1": {
+      "avg_beats_per_second": 1.76,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "toe_snap_jungleboogie_v4": {
+      "avg_beats_per_second": 1.76,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "toe_snap_jungleboogie_v2": {
+      "avg_beats_per_second": 1.77,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

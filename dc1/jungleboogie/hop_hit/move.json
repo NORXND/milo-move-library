@@ -1,0 +1,58 @@
+{
+  "name": "hop_hit",
+  "difficulty": 0,
+  "display_name": "Hop Hit",
+  "ham_move_name": "Hop_Hit_jungleboogie.move",
+  "milo_name": "hop_hit_jungleboogie",
+  "song_name": "jungleboogie",
+  "clips": {
+    "hop_hit_jungleboogie_v0": {
+      "avg_beats_per_second": 1.76,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_hit_jungleboogie_v5": {
+      "avg_beats_per_second": 1.74,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_hit_jungleboogie_v3": {
+      "avg_beats_per_second": 1.77,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_hit_jungleboogie_v1": {
+      "avg_beats_per_second": 1.76,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_hit_jungleboogie_v4": {
+      "avg_beats_per_second": 1.78,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_hit_jungleboogie_v2": {
+      "avg_beats_per_second": 1.76,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

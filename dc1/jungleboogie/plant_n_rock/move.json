@@ -1,0 +1,18 @@
+{
+  "name": "plant_n_rock",
+  "difficulty": 0,
+  "display_name": "Plant 'n' Rock",
+  "ham_move_name": "Plant_n_Rock_jungleboogie.move",
+  "milo_name": "plant_n_rock_jungleboogie",
+  "song_name": "jungleboogie",
+  "clips": {
+    "plant_n_rock_jungleboogie_v0": {
+      "avg_beats_per_second": 1.78,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

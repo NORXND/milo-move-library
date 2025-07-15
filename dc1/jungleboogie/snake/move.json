@@ -1,0 +1,18 @@
+{
+  "name": "snake",
+  "difficulty": 0,
+  "display_name": "Snake",
+  "ham_move_name": "Snake_jungleboogie.move",
+  "milo_name": "snake_jungleboogie",
+  "song_name": "jungleboogie",
+  "clips": {
+    "snake_jungleboogie_v0": {
+      "avg_beats_per_second": 1.78,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

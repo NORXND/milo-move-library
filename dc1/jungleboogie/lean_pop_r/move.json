@@ -1,0 +1,18 @@
+{
+  "name": "lean_pop_r",
+  "difficulty": 1,
+  "display_name": "Lean Pop",
+  "ham_move_name": "Lean_Pop_R_jungleboogie.move",
+  "milo_name": "lean_pop_r_jungleboogie",
+  "song_name": "jungleboogie",
+  "clips": {
+    "lean_pop_r_jungleboogie_v0": {
+      "avg_beats_per_second": 1.76,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "lean_pop_l_jungleboogie_v0",
+      "linked_from": ""
+    }
+  }
+}

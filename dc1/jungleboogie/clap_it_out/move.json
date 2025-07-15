@@ -1,0 +1,18 @@
+{
+  "name": "clap_it_out",
+  "difficulty": 1,
+  "display_name": "Clap It Out",
+  "ham_move_name": "Clap_It_Out_jungleboogie.move",
+  "milo_name": "clap_it_out_jungleboogie",
+  "song_name": "jungleboogie",
+  "clips": {
+    "clap_it_out_jungleboogie_v0": {
+      "avg_beats_per_second": 1.79,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

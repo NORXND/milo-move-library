@@ -1,0 +1,18 @@
+{
+  "name": "_4_corners",
+  "difficulty": 1,
+  "display_name": "4 Corners",
+  "ham_move_name": "Meow_jungleboogie.move",
+  "milo_name": "meow_jungleboogie",
+  "song_name": "jungleboogie",
+  "clips": {
+    "_4_corners_jungleboogie_v0": {
+      "avg_beats_per_second": 1.77,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

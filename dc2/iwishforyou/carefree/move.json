@@ -1,0 +1,26 @@
+{
+  "name": "carefree",
+  "difficulty": 1,
+  "display_name": "Carefree",
+  "ham_move_name": "Ball_Change_No_Worries_iwishforyou.move",
+  "milo_name": "ball_change_no_worries_iwishforyou",
+  "song_name": "iwishforyou",
+  "clips": {
+    "carefree_iwishforyou_v1": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "carefree_iwishforyou_v0": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

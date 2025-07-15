@@ -1,0 +1,26 @@
+{
+  "name": "run_dig_out_r",
+  "difficulty": 0,
+  "display_name": "Run Dig Out",
+  "ham_move_name": "Run_Dig_Out_R_iwishforyou.move",
+  "milo_name": "run_dig_out_r_iwishforyou",
+  "song_name": "iwishforyou",
+  "clips": {
+    "run_dig_out_r_iwishforyou_v1": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "run_dig_out_r_iwishforyou_v0": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

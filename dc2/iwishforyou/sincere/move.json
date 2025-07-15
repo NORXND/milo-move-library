@@ -1,0 +1,26 @@
+{
+  "name": "sincere",
+  "difficulty": 0,
+  "display_name": "Sincere",
+  "ham_move_name": "Present_iwishforyou.move",
+  "milo_name": "present_iwishforyou",
+  "song_name": "iwishforyou",
+  "clips": {
+    "sincere_iwishforyou_v1": {
+      "avg_beats_per_second": 1.71,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sincere_iwishforyou_v0": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

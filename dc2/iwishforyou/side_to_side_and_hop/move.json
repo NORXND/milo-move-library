@@ -1,0 +1,42 @@
+{
+  "name": "side_to_side_and_hop",
+  "difficulty": 2,
+  "display_name": "Side To Side & Hop",
+  "ham_move_name": "Kick_And_Jump_iwishforyou.move",
+  "milo_name": "kick_and_jump_iwishforyou",
+  "song_name": "iwishforyou",
+  "clips": {
+    "side_to_side_and_hop_iwishforyou_v2": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "side_to_side_and_hop_iwishforyou_v3": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "side_to_side_and_hop_iwishforyou_v0": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "side_to_side_and_hop_iwishforyou_v1": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "hop_step_back",
+  "difficulty": 2,
+  "display_name": "Hop Step Back",
+  "ham_move_name": "Kick_Step_Back_iwishforyou.move",
+  "milo_name": "kick_step_back_iwishforyou",
+  "song_name": "iwishforyou",
+  "clips": {
+    "hop_step_back_iwishforyou_v0": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_step_back_iwishforyou_v1": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

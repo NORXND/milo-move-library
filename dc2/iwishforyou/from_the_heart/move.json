@@ -1,0 +1,26 @@
+{
+  "name": "from_the_heart",
+  "difficulty": 2,
+  "display_name": "From The Heart",
+  "ham_move_name": "Chest_Center_Boy_Band_1_iwishforyou.move",
+  "milo_name": "chest_center_boy_band_1_iwishforyou",
+  "song_name": "iwishforyou",
+  "clips": {
+    "from_the_heart_iwishforyou_v1": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "from_the_heart_iwishforyou_v0": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

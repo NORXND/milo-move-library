@@ -1,0 +1,26 @@
+{
+  "name": "mixer",
+  "difficulty": 1,
+  "display_name": "Mixer",
+  "ham_move_name": "Stir_It_iwishforyou.move",
+  "milo_name": "stir_it_iwishforyou",
+  "song_name": "iwishforyou",
+  "clips": {
+    "mixer_iwishforyou_v0": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "mixer_iwishforyou_v1": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

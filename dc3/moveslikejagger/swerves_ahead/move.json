@@ -1,0 +1,34 @@
+{
+  "name": "swerves_ahead",
+  "difficulty": 2,
+  "display_name": "Swerves Ahead",
+  "ham_move_name": "Ja_House_1_moveslikejagger.move",
+  "milo_name": "ja_house_1_moveslikejagger",
+  "song_name": "moveslikejagger",
+  "clips": {
+    "swerves_ahead_moveslikejagger_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swerves_ahead_moveslikejagger_v2": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swerves_ahead_moveslikejagger_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

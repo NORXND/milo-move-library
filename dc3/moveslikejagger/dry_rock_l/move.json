@@ -1,0 +1,18 @@
+{
+  "name": "dry_rock_l",
+  "difficulty": 2,
+  "display_name": "Dry Rock",
+  "ham_move_name": "Deep_Inside_L_moveslikejagger.move",
+  "milo_name": "deep_inside_l_moveslikejagger",
+  "song_name": "moveslikejagger",
+  "clips": {
+    "dry_rock_l_moveslikejagger_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "dry_rock_r_moveslikejagger_v0",
+      "linked_from": ""
+    }
+  }
+}

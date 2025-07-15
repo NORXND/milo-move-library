@@ -1,0 +1,26 @@
+{
+  "name": "celebrate",
+  "difficulty": 2,
+  "display_name": "Celebrate",
+  "ham_move_name": "Swag_Shaker_moveslikejagger.move",
+  "milo_name": "swag_shaker_moveslikejagger",
+  "song_name": "moveslikejagger",
+  "clips": {
+    "celebrate_moveslikejagger_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "celebrate_moveslikejagger_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

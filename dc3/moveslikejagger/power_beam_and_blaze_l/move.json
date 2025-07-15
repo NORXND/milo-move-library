@@ -1,0 +1,18 @@
+{
+  "name": "power_beam_and_blaze_l",
+  "difficulty": 2,
+  "display_name": "Power Beam & Blaze",
+  "ham_move_name": "Feel_Me_L_moveslikejagger.move",
+  "milo_name": "feel_me_l_moveslikejagger",
+  "song_name": "moveslikejagger",
+  "clips": {
+    "power_beam_and_blaze_l_moveslikejagger_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

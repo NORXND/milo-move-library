@@ -1,0 +1,18 @@
+{
+  "name": "parallel_park",
+  "difficulty": 2,
+  "display_name": "Parallel Park",
+  "ham_move_name": "Parallel_Park_moveslikejagger.move",
+  "milo_name": "parallel_park_moveslikejagger",
+  "song_name": "moveslikejagger",
+  "clips": {
+    "parallel_park_moveslikejagger_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

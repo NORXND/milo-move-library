@@ -1,0 +1,18 @@
+{
+  "name": "all_crossed_out",
+  "difficulty": 2,
+  "display_name": "All Crossed Out",
+  "ham_move_name": "Dont_Care_moveslikejagger.move",
+  "milo_name": "dont_care_moveslikejagger",
+  "song_name": "moveslikejagger",
+  "clips": {
+    "all_crossed_out_moveslikejagger_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

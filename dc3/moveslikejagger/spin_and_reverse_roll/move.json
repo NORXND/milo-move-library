@@ -1,0 +1,18 @@
+{
+  "name": "spin_and_reverse_roll",
+  "difficulty": 2,
+  "display_name": "Spin / Reverse Roll",
+  "ham_move_name": "Prep_Spin_Reverse_Roll_moveslikejagger.move",
+  "milo_name": "prep_spin_reverse_roll_moveslikejagger",
+  "song_name": "moveslikejagger",
+  "clips": {
+    "spin_and_reverse_roll_moveslikejagger_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

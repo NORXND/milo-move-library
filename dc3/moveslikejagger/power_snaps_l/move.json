@@ -1,0 +1,18 @@
+{
+  "name": "power_snaps_l",
+  "difficulty": 2,
+  "display_name": "Power Snaps",
+  "ham_move_name": "Step_Off_L_moveslikejagger.move",
+  "milo_name": "step_off_l_moveslikejagger",
+  "song_name": "moveslikejagger",
+  "clips": {
+    "power_snaps_l_moveslikejagger_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "power_snaps_r_moveslikejagger_v0"
+    }
+  }
+}

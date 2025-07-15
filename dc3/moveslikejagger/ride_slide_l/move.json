@@ -1,0 +1,18 @@
+{
+  "name": "ride_slide_l",
+  "difficulty": 2,
+  "display_name": "Ride Slide",
+  "ham_move_name": "Shifting_Gear_L_moveslikejagger.move",
+  "milo_name": "shifting_gear_l_moveslikejagger",
+  "song_name": "moveslikejagger",
+  "clips": {
+    "ride_slide_l_moveslikejagger_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "ride_slide_r_moveslikejagger_v0",
+      "linked_from": ""
+    }
+  }
+}

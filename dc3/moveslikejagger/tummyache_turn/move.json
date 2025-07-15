@@ -1,0 +1,34 @@
+{
+  "name": "tummyache_turn",
+  "difficulty": 2,
+  "display_name": "Tummyache Turn",
+  "ham_move_name": "Lunatic_moveslikejagger.move",
+  "milo_name": "lunatic_moveslikejagger",
+  "song_name": "moveslikejagger",
+  "clips": {
+    "tummyache_turn_moveslikejagger_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tummyache_turn_moveslikejagger_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tummyache_turn_moveslikejagger_v2": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

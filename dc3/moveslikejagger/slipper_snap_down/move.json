@@ -1,0 +1,18 @@
+{
+  "name": "slipper_snap_down",
+  "difficulty": 2,
+  "display_name": "Slipper Snap Down",
+  "ham_move_name": "Get_Your_Eagle_On_Down_moveslikejagger.move",
+  "milo_name": "get_your_eagle_on_down_moveslikejagger",
+  "song_name": "moveslikejagger",
+  "clips": {
+    "slipper_snap_down_moveslikejagger_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

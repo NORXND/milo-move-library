@@ -1,0 +1,18 @@
+{
+  "name": "dizzy_love",
+  "difficulty": 2,
+  "display_name": "Dizzy Love",
+  "ham_move_name": "Frustration_moveslikejagger.move",
+  "milo_name": "frustration_moveslikejagger",
+  "song_name": "moveslikejagger",
+  "clips": {
+    "dizzy_love_moveslikejagger_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

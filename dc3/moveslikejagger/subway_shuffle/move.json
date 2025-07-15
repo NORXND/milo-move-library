@@ -1,0 +1,18 @@
+{
+  "name": "subway_shuffle",
+  "difficulty": 2,
+  "display_name": "Subway Shuffle",
+  "ham_move_name": "Run_Up_On_You_moveslikejagger.move",
+  "milo_name": "run_up_on_you_moveslikejagger",
+  "song_name": "moveslikejagger",
+  "clips": {
+    "subway_shuffle_moveslikejagger_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

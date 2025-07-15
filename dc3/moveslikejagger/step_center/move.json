@@ -1,0 +1,58 @@
+{
+  "name": "step_center",
+  "difficulty": 0,
+  "display_name": "Step Center",
+  "ham_move_name": "Alcoholic_moveslikejagger.move",
+  "milo_name": "alcoholic_moveslikejagger",
+  "song_name": "moveslikejagger",
+  "clips": {
+    "step_center_moveslikejagger_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_center_moveslikejagger_v5": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_center_moveslikejagger_v3": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_center_moveslikejagger_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_center_moveslikejagger_v4": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_center_moveslikejagger_v2": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

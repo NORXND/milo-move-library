@@ -1,0 +1,18 @@
+{
+  "name": "hugabout",
+  "difficulty": 1,
+  "display_name": "Hugabout",
+  "ham_move_name": "She_Wants_It_moveslikejagger.move",
+  "milo_name": "she_wants_it_moveslikejagger",
+  "song_name": "moveslikejagger",
+  "clips": {
+    "hugabout_moveslikejagger_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

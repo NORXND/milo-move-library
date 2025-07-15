@@ -1,0 +1,18 @@
+{
+  "name": "sly",
+  "difficulty": 2,
+  "display_name": "Sly",
+  "ham_move_name": "Ignition_moveslikejagger.move",
+  "milo_name": "ignition_moveslikejagger",
+  "song_name": "moveslikejagger",
+  "clips": {
+    "sly_moveslikejagger_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

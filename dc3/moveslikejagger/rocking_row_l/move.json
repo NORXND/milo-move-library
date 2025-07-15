@@ -1,0 +1,18 @@
+{
+  "name": "rocking_row_l",
+  "difficulty": 2,
+  "display_name": "Rocking Row",
+  "ham_move_name": "Standing_Wheelchair_L_moveslikejagger.move",
+  "milo_name": "standing_wheelchair_l_moveslikejagger",
+  "song_name": "moveslikejagger",
+  "clips": {
+    "rocking_row_l_moveslikejagger_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

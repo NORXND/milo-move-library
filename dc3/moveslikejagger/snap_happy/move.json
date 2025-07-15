@@ -1,0 +1,34 @@
+{
+  "name": "snap_happy",
+  "difficulty": 2,
+  "display_name": "Snap Happy",
+  "ham_move_name": "Snaps_moveslikejagger.move",
+  "milo_name": "snaps_moveslikejagger",
+  "song_name": "moveslikejagger",
+  "clips": {
+    "snap_happy_moveslikejagger_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "snap_happy_moveslikejagger_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "snap_happy_moveslikejagger_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

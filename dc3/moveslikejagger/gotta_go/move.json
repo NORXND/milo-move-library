@@ -1,0 +1,34 @@
+{
+  "name": "gotta_go",
+  "difficulty": 2,
+  "display_name": "Gotta Go",
+  "ham_move_name": "Ease_Up_moveslikejagger.move",
+  "milo_name": "ease_up_moveslikejagger",
+  "song_name": "moveslikejagger",
+  "clips": {
+    "gotta_go_moveslikejagger_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "gotta_go_moveslikejagger_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "gotta_go_moveslikejagger_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

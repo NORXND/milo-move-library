@@ -1,0 +1,34 @@
+{
+  "name": "double_gears",
+  "difficulty": 2,
+  "display_name": "Double Gears",
+  "ham_move_name": "Moves_Like_Jagger_Both_moveslikejagger.move",
+  "milo_name": "moves_like_jagger_both_moveslikejagger",
+  "song_name": "moveslikejagger",
+  "clips": {
+    "double_gears_moveslikejagger_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_gears_moveslikejagger_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_gears_moveslikejagger_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

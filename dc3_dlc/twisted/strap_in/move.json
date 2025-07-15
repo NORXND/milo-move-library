@@ -1,0 +1,18 @@
+{
+  "name": "strap_in",
+  "difficulty": 2,
+  "display_name": "Strap In",
+  "ham_move_name": "Seatbelt_Rl_Hands_twisted.move",
+  "milo_name": "seatbelt_rl_hands_twisted",
+  "song_name": "twisted",
+  "clips": {
+    "strap_in_twisted_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "rival_step_r",
+  "difficulty": 2,
+  "display_name": "Rival Step",
+  "ham_move_name": "Point_Em_Out_R_twisted.move",
+  "milo_name": "point_em_out_r_twisted",
+  "song_name": "twisted",
+  "clips": {
+    "rival_step_r_twisted_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "rival_step_l_twisted_v0",
+      "linked_from": ""
+    }
+  }
+}

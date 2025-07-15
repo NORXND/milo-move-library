@@ -1,0 +1,42 @@
+{
+  "name": "aerobatic",
+  "difficulty": 2,
+  "display_name": "Aerobatic",
+  "ham_move_name": "Slide_R_Tap_Clap_twisted.move",
+  "milo_name": "slide_r_tap_clap_twisted",
+  "song_name": "twisted",
+  "clips": {
+    "aerobatic_twisted_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "aerobatic_twisted_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "aerobatic_twisted_v2": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "aerobatic_twisted_v3": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

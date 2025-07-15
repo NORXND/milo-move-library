@@ -1,0 +1,42 @@
+{
+  "name": "slide_and_heel_twist",
+  "difficulty": 2,
+  "display_name": "Slide & Heel Twist",
+  "ham_move_name": "Slide_R_Click_Heels_twisted.move",
+  "milo_name": "slide_r_click_heels_twisted",
+  "song_name": "twisted",
+  "clips": {
+    "slide_and_heel_twist_twisted_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slide_and_heel_twist_twisted_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slide_and_heel_twist_twisted_v2": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slide_and_heel_twist_twisted_v3": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

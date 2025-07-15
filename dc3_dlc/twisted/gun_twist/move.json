@@ -1,0 +1,18 @@
+{
+  "name": "gun_twist",
+  "difficulty": 2,
+  "display_name": "Gun Twist",
+  "ham_move_name": "Dickslaying_twisted.move",
+  "milo_name": "dickslaying_twisted",
+  "song_name": "twisted",
+  "clips": {
+    "gun_twist_twisted_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

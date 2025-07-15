@@ -1,0 +1,18 @@
+{
+  "name": "nono_step_l",
+  "difficulty": 2,
+  "display_name": "Nono Step",
+  "ham_move_name": "No_No_No_L_twisted.move",
+  "milo_name": "no_no_no_l_twisted",
+  "song_name": "twisted",
+  "clips": {
+    "nono_step_l_twisted_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

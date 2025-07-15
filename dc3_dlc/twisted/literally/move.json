@@ -1,0 +1,26 @@
+{
+  "name": "literally",
+  "difficulty": 2,
+  "display_name": "Literally",
+  "ham_move_name": "Sign_Language_twisted.move",
+  "milo_name": "sign_language_twisted",
+  "song_name": "twisted",
+  "clips": {
+    "literally_twisted_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "literally_twisted_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

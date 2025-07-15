@@ -1,0 +1,34 @@
+{
+  "name": "substitooty",
+  "difficulty": 2,
+  "display_name": "Substitooty",
+  "ham_move_name": "Shaping_The_Woman_twisted.move",
+  "milo_name": "shaping_the_woman_twisted",
+  "song_name": "twisted",
+  "clips": {
+    "substitooty_twisted_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "substitooty_twisted_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "substitooty_twisted_v2": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

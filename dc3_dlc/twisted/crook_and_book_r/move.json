@@ -1,0 +1,18 @@
+{
+  "name": "crook_and_book_r",
+  "difficulty": 2,
+  "display_name": "Crook & Book",
+  "ham_move_name": "Irk_And_Jerk_R_twisted.move",
+  "milo_name": "irk_and_jerk_r_twisted",
+  "song_name": "twisted",
+  "clips": {
+    "crook_and_book_r_twisted_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "crook_and_book_l_twisted_v0",
+      "linked_from": ""
+    }
+  }
+}

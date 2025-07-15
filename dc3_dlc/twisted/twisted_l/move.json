@@ -1,0 +1,18 @@
+{
+  "name": "twisted_l",
+  "difficulty": 2,
+  "display_name": "Twisted",
+  "ham_move_name": "Ez_Checker_L_twisted.move",
+  "milo_name": "ez_checker_l_twisted",
+  "song_name": "twisted",
+  "clips": {
+    "twisted_l_twisted_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "twisted_r_twisted_v0"
+    }
+  }
+}

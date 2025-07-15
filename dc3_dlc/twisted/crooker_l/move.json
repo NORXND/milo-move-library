@@ -1,0 +1,26 @@
+{
+  "name": "crooker_l",
+  "difficulty": 0,
+  "display_name": "Crooker",
+  "ham_move_name": "Ajs_A_Jerk_Right_L_twisted.move",
+  "milo_name": "ajs_a_jerk_right_l_twisted",
+  "song_name": "twisted",
+  "clips": {
+    "crooker_l_twisted_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "crooker_r_twisted_v1"
+    },
+    "crooker_l_twisted_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "point_and_knee_dip_l",
+  "difficulty": 2,
+  "display_name": "Point & Knee Dip",
+  "ham_move_name": "Ball_Change_60s_Snap_L_twisted.move",
+  "milo_name": "ball_change_60s_snap_l_twisted",
+  "song_name": "twisted",
+  "clips": {
+    "point_and_knee_dip_l_twisted_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "point_and_knee_dip_r_twisted_v0",
+      "linked_from": ""
+    },
+    "point_and_knee_dip_l_twisted_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "point_and_knee_dip_r_twisted_v1",
+      "linked_from": "point_and_knee_dip_r_twisted_v0"
+    }
+  }
+}

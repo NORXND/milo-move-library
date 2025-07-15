@@ -1,0 +1,18 @@
+{
+  "name": "mo_rider_l",
+  "difficulty": 2,
+  "display_name": "Mo Rider",
+  "ham_move_name": "Bmx_L_twisted.move",
+  "milo_name": "bmx_l_twisted",
+  "song_name": "twisted",
+  "clips": {
+    "mo_rider_l_twisted_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "mo_rider_r_twisted_v0",
+      "linked_from": ""
+    }
+  }
+}

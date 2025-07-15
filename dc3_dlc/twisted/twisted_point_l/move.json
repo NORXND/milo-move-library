@@ -1,0 +1,26 @@
+{
+  "name": "twisted_point_l",
+  "difficulty": 2,
+  "display_name": "Twisted Point",
+  "ham_move_name": "Chubby_Checker_L_twisted.move",
+  "milo_name": "chubby_checker_l_twisted",
+  "song_name": "twisted",
+  "clips": {
+    "twisted_point_l_twisted_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "twisted_point_r_twisted_v0",
+      "linked_from": ""
+    },
+    "twisted_point_l_twisted_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "twisted_point_r_twisted_v1",
+      "linked_from": ""
+    }
+  }
+}

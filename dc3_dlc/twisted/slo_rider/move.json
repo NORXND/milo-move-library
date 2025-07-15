@@ -1,0 +1,34 @@
+{
+  "name": "slo_rider",
+  "difficulty": 2,
+  "display_name": "Slo Rider",
+  "ham_move_name": "Ride_Out_Lr_twisted.move",
+  "milo_name": "ride_out_lr_twisted",
+  "song_name": "twisted",
+  "clips": {
+    "slo_rider_twisted_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slo_rider_twisted_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slo_rider_twisted_v2": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

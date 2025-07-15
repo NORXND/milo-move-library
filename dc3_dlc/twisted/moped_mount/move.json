@@ -1,0 +1,18 @@
+{
+  "name": "moped_mount",
+  "difficulty": 2,
+  "display_name": "Moped Mount",
+  "ham_move_name": "Mount_Your_Moped_twisted.move",
+  "milo_name": "mount_your_moped_twisted",
+  "song_name": "twisted",
+  "clips": {
+    "moped_mount_twisted_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

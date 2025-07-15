@@ -1,0 +1,42 @@
+{
+  "name": "multi_murga",
+  "difficulty": 2,
+  "display_name": "Multi-Murga",
+  "ham_move_name": "Murga_Ll_twisted.move",
+  "milo_name": "murga_ll_twisted",
+  "song_name": "twisted",
+  "clips": {
+    "multi_murga_twisted_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "multi_murga_twisted_v1": {
+      "avg_beats_per_second": 1.75,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "multi_murga_twisted_v2": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "multi_murga_twisted_v3": {
+      "avg_beats_per_second": 1.75,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

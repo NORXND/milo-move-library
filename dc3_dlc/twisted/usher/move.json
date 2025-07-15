@@ -1,0 +1,18 @@
+{
+  "name": "usher",
+  "difficulty": 2,
+  "display_name": "Usher",
+  "ham_move_name": "Usher_Icon_Pose_twisted.move",
+  "milo_name": "usher_icon_pose_twisted",
+  "song_name": "twisted",
+  "clips": {
+    "usher_twisted_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

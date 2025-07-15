@@ -1,0 +1,18 @@
+{
+  "name": "pinwheel_step_and_clap_r",
+  "difficulty": 2,
+  "display_name": "Pinwheel Step & Clap",
+  "ham_move_name": "Circles_And_Clap_R_twisted.move",
+  "milo_name": "circles_and_clap_r_twisted",
+  "song_name": "twisted",
+  "clips": {
+    "pinwheel_step_and_clap_r_twisted_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

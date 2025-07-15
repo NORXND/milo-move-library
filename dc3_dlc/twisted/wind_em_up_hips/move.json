@@ -1,0 +1,42 @@
+{
+  "name": "wind_em_up_hips",
+  "difficulty": 2,
+  "display_name": "Wind Em Up Hips",
+  "ham_move_name": "Wind_Em_Up_Hips_twisted.move",
+  "milo_name": "wind_em_up_hips_twisted",
+  "song_name": "twisted",
+  "clips": {
+    "wind_em_up_hips_twisted_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_em_up_hips_twisted_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_em_up_hips_twisted_v2": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_em_up_hips_twisted_v3": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

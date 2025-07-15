@@ -1,0 +1,18 @@
+{
+  "name": "slaying_l",
+  "difficulty": 2,
+  "display_name": "Slaying",
+  "ham_move_name": "Dickslaying_L_twisted.move",
+  "milo_name": "dickslaying_l_twisted",
+  "song_name": "twisted",
+  "clips": {
+    "slaying_l_twisted_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

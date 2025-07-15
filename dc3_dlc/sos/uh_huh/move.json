@@ -1,0 +1,18 @@
+{
+  "name": "uh_huh",
+  "difficulty": 2,
+  "display_name": "Uh Huh",
+  "ham_move_name": "Pelvis_Uh_Huh_sos.move",
+  "milo_name": "pelvis_uh_huh_sos",
+  "song_name": "sos",
+  "clips": {
+    "uh_huh_sos_v0": {
+      "avg_beats_per_second": 2.29,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

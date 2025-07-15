@@ -1,0 +1,34 @@
+{
+  "name": "side_roll_snap_r",
+  "difficulty": 2,
+  "display_name": "Side Roll Snap",
+  "ham_move_name": "Whip_It_Back_R_sos.move",
+  "milo_name": "whip_it_back_r_sos",
+  "song_name": "sos",
+  "clips": {
+    "side_roll_snap_r_sos_v0": {
+      "avg_beats_per_second": 2.29,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "side_roll_snap_l_sos_v0",
+      "linked_from": ""
+    },
+    "side_roll_snap_r_sos_v1": {
+      "avg_beats_per_second": 2.29,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "side_roll_snap_l_sos_v1",
+      "linked_from": ""
+    },
+    "side_roll_snap_r_sos_v2": {
+      "avg_beats_per_second": 2.29,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "side_roll_snap_l_sos_v2",
+      "linked_from": ""
+    }
+  }
+}

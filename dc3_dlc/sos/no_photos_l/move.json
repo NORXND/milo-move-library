@@ -1,0 +1,34 @@
+{
+  "name": "no_photos_l",
+  "difficulty": 2,
+  "display_name": "No Photos",
+  "ham_move_name": "Push_R_Push_L_sos.move",
+  "milo_name": "push_r_push_l_sos",
+  "song_name": "sos",
+  "clips": {
+    "no_photos_l_sos_v0": {
+      "avg_beats_per_second": 2.29,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "no_photos_l_sos_v1": {
+      "avg_beats_per_second": 2.29,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "no_photos_l_sos_v2": {
+      "avg_beats_per_second": 2.29,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

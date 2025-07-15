@@ -1,0 +1,18 @@
+{
+  "name": "cross_my_heart",
+  "difficulty": 2,
+  "display_name": "Cross My Heart",
+  "ham_move_name": "Hug_Me_sos.move",
+  "milo_name": "hug_me_sos",
+  "song_name": "sos",
+  "clips": {
+    "cross_my_heart_sos_v0": {
+      "avg_beats_per_second": 2.29,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

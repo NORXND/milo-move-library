@@ -1,0 +1,18 @@
+{
+  "name": "dig_em",
+  "difficulty": 1,
+  "display_name": "Dig Em",
+  "ham_move_name": "Loco_sos.move",
+  "milo_name": "loco_sos",
+  "song_name": "sos",
+  "clips": {
+    "dig_em_sos_v0": {
+      "avg_beats_per_second": 2.28,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

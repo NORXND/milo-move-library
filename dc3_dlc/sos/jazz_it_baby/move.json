@@ -1,0 +1,18 @@
+{
+  "name": "jazz_it_baby",
+  "difficulty": 2,
+  "display_name": "Jazz It Baby",
+  "ham_move_name": "Jazz_It_Baby_L_Foot_sos.move",
+  "milo_name": "jazz_it_baby_l_foot_sos",
+  "song_name": "sos",
+  "clips": {
+    "jazz_it_baby_sos_v0": {
+      "avg_beats_per_second": 2.28,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "the_power_snap_twist",
+  "difficulty": 2,
+  "display_name": "The Power Snap Twist",
+  "ham_move_name": "Do_It_Like_A_Queen_sos.move",
+  "milo_name": "do_it_like_a_queen_sos",
+  "song_name": "sos",
+  "clips": {
+    "the_power_snap_twist_sos_v0": {
+      "avg_beats_per_second": 2.28,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "the_power_snap_twist_sos_v1": {
+      "avg_beats_per_second": 2.28,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

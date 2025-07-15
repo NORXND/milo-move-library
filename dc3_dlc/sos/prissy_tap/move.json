@@ -1,0 +1,42 @@
+{
+  "name": "prissy_tap",
+  "difficulty": 2,
+  "display_name": "Prissy Tap",
+  "ham_move_name": "Little_Kitty_sos.move",
+  "milo_name": "little_kitty_sos",
+  "song_name": "sos",
+  "clips": {
+    "prissy_tap_sos_v0": {
+      "avg_beats_per_second": 2.29,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "prissy_tap_sos_v1": {
+      "avg_beats_per_second": 2.28,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "prissy_tap_sos_v2": {
+      "avg_beats_per_second": 1.95,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "prissy_tap_sos_v3": {
+      "avg_beats_per_second": 2.28,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

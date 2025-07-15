@@ -1,0 +1,42 @@
+{
+  "name": "knockout",
+  "difficulty": 0,
+  "display_name": "Knockout",
+  "ham_move_name": "Boxing_Groove_sos.move",
+  "milo_name": "boxing_groove_sos",
+  "song_name": "sos",
+  "clips": {
+    "knockout_sos_v0": {
+      "avg_beats_per_second": 2.28,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "knockout_sos_v1": {
+      "avg_beats_per_second": 2.28,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "knockout_sos_v2": {
+      "avg_beats_per_second": 2.28,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "knockout_sos_v3": {
+      "avg_beats_per_second": 2.28,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

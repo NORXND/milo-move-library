@@ -1,0 +1,18 @@
+{
+  "name": "d_and_233_velopp_and_233_and_despair",
+  "difficulty": 2,
+  "display_name": "D<&#233>velopp<&#233> / Despair",
+  "ham_move_name": "Click_And_Pose_sos.move",
+  "milo_name": "click_and_pose_sos",
+  "song_name": "sos",
+  "clips": {
+    "d_and_233_velopp_and_233_and_despair_sos_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "lunge_and_the_technique",
+  "difficulty": 2,
+  "display_name": "Lunge / The Technique",
+  "ham_move_name": "Lay_Back_sos.move",
+  "milo_name": "lay_back_sos",
+  "song_name": "sos",
+  "clips": {
+    "lunge_and_the_technique_sos_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

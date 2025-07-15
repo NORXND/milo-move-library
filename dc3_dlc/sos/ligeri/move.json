@@ -1,0 +1,18 @@
+{
+  "name": "ligeri",
+  "difficulty": 0,
+  "display_name": "Ligeri",
+  "ham_move_name": "Down_And_Snap_sos.move",
+  "milo_name": "down_and_snap_sos",
+  "song_name": "sos",
+  "clips": {
+    "ligeri_sos_v0": {
+      "avg_beats_per_second": 2.29,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

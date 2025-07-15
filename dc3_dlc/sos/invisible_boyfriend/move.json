@@ -1,0 +1,26 @@
+{
+  "name": "invisible_boyfriend",
+  "difficulty": 2,
+  "display_name": "Invisible Boyfriend",
+  "ham_move_name": "Got_Me_Crazy_sos.move",
+  "milo_name": "got_me_crazy_sos",
+  "song_name": "sos",
+  "clips": {
+    "invisible_boyfriend_sos_v0": {
+      "avg_beats_per_second": 2.29,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "invisible_boyfriend_sos_v1": {
+      "avg_beats_per_second": 2.28,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

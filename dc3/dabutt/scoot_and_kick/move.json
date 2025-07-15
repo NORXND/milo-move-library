@@ -1,0 +1,18 @@
+{
+  "name": "scoot_and_kick",
+  "difficulty": 2,
+  "display_name": "Scoot & Kick",
+  "ham_move_name": "Shoom_Shoom_dabutt.move",
+  "milo_name": "shoom_shoom_dabutt",
+  "song_name": "dabutt",
+  "clips": {
+    "scoot_and_kick_dabutt_v0": {
+      "avg_beats_per_second": 1.61,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

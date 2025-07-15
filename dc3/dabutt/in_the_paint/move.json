@@ -1,0 +1,18 @@
+{
+  "name": "in_the_paint",
+  "difficulty": 2,
+  "display_name": "In The Paint",
+  "ham_move_name": "Basketball_dabutt.move",
+  "milo_name": "basketball_dabutt",
+  "song_name": "dabutt",
+  "clips": {
+    "in_the_paint_dabutt_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

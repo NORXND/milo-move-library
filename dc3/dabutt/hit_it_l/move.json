@@ -1,0 +1,42 @@
+{
+  "name": "hit_it_l",
+  "difficulty": 2,
+  "display_name": "Hit It",
+  "ham_move_name": "The_Grind_L_dabutt.move",
+  "milo_name": "the_grind_l_dabutt",
+  "song_name": "dabutt",
+  "clips": {
+    "hit_it_l_dabutt_v3": {
+      "avg_beats_per_second": 1.61,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "handshake_it_r_dabutt_v3",
+      "linked_from": "handshake_it_r_dabutt_v2"
+    },
+    "hit_it_l_dabutt_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "handshake_it_r_dabutt_v0",
+      "linked_from": ""
+    },
+    "hit_it_l_dabutt_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "handshake_it_r_dabutt_v1",
+      "linked_from": "handshake_it_r_dabutt_v0"
+    },
+    "hit_it_l_dabutt_v2": {
+      "avg_beats_per_second": 1.62,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "handshake_it_r_dabutt_v2",
+      "linked_from": ""
+    }
+  }
+}

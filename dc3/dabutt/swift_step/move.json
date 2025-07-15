@@ -1,0 +1,34 @@
+{
+  "name": "swift_step",
+  "difficulty": 2,
+  "display_name": "Swift Step",
+  "ham_move_name": "Swift_Step_dabutt.move",
+  "milo_name": "swift_step_dabutt",
+  "song_name": "dabutt",
+  "clips": {
+    "swift_step_dabutt_v1": {
+      "avg_beats_per_second": 1.61,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swift_step_dabutt_v2": {
+      "avg_beats_per_second": 1.61,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swift_step_dabutt_v0": {
+      "avg_beats_per_second": 1.61,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

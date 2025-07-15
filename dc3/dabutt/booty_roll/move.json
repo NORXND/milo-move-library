@@ -1,0 +1,58 @@
+{
+  "name": "booty_roll",
+  "difficulty": 2,
+  "display_name": "Booty Roll",
+  "ham_move_name": "Da_Butt_dabutt.move",
+  "milo_name": "da_butt_dabutt",
+  "song_name": "dabutt",
+  "clips": {
+    "booty_roll_dabutt_v4": {
+      "avg_beats_per_second": 1.39,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "booty_roll_dabutt_v5": {
+      "avg_beats_per_second": 1.61,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "booty_roll_dabutt_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "booty_roll_dabutt_v1": {
+      "avg_beats_per_second": 1.61,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "booty_roll_dabutt_v2": {
+      "avg_beats_per_second": 1.39,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "booty_roll_dabutt_v3": {
+      "avg_beats_per_second": 1.61,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

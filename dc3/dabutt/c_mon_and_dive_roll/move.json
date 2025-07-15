@@ -1,0 +1,18 @@
+{
+  "name": "c_mon_and_dive_roll",
+  "difficulty": 2,
+  "display_name": "C'mon / Dive Roll",
+  "ham_move_name": "Rock_My_World_dabutt.move",
+  "milo_name": "rock_my_world_dabutt",
+  "song_name": "dabutt",
+  "clips": {
+    "c_mon_and_dive_roll_dabutt_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

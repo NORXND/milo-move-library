@@ -1,0 +1,26 @@
+{
+  "name": "jazz_square_and_clap",
+  "difficulty": 2,
+  "display_name": "Jazz Square & Clap",
+  "ham_move_name": "Jazz_Square_Clap_dabutt.move",
+  "milo_name": "jazz_square_clap_dabutt",
+  "song_name": "dabutt",
+  "clips": {
+    "jazz_square_and_clap_dabutt_v0": {
+      "avg_beats_per_second": 1.61,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jazz_square_and_clap_dabutt_v1": {
+      "avg_beats_per_second": 1.61,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

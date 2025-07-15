@@ -1,0 +1,26 @@
+{
+  "name": "conga_solo",
+  "difficulty": 2,
+  "display_name": "Conga Solo",
+  "ham_move_name": "Soldier_dabutt.move",
+  "milo_name": "soldier_dabutt",
+  "song_name": "dabutt",
+  "clips": {
+    "conga_solo_dabutt_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "conga_solo_dabutt_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

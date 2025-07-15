@@ -1,0 +1,42 @@
+{
+  "name": "handshake_it_r",
+  "difficulty": 2,
+  "display_name": "Handshake It",
+  "ham_move_name": "The_Grind_R_dabutt.move",
+  "milo_name": "the_grind_r_dabutt",
+  "song_name": "dabutt",
+  "clips": {
+    "handshake_it_r_dabutt_v3": {
+      "avg_beats_per_second": 1.63,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "hit_it_l_dabutt_v3"
+    },
+    "handshake_it_r_dabutt_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "hit_it_l_dabutt_v1",
+      "linked_from": "hit_it_l_dabutt_v0"
+    },
+    "handshake_it_r_dabutt_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "hit_it_l_dabutt_v1"
+    },
+    "handshake_it_r_dabutt_v2": {
+      "avg_beats_per_second": 1.61,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "hit_it_l_dabutt_v3",
+      "linked_from": "hit_it_l_dabutt_v2"
+    }
+  }
+}

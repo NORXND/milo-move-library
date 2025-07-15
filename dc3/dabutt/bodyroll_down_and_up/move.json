@@ -1,0 +1,26 @@
+{
+  "name": "bodyroll_down_and_up",
+  "difficulty": 2,
+  "display_name": "Bodyroll Down & Up",
+  "ham_move_name": "Roll_Y_Poll_Y_dabutt.move",
+  "milo_name": "roll_y_poll_y_dabutt",
+  "song_name": "dabutt",
+  "clips": {
+    "bodyroll_down_and_up_dabutt_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bodyroll_down_and_up_dabutt_v1": {
+      "avg_beats_per_second": 1.61,
+      "genre": "other",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

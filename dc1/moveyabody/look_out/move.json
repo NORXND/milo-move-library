@@ -1,0 +1,18 @@
+{
+  "name": "look_out",
+  "difficulty": 1,
+  "display_name": "Look Out",
+  "ham_move_name": "Step_Out_Look_moveyabody.move",
+  "milo_name": "step_out_look_moveyabody",
+  "song_name": "moveyabody",
+  "clips": {
+    "look_out_moveyabody_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

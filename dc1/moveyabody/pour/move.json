@@ -1,0 +1,18 @@
+{
+  "name": "pour",
+  "difficulty": 0,
+  "display_name": "Pour",
+  "ham_move_name": "End_Pose_moveyabody.move",
+  "milo_name": "end_pose_moveyabody",
+  "song_name": "moveyabody",
+  "clips": {
+    "pour_moveyabody_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "finishing_move_moveyabody_v1063",
+      "linked_from": ""
+    }
+  }
+}

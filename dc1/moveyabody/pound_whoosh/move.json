@@ -1,0 +1,18 @@
+{
+  "name": "pound_whoosh",
+  "difficulty": 2,
+  "display_name": "Pound Whoosh",
+  "ham_move_name": "Pound_Whoosh_Down_moveyabody.move",
+  "milo_name": "pound_whoosh_down_moveyabody",
+  "song_name": "moveyabody",
+  "clips": {
+    "pound_whoosh_moveyabody_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

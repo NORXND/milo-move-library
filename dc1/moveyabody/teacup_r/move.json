@@ -1,0 +1,26 @@
+{
+  "name": "teacup_r",
+  "difficulty": 0,
+  "display_name": "Teacup",
+  "ham_move_name": "Side_Step_Groove_R_moveyabody.move",
+  "milo_name": "side_step_groove_r_moveyabody",
+  "song_name": "moveyabody",
+  "clips": {
+    "teacup_r_moveyabody_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "teacup_l_moveyabody_v0",
+      "linked_from": ""
+    },
+    "teacup_r_moveyabody_v1": {
+      "avg_beats_per_second": 2.02,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "teacup_l_moveyabody_v1",
+      "linked_from": ""
+    }
+  }
+}

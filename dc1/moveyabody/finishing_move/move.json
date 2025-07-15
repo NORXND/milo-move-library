@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_moveyabody_v1063",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "End_Pose_2_moveyabody.move",
+  "milo_name": "end_pose_2_moveyabody",
+  "song_name": "moveyabody",
+  "clips": {
+    "finishing_move_moveyabody_v1063": {
+      "avg_beats_per_second": 2.02,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": "pour_moveyabody_v0"
+    }
+  }
+}

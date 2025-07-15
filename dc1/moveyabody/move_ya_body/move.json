@@ -1,0 +1,50 @@
+{
+  "name": "move_ya_body",
+  "difficulty": 1,
+  "display_name": "Move Ya Body",
+  "ham_move_name": "Sweep_Genie_Snap_moveyabody.move",
+  "milo_name": "sweep_genie_snap_moveyabody",
+  "song_name": "moveyabody",
+  "clips": {
+    "move_ya_body_moveyabody_v4": {
+      "avg_beats_per_second": 2.02,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "move_ya_body_moveyabody_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "move_ya_body_moveyabody_v1": {
+      "avg_beats_per_second": 2.02,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "move_ya_body_moveyabody_v2": {
+      "avg_beats_per_second": 2.02,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "move_ya_body_moveyabody_v3": {
+      "avg_beats_per_second": 2.02,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

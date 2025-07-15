@@ -1,0 +1,18 @@
+{
+  "name": "_round_and_shimmy",
+  "difficulty": 2,
+  "display_name": "'round & Shimmy",
+  "ham_move_name": "Fergz_londonbridge.move",
+  "milo_name": "fergz_londonbridge",
+  "song_name": "londonbridge",
+  "clips": {
+    "_round_and_shimmy_londonbridge_v0": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "slick_step_side",
+  "difficulty": 2,
+  "display_name": "Slick Step Side",
+  "ham_move_name": "Nudges_londonbridge.move",
+  "milo_name": "nudges_londonbridge",
+  "song_name": "londonbridge",
+  "clips": {
+    "slick_step_side_londonbridge_v0": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slick_step_side_londonbridge_v1": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

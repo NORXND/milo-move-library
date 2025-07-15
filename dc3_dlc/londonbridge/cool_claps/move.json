@@ -1,0 +1,18 @@
+{
+  "name": "cool_claps",
+  "difficulty": 2,
+  "display_name": "Cool Claps",
+  "ham_move_name": "Cool_Claps_londonbridge.move",
+  "milo_name": "cool_claps_londonbridge",
+  "song_name": "londonbridge",
+  "clips": {
+    "cool_claps_londonbridge_v0": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

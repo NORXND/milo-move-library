@@ -1,0 +1,18 @@
+{
+  "name": "inurashii",
+  "difficulty": 2,
+  "display_name": "Inurashii",
+  "ham_move_name": "Roc_Drop_londonbridge.move",
+  "milo_name": "roc_drop_londonbridge",
+  "song_name": "londonbridge",
+  "clips": {
+    "inurashii_londonbridge_v0": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

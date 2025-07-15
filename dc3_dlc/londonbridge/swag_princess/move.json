@@ -1,0 +1,18 @@
+{
+  "name": "swag_princess",
+  "difficulty": 2,
+  "display_name": "Swag Princess",
+  "ham_move_name": "Loosey_Goosey_londonbridge.move",
+  "milo_name": "loosey_goosey_londonbridge",
+  "song_name": "londonbridge",
+  "clips": {
+    "swag_princess_londonbridge_v0": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

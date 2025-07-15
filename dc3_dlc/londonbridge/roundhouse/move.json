@@ -1,0 +1,26 @@
+{
+  "name": "roundhouse",
+  "difficulty": 2,
+  "display_name": "Roundhouse",
+  "ham_move_name": "Knee_Knocks_londonbridge.move",
+  "milo_name": "knee_knocks_londonbridge",
+  "song_name": "londonbridge",
+  "clips": {
+    "roundhouse_londonbridge_v0": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roundhouse_londonbridge_v1": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

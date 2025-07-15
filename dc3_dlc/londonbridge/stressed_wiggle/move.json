@@ -1,0 +1,18 @@
+{
+  "name": "stressed_wiggle",
+  "difficulty": 2,
+  "display_name": "Stressed Wiggle",
+  "ham_move_name": "Shake_It_Up_londonbridge.move",
+  "milo_name": "shake_it_up_londonbridge",
+  "song_name": "londonbridge",
+  "clips": {
+    "stressed_wiggle_londonbridge_v0": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

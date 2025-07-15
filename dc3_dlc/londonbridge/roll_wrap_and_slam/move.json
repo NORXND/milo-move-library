@@ -1,0 +1,18 @@
+{
+  "name": "roll_wrap_and_slam",
+  "difficulty": 2,
+  "display_name": "Roll Wrap & Slam",
+  "ham_move_name": "Wrap_Off_londonbridge.move",
+  "milo_name": "wrap_off_londonbridge",
+  "song_name": "londonbridge",
+  "clips": {
+    "roll_wrap_and_slam_londonbridge_v0": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

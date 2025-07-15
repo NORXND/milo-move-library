@@ -1,0 +1,26 @@
+{
+  "name": "ragdoll_l",
+  "difficulty": 2,
+  "display_name": "Ragdoll",
+  "ham_move_name": "Ragdoll_L_londonbridge.move",
+  "milo_name": "ragdoll_l_londonbridge",
+  "song_name": "londonbridge",
+  "clips": {
+    "ragdoll_l_londonbridge_v0": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "ragdoll_r_londonbridge_v1",
+      "linked_from": "ragdoll_r_londonbridge_v0"
+    },
+    "ragdoll_l_londonbridge_v1": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "ragdoll_r_londonbridge_v1"
+    }
+  }
+}

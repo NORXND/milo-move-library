@@ -1,0 +1,18 @@
+{
+  "name": "wipe_out_and_drake",
+  "difficulty": 2,
+  "display_name": "Wipe Out / Drake",
+  "ham_move_name": "Knock_It_Out_londonbridge.move",
+  "milo_name": "knock_it_out_londonbridge",
+  "song_name": "londonbridge",
+  "clips": {
+    "wipe_out_and_drake_londonbridge_v0": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

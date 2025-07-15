@@ -1,0 +1,26 @@
+{
+  "name": "come_hither",
+  "difficulty": 2,
+  "display_name": "Come Hither",
+  "ham_move_name": "Front_Back_londonbridge.move",
+  "milo_name": "front_back_londonbridge",
+  "song_name": "londonbridge",
+  "clips": {
+    "come_hither_londonbridge_v0": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "come_hither_londonbridge_v1": {
+      "avg_beats_per_second": 1.3,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

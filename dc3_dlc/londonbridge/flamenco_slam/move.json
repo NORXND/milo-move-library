@@ -1,0 +1,26 @@
+{
+  "name": "flamenco_slam",
+  "difficulty": 2,
+  "display_name": "Flamenco Slam",
+  "ham_move_name": "Sassy_Lady_londonbridge.move",
+  "milo_name": "sassy_lady_londonbridge",
+  "song_name": "londonbridge",
+  "clips": {
+    "flamenco_slam_londonbridge_v0": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "flamenco_slam_londonbridge_v1": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

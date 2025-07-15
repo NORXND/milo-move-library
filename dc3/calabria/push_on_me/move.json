@@ -1,0 +1,18 @@
+{
+  "name": "push_on_me",
+  "difficulty": 2,
+  "display_name": "Push On Me",
+  "ham_move_name": "Push_On_Me_calabria.move",
+  "milo_name": "push_on_me_calabria",
+  "song_name": "calabria",
+  "clips": {
+    "push_on_me_calabria_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

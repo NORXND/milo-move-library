@@ -1,0 +1,18 @@
+{
+  "name": "matador_out_l",
+  "difficulty": 2,
+  "display_name": "Matador Out",
+  "ham_move_name": "Matador_L_calabria.move",
+  "milo_name": "matador_l_calabria",
+  "song_name": "calabria",
+  "clips": {
+    "matador_out_l_calabria_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "matador_out_r_calabria_v0"
+    }
+  }
+}

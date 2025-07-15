@@ -1,0 +1,18 @@
+{
+  "name": "look_out_below",
+  "difficulty": 2,
+  "display_name": "Look Out Below",
+  "ham_move_name": "Look_Out_Below_calabria.move",
+  "milo_name": "look_out_below_calabria",
+  "song_name": "calabria",
+  "clips": {
+    "look_out_below_calabria_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

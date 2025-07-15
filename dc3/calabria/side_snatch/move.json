@@ -1,0 +1,34 @@
+{
+  "name": "side_snatch",
+  "difficulty": 0,
+  "display_name": "Side Snatch",
+  "ham_move_name": "I_Feel_Love_calabria.move",
+  "milo_name": "i_feel_love_calabria",
+  "song_name": "calabria",
+  "clips": {
+    "side_snatch_calabria_v2": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "side_snatch_calabria_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "side_snatch_calabria_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

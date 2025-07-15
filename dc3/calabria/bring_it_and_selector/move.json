@@ -1,0 +1,18 @@
+{
+  "name": "bring_it_and_selector",
+  "difficulty": 2,
+  "display_name": "Bring It / Selector",
+  "ham_move_name": "Selector_calabria.move",
+  "milo_name": "selector_calabria",
+  "song_name": "calabria",
+  "clips": {
+    "bring_it_and_selector_calabria_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

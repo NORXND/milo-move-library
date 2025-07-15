@@ -1,0 +1,18 @@
+{
+  "name": "speed_skate_l",
+  "difficulty": 2,
+  "display_name": "Speed Skate",
+  "ham_move_name": "Skates_L_calabria.move",
+  "milo_name": "skates_l_calabria",
+  "song_name": "calabria",
+  "clips": {
+    "speed_skate_l_calabria_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "speed_skate_r_calabria_v0"
+    }
+  }
+}

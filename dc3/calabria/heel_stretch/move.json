@@ -1,0 +1,26 @@
+{
+  "name": "heel_stretch",
+  "difficulty": 2,
+  "display_name": "Heel Stretch",
+  "ham_move_name": "Twisted_Ankle_calabria.move",
+  "milo_name": "twisted_ankle_calabria",
+  "song_name": "calabria",
+  "clips": {
+    "heel_stretch_calabria_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heel_stretch_calabria_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

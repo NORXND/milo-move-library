@@ -1,0 +1,26 @@
+{
+  "name": "corkscrew",
+  "difficulty": 2,
+  "display_name": "Corkscrew",
+  "ham_move_name": "Corkscrew_calabria.move",
+  "milo_name": "corkscrew_calabria",
+  "song_name": "calabria",
+  "clips": {
+    "corkscrew_calabria_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "corkscrew_calabria_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

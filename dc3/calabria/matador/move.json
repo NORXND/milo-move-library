@@ -1,0 +1,34 @@
+{
+  "name": "matador",
+  "difficulty": 2,
+  "display_name": "Matador",
+  "ham_move_name": "Come_Round_Now_calabria.move",
+  "milo_name": "come_round_now_calabria",
+  "song_name": "calabria",
+  "clips": {
+    "matador_calabria_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "matador_calabria_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "matador_calabria_v2": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

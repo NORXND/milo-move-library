@@ -1,0 +1,26 @@
+{
+  "name": "back_up",
+  "difficulty": 2,
+  "display_name": "Back Up",
+  "ham_move_name": "Back_Up_calabria.move",
+  "milo_name": "back_up_calabria",
+  "song_name": "calabria",
+  "clips": {
+    "back_up_calabria_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "back_up_calabria_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "dutty_whine",
+  "difficulty": 2,
+  "display_name": "Dutty Whine",
+  "ham_move_name": "Dutty_Whine_calabria.move",
+  "milo_name": "dutty_whine_calabria",
+  "song_name": "calabria",
+  "clips": {
+    "dutty_whine_calabria_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dutty_whine_calabria_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

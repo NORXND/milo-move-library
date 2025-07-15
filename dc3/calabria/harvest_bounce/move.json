@@ -1,0 +1,42 @@
+{
+  "name": "harvest_bounce",
+  "difficulty": 2,
+  "display_name": "Harvest Bounce",
+  "ham_move_name": "Willybounce_Low_calabria.move",
+  "milo_name": "willybounce_low_calabria",
+  "song_name": "calabria",
+  "clips": {
+    "harvest_bounce_calabria_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "harvest_bounce_calabria_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "harvest_bounce_calabria_v2": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "harvest_bounce_calabria_v3": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

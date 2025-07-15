@@ -1,0 +1,34 @@
+{
+  "name": "double_punch_r",
+  "difficulty": 2,
+  "display_name": "Double Punch",
+  "ham_move_name": "Double_Punch_R_calabria.move",
+  "milo_name": "double_punch_r_calabria",
+  "song_name": "calabria",
+  "clips": {
+    "double_punch_r_calabria_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_punch_r_calabria_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_punch_r_calabria_v2": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

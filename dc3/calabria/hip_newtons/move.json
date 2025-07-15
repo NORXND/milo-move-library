@@ -1,0 +1,26 @@
+{
+  "name": "hip_newtons",
+  "difficulty": 2,
+  "display_name": "Hip Newtons",
+  "ham_move_name": "Newtons_Hip_Cradle_calabria.move",
+  "milo_name": "newtons_hip_cradle_calabria",
+  "song_name": "calabria",
+  "clips": {
+    "hip_newtons_calabria_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_newtons_calabria_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

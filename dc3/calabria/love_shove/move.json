@@ -1,0 +1,42 @@
+{
+  "name": "love_shove",
+  "difficulty": 2,
+  "display_name": "Love shove",
+  "ham_move_name": "Back_Against_The_Wall_calabria.move",
+  "milo_name": "back_against_the_wall_calabria",
+  "song_name": "calabria",
+  "clips": {
+    "love_shove_calabria_v0": {
+      "avg_beats_per_second": 1.81,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "love_shove_calabria_v1": {
+      "avg_beats_per_second": 1.81,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "love_shove_calabria_v2": {
+      "avg_beats_per_second": 1.81,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "love_shove_calabria_v3": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

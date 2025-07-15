@@ -1,0 +1,26 @@
+{
+  "name": "see_dat",
+  "difficulty": 2,
+  "display_name": "See Dat",
+  "ham_move_name": "See_Dat_calabria.move",
+  "milo_name": "see_dat_calabria",
+  "song_name": "calabria",
+  "clips": {
+    "see_dat_calabria_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "see_dat_calabria_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

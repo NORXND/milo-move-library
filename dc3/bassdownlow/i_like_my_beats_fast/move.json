@@ -1,0 +1,18 @@
+{
+  "name": "i_like_my_beats_fast",
+  "difficulty": 2,
+  "display_name": "I Like My Beats Fast",
+  "ham_move_name": "I_Like_My_Beats_Fast_bassdownlow.move",
+  "milo_name": "i_like_my_beats_fast_bassdownlow",
+  "song_name": "bassdownlow",
+  "clips": {
+    "i_like_my_beats_fast_bassdownlow_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

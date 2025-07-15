@@ -1,0 +1,34 @@
+{
+  "name": "bash_the_pavement_r",
+  "difficulty": 2,
+  "display_name": "Bash The Pavement",
+  "ham_move_name": "Slap_The_Floor_R_bassdownlow.move",
+  "milo_name": "slap_the_floor_r_bassdownlow",
+  "song_name": "bassdownlow",
+  "clips": {
+    "bash_the_pavement_r_bassdownlow_v2": {
+      "avg_beats_per_second": 1.88,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "bash_the_pavement_l_bassdownlow_v1",
+      "linked_from": ""
+    },
+    "bash_the_pavement_r_bassdownlow_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "bash_the_pavement_l_bassdownlow_v0",
+      "linked_from": ""
+    },
+    "bash_the_pavement_r_bassdownlow_v1": {
+      "avg_beats_per_second": 1.89,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "bash_the_pavement_l_bassdownlow_v0"
+    }
+  }
+}

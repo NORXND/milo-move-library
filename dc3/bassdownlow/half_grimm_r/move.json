@@ -1,0 +1,26 @@
+{
+  "name": "half_grimm_r",
+  "difficulty": 2,
+  "display_name": "Half Grimm",
+  "ham_move_name": "Groove_R_bassdownlow.move",
+  "milo_name": "groove_r_bassdownlow",
+  "song_name": "bassdownlow",
+  "clips": {
+    "half_grimm_r_bassdownlow_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "half_grimm_r_bassdownlow_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

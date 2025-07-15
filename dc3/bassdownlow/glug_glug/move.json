@@ -1,0 +1,18 @@
+{
+  "name": "glug_glug",
+  "difficulty": 2,
+  "display_name": "Glug Glug",
+  "ham_move_name": "Duw_Rl_bassdownlow.move",
+  "milo_name": "duw_rl_bassdownlow",
+  "song_name": "bassdownlow",
+  "clips": {
+    "glug_glug_bassdownlow_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

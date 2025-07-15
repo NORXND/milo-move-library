@@ -1,0 +1,50 @@
+{
+  "name": "power_down",
+  "difficulty": 2,
+  "display_name": "Power Down",
+  "ham_move_name": "Bass_Down_Low_bassdownlow.move",
+  "milo_name": "bass_down_low_bassdownlow",
+  "song_name": "bassdownlow",
+  "clips": {
+    "power_down_bassdownlow_v3": {
+      "avg_beats_per_second": 1.88,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "power_down_bassdownlow_v4": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "power_down_bassdownlow_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "power_down_bassdownlow_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "power_down_bassdownlow_v2": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

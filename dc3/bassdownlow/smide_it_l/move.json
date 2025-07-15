@@ -1,0 +1,34 @@
+{
+  "name": "smide_it_l",
+  "difficulty": 2,
+  "display_name": "Smide It",
+  "ham_move_name": "Step_Punch_Slide_L_bassdownlow.move",
+  "milo_name": "step_punch_slide_l_bassdownlow",
+  "song_name": "bassdownlow",
+  "clips": {
+    "smide_it_l_bassdownlow_v2": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "smide_it_r_bassdownlow_v2"
+    },
+    "smide_it_l_bassdownlow_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "smide_it_r_bassdownlow_v0"
+    },
+    "smide_it_l_bassdownlow_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "smide_it_r_bassdownlow_v1"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "brockton_r",
+  "difficulty": 2,
+  "display_name": "Brockton",
+  "ham_move_name": "Roll_Down_Low_R_bassdownlow.move",
+  "milo_name": "roll_down_low_r_bassdownlow",
+  "song_name": "bassdownlow",
+  "clips": {
+    "brockton_r_bassdownlow_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "brockton_l_bassdownlow_v0",
+      "linked_from": ""
+    },
+    "brockton_r_bassdownlow_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "brockton_l_bassdownlow_v1",
+      "linked_from": ""
+    },
+    "brockton_r_bassdownlow_v2": {
+      "avg_beats_per_second": 1.88,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "brockton_l_bassdownlow_v2",
+      "linked_from": ""
+    }
+  }
+}

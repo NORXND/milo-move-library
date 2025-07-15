@@ -1,0 +1,26 @@
+{
+  "name": "hug_life",
+  "difficulty": 2,
+  "display_name": "Hug Life",
+  "ham_move_name": "Mitts_In_The_Oven_bassdownlow.move",
+  "milo_name": "mitts_in_the_oven_bassdownlow",
+  "song_name": "bassdownlow",
+  "clips": {
+    "hug_life_bassdownlow_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hug_life_bassdownlow_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

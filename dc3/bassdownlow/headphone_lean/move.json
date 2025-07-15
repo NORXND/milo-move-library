@@ -1,0 +1,26 @@
+{
+  "name": "headphone_lean",
+  "difficulty": 2,
+  "display_name": "Headphone Lean",
+  "ham_move_name": "Headphone_Walk_bassdownlow.move",
+  "milo_name": "headphone_walk_bassdownlow",
+  "song_name": "bassdownlow",
+  "clips": {
+    "headphone_lean_bassdownlow_v1": {
+      "avg_beats_per_second": 1.89,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "headphone_lean_bassdownlow_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

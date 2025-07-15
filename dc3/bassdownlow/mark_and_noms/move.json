@@ -1,0 +1,26 @@
+{
+  "name": "mark_and_noms",
+  "difficulty": 2,
+  "display_name": "Mark & Noms",
+  "ham_move_name": "Get_Get_Get_A_Lick_bassdownlow.move",
+  "milo_name": "get_get_get_a_lick_bassdownlow",
+  "song_name": "bassdownlow",
+  "clips": {
+    "mark_and_noms_bassdownlow_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "mark_and_noms_bassdownlow_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

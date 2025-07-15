@@ -1,0 +1,34 @@
+{
+  "name": "pump_and_smack_l",
+  "difficulty": 2,
+  "display_name": "Pump & Smack",
+  "ham_move_name": "Pull_And_Drop_L_bassdownlow.move",
+  "milo_name": "pull_and_drop_l_bassdownlow",
+  "song_name": "bassdownlow",
+  "clips": {
+    "pump_and_smack_l_bassdownlow_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "pump_and_smack_r_bassdownlow_v1"
+    },
+    "pump_and_smack_l_bassdownlow_v2": {
+      "avg_beats_per_second": 1.88,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "pump_and_smack_r_bassdownlow_v2"
+    },
+    "pump_and_smack_l_bassdownlow_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "pump_and_smack_r_bassdownlow_v0"
+    }
+  }
+}

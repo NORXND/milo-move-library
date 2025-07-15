@@ -1,0 +1,26 @@
+{
+  "name": "dodo_flick_r",
+  "difficulty": 2,
+  "display_name": "Dodo Flick",
+  "ham_move_name": "Lock_L_Lock_R_bassdownlow.move",
+  "milo_name": "lock_l_lock_r_bassdownlow",
+  "song_name": "bassdownlow",
+  "clips": {
+    "dodo_flick_r_bassdownlow_v1": {
+      "avg_beats_per_second": 1.89,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dodo_flick_r_bassdownlow_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

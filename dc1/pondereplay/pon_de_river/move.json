@@ -1,0 +1,18 @@
+{
+  "name": "pon_de_river",
+  "difficulty": 0,
+  "display_name": "Pon De River",
+  "ham_move_name": "Pon_De_River_pondereplay.move",
+  "milo_name": "pon_de_river_pondereplay",
+  "song_name": "pondereplay",
+  "clips": {
+    "pon_de_river_pondereplay_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

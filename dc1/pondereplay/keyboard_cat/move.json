@@ -1,0 +1,18 @@
+{
+  "name": "keyboard_cat",
+  "difficulty": 0,
+  "display_name": "Keyboard Cat",
+  "ham_move_name": "Keyboard_Cat_pondereplay.move",
+  "milo_name": "keyboard_cat_pondereplay",
+  "song_name": "pondereplay",
+  "clips": {
+    "keyboard_cat_pondereplay_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

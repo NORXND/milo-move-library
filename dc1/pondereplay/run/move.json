@@ -1,0 +1,18 @@
+{
+  "name": "run",
+  "difficulty": 1,
+  "display_name": "Run",
+  "ham_move_name": "Run_pondereplay.move",
+  "milo_name": "run_pondereplay",
+  "song_name": "pondereplay",
+  "clips": {
+    "run_pondereplay_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

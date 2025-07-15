@@ -1,0 +1,90 @@
+{
+  "name": "turn_it_up",
+  "difficulty": 2,
+  "display_name": "Turn It Up",
+  "ham_move_name": "Turn_It_Up_pondereplay.move",
+  "milo_name": "turn_it_up_pondereplay",
+  "song_name": "pondereplay",
+  "clips": {
+    "turn_it_up_pondereplay_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "turn_it_up_pondereplay_v5": {
+      "avg_beats_per_second": 1.65,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "turn_it_up_pondereplay_v3": {
+      "avg_beats_per_second": 1.65,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "turn_it_up_pondereplay_v8": {
+      "avg_beats_per_second": 1.65,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "turn_it_up_pondereplay_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "turn_it_up_pondereplay_v6": {
+      "avg_beats_per_second": 1.65,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "turn_it_up_pondereplay_v4": {
+      "avg_beats_per_second": 1.65,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "turn_it_up_pondereplay_v9": {
+      "avg_beats_per_second": 1.65,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "turn_it_up_pondereplay_v2": {
+      "avg_beats_per_second": 1.65,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "turn_it_up_pondereplay_v7": {
+      "avg_beats_per_second": 1.65,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "give_me_a_run",
+  "difficulty": 2,
+  "display_name": "Give Me A Run",
+  "ham_move_name": "Swing_Run_pondereplay.move",
+  "milo_name": "swing_run_pondereplay",
+  "song_name": "pondereplay",
+  "clips": {
+    "give_me_a_run_pondereplay_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

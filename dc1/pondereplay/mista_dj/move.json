@@ -1,0 +1,50 @@
+{
+  "name": "mista_dj",
+  "difficulty": 0,
+  "display_name": "Mista DJ",
+  "ham_move_name": "Mista_DJ_pondereplay.move",
+  "milo_name": "mista_dj_pondereplay",
+  "song_name": "pondereplay",
+  "clips": {
+    "mista_dj_pondereplay_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "mista_dj_pondereplay_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "mista_dj_pondereplay_v2": {
+      "avg_beats_per_second": 1.65,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "mista_dj_pondereplay_v3": {
+      "avg_beats_per_second": 1.41,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "mista_dj_pondereplay_v4": {
+      "avg_beats_per_second": 1.65,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

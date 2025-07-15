@@ -1,0 +1,18 @@
+{
+  "name": "riseon_and_set",
+  "difficulty": 0,
+  "display_name": "RiseOn & Set",
+  "ham_move_name": "Rise_And_Set_pondereplay.move",
+  "milo_name": "rise_and_set_pondereplay",
+  "song_name": "pondereplay",
+  "clips": {
+    "riseon_and_set_pondereplay_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

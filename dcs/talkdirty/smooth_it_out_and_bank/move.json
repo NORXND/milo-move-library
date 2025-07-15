@@ -1,0 +1,18 @@
+{
+  "name": "smooth_it_out_and_bank",
+  "difficulty": 1,
+  "display_name": "Smooth It Out / Bank",
+  "ham_move_name": "Smooth_It_Out_And_Bank_talkdirty.move",
+  "milo_name": "smooth_it_out_and_bank_talkdirty",
+  "song_name": "talkdirty",
+  "clips": {
+    "smooth_it_out_and_bank_talkdirty_v0": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

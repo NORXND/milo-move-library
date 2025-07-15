@@ -1,0 +1,34 @@
+{
+  "name": "dance_with_me",
+  "difficulty": 2,
+  "display_name": "Dance With Me",
+  "ham_move_name": "Dance_With_Me_talkdirty.move",
+  "milo_name": "dance_with_me_talkdirty",
+  "song_name": "talkdirty",
+  "clips": {
+    "dance_with_me_talkdirty_v0": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dance_with_me_talkdirty_v1": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dance_with_me_talkdirty_v2": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

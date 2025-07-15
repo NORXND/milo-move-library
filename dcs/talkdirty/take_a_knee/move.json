@@ -1,0 +1,18 @@
+{
+  "name": "take_a_knee",
+  "difficulty": 2,
+  "display_name": "Take A Knee",
+  "ham_move_name": "Take_A_Knee_talkdirty.move",
+  "milo_name": "take_a_knee_talkdirty",
+  "song_name": "talkdirty",
+  "clips": {
+    "take_a_knee_talkdirty_v0": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

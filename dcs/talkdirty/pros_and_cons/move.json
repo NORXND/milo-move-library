@@ -1,0 +1,18 @@
+{
+  "name": "pros_and_cons",
+  "difficulty": 1,
+  "display_name": "Pros & Cons",
+  "ham_move_name": "Pros_And_Cons_talkdirty.move",
+  "milo_name": "pros_and_cons_talkdirty",
+  "song_name": "talkdirty",
+  "clips": {
+    "pros_and_cons_talkdirty_v0": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

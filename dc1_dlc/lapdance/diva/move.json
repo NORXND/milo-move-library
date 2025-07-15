@@ -1,0 +1,42 @@
+{
+  "name": "diva",
+  "difficulty": 0,
+  "display_name": "Diva",
+  "ham_move_name": "Diva_lapdance.move",
+  "milo_name": "diva_lapdance",
+  "song_name": "lapdance",
+  "clips": {
+    "diva_lapdance_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_lapdance_v3": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_lapdance_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_lapdance_v2": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

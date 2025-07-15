@@ -1,0 +1,26 @@
+{
+  "name": "rival_walk_r",
+  "difficulty": 2,
+  "display_name": "Rival Walk",
+  "ham_move_name": "Illin_R_lapdance.move",
+  "milo_name": "illin_r_lapdance",
+  "song_name": "lapdance",
+  "clips": {
+    "rival_walk_r_lapdance_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "rival_walk_l_lapdance_v0"
+    },
+    "rival_walk_r_lapdance_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "rival_walk_l_lapdance_v1"
+    }
+  }
+}

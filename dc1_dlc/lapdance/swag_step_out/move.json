@@ -1,0 +1,26 @@
+{
+  "name": "swag_step_out",
+  "difficulty": 0,
+  "display_name": "Swag Step Out",
+  "ham_move_name": "Gorilla_Step_lapdance.move",
+  "milo_name": "gorilla_step_lapdance",
+  "song_name": "lapdance",
+  "clips": {
+    "swag_step_out_lapdance_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swag_step_out_lapdance_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

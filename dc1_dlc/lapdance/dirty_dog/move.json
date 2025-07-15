@@ -1,0 +1,42 @@
+{
+  "name": "dirty_dog",
+  "difficulty": 0,
+  "display_name": "Dirty Dog",
+  "ham_move_name": "Dirty_Dog_lapdance.move",
+  "milo_name": "dirty_dog_lapdance",
+  "song_name": "lapdance",
+  "clips": {
+    "dirty_dog_lapdance_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dirty_dog_lapdance_v3": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dirty_dog_lapdance_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dirty_dog_lapdance_v2": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

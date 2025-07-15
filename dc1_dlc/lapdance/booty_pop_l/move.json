@@ -1,0 +1,26 @@
+{
+  "name": "booty_pop_l",
+  "difficulty": 1,
+  "display_name": "Booty Pop",
+  "ham_move_name": "Booty_Pop_L_lapdance.move",
+  "milo_name": "booty_pop_l_lapdance",
+  "song_name": "lapdance",
+  "clips": {
+    "booty_pop_l_lapdance_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "booty_pop_r_lapdance_v1"
+    },
+    "booty_pop_l_lapdance_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "booty_pop_r_lapdance_v0"
+    }
+  }
+}

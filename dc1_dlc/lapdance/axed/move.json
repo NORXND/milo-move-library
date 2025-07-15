@@ -1,0 +1,26 @@
+{
+  "name": "axed",
+  "difficulty": 2,
+  "display_name": "Axed",
+  "ham_move_name": "Axe_lapdance.move",
+  "milo_name": "axe_lapdance",
+  "song_name": "lapdance",
+  "clips": {
+    "axed_lapdance_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "axed_lapdance_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

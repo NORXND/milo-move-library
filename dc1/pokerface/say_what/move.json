@@ -1,0 +1,26 @@
+{
+  "name": "say_what",
+  "difficulty": 0,
+  "display_name": "Say What",
+  "ham_move_name": "Say_What_pokerface.move",
+  "milo_name": "say_what_pokerface",
+  "song_name": "pokerface",
+  "clips": {
+    "say_what_pokerface_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "say_what_pokerface_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

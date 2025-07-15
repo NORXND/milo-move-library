@@ -1,0 +1,42 @@
+{
+  "name": "back",
+  "difficulty": 0,
+  "display_name": "Back",
+  "ham_move_name": "Back_pokerface.move",
+  "milo_name": "back_pokerface",
+  "song_name": "pokerface",
+  "clips": {
+    "back_pokerface_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "back_pokerface_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "back_pokerface_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "back_pokerface_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

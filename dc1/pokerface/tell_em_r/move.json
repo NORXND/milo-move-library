@@ -1,0 +1,18 @@
+{
+  "name": "tell_em_r",
+  "difficulty": 0,
+  "display_name": "Tell 'em",
+  "ham_move_name": "Tell_Em_R_pokerface.move",
+  "milo_name": "tell_em_r_pokerface",
+  "song_name": "pokerface",
+  "clips": {
+    "tell_em_r_pokerface_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "tell_em_l_pokerface_v0",
+      "linked_from": ""
+    }
+  }
+}

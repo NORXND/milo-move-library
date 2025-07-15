@@ -1,0 +1,26 @@
+{
+  "name": "down_under_arms",
+  "difficulty": 1,
+  "display_name": "Down Under Arms",
+  "ham_move_name": "Down_Under_Arms_pokerface.move",
+  "milo_name": "down_under_arms_pokerface",
+  "song_name": "pokerface",
+  "clips": {
+    "down_under_arms_pokerface_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "down_under_arms_pokerface_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "down_under",
+  "difficulty": 1,
+  "display_name": "Down Under",
+  "ham_move_name": "Down_Under_pokerface.move",
+  "milo_name": "down_under_pokerface",
+  "song_name": "pokerface",
+  "clips": {
+    "down_under_pokerface_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "down_under_pokerface_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "down_under_pokerface_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "down_under_pokerface_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "down_under_pokerface_v4": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "down_under_pokerface_v5": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

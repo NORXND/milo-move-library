@@ -1,0 +1,58 @@
+{
+  "name": "testify",
+  "difficulty": 1,
+  "display_name": "Testify",
+  "ham_move_name": "Testify_theedgeofglory.move",
+  "milo_name": "testify_theedgeofglory",
+  "song_name": "theedgeofglory",
+  "clips": {
+    "testify_theedgeofglory_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 82,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "testify_theedgeofglory_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 82,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "testify_theedgeofglory_v5": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 82,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "testify_theedgeofglory_v3": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 82,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "testify_theedgeofglory_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 82,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "testify_theedgeofglory_v4": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 82,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

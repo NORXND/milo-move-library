@@ -1,0 +1,58 @@
+{
+  "name": "dawn_to_dusk",
+  "difficulty": 2,
+  "display_name": "Dawn to Dusk",
+  "ham_move_name": "Glorify_theedgeofglory.move",
+  "milo_name": "glorify_theedgeofglory",
+  "song_name": "theedgeofglory",
+  "clips": {
+    "dawn_to_dusk_theedgeofglory_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dawn_to_dusk_theedgeofglory_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dawn_to_dusk_theedgeofglory_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dawn_to_dusk_theedgeofglory_v4": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dawn_to_dusk_theedgeofglory_v5": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dawn_to_dusk_theedgeofglory_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "weeping_willow",
+  "difficulty": 2,
+  "display_name": "Weeping Willow",
+  "ham_move_name": "Broken_Branches_theedgeofglory.move",
+  "milo_name": "broken_branches_theedgeofglory",
+  "song_name": "theedgeofglory",
+  "clips": {
+    "weeping_willow_theedgeofglory_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "weeping_willow_theedgeofglory_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "weeping_willow_theedgeofglory_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "weeping_willow_theedgeofglory_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

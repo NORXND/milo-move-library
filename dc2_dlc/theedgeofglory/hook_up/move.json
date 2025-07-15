@@ -1,0 +1,26 @@
+{
+  "name": "hook_up",
+  "difficulty": 1,
+  "display_name": "Hook Up",
+  "ham_move_name": "Tough_Fairy_theedgeofglory.move",
+  "milo_name": "tough_fairy_theedgeofglory",
+  "song_name": "theedgeofglory",
+  "clips": {
+    "hook_up_theedgeofglory_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hook_up_theedgeofglory_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "dusk_step",
+  "difficulty": 2,
+  "display_name": "Dusk Step",
+  "ham_move_name": "Get_Down_Tonight_theedgeofglory.move",
+  "milo_name": "get_down_tonight_theedgeofglory",
+  "song_name": "theedgeofglory",
+  "clips": {
+    "dusk_step_theedgeofglory_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

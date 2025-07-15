@@ -1,0 +1,42 @@
+{
+  "name": "santo",
+  "difficulty": 0,
+  "display_name": "Santo",
+  "ham_move_name": "Chi_Chi_theedgeofglory.move",
+  "milo_name": "chi_chi_theedgeofglory",
+  "song_name": "theedgeofglory",
+  "clips": {
+    "santo_theedgeofglory_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "santo_theedgeofglory_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "santo_theedgeofglory_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "santo_theedgeofglory_v3": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "to_the_left",
+  "difficulty": 0,
+  "display_name": "To The Left",
+  "ham_move_name": "To_The_Left_happy.move",
+  "milo_name": "to_the_left_happy",
+  "song_name": "happy",
+  "clips": {
+    "to_the_left_happy_v0": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "to_the_left_happy_v1": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

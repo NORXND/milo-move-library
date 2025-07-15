@@ -1,0 +1,18 @@
+{
+  "name": "kickabout_2",
+  "difficulty": 2,
+  "display_name": "Kickabout",
+  "ham_move_name": "Kickabout_2_happy.move",
+  "milo_name": "kickabout_2_happy",
+  "song_name": "happy",
+  "clips": {
+    "kickabout_happy_v1": {
+      "avg_beats_per_second": 3.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "kickabout_happy_v0"
+    }
+  }
+}

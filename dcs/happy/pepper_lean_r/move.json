@@ -1,0 +1,26 @@
+{
+  "name": "pepper_lean_r",
+  "difficulty": 1,
+  "display_name": "Pepper Lean",
+  "ham_move_name": "Pepper_Lean_R_happy.move",
+  "milo_name": "pepper_lean_r_happy",
+  "song_name": "happy",
+  "clips": {
+    "pepper_lean_r_happy_v0": {
+      "avg_beats_per_second": 2.65,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "pepper_lean_l_happy_v0",
+      "linked_from": ""
+    },
+    "pepper_lean_r_happy_v1": {
+      "avg_beats_per_second": 2.65,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "pepper_lean_l_happy_v1",
+      "linked_from": ""
+    }
+  }
+}

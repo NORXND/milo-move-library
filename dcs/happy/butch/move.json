@@ -1,0 +1,18 @@
+{
+  "name": "butch",
+  "difficulty": 1,
+  "display_name": "Butch",
+  "ham_move_name": "Butch_happy.move",
+  "milo_name": "butch_happy",
+  "song_name": "happy",
+  "clips": {
+    "butch_happy_v0": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

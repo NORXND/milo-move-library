@@ -1,0 +1,42 @@
+{
+  "name": "big_ticker",
+  "difficulty": 1,
+  "display_name": "Big Ticker",
+  "ham_move_name": "Big_Ticker_happy.move",
+  "milo_name": "big_ticker_happy",
+  "song_name": "happy",
+  "clips": {
+    "big_ticker_happy_v0": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "big_ticker_happy_v1": {
+      "avg_beats_per_second": 2.66,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "big_ticker_happy_v2": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "big_ticker_happy_v3": {
+      "avg_beats_per_second": 2.66,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

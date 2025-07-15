@@ -1,0 +1,50 @@
+{
+  "name": "soul_shuffle",
+  "difficulty": 0,
+  "display_name": "Soul Shuffle",
+  "ham_move_name": "Soul_Shuffle_happy.move",
+  "milo_name": "soul_shuffle_happy",
+  "song_name": "happy",
+  "clips": {
+    "soul_shuffle_happy_v0": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "soul_shuffle_happy_v1": {
+      "avg_beats_per_second": 2.69,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "soul_shuffle_happy_v2": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "soul_shuffle_happy_v3": {
+      "avg_beats_per_second": 2.69,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "soul_shuffle_happy_v4": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

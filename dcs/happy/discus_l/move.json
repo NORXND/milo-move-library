@@ -1,0 +1,26 @@
+{
+  "name": "discus_l",
+  "difficulty": 2,
+  "display_name": "Discus",
+  "ham_move_name": "Discus_L_happy.move",
+  "milo_name": "discus_l_happy",
+  "song_name": "happy",
+  "clips": {
+    "discus_l_happy_v0": {
+      "avg_beats_per_second": 2.69,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "discus_r_happy_v0"
+    },
+    "discus_l_happy_v1": {
+      "avg_beats_per_second": 2.69,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "discus_r_happy_v1"
+    }
+  }
+}

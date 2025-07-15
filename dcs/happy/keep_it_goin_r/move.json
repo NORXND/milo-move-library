@@ -1,0 +1,122 @@
+{
+  "name": "keep_it_goin_r",
+  "difficulty": 0,
+  "display_name": "Keep It Goin'",
+  "ham_move_name": "Keep_It_Goin_R_happy.move",
+  "milo_name": "keep_it_goin_r_happy",
+  "song_name": "happy",
+  "clips": {
+    "keep_it_goin_r_happy_v0": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "keep_it_goin_l_happy_v1",
+      "linked_from": "keep_it_goin_l_happy_v0"
+    },
+    "keep_it_goin_r_happy_v1": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "keep_it_goin_l_happy_v1"
+    },
+    "keep_it_goin_r_happy_v2": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "keep_it_goin_l_happy_v3",
+      "linked_from": "keep_it_goin_l_happy_v2"
+    },
+    "keep_it_goin_r_happy_v3": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "keep_it_goin_l_happy_v3"
+    },
+    "keep_it_goin_r_happy_v4": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "keep_it_goin_l_happy_v5",
+      "linked_from": "keep_it_goin_l_happy_v4"
+    },
+    "keep_it_goin_r_happy_v5": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "keep_it_goin_l_happy_v5"
+    },
+    "keep_it_goin_r_happy_v6": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "keep_it_goin_l_happy_v7",
+      "linked_from": "keep_it_goin_l_happy_v6"
+    },
+    "keep_it_goin_r_happy_v7": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "keep_it_goin_l_happy_v7"
+    },
+    "keep_it_goin_r_happy_v8": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "keep_it_goin_l_happy_v9",
+      "linked_from": "keep_it_goin_l_happy_v8"
+    },
+    "keep_it_goin_r_happy_v9": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "keep_it_goin_l_happy_v9"
+    },
+    "keep_it_goin_r_happy_v10": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "keep_it_goin_l_happy_v11",
+      "linked_from": "keep_it_goin_l_happy_v10"
+    },
+    "keep_it_goin_r_happy_v11": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "keep_it_goin_l_happy_v11"
+    },
+    "keep_it_goin_r_happy_v12": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "keep_it_goin_l_happy_v13",
+      "linked_from": "keep_it_goin_l_happy_v12"
+    },
+    "keep_it_goin_r_happy_v13": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "keep_it_goin_l_happy_v13"
+    }
+  }
+}

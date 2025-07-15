@@ -1,0 +1,42 @@
+{
+  "name": "thread_it",
+  "difficulty": 2,
+  "display_name": "Thread It",
+  "ham_move_name": "Thread_It_happy.move",
+  "milo_name": "thread_it_happy",
+  "song_name": "happy",
+  "clips": {
+    "thread_it_happy_v0": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "thread_it_happy_v1": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "thread_it_happy_v2": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "thread_it_happy_v3": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "bionic_l",
+  "difficulty": 2,
+  "display_name": "Bionic",
+  "ham_move_name": "Bionic_L_happy.move",
+  "milo_name": "bionic_l_happy",
+  "song_name": "happy",
+  "clips": {
+    "bionic_l_happy_v0": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bionic_l_happy_v1": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

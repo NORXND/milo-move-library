@@ -1,0 +1,26 @@
+{
+  "name": "lighting_strike",
+  "difficulty": 2,
+  "display_name": "Lighting Strike",
+  "ham_move_name": "Lighting_Strike_escapade.move",
+  "milo_name": "lighting_strike_escapade",
+  "song_name": "escapade",
+  "clips": {
+    "lighting_strike_escapade_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "lighting_strike_escapade_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "hop_hit_out",
+  "difficulty": 0,
+  "display_name": "Hop Hit Out",
+  "ham_move_name": "Hop_And_Hit_escapade.move",
+  "milo_name": "hop_and_hit_escapade",
+  "song_name": "escapade",
+  "clips": {
+    "hop_hit_out_escapade_v2": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_hit_out_escapade_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_hit_out_escapade_v3": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_hit_out_escapade_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

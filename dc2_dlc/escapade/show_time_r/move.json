@@ -1,0 +1,18 @@
+{
+  "name": "show_time_r",
+  "difficulty": 2,
+  "display_name": "Show Time",
+  "ham_move_name": "Show_Time_R_escapade.move",
+  "milo_name": "show_time_r_escapade",
+  "song_name": "escapade",
+  "clips": {
+    "show_time_r_escapade_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "show_time_l_escapade_v0",
+      "linked_from": ""
+    }
+  }
+}

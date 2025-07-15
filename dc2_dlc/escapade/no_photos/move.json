@@ -1,0 +1,50 @@
+{
+  "name": "no_photos",
+  "difficulty": 0,
+  "display_name": "No Photos",
+  "ham_move_name": "Stop_It_escapade.move",
+  "milo_name": "stop_it_escapade",
+  "song_name": "escapade",
+  "clips": {
+    "no_photos_escapade_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "no_photos_escapade_v1": {
+      "avg_beats_per_second": 1.93,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "no_photos_escapade_v2": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "no_photos_escapade_v3": {
+      "avg_beats_per_second": 1.93,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "no_photos_escapade_v4": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "kicks",
+  "difficulty": 1,
+  "display_name": "Kicks",
+  "ham_move_name": "Kicks_escapade.move",
+  "milo_name": "kicks_escapade",
+  "song_name": "escapade",
+  "clips": {
+    "kicks_escapade_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kicks_escapade_v3": {
+      "avg_beats_per_second": 1.93,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kicks_escapade_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kicks_escapade_v2": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

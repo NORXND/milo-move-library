@@ -1,0 +1,42 @@
+{
+  "name": "stomp_and_pull",
+  "difficulty": 0,
+  "display_name": "Stomp & Pull",
+  "ham_move_name": "Stomp_And_Pull_getitshawty.move",
+  "milo_name": "stomp_and_pull_getitshawty",
+  "song_name": "getitshawty",
+  "clips": {
+    "stomp_and_pull_getitshawty_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stomp_and_pull_getitshawty_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stomp_and_pull_getitshawty_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stomp_and_pull_getitshawty_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

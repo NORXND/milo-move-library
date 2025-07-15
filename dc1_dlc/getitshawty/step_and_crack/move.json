@@ -1,0 +1,26 @@
+{
+  "name": "step_and_crack",
+  "difficulty": 2,
+  "display_name": "Step & Crack",
+  "ham_move_name": "Open_Crack_getitshawty.move",
+  "milo_name": "open_crack_getitshawty",
+  "song_name": "getitshawty",
+  "clips": {
+    "step_and_crack_getitshawty_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_and_crack_getitshawty_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

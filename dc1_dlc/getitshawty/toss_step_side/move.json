@@ -1,0 +1,26 @@
+{
+  "name": "toss_step_side",
+  "difficulty": 1,
+  "display_name": "Toss Step Side",
+  "ham_move_name": "Freaky_Stuff_getitshawty.move",
+  "milo_name": "freaky_stuff_getitshawty",
+  "song_name": "getitshawty",
+  "clips": {
+    "toss_step_side_getitshawty_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "toss_step_side_getitshawty_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

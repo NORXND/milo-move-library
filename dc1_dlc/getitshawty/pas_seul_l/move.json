@@ -1,0 +1,42 @@
+{
+  "name": "pas_seul_l",
+  "difficulty": 2,
+  "display_name": "Pas Seul",
+  "ham_move_name": "_12_Step_L_getitshawty.move",
+  "milo_name": "_12_step_l_getitshawty",
+  "song_name": "getitshawty",
+  "clips": {
+    "pas_seul_l_getitshawty_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "pas_seul_r_getitshawty_v1",
+      "linked_from": "pas_seul_r_getitshawty_v0"
+    },
+    "pas_seul_l_getitshawty_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "pas_seul_r_getitshawty_v1"
+    },
+    "pas_seul_l_getitshawty_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "pas_seul_r_getitshawty_v3",
+      "linked_from": "pas_seul_r_getitshawty_v2"
+    },
+    "pas_seul_l_getitshawty_v3": {
+      "avg_beats_per_second": 2.13,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "pas_seul_r_getitshawty_v3"
+    }
+  }
+}

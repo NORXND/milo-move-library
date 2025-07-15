@@ -1,0 +1,26 @@
+{
+  "name": "chiro",
+  "difficulty": 2,
+  "display_name": "Chiro",
+  "ham_move_name": "Get_Get_getitshawty.move",
+  "milo_name": "get_get_getitshawty",
+  "song_name": "getitshawty",
+  "clips": {
+    "chiro_getitshawty_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chiro_getitshawty_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

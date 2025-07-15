@@ -1,0 +1,26 @@
+{
+  "name": "peacocking",
+  "difficulty": 2,
+  "display_name": "Peacocking",
+  "ham_move_name": "Heartthrob_getitshawty.move",
+  "milo_name": "heartthrob_getitshawty",
+  "song_name": "getitshawty",
+  "clips": {
+    "peacocking_getitshawty_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "peacocking_getitshawty_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

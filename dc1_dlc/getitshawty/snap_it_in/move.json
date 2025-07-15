@@ -1,0 +1,34 @@
+{
+  "name": "snap_it_in",
+  "difficulty": 0,
+  "display_name": "Snap It In",
+  "ham_move_name": "Snap_In_getitshawty.move",
+  "milo_name": "snap_in_getitshawty",
+  "song_name": "getitshawty",
+  "clips": {
+    "snap_it_in_getitshawty_v2": {
+      "avg_beats_per_second": 1.82,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "snap_it_in_getitshawty_v0": {
+      "avg_beats_per_second": 1.61,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "snap_it_in_getitshawty_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

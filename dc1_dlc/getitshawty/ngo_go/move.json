@@ -1,0 +1,18 @@
+{
+  "name": "ngo_go",
+  "difficulty": 2,
+  "display_name": "Ngo Go",
+  "ham_move_name": "Icu_getitshawty.move",
+  "milo_name": "icu_getitshawty",
+  "song_name": "getitshawty",
+  "clips": {
+    "ngo_go_getitshawty_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

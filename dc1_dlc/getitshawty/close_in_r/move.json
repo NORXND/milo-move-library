@@ -1,0 +1,18 @@
+{
+  "name": "close_in_r",
+  "difficulty": 2,
+  "display_name": "Close In",
+  "ham_move_name": "Get_Close_R_getitshawty.move",
+  "milo_name": "get_close_r_getitshawty",
+  "song_name": "getitshawty",
+  "clips": {
+    "close_in_r_getitshawty_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "close_in_l_getitshawty_v0",
+      "linked_from": ""
+    }
+  }
+}

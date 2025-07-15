@@ -1,0 +1,42 @@
+{
+  "name": "side_skate",
+  "difficulty": 1,
+  "display_name": "Side Skate",
+  "ham_move_name": "Skatein_getitshawty.move",
+  "milo_name": "skatein_getitshawty",
+  "song_name": "getitshawty",
+  "clips": {
+    "side_skate_getitshawty_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "side_skate_getitshawty_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "side_skate_getitshawty_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "side_skate_getitshawty_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

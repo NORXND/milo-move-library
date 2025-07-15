@@ -1,0 +1,26 @@
+{
+  "name": "candy_cane",
+  "difficulty": 0,
+  "display_name": "Candy Cane",
+  "ham_move_name": "Candy_Cane_getitshawty.move",
+  "milo_name": "candy_cane_getitshawty",
+  "song_name": "getitshawty",
+  "clips": {
+    "candy_cane_getitshawty_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "candy_cane_getitshawty_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

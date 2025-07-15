@@ -1,0 +1,18 @@
+{
+  "name": "make_way",
+  "difficulty": 0,
+  "display_name": "Make Way",
+  "ham_move_name": "Slippin_getitshawty.move",
+  "milo_name": "slippin_getitshawty",
+  "song_name": "getitshawty",
+  "clips": {
+    "make_way_getitshawty_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

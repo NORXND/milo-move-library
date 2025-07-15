@@ -1,0 +1,26 @@
+{
+  "name": "dodger",
+  "difficulty": 1,
+  "display_name": "Dodger",
+  "ham_move_name": "Dodger_getitshawty.move",
+  "milo_name": "dodger_getitshawty",
+  "song_name": "getitshawty",
+  "clips": {
+    "dodger_getitshawty_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dodger_getitshawty_v1": {
+      "avg_beats_per_second": 1.82,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

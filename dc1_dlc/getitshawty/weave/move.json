@@ -1,0 +1,42 @@
+{
+  "name": "weave",
+  "difficulty": 0,
+  "display_name": "Weave",
+  "ham_move_name": "Back_Over_getitshawty.move",
+  "milo_name": "back_over_getitshawty",
+  "song_name": "getitshawty",
+  "clips": {
+    "weave_getitshawty_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "weave_getitshawty_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "weave_getitshawty_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "weave_getitshawty_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "pepper_mill",
+  "difficulty": 0,
+  "display_name": "Pepper Mill",
+  "ham_move_name": "Back_Snap_getitshawty.move",
+  "milo_name": "back_snap_getitshawty",
+  "song_name": "getitshawty",
+  "clips": {
+    "pepper_mill_getitshawty_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pepper_mill_getitshawty_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pepper_mill_getitshawty_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pepper_mill_getitshawty_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

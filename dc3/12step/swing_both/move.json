@@ -1,0 +1,18 @@
+{
+  "name": "swing_both",
+  "difficulty": 0,
+  "display_name": "Swing Both",
+  "ham_move_name": "Swing_Both_12step.move",
+  "milo_name": "swing_both_12step",
+  "song_name": "12step",
+  "clips": {
+    "swing_both_12step_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

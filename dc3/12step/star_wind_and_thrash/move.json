@@ -1,0 +1,18 @@
+{
+  "name": "star_wind_and_thrash",
+  "difficulty": 2,
+  "display_name": "Star Wind & Thrash",
+  "ham_move_name": "Whip_That_12step.move",
+  "milo_name": "whip_that_12step",
+  "song_name": "12step",
+  "clips": {
+    "star_wind_and_thrash_12step_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "swing_both_and_pump",
+  "difficulty": 2,
+  "display_name": "Swing Both / Pump",
+  "ham_move_name": "Shopping_Spree_12step.move",
+  "milo_name": "shopping_spree_12step",
+  "song_name": "12step",
+  "clips": {
+    "swing_both_and_pump_12step_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

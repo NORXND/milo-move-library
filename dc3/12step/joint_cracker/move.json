@@ -1,0 +1,26 @@
+{
+  "name": "joint_cracker",
+  "difficulty": 2,
+  "display_name": "Joint Cracker",
+  "ham_move_name": "Slow_Motion_12step.move",
+  "milo_name": "slow_motion_12step",
+  "song_name": "12step",
+  "clips": {
+    "joint_cracker_12step_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "joint_cracker_12step_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

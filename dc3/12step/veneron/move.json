@@ -1,0 +1,42 @@
+{
+  "name": "veneron",
+  "difficulty": 2,
+  "display_name": "Veneron",
+  "ham_move_name": "Secret_Treasure_12step.move",
+  "milo_name": "secret_treasure_12step",
+  "song_name": "12step",
+  "clips": {
+    "veneron_12step_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "veneron_12step_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "veneron_12step_v2": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "veneron_12step_v3": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

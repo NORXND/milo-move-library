@@ -1,0 +1,26 @@
+{
+  "name": "extended_skate",
+  "difficulty": 2,
+  "display_name": "Extended Skate",
+  "ham_move_name": "Long_Stretch_12step.move",
+  "milo_name": "long_stretch_12step",
+  "song_name": "12step",
+  "clips": {
+    "extended_skate_12step_v0": {
+      "avg_beats_per_second": 1.61,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "extended_skate_12step_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

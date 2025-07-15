@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_12step_v1065",
+  "difficulty": 2,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_12step.move",
+  "milo_name": "finishing_move_12step",
+  "song_name": "12step",
+  "clips": {
+    "finishing_move_12step_v1065": {
+      "avg_beats_per_second": 1.91,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 74,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

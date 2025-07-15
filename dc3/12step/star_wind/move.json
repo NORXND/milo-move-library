@@ -1,0 +1,18 @@
+{
+  "name": "star_wind",
+  "difficulty": 2,
+  "display_name": "Star Wind",
+  "ham_move_name": "Skeevy_12step.move",
+  "milo_name": "skeevy_12step",
+  "song_name": "12step",
+  "clips": {
+    "star_wind_12step_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "take_it_away",
+  "difficulty": 0,
+  "display_name": "Take it Away",
+  "ham_move_name": "Humpty_Dance_12step.move",
+  "milo_name": "humpty_dance_12step",
+  "song_name": "12step",
+  "clips": {
+    "take_it_away_12step_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

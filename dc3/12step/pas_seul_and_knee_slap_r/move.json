@@ -1,0 +1,74 @@
+{
+  "name": "pas_seul_and_knee_slap_r",
+  "difficulty": 2,
+  "display_name": "Pas Seul & Knee Slap",
+  "ham_move_name": "_1_2_Step_R_12step.move",
+  "milo_name": "_1_2_step_r_12step",
+  "song_name": "12step",
+  "clips": {
+    "pas_seul_and_knee_slap_r_12step_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "pas_seul_and_knee_slap_l_12step_v0",
+      "linked_from": ""
+    },
+    "pas_seul_and_knee_slap_r_12step_v5": {
+      "avg_beats_per_second": 1.61,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "pas_seul_and_knee_slap_l_12step_v5",
+      "linked_from": "pas_seul_and_knee_slap_l_12step_v4"
+    },
+    "pas_seul_and_knee_slap_r_12step_v3": {
+      "avg_beats_per_second": 1.61,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "pas_seul_and_knee_slap_l_12step_v3",
+      "linked_from": "pas_seul_and_knee_slap_l_12step_v2"
+    },
+    "pas_seul_and_knee_slap_r_12step_v1": {
+      "avg_beats_per_second": 1.61,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "pas_seul_and_knee_slap_l_12step_v1",
+      "linked_from": "pas_seul_and_knee_slap_l_12step_v0"
+    },
+    "pas_seul_and_knee_slap_r_12step_v6": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "pas_seul_and_knee_slap_l_12step_v6",
+      "linked_from": ""
+    },
+    "pas_seul_and_knee_slap_r_12step_v4": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "pas_seul_and_knee_slap_l_12step_v4",
+      "linked_from": ""
+    },
+    "pas_seul_and_knee_slap_r_12step_v2": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "pas_seul_and_knee_slap_l_12step_v2",
+      "linked_from": ""
+    },
+    "pas_seul_and_knee_slap_r_12step_v7": {
+      "avg_beats_per_second": 1.61,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "pas_seul_and_knee_slap_l_12step_v7",
+      "linked_from": "pas_seul_and_knee_slap_l_12step_v6"
+    }
+  }
+}

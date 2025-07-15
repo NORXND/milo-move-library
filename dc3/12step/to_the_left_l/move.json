@@ -1,0 +1,42 @@
+{
+  "name": "to_the_left_l",
+  "difficulty": 2,
+  "display_name": "To The Left",
+  "ham_move_name": "Step_Out_L_12step.move",
+  "milo_name": "step_out_l_12step",
+  "song_name": "12step",
+  "clips": {
+    "to_the_left_l_12step_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "to_the_right_r_12step_v0"
+    },
+    "to_the_left_l_12step_v2": {
+      "avg_beats_per_second": 1.89,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "to_the_right_r_12step_v2"
+    },
+    "to_the_left_l_12step_v3": {
+      "avg_beats_per_second": 1.89,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "to_the_right_r_12step_v3"
+    },
+    "to_the_left_l_12step_v1": {
+      "avg_beats_per_second": 1.89,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "to_the_right_r_12step_v1"
+    }
+  }
+}

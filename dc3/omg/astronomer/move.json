@@ -1,0 +1,26 @@
+{
+  "name": "astronomer",
+  "difficulty": 2,
+  "display_name": "Astronomer",
+  "ham_move_name": "Look_Up_In_The_Sky_omg.move",
+  "milo_name": "look_up_in_the_sky_omg",
+  "song_name": "omg",
+  "clips": {
+    "astronomer_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "astronomer_omg_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

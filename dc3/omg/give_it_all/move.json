@@ -1,0 +1,18 @@
+{
+  "name": "exception_give_it_all_2",
+  "difficulty": 2,
+  "display_name": "Give It All",
+  "ham_move_name": "Flii_Stylez_2_omg.move",
+  "milo_name": "flii_stylez_2_omg",
+  "song_name": "omg",
+  "clips": {
+    "give_it_all_omg_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "give_it_all_omg_v0"
+    }
+  }
+}

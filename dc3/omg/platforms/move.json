@@ -1,0 +1,26 @@
+{
+  "name": "platforms",
+  "difficulty": 2,
+  "display_name": "Platforms",
+  "ham_move_name": "Stylin_On_Em_omg.move",
+  "milo_name": "stylin_on_em_omg",
+  "song_name": "omg",
+  "clips": {
+    "platforms_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "platforms_omg_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

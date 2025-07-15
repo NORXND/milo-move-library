@@ -1,0 +1,18 @@
+{
+  "name": "comb_your_hair",
+  "difficulty": 2,
+  "display_name": "Comb Your Hair",
+  "ham_move_name": "Haircomb_omg.move",
+  "milo_name": "haircomb_omg",
+  "song_name": "omg",
+  "clips": {
+    "comb_your_hair_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

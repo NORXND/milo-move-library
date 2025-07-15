@@ -1,0 +1,18 @@
+{
+  "name": "over_the_rainbow",
+  "difficulty": 2,
+  "display_name": "Over The Rainbow",
+  "ham_move_name": "Sunup_Sundown_omg.move",
+  "milo_name": "sunup_sundown_omg",
+  "song_name": "omg",
+  "clips": {
+    "over_the_rainbow_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

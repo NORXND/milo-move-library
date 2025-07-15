@@ -1,0 +1,18 @@
+{
+  "name": "jackalope",
+  "difficulty": 2,
+  "display_name": "Jackalope",
+  "ham_move_name": "Sushi_omg.move",
+  "milo_name": "sushi_omg",
+  "song_name": "omg",
+  "clips": {
+    "jackalope_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

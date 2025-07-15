@@ -1,0 +1,18 @@
+{
+  "name": "wipe_out",
+  "difficulty": 2,
+  "display_name": "Wipe Out",
+  "ham_move_name": "Swipe_Lr_omg.move",
+  "milo_name": "swipe_lr_omg",
+  "song_name": "omg",
+  "clips": {
+    "wipe_out_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "factorial",
+  "difficulty": 2,
+  "display_name": "Factorial",
+  "ham_move_name": "U_R_Tnt_omg.move",
+  "milo_name": "u_r_tnt_omg",
+  "song_name": "omg",
+  "clips": {
+    "factorial_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "twisted_charleston_l",
+  "difficulty": 2,
+  "display_name": "Twisted Charleston",
+  "ham_move_name": "Kid_N_Play_L_omg.move",
+  "milo_name": "kid_n_play_l_omg",
+  "song_name": "omg",
+  "clips": {
+    "twisted_charleston_l_omg_v0": {
+      "avg_beats_per_second": 1.87,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "twisted_charleston_r_omg_v1",
+      "linked_from": "twisted_charleston_r_omg_v0"
+    },
+    "twisted_charleston_l_omg_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "twisted_charleston_r_omg_v1"
+    }
+  }
+}

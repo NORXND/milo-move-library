@@ -1,0 +1,18 @@
+{
+  "name": "search_light",
+  "difficulty": 2,
+  "display_name": "Search Light",
+  "ham_move_name": "Ts_Scissor_omg.move",
+  "milo_name": "ts_scissor_omg",
+  "song_name": "omg",
+  "clips": {
+    "search_light_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

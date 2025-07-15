@@ -1,0 +1,18 @@
+{
+  "name": "twist_o_flex",
+  "difficulty": 2,
+  "display_name": "Twist-O-Flex",
+  "ham_move_name": "Twist_O_Flex_omg.move",
+  "milo_name": "twist_o_flex_omg",
+  "song_name": "omg",
+  "clips": {
+    "twist_o_flex_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

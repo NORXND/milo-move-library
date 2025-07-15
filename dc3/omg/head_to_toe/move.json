@@ -1,0 +1,26 @@
+{
+  "name": "head_to_toe",
+  "difficulty": 2,
+  "display_name": "Head To Toe",
+  "ham_move_name": "Head_To_Toes_omg.move",
+  "milo_name": "head_to_toes_omg",
+  "song_name": "omg",
+  "clips": {
+    "head_to_toe_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "head_to_toe_omg_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

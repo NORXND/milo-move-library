@@ -1,0 +1,18 @@
+{
+  "name": "dap_and_conjure",
+  "difficulty": 2,
+  "display_name": "Dap / Conjure",
+  "ham_move_name": "Step_Clap_Reverse_omg.move",
+  "milo_name": "step_clap_reverse_omg",
+  "song_name": "omg",
+  "clips": {
+    "dap_and_conjure_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

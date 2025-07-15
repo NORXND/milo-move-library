@@ -1,0 +1,18 @@
+{
+  "name": "dap_side_l",
+  "difficulty": 2,
+  "display_name": "Dap Side",
+  "ham_move_name": "Step_Clap_L_omg.move",
+  "milo_name": "step_clap_l_omg",
+  "song_name": "omg",
+  "clips": {
+    "dap_side_l_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "dap_r_omg_v1",
+      "linked_from": "dap_r_omg_v0"
+    }
+  }
+}

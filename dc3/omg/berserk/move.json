@@ -1,0 +1,18 @@
+{
+  "name": "berserk",
+  "difficulty": 2,
+  "display_name": "Berserk",
+  "ham_move_name": "Hammer_Hitter_omg.move",
+  "milo_name": "hammer_hitter_omg",
+  "song_name": "omg",
+  "clips": {
+    "berserk_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

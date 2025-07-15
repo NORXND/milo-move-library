@@ -1,0 +1,26 @@
+{
+  "name": "barre_none",
+  "difficulty": 2,
+  "display_name": "Barre None",
+  "ham_move_name": "Arms_Cross_R_Reach_omg.move",
+  "milo_name": "arms_cross_r_reach_omg",
+  "song_name": "omg",
+  "clips": {
+    "barre_none_omg_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "barre_none_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

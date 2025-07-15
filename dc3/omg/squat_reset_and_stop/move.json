@@ -1,0 +1,18 @@
+{
+  "name": "squat_reset_and_stop",
+  "difficulty": 2,
+  "display_name": "Squat Reset & Stop",
+  "ham_move_name": "Squat_Jump_Move_Out_Of_The_Way_omg.move",
+  "milo_name": "squat_jump_move_out_of_the_way_omg",
+  "song_name": "omg",
+  "clips": {
+    "squat_reset_and_stop_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

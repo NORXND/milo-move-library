@@ -1,0 +1,18 @@
+{
+  "name": "xentai",
+  "difficulty": 2,
+  "display_name": "Xentai",
+  "ham_move_name": "Get_Suited_omg.move",
+  "milo_name": "get_suited_omg",
+  "song_name": "omg",
+  "clips": {
+    "xentai_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "cleopatra_spring",
+  "difficulty": 2,
+  "display_name": "Cleopatra Spring",
+  "ham_move_name": "Cross_Jump_Neck_Roll_omg.move",
+  "milo_name": "cross_jump_neck_roll_omg",
+  "song_name": "omg",
+  "clips": {
+    "cleopatra_spring_omg_v0": {
+      "avg_beats_per_second": 1.85,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

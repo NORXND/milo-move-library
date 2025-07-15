@@ -1,0 +1,18 @@
+{
+  "name": "flick_your_ashes",
+  "difficulty": 2,
+  "display_name": "Flick Your Ashes",
+  "ham_move_name": "Flick_Your_Ashes_omg.move",
+  "milo_name": "flick_your_ashes_omg",
+  "song_name": "omg",
+  "clips": {
+    "flick_your_ashes_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

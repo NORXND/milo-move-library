@@ -1,0 +1,18 @@
+{
+  "name": "serve_lock_twist",
+  "difficulty": 2,
+  "display_name": "Serve Lock Twist",
+  "ham_move_name": "Shoot_Ball_Change_Head_Whip_omg.move",
+  "milo_name": "shoot_ball_change_head_whip_omg",
+  "song_name": "omg",
+  "clips": {
+    "serve_lock_twist_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

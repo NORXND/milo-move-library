@@ -1,0 +1,42 @@
+{
+  "name": "o_s_up_o_s_down_r",
+  "difficulty": 2,
+  "display_name": "O's Up, O's Down",
+  "ham_move_name": "Oh_X3_R_omg.move",
+  "milo_name": "oh_x3_r_omg",
+  "song_name": "omg",
+  "clips": {
+    "o_s_up_o_s_down_r_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "o_s_up_o_s_down_l_omg_v0",
+      "linked_from": ""
+    },
+    "o_s_up_o_s_down_r_omg_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "o_s_up_o_s_down_l_omg_v0"
+    },
+    "o_s_up_o_s_down_r_omg_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "o_s_up_o_s_down_l_omg_v1",
+      "linked_from": ""
+    },
+    "o_s_up_o_s_down_r_omg_v3": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "o_s_up_o_s_down_l_omg_v1"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "off_the_bureau",
+  "difficulty": 2,
+  "display_name": "Off the Bureau",
+  "ham_move_name": "Goof_Troop_omg.move",
+  "milo_name": "goof_troop_omg",
+  "song_name": "omg",
+  "clips": {
+    "off_the_bureau_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

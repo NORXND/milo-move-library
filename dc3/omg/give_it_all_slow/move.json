@@ -1,0 +1,18 @@
+{
+  "name": "give_it_all_slow",
+  "difficulty": 2,
+  "display_name": "Give It All Slow",
+  "ham_move_name": "Flii_Stylez_Slow_omg.move",
+  "milo_name": "flii_stylez_slow_omg",
+  "song_name": "omg",
+  "clips": {
+    "give_it_all_slow_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

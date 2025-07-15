@@ -1,0 +1,26 @@
+{
+  "name": "dap_r",
+  "difficulty": 2,
+  "display_name": "Dap",
+  "ham_move_name": "Step_Clap_R_omg.move",
+  "milo_name": "step_clap_r_omg",
+  "song_name": "omg",
+  "clips": {
+    "dap_r_omg_v0": {
+      "avg_beats_per_second": 1.86,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "dap_side_l_omg_v0",
+      "linked_from": ""
+    },
+    "dap_r_omg_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "dap_side_l_omg_v0"
+    }
+  }
+}

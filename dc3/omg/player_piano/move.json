@@ -1,0 +1,18 @@
+{
+  "name": "player_piano",
+  "difficulty": 2,
+  "display_name": "Player Piano",
+  "ham_move_name": "Piano_Player_omg.move",
+  "milo_name": "piano_player_omg",
+  "song_name": "omg",
+  "clips": {
+    "player_piano_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

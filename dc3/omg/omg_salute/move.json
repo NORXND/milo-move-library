@@ -1,0 +1,26 @@
+{
+  "name": "omg_salute",
+  "difficulty": 2,
+  "display_name": "OMG Salute",
+  "ham_move_name": "The_Oh_Salute_omg.move",
+  "milo_name": "the_oh_salute_omg",
+  "song_name": "omg",
+  "clips": {
+    "omg_salute_omg_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "omg_salute_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

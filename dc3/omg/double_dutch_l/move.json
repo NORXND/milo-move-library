@@ -1,0 +1,26 @@
+{
+  "name": "double_dutch_l",
+  "difficulty": 2,
+  "display_name": "Double Dutch",
+  "ham_move_name": "Double_Dutch_Start_L_omg.move",
+  "milo_name": "double_dutch_start_l_omg",
+  "song_name": "omg",
+  "clips": {
+    "double_dutch_l_omg_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_dutch_l_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

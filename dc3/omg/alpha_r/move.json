@@ -1,0 +1,18 @@
+{
+  "name": "alpha_r",
+  "difficulty": 2,
+  "display_name": "Alpha",
+  "ham_move_name": "Atl_R_omg.move",
+  "milo_name": "atl_r_omg",
+  "song_name": "omg",
+  "clips": {
+    "alpha_r_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "alpha_l_omg_v0",
+      "linked_from": ""
+    }
+  }
+}

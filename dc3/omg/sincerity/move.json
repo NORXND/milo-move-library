@@ -1,0 +1,18 @@
+{
+  "name": "sincerity",
+  "difficulty": 2,
+  "display_name": "Sincerity",
+  "ham_move_name": "Hold_And_Swipe_omg.move",
+  "milo_name": "hold_and_swipe_omg",
+  "song_name": "omg",
+  "clips": {
+    "sincerity_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

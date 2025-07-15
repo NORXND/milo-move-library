@@ -1,0 +1,18 @@
+{
+  "name": "total_package",
+  "difficulty": 2,
+  "display_name": "Total Package",
+  "ham_move_name": "Shoot_And_Body_Roll_omg.move",
+  "milo_name": "shoot_and_body_roll_omg",
+  "song_name": "omg",
+  "clips": {
+    "total_package_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

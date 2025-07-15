@@ -1,0 +1,26 @@
+{
+  "name": "slide_l",
+  "difficulty": 2,
+  "display_name": "Slide",
+  "ham_move_name": "Jump_Lean_L_omg.move",
+  "milo_name": "jump_lean_l_omg",
+  "song_name": "omg",
+  "clips": {
+    "slide_l_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slide_l_omg_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

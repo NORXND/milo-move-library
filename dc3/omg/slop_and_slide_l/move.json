@@ -1,0 +1,18 @@
+{
+  "name": "slop_and_slide_l",
+  "difficulty": 2,
+  "display_name": "Slop & Slide",
+  "ham_move_name": "U_R_Slop_L_omg.move",
+  "milo_name": "u_r_slop_l_omg",
+  "song_name": "omg",
+  "clips": {
+    "slop_and_slide_l_omg_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "slop_and_slide_r_omg_v0"
+    }
+  }
+}

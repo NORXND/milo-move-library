@@ -1,0 +1,18 @@
+{
+  "name": "exception_toe_tapper_2",
+  "difficulty": 2,
+  "display_name": "Toe Tapper",
+  "ham_move_name": "Kick_Arm_Cross_Oh_Salute_omg.move",
+  "milo_name": "kick_arm_cross_oh_salute_omg",
+  "song_name": "omg",
+  "clips": {
+    "toe_tapper_omg_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

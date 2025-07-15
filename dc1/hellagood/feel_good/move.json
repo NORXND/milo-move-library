@@ -1,0 +1,34 @@
+{
+  "name": "feel_good",
+  "difficulty": 2,
+  "display_name": "Feel Good",
+  "ham_move_name": "Feel_Good_hellagood.move",
+  "milo_name": "feel_good_hellagood",
+  "song_name": "hellagood",
+  "clips": {
+    "feel_good_hellagood_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "feel_good_hellagood_v2": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "feel_good_hellagood_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "rock_it_back",
+  "difficulty": 2,
+  "display_name": "Rock It Back",
+  "ham_move_name": "Rock_It_Back_hellagood.move",
+  "milo_name": "rock_it_back_hellagood",
+  "song_name": "hellagood",
+  "clips": {
+    "rock_it_back_hellagood_v0": {
+      "avg_beats_per_second": 1.64,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rock_it_back_hellagood_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rock_it_back_hellagood_v2": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rock_it_back_hellagood_v3": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

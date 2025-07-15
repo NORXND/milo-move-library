@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_hellagood_v1064",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Hip_SwingandEnd_hellagood.move",
+  "milo_name": "hip_swingandend_hellagood",
+  "song_name": "hellagood",
+  "clips": {
+    "finishing_move_hellagood_v1064": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

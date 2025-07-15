@@ -1,0 +1,18 @@
+{
+  "name": "full_tilt_r",
+  "difficulty": 2,
+  "display_name": "Full Tilt",
+  "ham_move_name": "Linny_R_hellagood.move",
+  "milo_name": "linny_l_hellagood",
+  "song_name": "hellagood",
+  "clips": {
+    "full_tilt_r_hellagood_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "full_tilt_l_hellagood_v0"
+    }
+  }
+}

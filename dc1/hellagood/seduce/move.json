@@ -1,0 +1,26 @@
+{
+  "name": "seduce",
+  "difficulty": 0,
+  "display_name": "Seduce",
+  "ham_move_name": "Seduce_hellagood.move",
+  "milo_name": "seduce_hellagood",
+  "song_name": "hellagood",
+  "clips": {
+    "seduce_hellagood_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "seduce_hellagood_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

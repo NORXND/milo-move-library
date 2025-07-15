@@ -1,0 +1,34 @@
+{
+  "name": "swing",
+  "difficulty": 0,
+  "display_name": "Swing",
+  "ham_move_name": "Swing_hellagood.move",
+  "milo_name": "swing_hellagood",
+  "song_name": "hellagood",
+  "clips": {
+    "swing_hellagood_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swing_hellagood_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swing_hellagood_v2": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

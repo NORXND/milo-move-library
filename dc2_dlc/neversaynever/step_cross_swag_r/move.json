@@ -1,0 +1,26 @@
+{
+  "name": "step_cross_swag_r",
+  "difficulty": 2,
+  "display_name": "Step Cross Swag",
+  "ham_move_name": "Step_Cross_Swag_R_neversaynever.move",
+  "milo_name": "step_cross_swag_r_neversaynever",
+  "song_name": "neversaynever",
+  "clips": {
+    "step_cross_swag_r_neversaynever_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "step_cross_swag_l_neversaynever_v1"
+    },
+    "step_cross_swag_r_neversaynever_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "step_cross_swag_l_neversaynever_v0"
+    }
+  }
+}

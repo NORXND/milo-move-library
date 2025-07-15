@@ -1,0 +1,18 @@
+{
+  "name": "knockout_l",
+  "difficulty": 0,
+  "display_name": "Knockout",
+  "ham_move_name": "Knockout_L_neversaynever.move",
+  "milo_name": "knockout_l_neversaynever",
+  "song_name": "neversaynever",
+  "clips": {
+    "knockout_l_neversaynever_v0": {
+      "avg_beats_per_second": 1.39,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "knockout_r_neversaynever_v0"
+    }
+  }
+}

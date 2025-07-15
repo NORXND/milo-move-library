@@ -1,0 +1,26 @@
+{
+  "name": "bounce",
+  "difficulty": 2,
+  "display_name": "Bounce",
+  "ham_move_name": "Pick_It_Up_neversaynever.move",
+  "milo_name": "pick_it_up_neversaynever",
+  "song_name": "neversaynever",
+  "clips": {
+    "bounce_neversaynever_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bounce_neversaynever_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

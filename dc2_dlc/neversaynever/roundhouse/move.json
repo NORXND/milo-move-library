@@ -1,0 +1,42 @@
+{
+  "name": "roundhouse",
+  "difficulty": 2,
+  "display_name": "Roundhouse",
+  "ham_move_name": "Throw_And_Hop_neversaynever.move",
+  "milo_name": "throw_and_hop_neversaynever",
+  "song_name": "neversaynever",
+  "clips": {
+    "roundhouse_neversaynever_v2": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roundhouse_neversaynever_v3": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roundhouse_neversaynever_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roundhouse_neversaynever_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

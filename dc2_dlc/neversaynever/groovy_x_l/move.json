@@ -1,0 +1,18 @@
+{
+  "name": "groovy_x_l",
+  "difficulty": 2,
+  "display_name": "Groovy X",
+  "ham_move_name": "Lazy_Groove_L_neversaynever.move",
+  "milo_name": "lazy_groove_l_neversaynever",
+  "song_name": "neversaynever",
+  "clips": {
+    "groovy_x_l_neversaynever_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "groovy_x_r_neversaynever_v0"
+    }
+  }
+}

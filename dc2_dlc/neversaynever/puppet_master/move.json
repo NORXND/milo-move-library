@@ -1,0 +1,26 @@
+{
+  "name": "puppet_master",
+  "difficulty": 2,
+  "display_name": "Puppet Master",
+  "ham_move_name": "Scoop_Knee_neversaynever.move",
+  "milo_name": "scoop_knee_neversaynever",
+  "song_name": "neversaynever",
+  "clips": {
+    "puppet_master_neversaynever_v0": {
+      "avg_beats_per_second": 1.61,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "puppet_master_neversaynever_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

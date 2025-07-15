@@ -1,0 +1,18 @@
+{
+  "name": "overhead",
+  "difficulty": 0,
+  "display_name": "Overhead",
+  "ham_move_name": "Body_Wipes_paparazzi2.move",
+  "milo_name": "body_wipes_paparazzi2",
+  "song_name": "paparazzi2",
+  "clips": {
+    "overhead_paparazzi2_v0": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

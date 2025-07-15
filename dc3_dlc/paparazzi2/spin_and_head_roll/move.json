@@ -1,0 +1,26 @@
+{
+  "name": "spin_and_head_roll",
+  "difficulty": 2,
+  "display_name": "Spin / Head Roll",
+  "ham_move_name": "Give_In_To_Him_paparazzi2.move",
+  "milo_name": "give_in_to_him_paparazzi2",
+  "song_name": "paparazzi2",
+  "clips": {
+    "spin_and_head_roll_paparazzi2_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spin_and_head_roll_paparazzi2_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

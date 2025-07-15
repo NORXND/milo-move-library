@@ -1,0 +1,18 @@
+{
+  "name": "whisk_and_snap",
+  "difficulty": 2,
+  "display_name": "Whisk & Snap",
+  "ham_move_name": "Twist_And_Wind_paparazzi2.move",
+  "milo_name": "twist_and_wind_paparazzi2",
+  "song_name": "paparazzi2",
+  "clips": {
+    "whisk_and_snap_paparazzi2_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

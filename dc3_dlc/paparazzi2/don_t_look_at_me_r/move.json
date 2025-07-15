@@ -1,0 +1,42 @@
+{
+  "name": "don_t_look_at_me_r",
+  "difficulty": 2,
+  "display_name": "Don't Look At Me",
+  "ham_move_name": "Dont_Look_At_Me_R_paparazzi2.move",
+  "milo_name": "dont_look_at_me_r_paparazzi2",
+  "song_name": "paparazzi2",
+  "clips": {
+    "don_t_look_at_me_r_paparazzi2_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "don_t_look_at_me_l_paparazzi2_v1",
+      "linked_from": "don_t_look_at_me_l_paparazzi2_v0"
+    },
+    "don_t_look_at_me_r_paparazzi2_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "don_t_look_at_me_l_paparazzi2_v1"
+    },
+    "don_t_look_at_me_r_paparazzi2_v2": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "don_t_look_at_me_l_paparazzi2_v3",
+      "linked_from": "don_t_look_at_me_l_paparazzi2_v2"
+    },
+    "don_t_look_at_me_r_paparazzi2_v3": {
+      "avg_beats_per_second": 1.64,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "don_t_look_at_me_l_paparazzi2_v3"
+    }
+  }
+}

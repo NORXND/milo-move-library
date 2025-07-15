@@ -1,0 +1,18 @@
+{
+  "name": "air_cross",
+  "difficulty": 2,
+  "display_name": "Air Cross",
+  "ham_move_name": "Air_Cross_paparazzi2.move",
+  "milo_name": "air_cross_paparazzi2",
+  "song_name": "paparazzi2",
+  "clips": {
+    "air_cross_paparazzi2_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "wrist_twist_and_dusk_paparazzi2_v0",
+      "linked_from": ""
+    }
+  }
+}

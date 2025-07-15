@@ -1,0 +1,42 @@
+{
+  "name": "the_vapors",
+  "difficulty": 0,
+  "display_name": "The Vapors",
+  "ham_move_name": "Head_Melt_paparazzi2.move",
+  "milo_name": "head_melt_paparazzi2",
+  "song_name": "paparazzi2",
+  "clips": {
+    "the_vapors_paparazzi2_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "the_vapors_paparazzi2_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "the_vapors_paparazzi2_v2": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "the_vapors_paparazzi2_v3": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "hip_pound",
+  "difficulty": 0,
+  "display_name": "Hip Pound",
+  "ham_move_name": "Hip_Pounds_paparazzi2.move",
+  "milo_name": "hip_pounds_paparazzi2",
+  "song_name": "paparazzi2",
+  "clips": {
+    "hip_pound_paparazzi2_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_pound_paparazzi2_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "hey_and_wind_and_dawn",
+  "difficulty": 2,
+  "display_name": "Hey / Wind / Dawn",
+  "ham_move_name": "Poppa_paparazzi2.move",
+  "milo_name": "poppa_paparazzi2",
+  "song_name": "paparazzi2",
+  "clips": {
+    "hey_and_wind_and_dawn_paparazzi2_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hey_and_wind_and_dawn_paparazzi2_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

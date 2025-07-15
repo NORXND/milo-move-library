@@ -1,0 +1,26 @@
+{
+  "name": "reach_for_it_l",
+  "difficulty": 2,
+  "display_name": "Reach For It",
+  "ham_move_name": "Reach_For_It_L_paparazzi2.move",
+  "milo_name": "reach_for_it_l_paparazzi2",
+  "song_name": "paparazzi2",
+  "clips": {
+    "reach_for_it_l_paparazzi2_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "reach_for_it_r_paparazzi2_v0"
+    },
+    "reach_for_it_l_paparazzi2_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "reach_for_it_r_paparazzi2_v1"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "magical",
+  "difficulty": 2,
+  "display_name": "Magical",
+  "ham_move_name": "Magik_Handz_paparazzi2.move",
+  "milo_name": "magik_handz_paparazzi2",
+  "song_name": "paparazzi2",
+  "clips": {
+    "magical_paparazzi2_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

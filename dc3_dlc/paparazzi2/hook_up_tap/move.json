@@ -1,0 +1,26 @@
+{
+  "name": "hook_up_tap",
+  "difficulty": 2,
+  "display_name": "Hook Up Tap",
+  "ham_move_name": "Present_Urself_paparazzi2.move",
+  "milo_name": "present_urself_paparazzi2",
+  "song_name": "paparazzi2",
+  "clips": {
+    "hook_up_tap_paparazzi2_v0": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hook_up_tap_paparazzi2_v1": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

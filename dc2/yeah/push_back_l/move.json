@@ -1,0 +1,18 @@
+{
+  "name": "push_back_l",
+  "difficulty": 1,
+  "display_name": "Push Back",
+  "ham_move_name": "Push_Hit_L_yeah.move",
+  "milo_name": "push_hit_l_yeah",
+  "song_name": "yeah",
+  "clips": {
+    "push_back_l_yeah_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "push_back_r_yeah_v0"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "slide_and_bounce_l",
+  "difficulty": 1,
+  "display_name": "Slide & Bounce",
+  "ham_move_name": "Slide_Bounce_Bounce_L_yeah.move",
+  "milo_name": "slide_bounce_bounce_l_yeah",
+  "song_name": "yeah",
+  "clips": {
+    "slide_and_bounce_l_yeah_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "slide_and_bounce_r_yeah_v0",
+      "linked_from": ""
+    }
+  }
+}

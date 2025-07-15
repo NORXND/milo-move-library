@@ -1,0 +1,42 @@
+{
+  "name": "frat_step",
+  "difficulty": 0,
+  "display_name": "Frat Step",
+  "ham_move_name": "Frat_Step_yeah.move",
+  "milo_name": "frat_step_yeah",
+  "song_name": "yeah",
+  "clips": {
+    "frat_step_yeah_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "frat_step_yeah_v3": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "frat_step_yeah_v1": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "frat_step_yeah_v2": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

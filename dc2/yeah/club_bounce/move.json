@@ -1,0 +1,18 @@
+{
+  "name": "club_bounce",
+  "difficulty": 0,
+  "display_name": "Club Bounce",
+  "ham_move_name": "Club_Bounce_yeah.move",
+  "milo_name": "club_bounce_yeah",
+  "song_name": "yeah",
+  "clips": {
+    "club_bounce_yeah_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

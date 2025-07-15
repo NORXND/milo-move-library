@@ -1,0 +1,34 @@
+{
+  "name": "what_s_good",
+  "difficulty": 0,
+  "display_name": "What's Good",
+  "ham_move_name": "Twist_And_Pose_yeah.move",
+  "milo_name": "twist_and_pose_yeah",
+  "song_name": "yeah",
+  "clips": {
+    "what_s_good_yeah_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "what_s_good_yeah_v1": {
+      "avg_beats_per_second": 1.18,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "what_s_good_yeah_v2": {
+      "avg_beats_per_second": 1.18,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

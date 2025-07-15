@@ -1,0 +1,26 @@
+{
+  "name": "lean_open",
+  "difficulty": 1,
+  "display_name": "Lean Open",
+  "ham_move_name": "Lean_Open_yeah.move",
+  "milo_name": "lean_open_yeah",
+  "song_name": "yeah",
+  "clips": {
+    "lean_open_yeah_v0": {
+      "avg_beats_per_second": 1.5,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "lean_open_yeah_v1": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

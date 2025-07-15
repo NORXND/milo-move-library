@@ -1,0 +1,26 @@
+{
+  "name": "booty_bump",
+  "difficulty": 0,
+  "display_name": "Booty Bump",
+  "ham_move_name": "Booty_Bump_pumpupthejam.move",
+  "milo_name": "booty_bump_pumpupthejam",
+  "song_name": "pumpupthejam",
+  "clips": {
+    "booty_bump_pumpupthejam_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "booty_bump_pumpupthejam_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

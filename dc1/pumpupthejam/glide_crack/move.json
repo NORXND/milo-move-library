@@ -1,0 +1,34 @@
+{
+  "name": "glide_crack",
+  "difficulty": 1,
+  "display_name": "Glide Crack",
+  "ham_move_name": "Crack_Swing_pumpupthejam.move",
+  "milo_name": "crack_swing_pumpupthejam",
+  "song_name": "pumpupthejam",
+  "clips": {
+    "glide_crack_pumpupthejam_v1": {
+      "avg_beats_per_second": 1.79,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "glide_crack_pumpupthejam_v2": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "glide_crack_pumpupthejam_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

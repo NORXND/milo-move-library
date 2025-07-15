@@ -1,0 +1,18 @@
+{
+  "name": "hip_drop",
+  "difficulty": 0,
+  "display_name": "Hip Drop",
+  "ham_move_name": "Hip_Drop_pumpupthejam.move",
+  "milo_name": "hip_drop_pumpupthejam",
+  "song_name": "pumpupthejam",
+  "clips": {
+    "hip_drop_pumpupthejam_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

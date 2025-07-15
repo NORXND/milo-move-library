@@ -1,0 +1,26 @@
+{
+  "name": "brush_tap_r",
+  "difficulty": 1,
+  "display_name": "Brush Tap",
+  "ham_move_name": "Brush_Tap_R_pumpupthejam.move",
+  "milo_name": "brush_tap_r_pumpupthejam",
+  "song_name": "pumpupthejam",
+  "clips": {
+    "brush_tap_r_pumpupthejam_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "brush_tap_l_pumpupthejam_v1",
+      "linked_from": ""
+    },
+    "brush_tap_r_pumpupthejam_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "brush_tap_l_pumpupthejam_v0",
+      "linked_from": ""
+    }
+  }
+}

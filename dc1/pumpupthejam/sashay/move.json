@@ -1,0 +1,42 @@
+{
+  "name": "sashay",
+  "difficulty": 2,
+  "display_name": "Sashay",
+  "ham_move_name": "Shasay_pumpupthejam.move",
+  "milo_name": "shasay_pumpupthejam",
+  "song_name": "pumpupthejam",
+  "clips": {
+    "sashay_pumpupthejam_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sashay_pumpupthejam_v2": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sashay_pumpupthejam_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sashay_pumpupthejam_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

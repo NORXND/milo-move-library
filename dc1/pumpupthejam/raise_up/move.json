@@ -1,0 +1,34 @@
+{
+  "name": "raise_up",
+  "difficulty": 0,
+  "display_name": "Raise Up",
+  "ham_move_name": "Raise_Up_pumpupthejam.move",
+  "milo_name": "raise_up_pumpupthejam",
+  "song_name": "pumpupthejam",
+  "clips": {
+    "raise_up_pumpupthejam_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "raise_up_pumpupthejam_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "raise_up_pumpupthejam_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "throw_em_up",
+  "difficulty": 0,
+  "display_name": "Throw Em Up",
+  "ham_move_name": "Pump_pumpupthejam.move",
+  "milo_name": "pump_pumpupthejam",
+  "song_name": "pumpupthejam",
+  "clips": {
+    "throw_em_up_pumpupthejam_v3": {
+      "avg_beats_per_second": 1.78,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "throw_em_up_pumpupthejam_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "throw_em_up_pumpupthejam_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "throw_em_up_pumpupthejam_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "jam",
+  "difficulty": 0,
+  "display_name": "Jam",
+  "ham_move_name": "Jam_pumpupthejam.move",
+  "milo_name": "jam_pumpupthejam",
+  "song_name": "pumpupthejam",
+  "clips": {
+    "jam_pumpupthejam_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jam_pumpupthejam_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jam_pumpupthejam_v2": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

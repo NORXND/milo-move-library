@@ -1,0 +1,42 @@
+{
+  "name": "staccato",
+  "difficulty": 2,
+  "display_name": "Staccato",
+  "ham_move_name": "Stacatto_pumpupthejam.move",
+  "milo_name": "stacatto_pumpupthejam",
+  "song_name": "pumpupthejam",
+  "clips": {
+    "staccato_pumpupthejam_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "staccato_pumpupthejam_v1": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "staccato_pumpupthejam_v2": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "staccato_pumpupthejam_v3": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "grimm",
+  "difficulty": 1,
+  "display_name": "Grimm",
+  "ham_move_name": "Cricket_pumpupthejam.move",
+  "milo_name": "cricket_pumpupthejam",
+  "song_name": "pumpupthejam",
+  "clips": {
+    "grimm_pumpupthejam_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "grimm_pumpupthejam_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

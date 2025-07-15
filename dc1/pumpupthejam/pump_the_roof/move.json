@@ -1,0 +1,18 @@
+{
+  "name": "pump_the_roof",
+  "difficulty": 1,
+  "display_name": "Pump The Roof",
+  "ham_move_name": "Chest_Pump_And_Push_pumpupthejam.move",
+  "milo_name": "chest_pump_and_push_pumpupthejam",
+  "song_name": "pumpupthejam",
+  "clips": {
+    "pump_the_roof_pumpupthejam_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

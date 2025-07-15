@@ -1,0 +1,26 @@
+{
+  "name": "pound_walk",
+  "difficulty": 0,
+  "display_name": "Pound Walk",
+  "ham_move_name": "Pound_Walk_pumpupthejam.move",
+  "milo_name": "pound_walk_pumpupthejam",
+  "song_name": "pumpupthejam",
+  "clips": {
+    "pound_walk_pumpupthejam_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_walk_pumpupthejam_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

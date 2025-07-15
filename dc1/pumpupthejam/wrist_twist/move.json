@@ -1,0 +1,26 @@
+{
+  "name": "wrist_twist",
+  "difficulty": 2,
+  "display_name": "Wrist Twist",
+  "ham_move_name": "Wrist_Twist_pumpupthejam.move",
+  "milo_name": "wrist_twist_pumpupthejam",
+  "song_name": "pumpupthejam",
+  "clips": {
+    "wrist_twist_pumpupthejam_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wrist_twist_pumpupthejam_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

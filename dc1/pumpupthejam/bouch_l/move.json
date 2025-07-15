@@ -1,0 +1,26 @@
+{
+  "name": "bouch_l",
+  "difficulty": 0,
+  "display_name": "Bouch",
+  "ham_move_name": "Tang_L_pumpupthejam.move",
+  "milo_name": "tang_l_pumpupthejam",
+  "song_name": "pumpupthejam",
+  "clips": {
+    "bouch_l_pumpupthejam_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "bouch_r_pumpupthejam_v1"
+    },
+    "bouch_l_pumpupthejam_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "bouch_r_pumpupthejam_v0"
+    }
+  }
+}

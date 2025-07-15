@@ -1,0 +1,42 @@
+{
+  "name": "charge_up",
+  "difficulty": 0,
+  "display_name": "Charge Up",
+  "ham_move_name": "Charge_Up_igotyoudancing.move",
+  "milo_name": "charge_up_igotyoudancing",
+  "song_name": "igotyoudancing",
+  "clips": {
+    "charge_up_igotyoudancing_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "charge_up_igotyoudancing_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "charge_up_igotyoudancing_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "charge_up_igotyoudancing_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

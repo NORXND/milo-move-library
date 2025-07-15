@@ -1,0 +1,26 @@
+{
+  "name": "drag_in_flix",
+  "difficulty": 1,
+  "display_name": "Drag In Flix",
+  "ham_move_name": "Flix_igotyoudancing.move",
+  "milo_name": "flix_igotyoudancing",
+  "song_name": "igotyoudancing",
+  "clips": {
+    "drag_in_flix_igotyoudancing_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drag_in_flix_igotyoudancing_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

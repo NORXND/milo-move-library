@@ -1,0 +1,34 @@
+{
+  "name": "heart_pump",
+  "difficulty": 0,
+  "display_name": "Heart Pump",
+  "ham_move_name": "Heart_Pump_igotyoudancing.move",
+  "milo_name": "heart_pump_igotyoudancing",
+  "song_name": "igotyoudancing",
+  "clips": {
+    "heart_pump_igotyoudancing_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heart_pump_igotyoudancing_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heart_pump_igotyoudancing_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

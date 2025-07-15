@@ -1,0 +1,18 @@
+{
+  "name": "ting",
+  "difficulty": 2,
+  "display_name": "Ting",
+  "ham_move_name": "Ting_igotyoudancing.move",
+  "milo_name": "ting_igotyoudancing",
+  "song_name": "igotyoudancing",
+  "clips": {
+    "ting_igotyoudancing_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "twist_drag_in",
+  "difficulty": 2,
+  "display_name": "Twist Drag In",
+  "ham_move_name": "Twixie_igotyoudancing.move",
+  "milo_name": "twixie_igotyoudancing",
+  "song_name": "igotyoudancing",
+  "clips": {
+    "twist_drag_in_igotyoudancing_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "twist_drag_in_igotyoudancing_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "twist_drag_in_igotyoudancing_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "twist_drag_in_igotyoudancing_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

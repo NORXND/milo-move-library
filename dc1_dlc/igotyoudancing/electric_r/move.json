@@ -1,0 +1,26 @@
+{
+  "name": "electric_r",
+  "difficulty": 0,
+  "display_name": "Electric",
+  "ham_move_name": "Electric_R_igotyoudancing.move",
+  "milo_name": "electric_r_igotyoudancing",
+  "song_name": "igotyoudancing",
+  "clips": {
+    "electric_r_igotyoudancing_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "electric_l_igotyoudancing_v1"
+    },
+    "electric_r_igotyoudancing_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "electric_l_igotyoudancing_v1",
+      "linked_from": "electric_l_igotyoudancing_v0"
+    }
+  }
+}

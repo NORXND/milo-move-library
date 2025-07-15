@@ -1,0 +1,18 @@
+{
+  "name": "kick_step_back",
+  "difficulty": 1,
+  "display_name": "Kick Step Back",
+  "ham_move_name": "Kick_Step_Back_igotyoudancing.move",
+  "milo_name": "kick_step_back_igotyoudancing",
+  "song_name": "igotyoudancing",
+  "clips": {
+    "kick_step_back_igotyoudancing_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

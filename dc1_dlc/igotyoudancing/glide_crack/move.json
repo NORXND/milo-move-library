@@ -1,0 +1,50 @@
+{
+  "name": "glide_crack",
+  "difficulty": 1,
+  "display_name": "Glide Crack",
+  "ham_move_name": "Crack_Swing_igotyoudancing.move",
+  "milo_name": "crack_swing_igotyoudancing",
+  "song_name": "igotyoudancing",
+  "clips": {
+    "glide_crack_igotyoudancing_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "glide_crack_igotyoudancing_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "glide_crack_igotyoudancing_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "glide_crack_igotyoudancing_v4": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "glide_crack_igotyoudancing_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

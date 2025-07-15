@@ -1,0 +1,18 @@
+{
+  "name": "exception_hook_it_2",
+  "difficulty": 0,
+  "display_name": "Hook It",
+  "ham_move_name": "Hook_It_2_igotyoudancing.move",
+  "milo_name": "hook_it_2_igotyoudancing",
+  "song_name": "igotyoudancing",
+  "clips": {
+    "hook_it_igotyoudancing_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "hook_it_igotyoudancing_v0"
+    }
+  }
+}

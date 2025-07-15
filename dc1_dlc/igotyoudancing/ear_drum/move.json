@@ -1,0 +1,18 @@
+{
+  "name": "ear_drum",
+  "difficulty": 1,
+  "display_name": "Ear Drum",
+  "ham_move_name": "Ear_Drum_igotyoudancing.move",
+  "milo_name": "ear_drum_igotyoudancing",
+  "song_name": "igotyoudancing",
+  "clips": {
+    "ear_drum_igotyoudancing_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

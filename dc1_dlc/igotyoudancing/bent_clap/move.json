@@ -1,0 +1,26 @@
+{
+  "name": "bent_clap",
+  "difficulty": 0,
+  "display_name": "Bent Clap",
+  "ham_move_name": "Bent_Clap_igotyoudancing.move",
+  "milo_name": "bent_clap_igotyoudancing",
+  "song_name": "igotyoudancing",
+  "clips": {
+    "bent_clap_igotyoudancing_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bent_clap_igotyoudancing_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

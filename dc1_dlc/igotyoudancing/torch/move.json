@@ -1,0 +1,58 @@
+{
+  "name": "torch",
+  "difficulty": 0,
+  "display_name": "Torch",
+  "ham_move_name": "Torch_igotyoudancing.move",
+  "milo_name": "torch_igotyoudancing",
+  "song_name": "igotyoudancing",
+  "clips": {
+    "torch_igotyoudancing_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "torch_igotyoudancing_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "torch_igotyoudancing_v4": {
+      "avg_beats_per_second": 1.41,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "torch_igotyoudancing_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "torch_igotyoudancing_v5": {
+      "avg_beats_per_second": 1.41,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "torch_igotyoudancing_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

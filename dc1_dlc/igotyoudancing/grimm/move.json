@@ -1,0 +1,42 @@
+{
+  "name": "grimm",
+  "difficulty": 1,
+  "display_name": "Grimm",
+  "ham_move_name": "Cricket_igotyoudancing.move",
+  "milo_name": "cricket_igotyoudancing",
+  "song_name": "igotyoudancing",
+  "clips": {
+    "grimm_igotyoudancing_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "grimm_igotyoudancing_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "grimm_igotyoudancing_v3": {
+      "avg_beats_per_second": 2.07,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "grimm_igotyoudancing_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

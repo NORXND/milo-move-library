@@ -1,0 +1,18 @@
+{
+  "name": "exception_jump_in_2",
+  "difficulty": 1,
+  "display_name": "Jump In",
+  "ham_move_name": "Funk_In_2_igotyoudancing.move",
+  "milo_name": "funk_in_2_igotyoudancing",
+  "song_name": "igotyoudancing",
+  "clips": {
+    "jump_in_igotyoudancing_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "jump_in_igotyoudancing_v0"
+    }
+  }
+}

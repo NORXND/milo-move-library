@@ -1,0 +1,18 @@
+{
+  "name": "a_ling",
+  "difficulty": 2,
+  "display_name": "A Ling",
+  "ham_move_name": "A_Ling_igotyoudancing.move",
+  "milo_name": "a_ling_igotyoudancing",
+  "song_name": "igotyoudancing",
+  "clips": {
+    "a_ling_igotyoudancing_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

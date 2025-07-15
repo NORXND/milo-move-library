@@ -1,0 +1,26 @@
+{
+  "name": "celebrate_hop",
+  "difficulty": 2,
+  "display_name": "Celebrate Hop",
+  "ham_move_name": "Spastic_Pony_bewareoftheboys.move",
+  "milo_name": "spastic_pony_bewareoftheboys",
+  "song_name": "bewareoftheboys",
+  "clips": {
+    "celebrate_hop_bewareoftheboys_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "celebrate_hop_bewareoftheboys_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

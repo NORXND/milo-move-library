@@ -1,0 +1,34 @@
+{
+  "name": "corner_kick",
+  "difficulty": 2,
+  "display_name": "Corner Kick",
+  "ham_move_name": "Pendulum_bewareoftheboys.move",
+  "milo_name": "pendulum_bewareoftheboys",
+  "song_name": "bewareoftheboys",
+  "clips": {
+    "corner_kick_bewareoftheboys_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "corner_kick_bewareoftheboys_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "corner_kick_bewareoftheboys_v2": {
+      "avg_beats_per_second": 1.63,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

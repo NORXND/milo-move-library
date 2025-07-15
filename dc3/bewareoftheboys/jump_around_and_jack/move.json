@@ -1,0 +1,18 @@
+{
+  "name": "jump_around_and_jack",
+  "difficulty": 2,
+  "display_name": "Jump Around & Jack",
+  "ham_move_name": "Mad_As_Hell_bewareoftheboys.move",
+  "milo_name": "mad_as_hell_bewareoftheboys",
+  "song_name": "bewareoftheboys",
+  "clips": {
+    "jump_around_and_jack_bewareoftheboys_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

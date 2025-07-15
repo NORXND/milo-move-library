@@ -1,0 +1,34 @@
+{
+  "name": "viper_step_center",
+  "difficulty": 1,
+  "display_name": "Viper Step Center",
+  "ham_move_name": "Wave_bewareoftheboys.move",
+  "milo_name": "wave_bewareoftheboys",
+  "song_name": "bewareoftheboys",
+  "clips": {
+    "viper_step_center_bewareoftheboys_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "viper_step_center_bewareoftheboys_v2": {
+      "avg_beats_per_second": 1.63,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "viper_step_center_bewareoftheboys_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

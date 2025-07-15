@@ -1,0 +1,18 @@
+{
+  "name": "courier_jig",
+  "difficulty": 2,
+  "display_name": "Courier Jig",
+  "ham_move_name": "Tricky_bewareoftheboys.move",
+  "milo_name": "tricky_bewareoftheboys",
+  "song_name": "bewareoftheboys",
+  "clips": {
+    "courier_jig_bewareoftheboys_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

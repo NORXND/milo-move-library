@@ -1,0 +1,26 @@
+{
+  "name": "twisties",
+  "difficulty": 2,
+  "display_name": "Twisties",
+  "ham_move_name": "Twisties_bewareoftheboys.move",
+  "milo_name": "twisties_bewareoftheboys",
+  "song_name": "bewareoftheboys",
+  "clips": {
+    "twisties_bewareoftheboys_v1": {
+      "avg_beats_per_second": 1.4,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "twisties_bewareoftheboys_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

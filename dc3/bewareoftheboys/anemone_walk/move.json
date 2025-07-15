@@ -1,0 +1,26 @@
+{
+  "name": "anemone_walk",
+  "difficulty": 2,
+  "display_name": "Anemone Walk",
+  "ham_move_name": "Waterfall_bewareoftheboys.move",
+  "milo_name": "waterfall_bewareoftheboys",
+  "song_name": "bewareoftheboys",
+  "clips": {
+    "anemone_walk_bewareoftheboys_v1": {
+      "avg_beats_per_second": 1.4,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "anemone_walk_bewareoftheboys_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

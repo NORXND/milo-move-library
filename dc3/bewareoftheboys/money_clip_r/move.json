@@ -1,0 +1,18 @@
+{
+  "name": "money_clip_r",
+  "difficulty": 2,
+  "display_name": "Money Clip",
+  "ham_move_name": "Chaiya_Chaiya_R_bewareoftheboys.move",
+  "milo_name": "chaiya_chaiya_r_bewareoftheboys",
+  "song_name": "bewareoftheboys",
+  "clips": {
+    "money_clip_r_bewareoftheboys_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "money_clip_l_bewareoftheboys_v0",
+      "linked_from": ""
+    }
+  }
+}

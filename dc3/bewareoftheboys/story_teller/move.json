@@ -1,0 +1,18 @@
+{
+  "name": "story_teller",
+  "difficulty": 2,
+  "display_name": "Story Teller",
+  "ham_move_name": "Tunak_Tunak_bewareoftheboys.move",
+  "milo_name": "tunak_tunak_bewareoftheboys",
+  "song_name": "bewareoftheboys",
+  "clips": {
+    "story_teller_bewareoftheboys_v0": {
+      "avg_beats_per_second": 1.64,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "broken_faucet",
+  "difficulty": 2,
+  "display_name": "Broken Faucet",
+  "ham_move_name": "Massage_Therapy_bewareoftheboys.move",
+  "milo_name": "massage_therapy_bewareoftheboys",
+  "song_name": "bewareoftheboys",
+  "clips": {
+    "broken_faucet_bewareoftheboys_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

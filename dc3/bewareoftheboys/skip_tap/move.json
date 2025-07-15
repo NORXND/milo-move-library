@@ -1,0 +1,26 @@
+{
+  "name": "skip_tap",
+  "difficulty": 2,
+  "display_name": "Skip Tap",
+  "ham_move_name": "Farmer_bewareoftheboys.move",
+  "milo_name": "farmer_bewareoftheboys",
+  "song_name": "bewareoftheboys",
+  "clips": {
+    "skip_tap_bewareoftheboys_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "skip_tap_bewareoftheboys_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

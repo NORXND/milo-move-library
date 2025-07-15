@@ -1,0 +1,34 @@
+{
+  "name": "exception_winemaker_2",
+  "difficulty": 2,
+  "display_name": "Winemaker",
+  "ham_move_name": "Switch_Turn_Stick_bewareoftheboys.move",
+  "milo_name": "switch_turn_stick_bewareoftheboys",
+  "song_name": "bewareoftheboys",
+  "clips": {
+    "winemaker_bewareoftheboys_v5": {
+      "avg_beats_per_second": 1.45,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "winemaker_bewareoftheboys_v1": {
+      "avg_beats_per_second": 1.4,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "winemaker_bewareoftheboys_v3": {
+      "avg_beats_per_second": 1.4,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "bolgo",
+  "difficulty": 2,
+  "display_name": "Bolgo",
+  "ham_move_name": "Grind_With_Me_bewareoftheboys.move",
+  "milo_name": "grind_with_me_bewareoftheboys",
+  "song_name": "bewareoftheboys",
+  "clips": {
+    "bolgo_bewareoftheboys_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

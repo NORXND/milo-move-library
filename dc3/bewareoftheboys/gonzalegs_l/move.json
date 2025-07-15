@@ -1,0 +1,18 @@
+{
+  "name": "gonzalegs_l",
+  "difficulty": 2,
+  "display_name": "Gonzalegs",
+  "ham_move_name": "Repeat_L_bewareoftheboys.move",
+  "milo_name": "repeat_l_bewareoftheboys",
+  "song_name": "bewareoftheboys",
+  "clips": {
+    "gonzalegs_l_bewareoftheboys_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "gonzalegs_r_bewareoftheboys_v0",
+      "linked_from": ""
+    }
+  }
+}

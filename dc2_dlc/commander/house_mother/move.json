@@ -1,0 +1,26 @@
+{
+  "name": "house_mother",
+  "difficulty": 1,
+  "display_name": "House Mother",
+  "ham_move_name": "Whack_It_commander.move",
+  "milo_name": "whack_it_commander",
+  "song_name": "commander",
+  "clips": {
+    "house_mother_commander_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "house_mother_commander_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "pump_and_toss_l",
+  "difficulty": 2,
+  "display_name": "Pump & Toss",
+  "ham_move_name": "Chest_Break_L_commander.move",
+  "milo_name": "chest_break_l_commander",
+  "song_name": "commander",
+  "clips": {
+    "pump_and_toss_l_commander_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "pump_and_toss_r_commander_v0",
+      "linked_from": ""
+    }
+  }
+}

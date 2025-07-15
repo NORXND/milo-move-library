@@ -1,0 +1,18 @@
+{
+  "name": "dj_rndm",
+  "difficulty": 0,
+  "display_name": "DJ RNDM",
+  "ham_move_name": "DJ_commander.move",
+  "milo_name": "dj_commander",
+  "song_name": "commander",
+  "clips": {
+    "dj_rndm_commander_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

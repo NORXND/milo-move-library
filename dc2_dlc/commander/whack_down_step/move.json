@@ -1,0 +1,26 @@
+{
+  "name": "whack_down_step",
+  "difficulty": 1,
+  "display_name": "Whack Down Step",
+  "ham_move_name": "Twist_Side_commander.move",
+  "milo_name": "twist_side_commander",
+  "song_name": "commander",
+  "clips": {
+    "whack_down_step_commander_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "whack_down_step_commander_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

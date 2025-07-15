@@ -1,0 +1,18 @@
+{
+  "name": "ring",
+  "difficulty": 0,
+  "display_name": "Ring",
+  "ham_move_name": "Pull_It_commander.move",
+  "milo_name": "pull_it_commander",
+  "song_name": "commander",
+  "clips": {
+    "ring_commander_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

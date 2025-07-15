@@ -1,0 +1,58 @@
+{
+  "name": "shoulder_pep_up",
+  "difficulty": 2,
+  "display_name": "Shoulder Pep Up",
+  "ham_move_name": "Slither_turnthebeataround.move",
+  "milo_name": "slither_turnthebeataround",
+  "song_name": "turnthebeataround",
+  "clips": {
+    "shoulder_pep_up_turnthebeataround_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_pep_up_turnthebeataround_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_pep_up_turnthebeataround_v2": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_pep_up_turnthebeataround_v3": {
+      "avg_beats_per_second": 2.2,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_pep_up_turnthebeataround_v4": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_pep_up_turnthebeataround_v5": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "pas_de_bourr_and_233_e",
+  "difficulty": 2,
+  "display_name": "Pas De Bourr<&#233>e",
+  "ham_move_name": "Chasse_turnthebeataround.move",
+  "milo_name": "chasse_turnthebeataround",
+  "song_name": "turnthebeataround",
+  "clips": {
+    "pas_de_bourr_and_233_e_turnthebeataround_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

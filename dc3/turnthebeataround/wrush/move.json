@@ -1,0 +1,18 @@
+{
+  "name": "wrush",
+  "difficulty": 2,
+  "display_name": "Wrush",
+  "ham_move_name": "Flip_Over_turnthebeataround.move",
+  "milo_name": "flip_over_turnthebeataround",
+  "song_name": "turnthebeataround",
+  "clips": {
+    "wrush_turnthebeataround_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

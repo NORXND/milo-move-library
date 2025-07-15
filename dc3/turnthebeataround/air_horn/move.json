@@ -1,0 +1,18 @@
+{
+  "name": "air_horn",
+  "difficulty": 2,
+  "display_name": "Air Horn",
+  "ham_move_name": "Horns_turnthebeataround.move",
+  "milo_name": "horns_turnthebeataround",
+  "song_name": "turnthebeataround",
+  "clips": {
+    "air_horn_turnthebeataround_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

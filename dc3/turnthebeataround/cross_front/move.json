@@ -1,0 +1,58 @@
+{
+  "name": "cross_front",
+  "difficulty": 0,
+  "display_name": "Cross Front",
+  "ham_move_name": "Cross_Snatch_turnthebeataround.move",
+  "milo_name": "cross_snatch_turnthebeataround",
+  "song_name": "turnthebeataround",
+  "clips": {
+    "cross_front_turnthebeataround_v3": {
+      "avg_beats_per_second": 2.2,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_front_turnthebeataround_v1": {
+      "avg_beats_per_second": 2.19,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_front_turnthebeataround_v4": {
+      "avg_beats_per_second": 2.2,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_front_turnthebeataround_v2": {
+      "avg_beats_per_second": 2.2,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_front_turnthebeataround_v0": {
+      "avg_beats_per_second": 2.16,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_front_turnthebeataround_v5": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

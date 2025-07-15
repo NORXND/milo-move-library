@@ -1,0 +1,26 @@
+{
+  "name": "rolling_thunder",
+  "difficulty": 0,
+  "display_name": "Rolling Thunder",
+  "ham_move_name": "Rolling_Conga_turnthebeataround.move",
+  "milo_name": "rolling_conga_turnthebeataround",
+  "song_name": "turnthebeataround",
+  "clips": {
+    "rolling_thunder_turnthebeataround_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rolling_thunder_turnthebeataround_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "shimmy",
+  "difficulty": 2,
+  "display_name": "Shimmy",
+  "ham_move_name": "Shimmie_turnthebeataround.move",
+  "milo_name": "shimmie_turnthebeataround",
+  "song_name": "turnthebeataround",
+  "clips": {
+    "shimmy_turnthebeataround_v0": {
+      "avg_beats_per_second": 2.23,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shimmy_turnthebeataround_v5": {
+      "avg_beats_per_second": 2.25,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shimmy_turnthebeataround_v3": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shimmy_turnthebeataround_v1": {
+      "avg_beats_per_second": 2.22,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shimmy_turnthebeataround_v4": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shimmy_turnthebeataround_v2": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

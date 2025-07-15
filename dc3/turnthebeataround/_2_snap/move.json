@@ -1,0 +1,58 @@
+{
+  "name": "_2_snap",
+  "difficulty": 2,
+  "display_name": "2 Snap",
+  "ham_move_name": "Side_Snaps_turnthebeataround.move",
+  "milo_name": "side_snaps_turnthebeataround",
+  "song_name": "turnthebeataround",
+  "clips": {
+    "_2_snap_turnthebeataround_v2": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "_2_snap_turnthebeataround_v3": {
+      "avg_beats_per_second": 2.2,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "_2_snap_turnthebeataround_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "_2_snap_turnthebeataround_v4": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "_2_snap_turnthebeataround_v1": {
+      "avg_beats_per_second": 2.18,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "_2_snap_turnthebeataround_v5": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

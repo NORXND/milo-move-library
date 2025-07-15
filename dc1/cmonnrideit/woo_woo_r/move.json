@@ -1,0 +1,66 @@
+{
+  "name": "woo_woo_r",
+  "difficulty": 0,
+  "display_name": "Woo Woo",
+  "ham_move_name": "Woo_Woo_R_cmonnrideit.move",
+  "milo_name": "woo_woo_r_cmonnrideit",
+  "song_name": "cmonnrideit",
+  "clips": {
+    "woo_woo_r_cmonnrideit_v0": {
+      "avg_beats_per_second": 1.96,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "woo_woo_r_cmonnrideit_v5": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "woo_woo_l_cmonnrideit_v3",
+      "linked_from": ""
+    },
+    "woo_woo_r_cmonnrideit_v3": {
+      "avg_beats_per_second": 2.26,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "woo_woo_r_cmonnrideit_v1": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "woo_woo_l_cmonnrideit_v0",
+      "linked_from": ""
+    },
+    "woo_woo_r_cmonnrideit_v6": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "woo_woo_r_cmonnrideit_v4": {
+      "avg_beats_per_second": 2.26,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "woo_woo_l_cmonnrideit_v2",
+      "linked_from": ""
+    },
+    "woo_woo_r_cmonnrideit_v2": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

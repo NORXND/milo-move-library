@@ -1,0 +1,26 @@
+{
+  "name": "kick_it",
+  "difficulty": 1,
+  "display_name": "Kick It",
+  "ham_move_name": "Kick_It_cmonnrideit.move",
+  "milo_name": "kick_it_cmonnrideit",
+  "song_name": "cmonnrideit",
+  "clips": {
+    "kick_it_cmonnrideit_v0": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_it_cmonnrideit_v1": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

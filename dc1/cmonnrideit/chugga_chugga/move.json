@@ -1,0 +1,58 @@
+{
+  "name": "chugga_chugga",
+  "difficulty": 0,
+  "display_name": "Chugga Chugga",
+  "ham_move_name": "Chugga_Chugga_cmonnrideit.move",
+  "milo_name": "chugga_chugga_cmonnrideit",
+  "song_name": "cmonnrideit",
+  "clips": {
+    "chugga_chugga_cmonnrideit_v1": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chugga_chugga_cmonnrideit_v4": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chugga_chugga_cmonnrideit_v2": {
+      "avg_beats_per_second": 2.26,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chugga_chugga_cmonnrideit_v0": {
+      "avg_beats_per_second": 2.26,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chugga_chugga_cmonnrideit_v5": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chugga_chugga_cmonnrideit_v3": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

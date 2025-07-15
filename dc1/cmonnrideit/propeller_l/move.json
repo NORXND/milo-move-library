@@ -1,0 +1,26 @@
+{
+  "name": "propeller_l",
+  "difficulty": 1,
+  "display_name": "Propeller",
+  "ham_move_name": "Thrust_It_Slow_L_cmonnrideit.move",
+  "milo_name": "thrust_it_slow_r_cmonnrideit",
+  "song_name": "cmonnrideit",
+  "clips": {
+    "propeller_l_cmonnrideit_v0": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "propeller_r_cmonnrideit_v0",
+      "linked_from": ""
+    },
+    "propeller_l_cmonnrideit_v1": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "propeller_r_cmonnrideit_v1",
+      "linked_from": "propeller_r_cmonnrideit_v0"
+    }
+  }
+}

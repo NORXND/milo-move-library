@@ -1,0 +1,26 @@
+{
+  "name": "boxer",
+  "difficulty": 1,
+  "display_name": "Boxer",
+  "ham_move_name": "Box_Box_cmonnrideit.move",
+  "milo_name": "box_box_cmonnrideit",
+  "song_name": "cmonnrideit",
+  "clips": {
+    "boxer_cmonnrideit_v0": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "boxer_cmonnrideit_v1": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

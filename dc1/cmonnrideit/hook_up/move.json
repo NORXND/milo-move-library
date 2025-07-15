@@ -1,0 +1,106 @@
+{
+  "name": "hook_up",
+  "difficulty": 1,
+  "display_name": "Hook Up",
+  "ham_move_name": "Hook_Up_cmonnrideit.move",
+  "milo_name": "hook_up_cmonnrideit",
+  "song_name": "cmonnrideit",
+  "clips": {
+    "hook_up_cmonnrideit_v0": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hook_up_cmonnrideit_v11": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hook_up_cmonnrideit_v8": {
+      "avg_beats_per_second": 1.96,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hook_up_cmonnrideit_v3": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hook_up_cmonnrideit_v6": {
+      "avg_beats_per_second": 2.26,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hook_up_cmonnrideit_v1": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hook_up_cmonnrideit_v4": {
+      "avg_beats_per_second": 1.96,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hook_up_cmonnrideit_v9": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hook_up_cmonnrideit_v10": {
+      "avg_beats_per_second": 2.26,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hook_up_cmonnrideit_v7": {
+      "avg_beats_per_second": 1.96,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hook_up_cmonnrideit_v2": {
+      "avg_beats_per_second": 2.26,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hook_up_cmonnrideit_v5": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

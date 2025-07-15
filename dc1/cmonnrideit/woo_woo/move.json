@@ -1,0 +1,18 @@
+{
+  "name": "woo_woo",
+  "difficulty": 0,
+  "display_name": "Woo Woo",
+  "ham_move_name": "Woo_Woo_L_and_End_cmonnrideit.move",
+  "milo_name": "woo_woo_l_and_end_cmonnrideit",
+  "song_name": "cmonnrideit",
+  "clips": {
+    "woo_woo_cmonnrideit_v0": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

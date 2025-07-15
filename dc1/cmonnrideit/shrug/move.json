@@ -1,0 +1,26 @@
+{
+  "name": "shrug",
+  "difficulty": 0,
+  "display_name": "Shrug",
+  "ham_move_name": "Shrug_cmonnrideit.move",
+  "milo_name": "shrug_cmonnrideit",
+  "song_name": "cmonnrideit",
+  "clips": {
+    "shrug_cmonnrideit_v0": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shrug_cmonnrideit_v1": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

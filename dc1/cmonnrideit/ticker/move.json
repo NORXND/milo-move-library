@@ -1,0 +1,42 @@
+{
+  "name": "ticker",
+  "difficulty": 0,
+  "display_name": "Ticker",
+  "ham_move_name": "Ticker_cmonnrideit.move",
+  "milo_name": "ticker_cmonnrideit",
+  "song_name": "cmonnrideit",
+  "clips": {
+    "ticker_cmonnrideit_v2": {
+      "avg_beats_per_second": 2.26,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ticker_cmonnrideit_v0": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ticker_cmonnrideit_v3": {
+      "avg_beats_per_second": 2.27,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ticker_cmonnrideit_v1": {
+      "avg_beats_per_second": 2.26,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

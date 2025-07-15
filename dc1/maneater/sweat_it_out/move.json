@@ -1,0 +1,42 @@
+{
+  "name": "sweat_it_out",
+  "difficulty": 0,
+  "display_name": "Sweat It Out",
+  "ham_move_name": "Sweat_It_Out_maneater.move",
+  "milo_name": "sweat_it_out_maneater",
+  "song_name": "maneater",
+  "clips": {
+    "sweat_it_out_maneater_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sweat_it_out_maneater_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sweat_it_out_maneater_v2": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sweat_it_out_maneater_v3": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

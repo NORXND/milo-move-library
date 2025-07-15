@@ -1,0 +1,18 @@
+{
+  "name": "doo_bop_bend",
+  "difficulty": 2,
+  "display_name": "Doo Bop Bend",
+  "ham_move_name": "Doo_Bop_Bend_maneater.move",
+  "milo_name": "doo_bop_bend_maneater",
+  "song_name": "maneater",
+  "clips": {
+    "doo_bop_bend_maneater_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

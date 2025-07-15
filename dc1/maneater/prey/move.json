@@ -1,0 +1,26 @@
+{
+  "name": "prey",
+  "difficulty": 1,
+  "display_name": "Prey",
+  "ham_move_name": "Prey_maneater.move",
+  "milo_name": "prey_maneater",
+  "song_name": "maneater",
+  "clips": {
+    "prey_maneater_v0": {
+      "avg_beats_per_second": 2.22,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "prey_maneater_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

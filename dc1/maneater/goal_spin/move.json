@@ -1,0 +1,26 @@
+{
+  "name": "goal_spin",
+  "difficulty": 2,
+  "display_name": "Goal Spin",
+  "ham_move_name": "Goal_Spin_maneater.move",
+  "milo_name": "goal_spin_maneater",
+  "song_name": "maneater",
+  "clips": {
+    "goal_spin_maneater_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "goal_spin_maneater_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

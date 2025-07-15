@@ -1,0 +1,26 @@
+{
+  "name": "park_it",
+  "difficulty": 0,
+  "display_name": "Park It",
+  "ham_move_name": "Park_It_maneater.move",
+  "milo_name": "park_it_maneater",
+  "song_name": "maneater",
+  "clips": {
+    "park_it_maneater_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "park_it_maneater_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

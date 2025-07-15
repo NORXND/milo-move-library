@@ -1,0 +1,18 @@
+{
+  "name": "crooker_r",
+  "difficulty": 0,
+  "display_name": "Crooker",
+  "ham_move_name": "Not_Arm_Swing_R_maneater.move",
+  "milo_name": "not_arm_swing_r_maneater",
+  "song_name": "maneater",
+  "clips": {
+    "crooker_r_maneater_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "crooker_l_maneater_v0"
+    }
+  }
+}

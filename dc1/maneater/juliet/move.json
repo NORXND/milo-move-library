@@ -1,0 +1,26 @@
+{
+  "name": "juliet",
+  "difficulty": 1,
+  "display_name": "Juliet",
+  "ham_move_name": "Juliet_maneater.move",
+  "milo_name": "juliet_maneater",
+  "song_name": "maneater",
+  "clips": {
+    "juliet_maneater_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "juliet_maneater_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

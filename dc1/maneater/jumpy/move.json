@@ -1,0 +1,18 @@
+{
+  "name": "jumpy",
+  "difficulty": 2,
+  "display_name": "Jumpy",
+  "ham_move_name": "Jumpy_maneater.move",
+  "milo_name": "jumpy_maneater",
+  "song_name": "maneater",
+  "clips": {
+    "jumpy_maneater_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

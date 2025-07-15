@@ -1,0 +1,18 @@
+{
+  "name": "gold_coast",
+  "difficulty": 1,
+  "display_name": "Gold Coast",
+  "ham_move_name": "Side_Step_Groove_maneater.move",
+  "milo_name": "side_step_groove_maneater",
+  "song_name": "maneater",
+  "clips": {
+    "gold_coast_maneater_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

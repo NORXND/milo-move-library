@@ -1,0 +1,18 @@
+{
+  "name": "wipe_away",
+  "difficulty": 0,
+  "display_name": "Wipe Away",
+  "ham_move_name": "Wipe_Away_maneater.move",
+  "milo_name": "wipe_away_maneater",
+  "song_name": "maneater",
+  "clips": {
+    "wipe_away_maneater_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

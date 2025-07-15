@@ -1,0 +1,26 @@
+{
+  "name": "runaround",
+  "difficulty": 2,
+  "display_name": "RunAround",
+  "ham_move_name": "RunAround_poison.move",
+  "milo_name": "runaround_poison",
+  "song_name": "poison",
+  "clips": {
+    "runaround_poison_v0": {
+      "avg_beats_per_second": 1.86,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "runaround_poison_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "windbreaker",
+  "difficulty": 2,
+  "display_name": "Windbreaker",
+  "ham_move_name": "Arm_Swing_poison.move",
+  "milo_name": "arm_swing_poison",
+  "song_name": "poison",
+  "clips": {
+    "windbreaker_poison_v0": {
+      "avg_beats_per_second": 1.87,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

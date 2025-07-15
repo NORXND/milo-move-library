@@ -1,0 +1,50 @@
+{
+  "name": "kicks",
+  "difficulty": 1,
+  "display_name": "Kicks",
+  "ham_move_name": "Kick_Step_poison.move",
+  "milo_name": "kick_step_poison",
+  "song_name": "poison",
+  "clips": {
+    "kicks_poison_v1": {
+      "avg_beats_per_second": 1.87,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kicks_poison_v4": {
+      "avg_beats_per_second": 1.87,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kicks_poison_v2": {
+      "avg_beats_per_second": 1.86,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kicks_poison_v0": {
+      "avg_beats_per_second": 1.86,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kicks_poison_v3": {
+      "avg_beats_per_second": 1.87,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

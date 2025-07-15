@@ -1,0 +1,18 @@
+{
+  "name": "man_swagg",
+  "difficulty": 0,
+  "display_name": "Man Swagg",
+  "ham_move_name": "Man_Swagg_poison.move",
+  "milo_name": "man_swagg_poison",
+  "song_name": "poison",
+  "clips": {
+    "man_swagg_poison_v0": {
+      "avg_beats_per_second": 1.87,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

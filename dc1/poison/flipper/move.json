@@ -1,0 +1,34 @@
+{
+  "name": "flipper",
+  "difficulty": 2,
+  "display_name": "Flipper",
+  "ham_move_name": "Head_Kick_Step_poison.move",
+  "milo_name": "head_kick_step_poison",
+  "song_name": "poison",
+  "clips": {
+    "flipper_poison_v0": {
+      "avg_beats_per_second": 1.86,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "flipper_poison_v1": {
+      "avg_beats_per_second": 1.87,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "flipper_poison_v2": {
+      "avg_beats_per_second": 1.87,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

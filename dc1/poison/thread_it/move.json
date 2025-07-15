@@ -1,0 +1,26 @@
+{
+  "name": "thread_it",
+  "difficulty": 1,
+  "display_name": "Thread It",
+  "ham_move_name": "Kick_And_Chest_poison.move",
+  "milo_name": "kick_and_chest_poison",
+  "song_name": "poison",
+  "clips": {
+    "thread_it_poison_v0": {
+      "avg_beats_per_second": 1.87,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "thread_it_poison_v1": {
+      "avg_beats_per_second": 1.87,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

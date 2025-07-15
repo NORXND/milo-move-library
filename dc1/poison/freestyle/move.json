@@ -1,0 +1,18 @@
+{
+  "name": "freestyle_poison",
+  "difficulty": 2,
+  "display_name": "FREESTYLE!",
+  "ham_move_name": "Freestyle.move",
+  "milo_name": "freestyle",
+  "song_name": "poison",
+  "clips": {
+    "freestyle_poison_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 96,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

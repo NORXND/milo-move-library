@@ -1,0 +1,26 @@
+{
+  "name": "freeze",
+  "difficulty": 0,
+  "display_name": "Freeze",
+  "ham_move_name": "Freeze_poison.move",
+  "milo_name": "freeze_poison",
+  "song_name": "poison",
+  "clips": {
+    "freeze_poison_v0": {
+      "avg_beats_per_second": 1.86,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freeze_poison_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

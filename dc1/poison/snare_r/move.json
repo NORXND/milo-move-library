@@ -1,0 +1,42 @@
+{
+  "name": "snare_r",
+  "difficulty": 1,
+  "display_name": "Snare",
+  "ham_move_name": "Shoulder_Step_R_poison.move",
+  "milo_name": "shoulder_step_r_poison",
+  "song_name": "poison",
+  "clips": {
+    "snare_r_poison_v0": {
+      "avg_beats_per_second": 1.87,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "snare_l_poison_v0"
+    },
+    "snare_r_poison_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "snare_l_poison_v1"
+    },
+    "snare_r_poison_v2": {
+      "avg_beats_per_second": 1.86,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "snare_l_poison_v2"
+    },
+    "snare_r_poison_v3": {
+      "avg_beats_per_second": 1.86,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "snare_l_poison_v3"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "head_flipper",
+  "difficulty": 2,
+  "display_name": "Head Flipper",
+  "ham_move_name": "Head_Throw_poison.move",
+  "milo_name": "head_throw_poison",
+  "song_name": "poison",
+  "clips": {
+    "head_flipper_poison_v0": {
+      "avg_beats_per_second": 1.86,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "head_flipper_poison_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

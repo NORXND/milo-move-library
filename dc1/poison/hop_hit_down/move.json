@@ -1,0 +1,26 @@
+{
+  "name": "hop_hit_down",
+  "difficulty": 0,
+  "display_name": "Hop Hit Down",
+  "ham_move_name": "Fresh_Prince_poison.move",
+  "milo_name": "fresh_prince_poison",
+  "song_name": "poison",
+  "clips": {
+    "hop_hit_down_poison_v0": {
+      "avg_beats_per_second": 1.87,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_hit_down_poison_v1": {
+      "avg_beats_per_second": 1.87,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

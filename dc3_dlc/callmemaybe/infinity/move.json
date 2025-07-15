@@ -1,0 +1,26 @@
+{
+  "name": "infinity",
+  "difficulty": 2,
+  "display_name": "Infinity",
+  "ham_move_name": "The_Heart_Is_Heavy_callmemaybe.move",
+  "milo_name": "the_heart_is_heavy_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "infinity_callmemaybe_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "infinity_callmemaybe_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

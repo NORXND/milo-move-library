@@ -1,0 +1,26 @@
+{
+  "name": "want_you_and_wall_push",
+  "difficulty": 2,
+  "display_name": "Want You / Wall Push",
+  "ham_move_name": "Baby_Wall_Push_callmemaybe.move",
+  "milo_name": "baby_wall_push_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "want_you_and_wall_push_callmemaybe_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "want_you_and_wall_push_callmemaybe_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

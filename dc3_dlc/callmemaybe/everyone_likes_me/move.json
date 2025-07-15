@@ -1,0 +1,26 @@
+{
+  "name": "everyone_likes_me",
+  "difficulty": 2,
+  "display_name": "Everyone Likes Me",
+  "ham_move_name": "I_See_You_callmemaybe.move",
+  "milo_name": "i_see_you_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "everyone_likes_me_callmemaybe_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "everyone_likes_me_callmemaybe_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "stranger_aloha",
+  "difficulty": 2,
+  "display_name": "Stranger Aloha",
+  "ham_move_name": "Arm_Party_callmemaybe.move",
+  "milo_name": "arm_party_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "stranger_aloha_callmemaybe_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stranger_aloha_callmemaybe_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

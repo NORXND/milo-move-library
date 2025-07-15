@@ -1,0 +1,26 @@
+{
+  "name": "invisible_boyfriend",
+  "difficulty": 2,
+  "display_name": "Invisible Boyfriend",
+  "ham_move_name": "Huge_Hug_callmemaybe.move",
+  "milo_name": "huge_hug_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "invisible_boyfriend_callmemaybe_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "invisible_boyfriend_callmemaybe_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

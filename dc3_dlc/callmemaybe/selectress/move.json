@@ -1,0 +1,26 @@
+{
+  "name": "selectress",
+  "difficulty": 2,
+  "display_name": "Selectress",
+  "ham_move_name": "Psycho_callmemaybe.move",
+  "milo_name": "psycho_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "selectress_callmemaybe_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "selectress_callmemaybe_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

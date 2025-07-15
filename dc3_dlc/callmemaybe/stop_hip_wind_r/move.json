@@ -1,0 +1,18 @@
+{
+  "name": "stop_hip_wind_r",
+  "difficulty": 2,
+  "display_name": "Stop Hip Wind",
+  "ham_move_name": "Hips_To_The_R_callmemaybe.move",
+  "milo_name": "hips_to_the_r_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "stop_hip_wind_r_callmemaybe_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "stop_hip_wind_l_callmemaybe_v0"
+    }
+  }
+}

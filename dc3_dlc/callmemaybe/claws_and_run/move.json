@@ -1,0 +1,26 @@
+{
+  "name": "claws_and_run",
+  "difficulty": 2,
+  "display_name": "Claws / Run",
+  "ham_move_name": "Run_Pose_callmemaybe.move",
+  "milo_name": "run_pose_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "claws_and_run_callmemaybe_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "claws_and_run_callmemaybe_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

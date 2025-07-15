@@ -1,0 +1,26 @@
+{
+  "name": "broken_blades_and_pump",
+  "difficulty": 2,
+  "display_name": "Broken Blades / Pump",
+  "ham_move_name": "This_Is_Crazy_callmemaybe.move",
+  "milo_name": "this_is_crazy_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "broken_blades_and_pump_callmemaybe_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "broken_blades_and_pump_callmemaybe_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

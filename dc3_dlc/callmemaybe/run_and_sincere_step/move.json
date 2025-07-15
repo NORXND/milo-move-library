@@ -1,0 +1,26 @@
+{
+  "name": "run_and_sincere_step",
+  "difficulty": 2,
+  "display_name": "Run / Sincere Step",
+  "ham_move_name": "Present_You_With_My_Number_callmemaybe.move",
+  "milo_name": "present_you_with_my_number_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "run_and_sincere_step_callmemaybe_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "run_and_sincere_step_callmemaybe_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "duck_and_push_and_pull",
+  "difficulty": 2,
+  "display_name": "Duck / Push & Pull",
+  "ham_move_name": "Checking_You_Out_callmemaybe.move",
+  "milo_name": "checking_you_out_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "duck_and_push_and_pull_callmemaybe_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "duck_and_push_and_pull_callmemaybe_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

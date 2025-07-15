@@ -1,0 +1,26 @@
+{
+  "name": "step_side_and_dig_em",
+  "difficulty": 2,
+  "display_name": "Step Side / Dig 'em",
+  "ham_move_name": "If_You_Love_Me_callmemaybe.move",
+  "milo_name": "if_you_love_me_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "step_side_and_dig_em_callmemaybe_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_and_dig_em_callmemaybe_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

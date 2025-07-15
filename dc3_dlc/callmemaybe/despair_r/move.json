@@ -1,0 +1,18 @@
+{
+  "name": "despair_r",
+  "difficulty": 2,
+  "display_name": "Despair",
+  "ham_move_name": "Sick_Off_Love_R_callmemaybe.move",
+  "milo_name": "sick_off_love_r_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "despair_r_callmemaybe_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "despair_l_callmemaybe_v0",
+      "linked_from": ""
+    }
+  }
+}

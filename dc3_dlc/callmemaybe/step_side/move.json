@@ -1,0 +1,26 @@
+{
+  "name": "step_side",
+  "difficulty": 0,
+  "display_name": "Step Side",
+  "ham_move_name": "Try_To_Catch_Me_Rl_callmemaybe.move",
+  "milo_name": "try_to_catch_me_rl_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "step_side_callmemaybe_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_callmemaybe_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

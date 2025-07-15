@@ -1,0 +1,18 @@
+{
+  "name": "creeper",
+  "difficulty": 2,
+  "display_name": "Creeper",
+  "ham_move_name": "Wobble_callmemaybe.move",
+  "milo_name": "wobble_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "creeper_callmemaybe_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

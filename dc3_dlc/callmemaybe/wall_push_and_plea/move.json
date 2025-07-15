@@ -1,0 +1,26 @@
+{
+  "name": "wall_push_and_plea",
+  "difficulty": 2,
+  "display_name": "Wall Push / Plea",
+  "ham_move_name": "Wall_Push_Maybe_callmemaybe.move",
+  "milo_name": "wall_push_maybe_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "wall_push_and_plea_callmemaybe_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wall_push_and_plea_callmemaybe_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

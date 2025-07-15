@@ -1,0 +1,26 @@
+{
+  "name": "choir_peek",
+  "difficulty": 2,
+  "display_name": "Choir Peek",
+  "ham_move_name": "The_After_Party_callmemaybe.move",
+  "milo_name": "the_after_party_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "choir_peek_callmemaybe_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "choir_peek_callmemaybe_v1": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

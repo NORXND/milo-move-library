@@ -1,0 +1,26 @@
+{
+  "name": "hip_swish",
+  "difficulty": 2,
+  "display_name": "Hip Swish",
+  "ham_move_name": "Pretty_Boy_callmemaybe.move",
+  "milo_name": "pretty_boy_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "hip_swish_callmemaybe_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_swish_callmemaybe_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

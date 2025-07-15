@@ -1,0 +1,26 @@
+{
+  "name": "push_and_pull",
+  "difficulty": 2,
+  "display_name": "Push & Pull",
+  "ham_move_name": "Rock_Wit_You_callmemaybe.move",
+  "milo_name": "rock_wit_you_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "push_and_pull_callmemaybe_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "push_and_pull_callmemaybe_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

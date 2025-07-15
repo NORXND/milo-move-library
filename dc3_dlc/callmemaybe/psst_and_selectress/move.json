@@ -1,0 +1,26 @@
+{
+  "name": "psst_and_selectress",
+  "difficulty": 2,
+  "display_name": "Psst / Selectress",
+  "ham_move_name": "Psst_callmemaybe.move",
+  "milo_name": "psst_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "psst_and_selectress_callmemaybe_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "psst_and_selectress_callmemaybe_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

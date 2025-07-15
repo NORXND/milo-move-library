@@ -1,0 +1,18 @@
+{
+  "name": "discouraged_r",
+  "difficulty": 2,
+  "display_name": "Discouraged",
+  "ham_move_name": "Why_Didnt_He_Call_R_callmemaybe.move",
+  "milo_name": "why_didnt_he_call_r_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "discouraged_r_callmemaybe_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "discouraged_l_callmemaybe_v0",
+      "linked_from": ""
+    }
+  }
+}

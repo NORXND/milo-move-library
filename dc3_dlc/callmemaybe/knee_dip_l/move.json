@@ -1,0 +1,26 @@
+{
+  "name": "knee_dip_l",
+  "difficulty": 2,
+  "display_name": "Knee Dip",
+  "ham_move_name": "Rocket_Baby_L_callmemaybe.move",
+  "milo_name": "rocket_baby_l_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "knee_dip_l_callmemaybe_v0": {
+      "avg_beats_per_second": 1.71,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "knee_dip_r_callmemaybe_v0",
+      "linked_from": ""
+    },
+    "knee_dip_l_callmemaybe_v1": {
+      "avg_beats_per_second": 1.71,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "knee_dip_r_callmemaybe_v1",
+      "linked_from": ""
+    }
+  }
+}

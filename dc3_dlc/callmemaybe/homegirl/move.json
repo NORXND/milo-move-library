@@ -1,0 +1,26 @@
+{
+  "name": "homegirl",
+  "difficulty": 2,
+  "display_name": "Homegirl",
+  "ham_move_name": "Holding_Tight_callmemaybe.move",
+  "milo_name": "holding_tight_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "homegirl_callmemaybe_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "homegirl_callmemaybe_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "friday_and_party",
+  "difficulty": 2,
+  "display_name": "Friday / Party",
+  "ham_move_name": "Circle_Over_Head_callmemaybe.move",
+  "milo_name": "circle_over_head_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "friday_and_party_callmemaybe_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "friday_and_party_callmemaybe_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

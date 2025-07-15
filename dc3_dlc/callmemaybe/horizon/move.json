@@ -1,0 +1,18 @@
+{
+  "name": "horizon",
+  "difficulty": 2,
+  "display_name": "Horizon",
+  "ham_move_name": "Traffic_Signs_callmemaybe.move",
+  "milo_name": "traffic_signs_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "horizon_callmemaybe_v0": {
+      "avg_beats_per_second": 1.71,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

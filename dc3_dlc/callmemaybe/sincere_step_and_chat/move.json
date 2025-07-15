@@ -1,0 +1,26 @@
+{
+  "name": "sincere_step_and_chat",
+  "difficulty": 2,
+  "display_name": "Sincere Step / Chat",
+  "ham_move_name": "Im_Calling_callmemaybe.move",
+  "milo_name": "im_calling_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "sincere_step_and_chat_callmemaybe_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sincere_step_and_chat_callmemaybe_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

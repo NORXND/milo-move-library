@@ -1,0 +1,26 @@
+{
+  "name": "over_here",
+  "difficulty": 2,
+  "display_name": "Over Here",
+  "ham_move_name": "Over_Here_callmemaybe.move",
+  "milo_name": "over_here_callmemaybe",
+  "song_name": "callmemaybe",
+  "clips": {
+    "over_here_callmemaybe_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "over_here_callmemaybe_v1": {
+      "avg_beats_per_second": 1.56,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

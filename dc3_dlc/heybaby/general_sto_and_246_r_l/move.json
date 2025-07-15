@@ -1,0 +1,26 @@
+{
+  "name": "general_sto_and_246_r_l",
+  "difficulty": 2,
+  "display_name": "General Sto<&#246>r",
+  "ham_move_name": "Hug_R_L_heybaby.move",
+  "milo_name": "hug_r_l_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "general_sto_and_246_r_l_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "general_sto_and_246_r_l_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

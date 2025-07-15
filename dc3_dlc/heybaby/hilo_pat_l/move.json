@@ -1,0 +1,26 @@
+{
+  "name": "hilo_pat_l",
+  "difficulty": 2,
+  "display_name": "HiLo Pat",
+  "ham_move_name": "Up_Down_Groove_L_heybaby.move",
+  "milo_name": "up_down_groove_l_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "hilo_pat_l_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hilo_pat_l_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

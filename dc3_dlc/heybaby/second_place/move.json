@@ -1,0 +1,42 @@
+{
+  "name": "second_place",
+  "difficulty": 2,
+  "display_name": "Second Place",
+  "ham_move_name": "R_Lean_heybaby.move",
+  "milo_name": "r_lean_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "second_place_heybaby_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "second_place_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "second_place_heybaby_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "second_place_heybaby_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "jet_stream_and_snap",
+  "difficulty": 2,
+  "display_name": "Jet Stream & Snap",
+  "ham_move_name": "Wave_Down_And_Snap_heybaby.move",
+  "milo_name": "wave_down_and_snap_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "jet_stream_and_snap_heybaby_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jet_stream_and_snap_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

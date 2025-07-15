@@ -1,0 +1,26 @@
+{
+  "name": "wave_scissor",
+  "difficulty": 2,
+  "display_name": "Wave Scissor",
+  "ham_move_name": "To_The_Stars_heybaby.move",
+  "milo_name": "to_the_stars_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "wave_scissor_heybaby_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wave_scissor_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

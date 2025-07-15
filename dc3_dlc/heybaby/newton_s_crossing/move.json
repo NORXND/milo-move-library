@@ -1,0 +1,26 @@
+{
+  "name": "newton_s_crossing",
+  "difficulty": 2,
+  "display_name": "Newton's Crossing",
+  "ham_move_name": "Kick_Snap_heybaby.move",
+  "milo_name": "kick_snap_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "newton_s_crossing_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "newton_s_crossing_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

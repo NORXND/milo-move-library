@@ -1,0 +1,18 @@
+{
+  "name": "self_paid",
+  "difficulty": 2,
+  "display_name": "Self Paid",
+  "ham_move_name": "Cannon_Point_heybaby.move",
+  "milo_name": "cannon_point_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "self_paid_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

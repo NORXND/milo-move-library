@@ -1,0 +1,42 @@
+{
+  "name": "pull_in_swivel",
+  "difficulty": 2,
+  "display_name": "Pull In Swivel",
+  "ham_move_name": "Slide_R_In_Back_Around_Out_heybaby.move",
+  "milo_name": "slide_r_in_back_around_out_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "pull_in_swivel_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pull_in_swivel_heybaby_v1": {
+      "avg_beats_per_second": 2.06,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pull_in_swivel_heybaby_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pull_in_swivel_heybaby_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

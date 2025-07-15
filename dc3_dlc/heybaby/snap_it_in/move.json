@@ -1,0 +1,26 @@
+{
+  "name": "snap_it_in",
+  "difficulty": 0,
+  "display_name": "Snap It In",
+  "ham_move_name": "Knee_Snap_heybaby.move",
+  "milo_name": "knee_snap_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "snap_it_in_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "snap_it_in_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

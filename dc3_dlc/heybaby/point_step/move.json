@@ -1,0 +1,26 @@
+{
+  "name": "point_step",
+  "difficulty": 0,
+  "display_name": "Point Step",
+  "ham_move_name": "Shoulder_Step_Point_Lr_heybaby.move",
+  "milo_name": "shoulder_step_point_lr_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "point_step_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "point_step_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

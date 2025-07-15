@@ -1,0 +1,26 @@
+{
+  "name": "all_business",
+  "difficulty": 2,
+  "display_name": "All Business",
+  "ham_move_name": "Pump_It_Pump_It_Girl_heybaby.move",
+  "milo_name": "pump_it_pump_it_girl_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "all_business_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "all_business_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

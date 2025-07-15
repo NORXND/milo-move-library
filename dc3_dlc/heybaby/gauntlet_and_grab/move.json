@@ -1,0 +1,18 @@
+{
+  "name": "gauntlet_and_grab",
+  "difficulty": 2,
+  "display_name": "Gauntlet & Grab",
+  "ham_move_name": "Punch_Down_Grab_Out_heybaby.move",
+  "milo_name": "punch_down_grab_out_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "gauntlet_and_grab_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

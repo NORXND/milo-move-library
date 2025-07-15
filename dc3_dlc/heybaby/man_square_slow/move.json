@@ -1,0 +1,26 @@
+{
+  "name": "man_square_slow",
+  "difficulty": 2,
+  "display_name": "Man Square Slow",
+  "ham_move_name": "Walk_Rl_heybaby.move",
+  "milo_name": "walk_rl_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "man_square_slow_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "man_square_slow_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

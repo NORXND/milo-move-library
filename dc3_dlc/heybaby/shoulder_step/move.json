@@ -1,0 +1,26 @@
+{
+  "name": "shoulder_step",
+  "difficulty": 0,
+  "display_name": "Shoulder Step",
+  "ham_move_name": "Shoulder_Step_Lr_heybaby.move",
+  "milo_name": "shoulder_step_lr_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "shoulder_step_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_step_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

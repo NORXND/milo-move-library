@@ -1,0 +1,26 @@
+{
+  "name": "pangy",
+  "difficulty": 2,
+  "display_name": "Pangy",
+  "ham_move_name": "Bang_To_The_Floor_heybaby.move",
+  "milo_name": "bang_to_the_floor_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "pangy_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pangy_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

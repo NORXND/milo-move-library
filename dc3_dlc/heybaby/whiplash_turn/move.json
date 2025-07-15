@@ -1,0 +1,26 @@
+{
+  "name": "whiplash_turn",
+  "difficulty": 2,
+  "display_name": "Whiplash Turn",
+  "ham_move_name": "Around_The_World_heybaby.move",
+  "milo_name": "around_the_world_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "whiplash_turn_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "whiplash_turn_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

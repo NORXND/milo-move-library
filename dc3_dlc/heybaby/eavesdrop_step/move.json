@@ -1,0 +1,26 @@
+{
+  "name": "eavesdrop_step",
+  "difficulty": 2,
+  "display_name": "Eavesdrop Step",
+  "ham_move_name": "Do_You_Hear_Me_heybaby.move",
+  "milo_name": "do_you_hear_me_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "eavesdrop_step_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "eavesdrop_step_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

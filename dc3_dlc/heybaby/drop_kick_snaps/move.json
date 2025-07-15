@@ -1,0 +1,26 @@
+{
+  "name": "drop_kick_snaps",
+  "difficulty": 2,
+  "display_name": "Drop Kick Snaps",
+  "ham_move_name": "Kick_Snap_Floor_Punch_Kick_Up_heybaby.move",
+  "milo_name": "kick_snap_floor_punch_kick_up_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "drop_kick_snaps_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drop_kick_snaps_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

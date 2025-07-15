@@ -1,0 +1,26 @@
+{
+  "name": "x_walk_back",
+  "difficulty": 2,
+  "display_name": "X Walk Back",
+  "ham_move_name": "Party_Back_Lrlr_heybaby.move",
+  "milo_name": "party_back_lrlr_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "x_walk_back_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "x_walk_back_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

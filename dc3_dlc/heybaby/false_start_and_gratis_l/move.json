@@ -1,0 +1,26 @@
+{
+  "name": "false_start_and_gratis_l",
+  "difficulty": 2,
+  "display_name": "False Start & Gratis",
+  "ham_move_name": "Oh_Baby_Run_L_heybaby.move",
+  "milo_name": "oh_baby_run_l_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "false_start_and_gratis_l_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "false_start_and_gratis_l_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

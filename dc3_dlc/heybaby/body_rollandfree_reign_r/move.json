@@ -1,0 +1,26 @@
+{
+  "name": "body_rollandfree_reign_r",
+  "difficulty": 2,
+  "display_name": "Body Roll/Free Reign",
+  "ham_move_name": "Roll_Back_Around_R_heybaby.move",
+  "milo_name": "roll_back_around_r_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "body_rollandfree_reign_r_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "body_rollandfree_reign_r_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

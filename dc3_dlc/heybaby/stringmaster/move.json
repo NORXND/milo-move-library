@@ -1,0 +1,26 @@
+{
+  "name": "stringmaster",
+  "difficulty": 2,
+  "display_name": "Stringmaster",
+  "ham_move_name": "Stringmaster_Lr_heybaby.move",
+  "milo_name": "stringmaster_lr_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "stringmaster_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stringmaster_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

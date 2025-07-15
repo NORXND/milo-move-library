@@ -1,0 +1,42 @@
+{
+  "name": "winner",
+  "difficulty": 2,
+  "display_name": "Winner",
+  "ham_move_name": "R_Hand_heybaby.move",
+  "milo_name": "r_hand_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "winner_heybaby_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "winner_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "winner_heybaby_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "winner_heybaby_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

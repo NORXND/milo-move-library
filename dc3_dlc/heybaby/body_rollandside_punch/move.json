@@ -1,0 +1,18 @@
+{
+  "name": "body_rollandside_punch",
+  "difficulty": 2,
+  "display_name": "Body Roll/Side Punch",
+  "ham_move_name": "Step_Chest_Out_Punch_heybaby.move",
+  "milo_name": "step_chest_out_punch_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "body_rollandside_punch_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

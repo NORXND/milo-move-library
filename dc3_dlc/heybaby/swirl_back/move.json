@@ -1,0 +1,26 @@
+{
+  "name": "swirl_back",
+  "difficulty": 2,
+  "display_name": "Swirl Back",
+  "ham_move_name": "Panda_Bear_heybaby.move",
+  "milo_name": "panda_bear_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "swirl_back_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swirl_back_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

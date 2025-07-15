@@ -1,0 +1,18 @@
+{
+  "name": "throw_em_up",
+  "difficulty": 0,
+  "display_name": "Throw Em Up",
+  "ham_move_name": "Up_Up_Up_heybaby.move",
+  "milo_name": "up_up_up_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "throw_em_up_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

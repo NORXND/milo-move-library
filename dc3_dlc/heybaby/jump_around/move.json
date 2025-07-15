@@ -1,0 +1,26 @@
+{
+  "name": "jump_around",
+  "difficulty": 0,
+  "display_name": "Jump Around",
+  "ham_move_name": "Jump_Jump_heybaby.move",
+  "milo_name": "jump_jump_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "jump_around_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jump_around_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

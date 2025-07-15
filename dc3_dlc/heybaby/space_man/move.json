@@ -1,0 +1,26 @@
+{
+  "name": "space_man",
+  "difficulty": 2,
+  "display_name": "Space Man",
+  "ham_move_name": "Head_Heart_Ache_heybaby.move",
+  "milo_name": "head_heart_ache_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "space_man_heybaby_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "space_man_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "slow_thresher",
+  "difficulty": 2,
+  "display_name": "Slow Thresher",
+  "ham_move_name": "Big_Foot_Slow_Lr_heybaby.move",
+  "milo_name": "big_foot_slow_lr_heybaby",
+  "song_name": "heybaby",
+  "clips": {
+    "slow_thresher_heybaby_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slow_thresher_heybaby_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

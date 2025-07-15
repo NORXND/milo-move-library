@@ -1,0 +1,90 @@
+{
+  "name": "frat_step",
+  "difficulty": 0,
+  "display_name": "Frat Step",
+  "ham_move_name": "Frat_Step_reach.move",
+  "milo_name": "frat_step_reach",
+  "song_name": "reach",
+  "clips": {
+    "frat_step_reach_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "frat_step_reach_v6": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "frat_step_reach_v4": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "frat_step_reach_v9": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "frat_step_reach_v2": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "frat_step_reach_v7": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "frat_step_reach_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "frat_step_reach_v5": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "frat_step_reach_v3": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "frat_step_reach_v8": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

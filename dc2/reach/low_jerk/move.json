@@ -1,0 +1,42 @@
+{
+  "name": "low_jerk",
+  "difficulty": 0,
+  "display_name": "Low Jerk",
+  "ham_move_name": "Jerk_reach.move",
+  "milo_name": "jerk_reach",
+  "song_name": "reach",
+  "clips": {
+    "low_jerk_reach_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "low_jerk_reach_v3": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "low_jerk_reach_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "low_jerk_reach_v2": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

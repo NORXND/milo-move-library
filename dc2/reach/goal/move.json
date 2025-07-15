@@ -1,0 +1,42 @@
+{
+  "name": "goal",
+  "difficulty": 0,
+  "display_name": "Goal",
+  "ham_move_name": "Goal_Rail_reach.move",
+  "milo_name": "goal_rail_reach",
+  "song_name": "reach",
+  "clips": {
+    "goal_reach_v2": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "goal_reach_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "goal_reach_v3": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "goal_reach_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

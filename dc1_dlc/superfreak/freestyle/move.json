@@ -1,0 +1,18 @@
+{
+  "name": "freestyle_superfreak",
+  "difficulty": 2,
+  "display_name": "FREESTYLE!",
+  "ham_move_name": "Freestyle.move",
+  "milo_name": "freestyle",
+  "song_name": "superfreak",
+  "clips": {
+    "freestyle_superfreak_v0": {
+      "avg_beats_per_second": 2.23,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 96,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

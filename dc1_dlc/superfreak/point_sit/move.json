@@ -1,0 +1,26 @@
+{
+  "name": "point_sit",
+  "difficulty": 1,
+  "display_name": "Point Sit",
+  "ham_move_name": "Point_Sit_superfreak.move",
+  "milo_name": "point_sit_superfreak",
+  "song_name": "superfreak",
+  "clips": {
+    "point_sit_superfreak_v0": {
+      "avg_beats_per_second": 2.22,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "point_sit_superfreak_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

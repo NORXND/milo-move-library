@@ -1,0 +1,18 @@
+{
+  "name": "exception_pony_2",
+  "difficulty": 0,
+  "display_name": "Pony",
+  "ham_move_name": "Pony_and_End_superfreak.move",
+  "milo_name": "pony_and_end_superfreak",
+  "song_name": "superfreak",
+  "clips": {
+    "pony_superfreak_v7": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

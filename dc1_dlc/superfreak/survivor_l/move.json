@@ -1,0 +1,18 @@
+{
+  "name": "survivor_l",
+  "difficulty": 2,
+  "display_name": "Survivor",
+  "ham_move_name": "Survivor_L_superfreak.move",
+  "milo_name": "survivor_l_superfreak",
+  "song_name": "superfreak",
+  "clips": {
+    "survivor_l_superfreak_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "survivor_r_superfreak_v0"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "slow_run_l",
+  "difficulty": 2,
+  "display_name": "Slow Run",
+  "ham_move_name": "Shoo_Woop_L_superfreak.move",
+  "milo_name": "shoo_woop_l_superfreak",
+  "song_name": "superfreak",
+  "clips": {
+    "slow_run_l_superfreak_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "slow_run_superfreak_v1",
+      "linked_from": ""
+    }
+  }
+}

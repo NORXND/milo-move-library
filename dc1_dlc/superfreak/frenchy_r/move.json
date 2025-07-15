@@ -1,0 +1,42 @@
+{
+  "name": "frenchy_r",
+  "difficulty": 0,
+  "display_name": "Frenchy",
+  "ham_move_name": "Frenchy_R_superfreak.move",
+  "milo_name": "frenchy_r_superfreak",
+  "song_name": "superfreak",
+  "clips": {
+    "frenchy_r_superfreak_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "frenchy_l_superfreak_v0",
+      "linked_from": ""
+    },
+    "frenchy_r_superfreak_v3": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "frenchy_l_superfreak_v3",
+      "linked_from": "frenchy_l_superfreak_v2"
+    },
+    "frenchy_r_superfreak_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "frenchy_l_superfreak_v1",
+      "linked_from": "frenchy_l_superfreak_v0"
+    },
+    "frenchy_r_superfreak_v2": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "frenchy_l_superfreak_v2",
+      "linked_from": ""
+    }
+  }
+}

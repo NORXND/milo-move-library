@@ -1,0 +1,26 @@
+{
+  "name": "propeller_point_l",
+  "difficulty": 2,
+  "display_name": "Propeller Point",
+  "ham_move_name": "Superfreak_L_superfreak.move",
+  "milo_name": "superfreak_l_superfreak",
+  "song_name": "superfreak",
+  "clips": {
+    "propeller_point_l_superfreak_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "propeller_point_r_superfreak_v0",
+      "linked_from": ""
+    },
+    "propeller_point_l_superfreak_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "propeller_point_r_superfreak_v1",
+      "linked_from": "propeller_point_r_superfreak_v0"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "looney_walk",
+  "difficulty": 2,
+  "display_name": "Looney Walk",
+  "ham_move_name": "Fat_Joe_Lr_sexyandiknowit.move",
+  "milo_name": "fat_joe_lr_sexyandiknowit",
+  "song_name": "sexyandiknowit",
+  "clips": {
+    "looney_walk_sexyandiknowit_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

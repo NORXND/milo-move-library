@@ -1,0 +1,26 @@
+{
+  "name": "hip_swivel_spank",
+  "difficulty": 2,
+  "display_name": "Hip Swivel Spank",
+  "ham_move_name": "Beyonce_sexyandiknowit.move",
+  "milo_name": "beyonce_sexyandiknowit",
+  "song_name": "sexyandiknowit",
+  "clips": {
+    "hip_swivel_spank_sexyandiknowit_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_swivel_spank_sexyandiknowit_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

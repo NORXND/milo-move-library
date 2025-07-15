@@ -1,0 +1,18 @@
+{
+  "name": "wiggle_l",
+  "difficulty": 2,
+  "display_name": "Wiggle",
+  "ham_move_name": "Wiggle_L_sexyandiknowit.move",
+  "milo_name": "wiggle_l_sexyandiknowit",
+  "song_name": "sexyandiknowit",
+  "clips": {
+    "wiggle_l_sexyandiknowit_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "wiggle_r_sexyandiknowit_v0"
+    }
+  }
+}

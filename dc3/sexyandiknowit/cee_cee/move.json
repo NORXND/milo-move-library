@@ -1,0 +1,26 @@
+{
+  "name": "cee_cee",
+  "difficulty": 2,
+  "display_name": "Cee Cee",
+  "ham_move_name": "Pose_sexyandiknowit.move",
+  "milo_name": "pose_sexyandiknowit",
+  "song_name": "sexyandiknowit",
+  "clips": {
+    "cee_cee_sexyandiknowit_v1": {
+      "avg_beats_per_second": 1.94,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cee_cee_sexyandiknowit_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

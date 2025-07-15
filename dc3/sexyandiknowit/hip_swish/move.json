@@ -1,0 +1,18 @@
+{
+  "name": "hip_swish",
+  "difficulty": 2,
+  "display_name": "Hip Swish",
+  "ham_move_name": "Lines_sexyandiknowit.move",
+  "milo_name": "lines_sexyandiknowit",
+  "song_name": "sexyandiknowit",
+  "clips": {
+    "hip_swish_sexyandiknowit_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

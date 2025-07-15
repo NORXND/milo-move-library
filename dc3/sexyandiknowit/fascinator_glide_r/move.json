@@ -1,0 +1,26 @@
+{
+  "name": "fascinator_glide_r",
+  "difficulty": 2,
+  "display_name": "Fascinator Glide",
+  "ham_move_name": "Head_R_sexyandiknowit.move",
+  "milo_name": "head_r_sexyandiknowit",
+  "song_name": "sexyandiknowit",
+  "clips": {
+    "fascinator_glide_r_sexyandiknowit_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "fascinator_glide_r_sexyandiknowit_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

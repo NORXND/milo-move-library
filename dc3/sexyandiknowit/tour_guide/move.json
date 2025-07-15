@@ -1,0 +1,26 @@
+{
+  "name": "tour_guide",
+  "difficulty": 2,
+  "display_name": "Tour Guide",
+  "ham_move_name": "Present_Rl_sexyandiknowit.move",
+  "milo_name": "present_rl_sexyandiknowit",
+  "song_name": "sexyandiknowit",
+  "clips": {
+    "tour_guide_sexyandiknowit_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tour_guide_sexyandiknowit_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

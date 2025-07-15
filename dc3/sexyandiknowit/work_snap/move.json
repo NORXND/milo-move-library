@@ -1,0 +1,26 @@
+{
+  "name": "work_snap",
+  "difficulty": 2,
+  "display_name": "Work Snap",
+  "ham_move_name": "Snap_High_Snap_Low_sexyandiknowit.move",
+  "milo_name": "snap_high_snap_low_sexyandiknowit",
+  "song_name": "sexyandiknowit",
+  "clips": {
+    "work_snap_sexyandiknowit_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "work_snap_sexyandiknowit_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

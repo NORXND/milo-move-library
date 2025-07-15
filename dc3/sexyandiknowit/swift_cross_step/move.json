@@ -1,0 +1,18 @@
+{
+  "name": "swift_cross_step",
+  "difficulty": 2,
+  "display_name": "Swift Cross Step",
+  "ham_move_name": "Pimp_Stroll_sexyandiknowit.move",
+  "milo_name": "pimp_stroll_sexyandiknowit",
+  "song_name": "sexyandiknowit",
+  "clips": {
+    "swift_cross_step_sexyandiknowit_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

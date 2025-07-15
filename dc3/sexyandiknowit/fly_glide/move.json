@@ -1,0 +1,26 @@
+{
+  "name": "fly_glide",
+  "difficulty": 2,
+  "display_name": "Fly Glide",
+  "ham_move_name": "Arms_Out_sexyandiknowit.move",
+  "milo_name": "arms_out_sexyandiknowit",
+  "song_name": "sexyandiknowit",
+  "clips": {
+    "fly_glide_sexyandiknowit_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "fly_glide_sexyandiknowit_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

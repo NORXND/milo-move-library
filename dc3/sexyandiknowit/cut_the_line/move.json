@@ -1,0 +1,18 @@
+{
+  "name": "cut_the_line",
+  "difficulty": 2,
+  "display_name": "Cut The Line",
+  "ham_move_name": "Window_sexyandiknowit.move",
+  "milo_name": "window_sexyandiknowit",
+  "song_name": "sexyandiknowit",
+  "clips": {
+    "cut_the_line_sexyandiknowit_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

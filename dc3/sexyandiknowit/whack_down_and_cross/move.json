@@ -1,0 +1,34 @@
+{
+  "name": "whack_down_and_cross",
+  "difficulty": 2,
+  "display_name": "Whack Down & Cross",
+  "ham_move_name": "The_Village_sexyandiknowit.move",
+  "milo_name": "the_village_sexyandiknowit",
+  "song_name": "sexyandiknowit",
+  "clips": {
+    "whack_down_and_cross_sexyandiknowit_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "whack_down_and_cross_sexyandiknowit_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "whack_down_and_cross_sexyandiknowit_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

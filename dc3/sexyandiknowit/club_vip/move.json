@@ -1,0 +1,18 @@
+{
+  "name": "club_vip",
+  "difficulty": 2,
+  "display_name": "Club VIP",
+  "ham_move_name": "Robot_sexyandiknowit.move",
+  "milo_name": "robot_sexyandiknowit",
+  "song_name": "sexyandiknowit",
+  "clips": {
+    "club_vip_sexyandiknowit_v0": {
+      "avg_beats_per_second": 1.87,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "wednesday_r",
+  "difficulty": 2,
+  "display_name": "Wednesday",
+  "ham_move_name": "Air_Pump_R_sexyandiknowit.move",
+  "milo_name": "air_pump_r_sexyandiknowit",
+  "song_name": "sexyandiknowit",
+  "clips": {
+    "wednesday_r_sexyandiknowit_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "wednesday_l_sexyandiknowit_v1"
+    },
+    "wednesday_r_sexyandiknowit_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "wednesday_l_sexyandiknowit_v2"
+    },
+    "wednesday_r_sexyandiknowit_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "wednesday_l_sexyandiknowit_v0"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "newton_s_snap_and_squat",
+  "difficulty": 2,
+  "display_name": "Newton's Snap & Squat",
+  "ham_move_name": "Michael_sexyandiknowit.move",
+  "milo_name": "michael_sexyandiknowit",
+  "song_name": "sexyandiknowit",
+  "clips": {
+    "newton_s_snap_and_squat_sexyandiknowit_v0": {
+      "avg_beats_per_second": 1.86,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "newton_s_snap_and_squat_sexyandiknowit_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "happy_hour",
+  "difficulty": 0,
+  "display_name": "Happy Hour",
+  "ham_move_name": "Turn_Up_The_Music_sexyandiknowit.move",
+  "milo_name": "turn_up_the_music_sexyandiknowit",
+  "song_name": "sexyandiknowit",
+  "clips": {
+    "happy_hour_sexyandiknowit_v1": {
+      "avg_beats_per_second": 1.85,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "happy_hour_sexyandiknowit_v2": {
+      "avg_beats_per_second": 1.85,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "happy_hour_sexyandiknowit_v0": {
+      "avg_beats_per_second": 1.85,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

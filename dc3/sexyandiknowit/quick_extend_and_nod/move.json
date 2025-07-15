@@ -1,0 +1,26 @@
+{
+  "name": "quick_extend_and_nod",
+  "difficulty": 2,
+  "display_name": "Quick Extend & Nod",
+  "ham_move_name": "Kung_Fu_Rl_sexyandiknowit.move",
+  "milo_name": "kung_fu_rl_sexyandiknowit",
+  "song_name": "sexyandiknowit",
+  "clips": {
+    "quick_extend_and_nod_sexyandiknowit_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "quick_extend_and_nod_sexyandiknowit_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

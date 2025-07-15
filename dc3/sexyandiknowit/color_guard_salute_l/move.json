@@ -1,0 +1,26 @@
+{
+  "name": "color_guard_salute_l",
+  "difficulty": 2,
+  "display_name": "Color Guard Salute",
+  "ham_move_name": "Marine_L_sexyandiknowit.move",
+  "milo_name": "marine_l_sexyandiknowit",
+  "song_name": "sexyandiknowit",
+  "clips": {
+    "color_guard_salute_l_sexyandiknowit_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "color_guard_r_sexyandiknowit_v1"
+    },
+    "color_guard_salute_l_sexyandiknowit_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "color_guard_r_sexyandiknowit_v0"
+    }
+  }
+}

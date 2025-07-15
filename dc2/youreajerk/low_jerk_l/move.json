@@ -1,0 +1,58 @@
+{
+  "name": "low_jerk_l",
+  "difficulty": 0,
+  "display_name": "Low Jerk",
+  "ham_move_name": "Smooth_Jerk_L_youreajerk.move",
+  "milo_name": "smooth_jerk_l_youreajerk",
+  "song_name": "youreajerk",
+  "clips": {
+    "low_jerk_l_youreajerk_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "low_jerk_r_youreajerk_v1"
+    },
+    "low_jerk_l_youreajerk_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "low_jerk_l_youreajerk_v2": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "low_jerk_r_youreajerk_v3"
+    },
+    "low_jerk_l_youreajerk_v3": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "low_jerk_l_youreajerk_v4": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "low_jerk_r_youreajerk_v5"
+    },
+    "low_jerk_l_youreajerk_v5": {
+      "avg_beats_per_second": 1.41,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

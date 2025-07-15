@@ -1,0 +1,26 @@
+{
+  "name": "sir_douglas_step_r",
+  "difficulty": 1,
+  "display_name": "Sir Douglas Step",
+  "ham_move_name": "Wipe_Away_R_youreajerk.move",
+  "milo_name": "wipe_away_r_youreajerk",
+  "song_name": "youreajerk",
+  "clips": {
+    "sir_douglas_step_r_youreajerk_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "sir_douglas_step_l_youreajerk_v1"
+    },
+    "sir_douglas_step_r_youreajerk_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "sir_douglas_step_l_youreajerk_v0"
+    }
+  }
+}

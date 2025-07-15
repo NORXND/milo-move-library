@@ -1,0 +1,18 @@
+{
+  "name": "side_row_r",
+  "difficulty": 2,
+  "display_name": "Side Row",
+  "ham_move_name": "Scuff_R_internationallove.move",
+  "milo_name": "scuff_r_internationallove",
+  "song_name": "internationallove",
+  "clips": {
+    "side_row_r_internationallove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "side_row_l_internationallove_v0",
+      "linked_from": ""
+    }
+  }
+}

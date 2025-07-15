@@ -1,0 +1,26 @@
+{
+  "name": "heely",
+  "difficulty": 1,
+  "display_name": "Heely",
+  "ham_move_name": "Step_High_internationallove.move",
+  "milo_name": "step_high_internationallove",
+  "song_name": "internationallove",
+  "clips": {
+    "heely_internationallove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heely_internationallove_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

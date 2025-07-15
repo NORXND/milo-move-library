@@ -1,0 +1,18 @@
+{
+  "name": "brush_turn_out_r",
+  "difficulty": 2,
+  "display_name": "Brush Turn Out",
+  "ham_move_name": "Jack_In_Box_R_internationallove.move",
+  "milo_name": "jack_in_box_r_internationallove",
+  "song_name": "internationallove",
+  "clips": {
+    "brush_turn_out_r_internationallove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "brush_turn_out_l_internationallove_v0",
+      "linked_from": ""
+    }
+  }
+}

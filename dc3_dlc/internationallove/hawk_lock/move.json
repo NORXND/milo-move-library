@@ -1,0 +1,42 @@
+{
+  "name": "hawk_lock",
+  "difficulty": 2,
+  "display_name": "Hawk Lock",
+  "ham_move_name": "Fly_Combo_internationallove.move",
+  "milo_name": "fly_combo_internationallove",
+  "song_name": "internationallove",
+  "clips": {
+    "hawk_lock_internationallove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hawk_lock_internationallove_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hawk_lock_internationallove_v2": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hawk_lock_internationallove_v3": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

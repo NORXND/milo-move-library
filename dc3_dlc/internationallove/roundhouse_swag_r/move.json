@@ -1,0 +1,42 @@
+{
+  "name": "roundhouse_swag_r",
+  "difficulty": 2,
+  "display_name": "Roundhouse Swag",
+  "ham_move_name": "Swag_R_internationallove.move",
+  "milo_name": "swag_r_internationallove",
+  "song_name": "internationallove",
+  "clips": {
+    "roundhouse_swag_r_internationallove_v0": {
+      "avg_beats_per_second": 1.71,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "roundhouse_swag_l_internationallove_v0",
+      "linked_from": ""
+    },
+    "roundhouse_swag_r_internationallove_v1": {
+      "avg_beats_per_second": 1.71,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "roundhouse_swag_l_internationallove_v1",
+      "linked_from": ""
+    },
+    "roundhouse_swag_r_internationallove_v2": {
+      "avg_beats_per_second": 1.84,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "roundhouse_swag_l_internationallove_v2",
+      "linked_from": ""
+    },
+    "roundhouse_swag_r_internationallove_v3": {
+      "avg_beats_per_second": 1.78,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "roundhouse_swag_l_internationallove_v3",
+      "linked_from": ""
+    }
+  }
+}

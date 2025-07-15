@@ -1,0 +1,18 @@
+{
+  "name": "curls_and_end",
+  "difficulty": 2,
+  "display_name": "Curls & End",
+  "ham_move_name": "Stroll_Back_Pose_internationallove.move",
+  "milo_name": "stroll_back_pose_internationallove",
+  "song_name": "internationallove",
+  "clips": {
+    "curls_and_end_internationallove_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

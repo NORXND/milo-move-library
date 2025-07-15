@@ -1,0 +1,26 @@
+{
+  "name": "wave_throw",
+  "difficulty": 2,
+  "display_name": "Wave Throw",
+  "ham_move_name": "Wave_Serve_Lr_internationallove.move",
+  "milo_name": "wave_serve_lr_internationallove",
+  "song_name": "internationallove",
+  "clips": {
+    "wave_throw_internationallove_v0": {
+      "avg_beats_per_second": 1.71,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wave_throw_internationallove_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

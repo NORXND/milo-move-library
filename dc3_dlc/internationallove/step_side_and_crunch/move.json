@@ -1,0 +1,26 @@
+{
+  "name": "step_side_and_crunch",
+  "difficulty": 0,
+  "display_name": "Step Side & Crunch",
+  "ham_move_name": "Slide_Rl_internationallove.move",
+  "milo_name": "slide_rl_internationallove",
+  "song_name": "internationallove",
+  "clips": {
+    "step_side_and_crunch_internationallove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_and_crunch_internationallove_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

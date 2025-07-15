@@ -1,0 +1,42 @@
+{
+  "name": "stutter_slide",
+  "difficulty": 2,
+  "display_name": "Stutter Slide",
+  "ham_move_name": "Stutter_In_internationallove.move",
+  "milo_name": "stutter_in_internationallove",
+  "song_name": "internationallove",
+  "clips": {
+    "stutter_slide_internationallove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stutter_slide_internationallove_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stutter_slide_internationallove_v2": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stutter_slide_internationallove_v3": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

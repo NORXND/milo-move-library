@@ -1,0 +1,26 @@
+{
+  "name": "bouncy_kick",
+  "difficulty": 2,
+  "display_name": "Bouncy Kick",
+  "ham_move_name": "Swoop_Kick_internationallove.move",
+  "milo_name": "swoop_kick_internationallove",
+  "song_name": "internationallove",
+  "clips": {
+    "bouncy_kick_internationallove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bouncy_kick_internationallove_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

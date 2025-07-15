@@ -1,0 +1,26 @@
+{
+  "name": "electric_l",
+  "difficulty": 0,
+  "display_name": "Electric",
+  "ham_move_name": "Cave_In_L_internationallove.move",
+  "milo_name": "cave_in_l_internationallove",
+  "song_name": "internationallove",
+  "clips": {
+    "electric_l_internationallove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "electric_l_internationallove_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "electric_r_internationallove_v1"
+    }
+  }
+}

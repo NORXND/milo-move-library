@@ -1,0 +1,42 @@
+{
+  "name": "shoulder_pep_l",
+  "difficulty": 0,
+  "display_name": "Shoulder Pep",
+  "ham_move_name": "Sway_L_internationallove.move",
+  "milo_name": "sway_l_internationallove",
+  "song_name": "internationallove",
+  "clips": {
+    "shoulder_pep_l_internationallove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_pep_l_internationallove_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_pep_l_internationallove_v2": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_pep_l_internationallove_v3": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

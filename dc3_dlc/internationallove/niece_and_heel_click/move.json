@@ -1,0 +1,42 @@
+{
+  "name": "niece_and_heel_click",
+  "difficulty": 2,
+  "display_name": "Niece / Heel Click",
+  "ham_move_name": "House_Pivot_internationallove.move",
+  "milo_name": "house_pivot_internationallove",
+  "song_name": "internationallove",
+  "clips": {
+    "niece_and_heel_click_internationallove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "niece_and_heel_click_internationallove_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "niece_and_heel_click_internationallove_v2": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "niece_and_heel_click_internationallove_v3": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

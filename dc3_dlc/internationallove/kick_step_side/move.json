@@ -1,0 +1,26 @@
+{
+  "name": "kick_step_side",
+  "difficulty": 1,
+  "display_name": "Kick Step Side",
+  "ham_move_name": "Rock_Step_internationallove.move",
+  "milo_name": "rock_step_internationallove",
+  "song_name": "internationallove",
+  "clips": {
+    "kick_step_side_internationallove_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_step_side_internationallove_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

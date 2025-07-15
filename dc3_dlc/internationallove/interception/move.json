@@ -1,0 +1,26 @@
+{
+  "name": "interception",
+  "difficulty": 2,
+  "display_name": "Interception",
+  "ham_move_name": "Swing_Slide_Back_internationallove.move",
+  "milo_name": "swing_slide_back_internationallove",
+  "song_name": "internationallove",
+  "clips": {
+    "interception_internationallove_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "interception_internationallove_v1",
+      "linked_from": ""
+    },
+    "interception_internationallove_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "interception_internationallove_v0"
+    }
+  }
+}

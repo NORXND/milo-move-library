@@ -1,0 +1,42 @@
+{
+  "name": "pound_it_out_l",
+  "difficulty": 2,
+  "display_name": "Pound It Out",
+  "ham_move_name": "Wutang_L_internationallove.move",
+  "milo_name": "wutang_l_internationallove",
+  "song_name": "internationallove",
+  "clips": {
+    "pound_it_out_l_internationallove_v0": {
+      "avg_beats_per_second": 1.51,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_it_out_l_internationallove_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_it_out_l_internationallove_v2": {
+      "avg_beats_per_second": 1.78,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_it_out_l_internationallove_v3": {
+      "avg_beats_per_second": 1.77,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

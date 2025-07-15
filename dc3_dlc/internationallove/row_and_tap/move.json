@@ -1,0 +1,34 @@
+{
+  "name": "row_and_tap",
+  "difficulty": 2,
+  "display_name": "Row & Tap",
+  "ham_move_name": "Heel_Step_internationallove.move",
+  "milo_name": "heel_step_internationallove",
+  "song_name": "internationallove",
+  "clips": {
+    "row_and_tap_internationallove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "row_and_tap_internationallove_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "row_and_tap_internationallove_v2": {
+      "avg_beats_per_second": 1.73,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

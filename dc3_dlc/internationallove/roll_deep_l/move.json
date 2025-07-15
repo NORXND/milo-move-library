@@ -1,0 +1,18 @@
+{
+  "name": "roll_deep_l",
+  "difficulty": 2,
+  "display_name": "Roll Deep",
+  "ham_move_name": "Grind_Out_L_internationallove.move",
+  "milo_name": "grind_out_l_internationallove",
+  "song_name": "internationallove",
+  "clips": {
+    "roll_deep_l_internationallove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "roll_deep_r_internationallove_v0"
+    }
+  }
+}

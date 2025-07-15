@@ -1,0 +1,26 @@
+{
+  "name": "curry_step_r",
+  "difficulty": 2,
+  "display_name": "Curry Step",
+  "ham_move_name": "Curry_Step_R_temptedtotouch.move",
+  "milo_name": "curry_step_r_temptedtotouch",
+  "song_name": "temptedtotouch",
+  "clips": {
+    "curry_step_r_temptedtotouch_v0": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "curry_step_r_temptedtotouch_v1": {
+      "avg_beats_per_second": 1.76,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

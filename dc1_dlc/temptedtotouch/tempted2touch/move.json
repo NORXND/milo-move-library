@@ -1,0 +1,106 @@
+{
+  "name": "tempted2touch",
+  "difficulty": 0,
+  "display_name": "Tempted2Touch",
+  "ham_move_name": "Tempted2Touch_temptedtotouch.move",
+  "milo_name": "tempted2touch_temptedtotouch",
+  "song_name": "temptedtotouch",
+  "clips": {
+    "tempted2touch_temptedtotouch_v0": {
+      "avg_beats_per_second": 1.76,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tempted2touch_temptedtotouch_v3": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tempted2touch_temptedtotouch_v8": {
+      "avg_beats_per_second": 1.51,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tempted2touch_temptedtotouch_v10": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tempted2touch_temptedtotouch_v6": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tempted2touch_temptedtotouch_v1": {
+      "avg_beats_per_second": 1.76,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tempted2touch_temptedtotouch_v4": {
+      "avg_beats_per_second": 1.52,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tempted2touch_temptedtotouch_v9": {
+      "avg_beats_per_second": 1.51,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tempted2touch_temptedtotouch_v11": {
+      "avg_beats_per_second": 1.51,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tempted2touch_temptedtotouch_v7": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tempted2touch_temptedtotouch_v2": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tempted2touch_temptedtotouch_v5": {
+      "avg_beats_per_second": 1.76,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

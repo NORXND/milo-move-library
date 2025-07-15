@@ -1,0 +1,74 @@
+{
+  "name": "wind_step_out",
+  "difficulty": 0,
+  "display_name": "Wind Step Out",
+  "ham_move_name": "Hot_Foot_temptedtotouch.move",
+  "milo_name": "hot_foot_temptedtotouch",
+  "song_name": "temptedtotouch",
+  "clips": {
+    "wind_step_out_temptedtotouch_v0": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_step_out_temptedtotouch_v5": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_step_out_temptedtotouch_v3": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_step_out_temptedtotouch_v1": {
+      "avg_beats_per_second": 1.76,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_step_out_temptedtotouch_v6": {
+      "avg_beats_per_second": 1.76,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_step_out_temptedtotouch_v4": {
+      "avg_beats_per_second": 1.76,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_step_out_temptedtotouch_v2": {
+      "avg_beats_per_second": 1.76,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_step_out_temptedtotouch_v7": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

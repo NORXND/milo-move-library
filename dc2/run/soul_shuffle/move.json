@@ -1,0 +1,42 @@
+{
+  "name": "soul_shuffle",
+  "difficulty": 0,
+  "display_name": "Soul Shuffle",
+  "ham_move_name": "Step_Side_And_Snap_run.move",
+  "milo_name": "step_side_and_snap_run",
+  "song_name": "run",
+  "clips": {
+    "soul_shuffle_run_v0": {
+      "avg_beats_per_second": 2.47,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "soul_shuffle_run_v1": {
+      "avg_beats_per_second": 2.52,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "soul_shuffle_run_v2": {
+      "avg_beats_per_second": 2.47,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "soul_shuffle_run_v3": {
+      "avg_beats_per_second": 2.51,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

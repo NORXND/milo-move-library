@@ -1,0 +1,34 @@
+{
+  "name": "adonis_pose",
+  "difficulty": 0,
+  "display_name": "Adonis Pose",
+  "ham_move_name": "Point_Pose_run.move",
+  "milo_name": "point_pose_run",
+  "song_name": "run",
+  "clips": {
+    "adonis_pose_run_v0": {
+      "avg_beats_per_second": 2.49,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "adonis_pose_run_v1": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "adonis_pose_run_v2": {
+      "avg_beats_per_second": 2.51,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

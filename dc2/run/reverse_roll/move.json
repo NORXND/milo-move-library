@@ -1,0 +1,42 @@
+{
+  "name": "reverse_roll",
+  "difficulty": 2,
+  "display_name": "Reverse Roll",
+  "ham_move_name": "Reverse_Roll_run.move",
+  "milo_name": "reverse_roll_run",
+  "song_name": "run",
+  "clips": {
+    "reverse_roll_run_v0": {
+      "avg_beats_per_second": 2.51,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "reverse_roll_run_v1": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "reverse_roll_run_v2": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "reverse_roll_run_v3": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

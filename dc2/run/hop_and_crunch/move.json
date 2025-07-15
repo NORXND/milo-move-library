@@ -1,0 +1,42 @@
+{
+  "name": "hop_and_crunch",
+  "difficulty": 2,
+  "display_name": "Hop & Crunch",
+  "ham_move_name": "Xxx_run.move",
+  "milo_name": "xxx_run",
+  "song_name": "run",
+  "clips": {
+    "hop_and_crunch_run_v0": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_and_crunch_run_v1": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_and_crunch_run_v2": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_and_crunch_run_v3": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

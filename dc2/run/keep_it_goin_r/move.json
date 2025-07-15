@@ -1,0 +1,42 @@
+{
+  "name": "keep_it_goin_r",
+  "difficulty": 0,
+  "display_name": "Keep It Goin'",
+  "ham_move_name": "Jump_Clap_Clap_R_run.move",
+  "milo_name": "jump_clap_clap_r_run",
+  "song_name": "run",
+  "clips": {
+    "keep_it_goin_r_run_v2": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "keep_it_goin_l_run_v3",
+      "linked_from": "keep_it_goin_l_run_v2"
+    },
+    "keep_it_goin_r_run_v3": {
+      "avg_beats_per_second": 2.49,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "keep_it_goin_l_run_v3"
+    },
+    "keep_it_goin_r_run_v0": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "keep_it_goin_l_run_v1",
+      "linked_from": "keep_it_goin_l_run_v0"
+    },
+    "keep_it_goin_r_run_v1": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "keep_it_goin_l_run_v1"
+    }
+  }
+}

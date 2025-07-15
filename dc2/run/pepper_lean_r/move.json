@@ -1,0 +1,34 @@
+{
+  "name": "pepper_lean_r",
+  "difficulty": 0,
+  "display_name": "Pepper Lean",
+  "ham_move_name": "Lean_R_run.move",
+  "milo_name": "lean_r_run",
+  "song_name": "run",
+  "clips": {
+    "pepper_lean_r_run_v0": {
+      "avg_beats_per_second": 2.51,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "pepper_lean_l_run_v0",
+      "linked_from": ""
+    },
+    "pepper_lean_r_run_v1": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "pepper_lean_l_run_v1",
+      "linked_from": ""
+    },
+    "pepper_lean_r_run_v2": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "pepper_lean_l_run_v2",
+      "linked_from": ""
+    }
+  }
+}

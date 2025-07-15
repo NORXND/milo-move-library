@@ -1,0 +1,34 @@
+{
+  "name": "grapevine_r",
+  "difficulty": 1,
+  "display_name": "Grapevine",
+  "ham_move_name": "Grapevine_R_run.move",
+  "milo_name": "grapevine_r_run",
+  "song_name": "run",
+  "clips": {
+    "grapevine_r_run_v0": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "grapevine_l_run_v0",
+      "linked_from": ""
+    },
+    "grapevine_r_run_v1": {
+      "avg_beats_per_second": 2.48,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "grapevine_l_run_v1",
+      "linked_from": ""
+    },
+    "grapevine_r_run_v2": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "grapevine_l_run_v2",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "muscle_drag_in",
+  "difficulty": 0,
+  "display_name": "Muscle Drag In",
+  "ham_move_name": "Slide_Fists_run.move",
+  "milo_name": "slide_fists_run",
+  "song_name": "run",
+  "clips": {
+    "muscle_drag_in_run_v0": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "muscle_drag_in_run_v1": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

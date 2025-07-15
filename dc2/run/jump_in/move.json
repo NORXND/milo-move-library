@@ -1,0 +1,34 @@
+{
+  "name": "jump_in",
+  "difficulty": 1,
+  "display_name": "Jump In",
+  "ham_move_name": "Double_Dutch_run.move",
+  "milo_name": "double_dutch_run",
+  "song_name": "run",
+  "clips": {
+    "jump_in_run_v2": {
+      "avg_beats_per_second": 2.51,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jump_in_run_v0": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jump_in_run_v1": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

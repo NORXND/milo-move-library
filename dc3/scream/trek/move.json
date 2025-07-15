@@ -1,0 +1,34 @@
+{
+  "name": "trek",
+  "difficulty": 2,
+  "display_name": "Trek",
+  "ham_move_name": "Trek_scream.move",
+  "milo_name": "trek_scream",
+  "song_name": "scream",
+  "clips": {
+    "trek_scream_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "trek_scream_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "trek_scream_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

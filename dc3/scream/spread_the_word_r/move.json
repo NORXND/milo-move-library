@@ -1,0 +1,26 @@
+{
+  "name": "spread_the_word_r",
+  "difficulty": 2,
+  "display_name": "Spread The Word",
+  "ham_move_name": "Marco_Polo_R_scream.move",
+  "milo_name": "marco_polo_r_scream",
+  "song_name": "scream",
+  "clips": {
+    "spread_the_word_r_scream_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "spread_the_word_l_scream_v0",
+      "linked_from": ""
+    },
+    "spread_the_word_r_scream_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "spread_the_word_l_scream_v1",
+      "linked_from": "spread_the_word_l_scream_v0"
+    }
+  }
+}

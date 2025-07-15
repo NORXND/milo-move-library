@@ -1,0 +1,18 @@
+{
+  "name": "hey_somebody",
+  "difficulty": 2,
+  "display_name": "Hey Somebody",
+  "ham_move_name": "Arms_Up_Point_Lr_scream.move",
+  "milo_name": "arms_up_point_lr_scream",
+  "song_name": "scream",
+  "clips": {
+    "hey_somebody_scream_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

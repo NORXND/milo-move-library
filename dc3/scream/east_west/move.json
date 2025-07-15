@@ -1,0 +1,18 @@
+{
+  "name": "east_west",
+  "difficulty": 0,
+  "display_name": "East West",
+  "ham_move_name": "Reach_Out_Rl_scream.move",
+  "milo_name": "reach_out_rl_scream",
+  "song_name": "scream",
+  "clips": {
+    "east_west_scream_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

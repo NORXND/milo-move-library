@@ -1,0 +1,18 @@
+{
+  "name": "ichiban",
+  "difficulty": 2,
+  "display_name": "Ichiban",
+  "ham_move_name": "Just_One_Rl_scream.move",
+  "milo_name": "just_one_rl_scream",
+  "song_name": "scream",
+  "clips": {
+    "ichiban_scream_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

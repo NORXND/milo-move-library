@@ -1,0 +1,18 @@
+{
+  "name": "exception_low_ball_throw_l",
+  "difficulty": 2,
+  "display_name": "Low Ball Throw",
+  "ham_move_name": "Lean_Low_L_And_Throw_scream.move",
+  "milo_name": "lean_low_l_and_throw_scream",
+  "song_name": "scream",
+  "clips": {
+    "low_ball_throw_scream_v1": {
+      "avg_beats_per_second": 1.82,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

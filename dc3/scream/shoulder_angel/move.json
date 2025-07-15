@@ -1,0 +1,18 @@
+{
+  "name": "exception_shoulder_angel_2",
+  "difficulty": 2,
+  "display_name": "Shoulder Angel",
+  "ham_move_name": "Headscan_scream.move",
+  "milo_name": "headscan_scream",
+  "song_name": "scream",
+  "clips": {
+    "shoulder_angel_scream_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "low_ball_r",
+  "difficulty": 2,
+  "display_name": "Low Ball",
+  "ham_move_name": "Lean_Low_R_scream.move",
+  "milo_name": "lean_low_r_scream",
+  "song_name": "scream",
+  "clips": {
+    "low_ball_r_scream_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "low_ball_l_scream_v1",
+      "linked_from": "low_ball_l_scream_v0"
+    }
+  }
+}

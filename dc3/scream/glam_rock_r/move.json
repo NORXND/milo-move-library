@@ -1,0 +1,26 @@
+{
+  "name": "exception_glam_rock_r_2",
+  "difficulty": 2,
+  "display_name": "Glam Rock",
+  "ham_move_name": "Rock_And_Reset_R_scream.move",
+  "milo_name": "rock_and_reset_r_scream",
+  "song_name": "scream",
+  "clips": {
+    "glam_rock_r_scream_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "glam_rock_r_scream_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "scream_l",
+  "difficulty": 2,
+  "display_name": "Scream",
+  "ham_move_name": "Scream_L_scream.move",
+  "milo_name": "scream_l_scream",
+  "song_name": "scream",
+  "clips": {
+    "scream_l_scream_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "scream_r_scream_v1",
+      "linked_from": "scream_r_scream_v0"
+    },
+    "scream_l_scream_v4": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "scream_r_scream_v5",
+      "linked_from": "scream_r_scream_v4"
+    },
+    "scream_l_scream_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "scream_r_scream_v3",
+      "linked_from": "scream_r_scream_v2"
+    },
+    "scream_l_scream_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "scream_r_scream_v1"
+    },
+    "scream_l_scream_v5": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "scream_r_scream_v5"
+    },
+    "scream_l_scream_v3": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "scream_r_scream_v3"
+    }
+  }
+}

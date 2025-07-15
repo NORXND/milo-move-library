@@ -1,0 +1,18 @@
+{
+  "name": "spin_cycle_stop",
+  "difficulty": 2,
+  "display_name": "Spin Cycle Stop",
+  "ham_move_name": "Twist_My_Arm_scream.move",
+  "milo_name": "twist_my_arm_scream",
+  "song_name": "scream",
+  "clips": {
+    "spin_cycle_stop_scream_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

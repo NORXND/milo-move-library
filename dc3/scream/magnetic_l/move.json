@@ -1,0 +1,18 @@
+{
+  "name": "magnetic_l",
+  "difficulty": 2,
+  "display_name": "Magnetic",
+  "ham_move_name": "Magnetic_L_scream.move",
+  "milo_name": "magnetic_l_scream",
+  "song_name": "scream",
+  "clips": {
+    "magnetic_l_scream_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "magnetic_r_scream_v0"
+    }
+  }
+}

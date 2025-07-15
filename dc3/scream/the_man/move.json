@@ -1,0 +1,18 @@
+{
+  "name": "the_man",
+  "difficulty": 2,
+  "display_name": "The Man",
+  "ham_move_name": "Point_To_Self_Twice_scream.move",
+  "milo_name": "point_to_self_twice_scream",
+  "song_name": "scream",
+  "clips": {
+    "the_man_scream_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

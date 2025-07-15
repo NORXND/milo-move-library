@@ -1,0 +1,42 @@
+{
+  "name": "whip_back",
+  "difficulty": 2,
+  "display_name": "Whip Back",
+  "ham_move_name": "Clutch_Flick_Lr_scream.move",
+  "milo_name": "clutch_flick_lr_scream",
+  "song_name": "scream",
+  "clips": {
+    "whip_back_scream_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "whip_back_scream_v3": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "whip_back_scream_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "whip_back_scream_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

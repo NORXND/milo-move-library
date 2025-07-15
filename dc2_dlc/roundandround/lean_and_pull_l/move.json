@@ -1,0 +1,18 @@
+{
+  "name": "lean_and_pull_l",
+  "difficulty": 2,
+  "display_name": "Lean & Pull",
+  "ham_move_name": "Lean_And_Pull_L_roundandround.move",
+  "milo_name": "lean_and_pull_l_roundandround",
+  "song_name": "roundandround",
+  "clips": {
+    "lean_and_pull_l_roundandround_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "lean_and_pull_r_roundandround_v0"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "teen_drama",
+  "difficulty": 2,
+  "display_name": "Teen Drama",
+  "ham_move_name": "Falling_Hard_roundandround.move",
+  "milo_name": "falling_hard_roundandround",
+  "song_name": "roundandround",
+  "clips": {
+    "teen_drama_roundandround_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "teen_drama_roundandround_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "teen_drama_roundandround_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "exception_pose_and_look_2",
+  "difficulty": 2,
+  "display_name": "Pose & Look",
+  "ham_move_name": "Pose_And_Look_Dc_roundandround.move",
+  "milo_name": "pose_and_look_dc_roundandround",
+  "song_name": "roundandround",
+  "clips": {
+    "pose_and_look_roundandround_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

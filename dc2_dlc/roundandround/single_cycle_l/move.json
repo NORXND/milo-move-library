@@ -1,0 +1,18 @@
+{
+  "name": "single_cycle_l",
+  "difficulty": 2,
+  "display_name": "Single Cycle",
+  "ham_move_name": "Circle_L_roundandround.move",
+  "milo_name": "circle_l_roundandround",
+  "song_name": "roundandround",
+  "clips": {
+    "single_cycle_l_roundandround_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

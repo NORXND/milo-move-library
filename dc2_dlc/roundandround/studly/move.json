@@ -1,0 +1,18 @@
+{
+  "name": "studly",
+  "difficulty": 0,
+  "display_name": "Studly",
+  "ham_move_name": "Slide_March_roundandround.move",
+  "milo_name": "slide_march_roundandround",
+  "song_name": "roundandround",
+  "clips": {
+    "studly_roundandround_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

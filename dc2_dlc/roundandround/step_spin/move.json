@@ -1,0 +1,34 @@
+{
+  "name": "step_spin",
+  "difficulty": 2,
+  "display_name": "Step Spin",
+  "ham_move_name": "Step_Turn_Lr_roundandround.move",
+  "milo_name": "step_turn_lr_roundandround",
+  "song_name": "roundandround",
+  "clips": {
+    "step_spin_roundandround_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_spin_roundandround_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_spin_roundandround_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

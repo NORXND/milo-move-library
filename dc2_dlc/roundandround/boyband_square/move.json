@@ -1,0 +1,34 @@
+{
+  "name": "boyband_square",
+  "difficulty": 2,
+  "display_name": "Boyband Square",
+  "ham_move_name": "Box_Step_Point_roundandround.move",
+  "milo_name": "box_step_point_roundandround",
+  "song_name": "roundandround",
+  "clips": {
+    "boyband_square_roundandround_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "boyband_square_roundandround_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "boyband_square_roundandround_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

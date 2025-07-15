@@ -1,0 +1,18 @@
+{
+  "name": "rollercoaster_me",
+  "difficulty": 2,
+  "display_name": "Rollercoaster Me",
+  "ham_move_name": "Groove_Step_Chest_roundandround.move",
+  "milo_name": "groove_step_chest_roundandround",
+  "song_name": "roundandround",
+  "clips": {
+    "rollercoaster_me_roundandround_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

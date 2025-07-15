@@ -1,0 +1,26 @@
+{
+  "name": "look_out_l",
+  "difficulty": 2,
+  "display_name": "Look Out",
+  "ham_move_name": "Stare_L_roundandround.move",
+  "milo_name": "stare_l_roundandround",
+  "song_name": "roundandround",
+  "clips": {
+    "look_out_l_roundandround_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "look_out_r_roundandround_v0"
+    },
+    "look_out_l_roundandround_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "look_out_r_roundandround_v1"
+    }
+  }
+}

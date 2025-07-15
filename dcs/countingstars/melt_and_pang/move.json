@@ -1,0 +1,18 @@
+{
+  "name": "melt_and_pang",
+  "difficulty": 1,
+  "display_name": "Melt & Pang",
+  "ham_move_name": "Melt_And_Pang_countingstars.move",
+  "milo_name": "melt_and_pang_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "melt_and_pang_countingstars_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

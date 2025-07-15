@@ -1,0 +1,58 @@
+{
+  "name": "toss_and_wipe_l",
+  "difficulty": 1,
+  "display_name": "Toss & Wipe",
+  "ham_move_name": "Toss_And_Wipe_L_countingstars.move",
+  "milo_name": "toss_and_wipe_l_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "toss_and_wipe_l_countingstars_v0": {
+      "avg_beats_per_second": 2.04,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "toss_and_wipe_r_countingstars_v0"
+    },
+    "toss_and_wipe_l_countingstars_v1": {
+      "avg_beats_per_second": 2.04,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "toss_and_wipe_r_countingstars_v1"
+    },
+    "toss_and_wipe_l_countingstars_v2": {
+      "avg_beats_per_second": 2.04,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "toss_and_wipe_r_countingstars_v2"
+    },
+    "toss_and_wipe_l_countingstars_v3": {
+      "avg_beats_per_second": 2.04,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "toss_and_wipe_r_countingstars_v3"
+    },
+    "toss_and_wipe_l_countingstars_v4": {
+      "avg_beats_per_second": 2.04,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "toss_and_wipe_r_countingstars_v4"
+    },
+    "toss_and_wipe_l_countingstars_v5": {
+      "avg_beats_per_second": 2.04,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "toss_and_wipe_r_countingstars_v5"
+    }
+  }
+}

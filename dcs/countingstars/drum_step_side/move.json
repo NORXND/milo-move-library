@@ -1,0 +1,26 @@
+{
+  "name": "drum_step_side",
+  "difficulty": 0,
+  "display_name": "Drum Step Side",
+  "ham_move_name": "Drum_Step_Side_countingstars.move",
+  "milo_name": "drum_step_side_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "drum_step_side_countingstars_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drum_step_side_countingstars_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

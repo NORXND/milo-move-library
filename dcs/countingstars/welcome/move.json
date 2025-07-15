@@ -1,0 +1,26 @@
+{
+  "name": "welcome",
+  "difficulty": 2,
+  "display_name": "Welcome",
+  "ham_move_name": "Welcome_countingstars.move",
+  "milo_name": "welcome_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "welcome_countingstars_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "welcome_countingstars_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

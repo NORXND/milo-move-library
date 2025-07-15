@@ -1,0 +1,18 @@
+{
+  "name": "umami",
+  "difficulty": 1,
+  "display_name": "Umami",
+  "ham_move_name": "Umami_countingstars.move",
+  "milo_name": "umami_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "umami_countingstars_v0": {
+      "avg_beats_per_second": 2.04,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

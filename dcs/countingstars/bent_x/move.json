@@ -1,0 +1,42 @@
+{
+  "name": "bent_x",
+  "difficulty": 0,
+  "display_name": "Bent X",
+  "ham_move_name": "Bent_X_countingstars.move",
+  "milo_name": "bent_x_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "bent_x_countingstars_v0": {
+      "avg_beats_per_second": 2.04,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bent_x_countingstars_v1": {
+      "avg_beats_per_second": 2.04,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bent_x_countingstars_v2": {
+      "avg_beats_per_second": 2.04,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bent_x_countingstars_v3": {
+      "avg_beats_per_second": 2.04,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

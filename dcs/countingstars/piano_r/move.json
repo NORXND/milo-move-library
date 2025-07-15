@@ -1,0 +1,26 @@
+{
+  "name": "piano_r",
+  "difficulty": 2,
+  "display_name": "Piano",
+  "ham_move_name": "Piano_R_countingstars.move",
+  "milo_name": "piano_r_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "piano_r_countingstars_v0": {
+      "avg_beats_per_second": 2.04,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "piano_l_countingstars_v0",
+      "linked_from": ""
+    },
+    "piano_r_countingstars_v1": {
+      "avg_beats_per_second": 2.04,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "piano_l_countingstars_v1",
+      "linked_from": ""
+    }
+  }
+}

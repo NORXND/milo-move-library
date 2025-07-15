@@ -1,0 +1,26 @@
+{
+  "name": "bounce_step",
+  "difficulty": 0,
+  "display_name": "Bounce Step",
+  "ham_move_name": "Bounce_Step_countingstars.move",
+  "milo_name": "bounce_step_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "bounce_step_countingstars_v0": {
+      "avg_beats_per_second": 2.04,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bounce_step_countingstars_v1": {
+      "avg_beats_per_second": 2.04,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

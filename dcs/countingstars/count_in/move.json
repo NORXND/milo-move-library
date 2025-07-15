@@ -1,0 +1,26 @@
+{
+  "name": "count_in",
+  "difficulty": 0,
+  "display_name": "Count In",
+  "ham_move_name": "Count_In_countingstars.move",
+  "milo_name": "count_in_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "count_in_countingstars_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "count_in_countingstars_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

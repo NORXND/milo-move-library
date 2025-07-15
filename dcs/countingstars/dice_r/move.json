@@ -1,0 +1,18 @@
+{
+  "name": "dice_r",
+  "difficulty": 1,
+  "display_name": "Dice",
+  "ham_move_name": "Dice_R_countingstars.move",
+  "milo_name": "dice_r_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "dice_r_countingstars_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "dice_l_countingstars_v0",
+      "linked_from": ""
+    }
+  }
+}

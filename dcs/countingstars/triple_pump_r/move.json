@@ -1,0 +1,26 @@
+{
+  "name": "triple_pump_r",
+  "difficulty": 0,
+  "display_name": "Triple Pump",
+  "ham_move_name": "Triple_Pump_R_countingstars.move",
+  "milo_name": "triple_pump_r_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "triple_pump_r_countingstars_v0": {
+      "avg_beats_per_second": 2.04,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "triple_pump_l_countingstars_v0",
+      "linked_from": ""
+    },
+    "triple_pump_r_countingstars_v1": {
+      "avg_beats_per_second": 2.02,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "triple_pump_l_countingstars_v1",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "x_walk_back",
+  "difficulty": 2,
+  "display_name": "X Walk Back",
+  "ham_move_name": "X_Walk_Back_countingstars.move",
+  "milo_name": "x_walk_back_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "x_walk_back_countingstars_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "x_walk_back_countingstars_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "x_walk_back_countingstars_v2": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "maestro_march",
+  "difficulty": 2,
+  "display_name": "Maestro March",
+  "ham_move_name": "Maestro_March_countingstars.move",
+  "milo_name": "maestro_march_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "maestro_march_countingstars_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "maestro_march_countingstars_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "maestro_march_countingstars_v2": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "maestro_march_countingstars_v3": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

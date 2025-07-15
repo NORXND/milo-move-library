@@ -1,0 +1,26 @@
+{
+  "name": "dry_off",
+  "difficulty": 1,
+  "display_name": "Dry Off",
+  "ham_move_name": "Dry_Off_countingstars.move",
+  "milo_name": "dry_off_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "dry_off_countingstars_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dry_off_countingstars_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

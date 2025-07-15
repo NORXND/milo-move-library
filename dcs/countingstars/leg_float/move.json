@@ -1,0 +1,26 @@
+{
+  "name": "leg_float",
+  "difficulty": 2,
+  "display_name": "Leg Float",
+  "ham_move_name": "Leg_Float_countingstars.move",
+  "milo_name": "leg_float_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "leg_float_countingstars_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "leg_float_countingstars_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "slow_thunder_clap_r",
+  "difficulty": 0,
+  "display_name": "Slow Thunder Clap",
+  "ham_move_name": "Slow_Thunder_Clap_R_countingstars.move",
+  "milo_name": "slow_thunder_clap_r_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "slow_thunder_clap_r_countingstars_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "slow_thunder_clap_l_countingstars_v0",
+      "linked_from": ""
+    },
+    "slow_thunder_clap_r_countingstars_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "slow_thunder_clap_l_countingstars_v1",
+      "linked_from": ""
+    }
+  }
+}

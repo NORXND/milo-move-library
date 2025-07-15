@@ -1,0 +1,18 @@
+{
+  "name": "roller_skate_r",
+  "difficulty": 1,
+  "display_name": "Roller Skate",
+  "ham_move_name": "Roller_Skate_R_countingstars.move",
+  "milo_name": "roller_skate_r_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "roller_skate_r_countingstars_v0": {
+      "avg_beats_per_second": 2.04,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "roller_skate_l_countingstars_v0",
+      "linked_from": ""
+    }
+  }
+}

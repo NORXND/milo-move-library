@@ -1,0 +1,26 @@
+{
+  "name": "step_side_and_clap",
+  "difficulty": 0,
+  "display_name": "Step Side & Clap",
+  "ham_move_name": "Step_Side_And_Clap_countingstars.move",
+  "milo_name": "step_side_and_clap_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "step_side_and_clap_countingstars_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_and_clap_countingstars_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

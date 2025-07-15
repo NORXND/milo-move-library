@@ -1,0 +1,18 @@
+{
+  "name": "jet_stream_and_snap",
+  "difficulty": 1,
+  "display_name": "Jet Stream & Snap",
+  "ham_move_name": "Jet_Stream_And_Snap_countingstars.move",
+  "milo_name": "jet_stream_and_snap_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "jet_stream_and_snap_countingstars_v0": {
+      "avg_beats_per_second": 2.26,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

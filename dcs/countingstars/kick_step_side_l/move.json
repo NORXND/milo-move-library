@@ -1,0 +1,26 @@
+{
+  "name": "kick_step_side_l",
+  "difficulty": 1,
+  "display_name": "Kick Step Side",
+  "ham_move_name": "Kick_Step_Side_L_countingstars.move",
+  "milo_name": "kick_step_side_l_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "kick_step_side_l_countingstars_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_step_side_l_countingstars_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

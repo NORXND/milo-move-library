@@ -1,0 +1,34 @@
+{
+  "name": "stringmaster",
+  "difficulty": 2,
+  "display_name": "Stringmaster",
+  "ham_move_name": "Stringmaster_countingstars.move",
+  "milo_name": "stringmaster_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "stringmaster_countingstars_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stringmaster_countingstars_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stringmaster_countingstars_v2": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

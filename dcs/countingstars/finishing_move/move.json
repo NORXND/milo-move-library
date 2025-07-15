@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_countingstars_v1104",
+  "difficulty": 2,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_countingstars.move",
+  "milo_name": "finishing_move_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "finishing_move_countingstars_v1104": {
+      "avg_beats_per_second": 2.04,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "wave_scissor",
+  "difficulty": 2,
+  "display_name": "Wave Scissor",
+  "ham_move_name": "Wave_Scissor_countingstars.move",
+  "milo_name": "wave_scissor_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "wave_scissor_countingstars_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

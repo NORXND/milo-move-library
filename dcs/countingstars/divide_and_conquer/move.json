@@ -1,0 +1,34 @@
+{
+  "name": "divide_and_conquer_2",
+  "difficulty": 1,
+  "display_name": "Divide & Conquer",
+  "ham_move_name": "Divide_And_Conquer_2_countingstars.move",
+  "milo_name": "divide_and_conquer_2_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "divide_and_conquer_countingstars_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "divide_and_conquer_countingstars_v3": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "divide_and_conquer_countingstars_v5": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

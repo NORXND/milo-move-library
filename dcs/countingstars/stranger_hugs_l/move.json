@@ -1,0 +1,18 @@
+{
+  "name": "stranger_hugs_l",
+  "difficulty": 2,
+  "display_name": "Stranger Hugs",
+  "ham_move_name": "Stranger_Hugs_L_countingstars.move",
+  "milo_name": "stranger_hugs_l_countingstars",
+  "song_name": "countingstars",
+  "clips": {
+    "stranger_hugs_l_countingstars_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "stranger_hugs_r_countingstars_v0",
+      "linked_from": ""
+    }
+  }
+}

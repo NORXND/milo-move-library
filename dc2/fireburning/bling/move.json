@@ -1,0 +1,26 @@
+{
+  "name": "bling",
+  "difficulty": 0,
+  "display_name": "Bling",
+  "ham_move_name": "Dble_Shoulder_Flik_fireburning.move",
+  "milo_name": "dble_shoulder_flik_fireburning",
+  "song_name": "fireburning",
+  "clips": {
+    "bling_fireburning_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bling_fireburning_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "cave_pound",
+  "difficulty": 0,
+  "display_name": "Cave Pound",
+  "ham_move_name": "Cave_Pound_fireburning.move",
+  "milo_name": "cave_pound_fireburning",
+  "song_name": "fireburning",
+  "clips": {
+    "cave_pound_fireburning_v3": {
+      "avg_beats_per_second": 1.76,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cave_pound_fireburning_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cave_pound_fireburning_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cave_pound_fireburning_v2": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

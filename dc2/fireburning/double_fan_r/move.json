@@ -1,0 +1,26 @@
+{
+  "name": "double_fan_r",
+  "difficulty": 1,
+  "display_name": "Double Fan",
+  "ham_move_name": "Cooln_R_fireburning.move",
+  "milo_name": "cooln_r_fireburning",
+  "song_name": "fireburning",
+  "clips": {
+    "double_fan_r_fireburning_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "double_fan_l_fireburning_v0",
+      "linked_from": ""
+    },
+    "double_fan_r_fireburning_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "double_fan_l_fireburning_v1",
+      "linked_from": ""
+    }
+  }
+}

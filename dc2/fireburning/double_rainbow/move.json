@@ -1,0 +1,26 @@
+{
+  "name": "double_rainbow",
+  "difficulty": 1,
+  "display_name": "Double Rainbow",
+  "ham_move_name": "Double_Rainbow_fireburning.move",
+  "milo_name": "double_rainbow_fireburning",
+  "song_name": "fireburning",
+  "clips": {
+    "double_rainbow_fireburning_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_rainbow_fireburning_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

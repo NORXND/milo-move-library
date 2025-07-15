@@ -1,0 +1,58 @@
+{
+  "name": "groove_snap",
+  "difficulty": 0,
+  "display_name": "Groove Snap",
+  "ham_move_name": "Groove_Snap_fireburning.move",
+  "milo_name": "groove_snap_fireburning",
+  "song_name": "fireburning",
+  "clips": {
+    "groove_snap_fireburning_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "groove_snap_fireburning_v3": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "groove_snap_fireburning_v5": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "groove_snap_fireburning_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "groove_snap_fireburning_v2": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "groove_snap_fireburning_v4": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

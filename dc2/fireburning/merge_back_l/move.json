@@ -1,0 +1,34 @@
+{
+  "name": "merge_back_l",
+  "difficulty": 0,
+  "display_name": "Merge Back",
+  "ham_move_name": "Merge_Back_L_fireburning.move",
+  "milo_name": "merge_back_l_fireburning",
+  "song_name": "fireburning",
+  "clips": {
+    "merge_back_l_fireburning_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "merge_back_r_fireburning_v0",
+      "linked_from": ""
+    },
+    "merge_back_l_fireburning_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "merge_back_r_fireburning_v1",
+      "linked_from": ""
+    },
+    "merge_back_l_fireburning_v2": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "merge_back_r_fireburning_v2",
+      "linked_from": ""
+    }
+  }
+}

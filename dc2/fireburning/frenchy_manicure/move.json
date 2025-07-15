@@ -1,0 +1,26 @@
+{
+  "name": "frenchy_manicure",
+  "difficulty": 0,
+  "display_name": "Frenchy Manicure",
+  "ham_move_name": "Swipe_fireburning.move",
+  "milo_name": "swipe_fireburning",
+  "song_name": "fireburning",
+  "clips": {
+    "frenchy_manicure_fireburning_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "frenchy_manicure_fireburning_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

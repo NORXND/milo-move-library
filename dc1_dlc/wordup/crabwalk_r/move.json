@@ -1,0 +1,18 @@
+{
+  "name": "crabwalk_r",
+  "difficulty": 2,
+  "display_name": "Crabwalk",
+  "ham_move_name": "Crabwalk_R_wordup.move",
+  "milo_name": "crabwalk_r_wordup",
+  "song_name": "wordup",
+  "clips": {
+    "crabwalk_r_wordup_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "crabwalk_l_wordup_v0"
+    }
+  }
+}

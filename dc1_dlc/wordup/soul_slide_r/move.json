@@ -1,0 +1,18 @@
+{
+  "name": "soul_slide_r",
+  "difficulty": 1,
+  "display_name": "Soul Slide",
+  "ham_move_name": "Soul_Slide_R_wordup.move",
+  "milo_name": "soul_slide_r_wordup",
+  "song_name": "wordup",
+  "clips": {
+    "soul_slide_r_wordup_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "soul_slide_l_wordup_v0"
+    }
+  }
+}

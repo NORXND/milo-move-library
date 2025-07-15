@@ -1,0 +1,18 @@
+{
+  "name": "melt",
+  "difficulty": 2,
+  "display_name": "Melt",
+  "ham_move_name": "Melt_wordup.move",
+  "milo_name": "melt_wordup",
+  "song_name": "wordup",
+  "clips": {
+    "melt_wordup_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

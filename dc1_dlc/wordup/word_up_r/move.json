@@ -1,0 +1,26 @@
+{
+  "name": "word_up_r",
+  "difficulty": 0,
+  "display_name": "Word Up",
+  "ham_move_name": "Word_Up_R_wordup.move",
+  "milo_name": "word_up_r_wordup",
+  "song_name": "wordup",
+  "clips": {
+    "word_up_r_wordup_v1": {
+      "avg_beats_per_second": 1.94,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "word_up_l_wordup_v1"
+    },
+    "word_up_r_wordup_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "word_up_l_wordup_v0"
+    }
+  }
+}

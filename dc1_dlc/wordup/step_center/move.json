@@ -1,0 +1,18 @@
+{
+  "name": "step_center",
+  "difficulty": 0,
+  "display_name": "Step Center",
+  "ham_move_name": "Step_Out_wordup.move",
+  "milo_name": "step_out_wordup",
+  "song_name": "wordup",
+  "clips": {
+    "step_center_wordup_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

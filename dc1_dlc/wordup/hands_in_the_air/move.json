@@ -1,0 +1,18 @@
+{
+  "name": "hands_in_the_air",
+  "difficulty": 0,
+  "display_name": "Hands In The Air",
+  "ham_move_name": "Hands_In_The_Air_wordup.move",
+  "milo_name": "hands_in_the_air_wordup",
+  "song_name": "wordup",
+  "clips": {
+    "hands_in_the_air_wordup_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

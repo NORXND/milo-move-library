@@ -1,0 +1,34 @@
+{
+  "name": "wave_in_the_air",
+  "difficulty": 0,
+  "display_name": "Wave In The Air",
+  "ham_move_name": "Wave_In_The_Air_wordup.move",
+  "milo_name": "wave_in_the_air_wordup",
+  "song_name": "wordup",
+  "clips": {
+    "wave_in_the_air_wordup_v2": {
+      "avg_beats_per_second": 1.94,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wave_in_the_air_wordup_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wave_in_the_air_wordup_v1": {
+      "avg_beats_per_second": 1.94,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

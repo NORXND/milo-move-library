@@ -1,0 +1,18 @@
+{
+  "name": "shoulder_pep_l",
+  "difficulty": 0,
+  "display_name": "Shoulder Pep",
+  "ham_move_name": "Hitch_Hike_L_wordup.move",
+  "milo_name": "hitch_hike_r_wordup",
+  "song_name": "wordup",
+  "clips": {
+    "shoulder_pep_l_wordup_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "shoulder_pep_r_wordup_v0",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "chugga_chugga",
+  "difficulty": 0,
+  "display_name": "Chugga Chugga",
+  "ham_move_name": "Chugga_Chugga_wordup.move",
+  "milo_name": "chugga_chugga_wordup",
+  "song_name": "wordup",
+  "clips": {
+    "chugga_chugga_wordup_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

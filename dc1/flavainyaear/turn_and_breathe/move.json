@@ -1,0 +1,18 @@
+{
+  "name": "turn_and_breathe",
+  "difficulty": 2,
+  "display_name": "Turn & Breathe",
+  "ham_move_name": "Turn_and_Breathe_flavainyaear.move",
+  "milo_name": "turn_and_breathe_flavainyaear",
+  "song_name": "flavainyaear",
+  "clips": {
+    "turn_and_breathe_flavainyaear_v0": {
+      "avg_beats_per_second": 1.48,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

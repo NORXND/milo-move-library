@@ -1,0 +1,18 @@
+{
+  "name": "march_and_wipe",
+  "difficulty": 0,
+  "display_name": "March & Wipe",
+  "ham_move_name": "March_and_Wipe_flavainyaear.move",
+  "milo_name": "march_and_wipe_flavainyaear",
+  "song_name": "flavainyaear",
+  "clips": {
+    "march_and_wipe_flavainyaear_v0": {
+      "avg_beats_per_second": 1.48,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

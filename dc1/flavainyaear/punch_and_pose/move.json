@@ -1,0 +1,26 @@
+{
+  "name": "punch_and_pose",
+  "difficulty": 1,
+  "display_name": "Punch And Pose",
+  "ham_move_name": "Punch_And_Pose_flavainyaear.move",
+  "milo_name": "punch_and_pose_flavainyaear",
+  "song_name": "flavainyaear",
+  "clips": {
+    "punch_and_pose_flavainyaear_v0": {
+      "avg_beats_per_second": 1.48,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "punch_and_pose_flavainyaear_v1": {
+      "avg_beats_per_second": 1.48,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

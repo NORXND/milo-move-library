@@ -1,0 +1,18 @@
+{
+  "name": "elephant",
+  "difficulty": 2,
+  "display_name": "Elephant",
+  "ham_move_name": "Elephant_flavainyaear.move",
+  "milo_name": "elephant_flavainyaear",
+  "song_name": "flavainyaear",
+  "clips": {
+    "elephant_flavainyaear_v0": {
+      "avg_beats_per_second": 1.49,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

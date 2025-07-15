@@ -1,0 +1,18 @@
+{
+  "name": "handle_bar",
+  "difficulty": 0,
+  "display_name": "Handle Bar",
+  "ham_move_name": "Handle_Bar_Swing_flavainyaear.move",
+  "milo_name": "handle_bar_swing_flavainyaear",
+  "song_name": "flavainyaear",
+  "clips": {
+    "handle_bar_flavainyaear_v0": {
+      "avg_beats_per_second": 1.48,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

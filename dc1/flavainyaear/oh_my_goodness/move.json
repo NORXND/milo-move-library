@@ -1,0 +1,18 @@
+{
+  "name": "oh_my_goodness",
+  "difficulty": 1,
+  "display_name": "Oh My Goodness",
+  "ham_move_name": "Oh_My_Goodness_flavainyaear.move",
+  "milo_name": "oh_my_goodness_flavainyaear",
+  "song_name": "flavainyaear",
+  "clips": {
+    "oh_my_goodness_flavainyaear_v0": {
+      "avg_beats_per_second": 1.48,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

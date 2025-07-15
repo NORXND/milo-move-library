@@ -1,0 +1,18 @@
+{
+  "name": "moonshine",
+  "difficulty": 1,
+  "display_name": "Moonshine",
+  "ham_move_name": "Moonshine_flavainyaear.move",
+  "milo_name": "moonshine_flavainyaear",
+  "song_name": "flavainyaear",
+  "clips": {
+    "moonshine_flavainyaear_v0": {
+      "avg_beats_per_second": 1.48,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

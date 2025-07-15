@@ -1,0 +1,18 @@
+{
+  "name": "hip_drop",
+  "difficulty": 0,
+  "display_name": "Hip Drop",
+  "ham_move_name": "Hip_Drop_flavainyaear.move",
+  "milo_name": "hip_drop_flavainyaear",
+  "song_name": "flavainyaear",
+  "clips": {
+    "hip_drop_flavainyaear_v0": {
+      "avg_beats_per_second": 1.49,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "skateboard",
+  "difficulty": 1,
+  "display_name": "Skateboard",
+  "ham_move_name": "Skateboard_flavainyaear.move",
+  "milo_name": "skateboard_flavainyaear",
+  "song_name": "flavainyaear",
+  "clips": {
+    "skateboard_flavainyaear_v0": {
+      "avg_beats_per_second": 1.48,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

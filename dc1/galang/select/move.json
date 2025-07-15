@@ -1,0 +1,26 @@
+{
+  "name": "select",
+  "difficulty": 0,
+  "display_name": "Select",
+  "ham_move_name": "Select_galang.move",
+  "milo_name": "select_galang",
+  "song_name": "galang",
+  "clips": {
+    "select_galang_v0": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "select_galang_v1": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

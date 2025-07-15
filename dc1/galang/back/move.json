@@ -1,0 +1,26 @@
+{
+  "name": "back",
+  "difficulty": 0,
+  "display_name": "Back",
+  "ham_move_name": "Back_galang.move",
+  "milo_name": "back_galang",
+  "song_name": "galang",
+  "clips": {
+    "back_galang_v0": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "back_galang_v1": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

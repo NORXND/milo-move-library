@@ -1,0 +1,74 @@
+{
+  "name": "huh",
+  "difficulty": 0,
+  "display_name": "Huh",
+  "ham_move_name": "Huh_galang.move",
+  "milo_name": "huh_galang",
+  "song_name": "galang",
+  "clips": {
+    "huh_galang_v0": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "huh_galang_v5": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "huh_galang_v3": {
+      "avg_beats_per_second": 1.44,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "huh_galang_v1": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "huh_galang_v6": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "huh_galang_v7": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "huh_galang_v4": {
+      "avg_beats_per_second": 1.69,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "huh_galang_v2": {
+      "avg_beats_per_second": 1.44,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

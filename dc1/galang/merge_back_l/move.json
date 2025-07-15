@@ -1,0 +1,42 @@
+{
+  "name": "merge_back_l",
+  "difficulty": 0,
+  "display_name": "Merge Back",
+  "ham_move_name": "Pump_It_Back_L_galang.move",
+  "milo_name": "pump_it_back_l_galang",
+  "song_name": "galang",
+  "clips": {
+    "merge_back_l_galang_v3": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "merge_back_r_galang_v3"
+    },
+    "merge_back_l_galang_v0": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "merge_back_r_galang_v0"
+    },
+    "merge_back_l_galang_v1": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "merge_back_r_galang_v1"
+    },
+    "merge_back_l_galang_v2": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "merge_back_r_galang_v2"
+    }
+  }
+}

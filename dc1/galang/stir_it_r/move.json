@@ -1,0 +1,26 @@
+{
+  "name": "stir_it_r",
+  "difficulty": 1,
+  "display_name": "Stir It",
+  "ham_move_name": "Stir_It_R_galang.move",
+  "milo_name": "stir_it_r_galang",
+  "song_name": "galang",
+  "clips": {
+    "stir_it_r_galang_v0": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stir_it_r_galang_v1": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

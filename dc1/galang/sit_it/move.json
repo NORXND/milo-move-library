@@ -1,0 +1,18 @@
+{
+  "name": "sit_it",
+  "difficulty": 1,
+  "display_name": "Sit It",
+  "ham_move_name": "Sit_It_galang.move",
+  "milo_name": "sit_it_galang",
+  "song_name": "galang",
+  "clips": {
+    "sit_it_galang_v0": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

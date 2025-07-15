@@ -1,0 +1,42 @@
+{
+  "name": "galang_r",
+  "difficulty": 2,
+  "display_name": "Galang",
+  "ham_move_name": "Shake_and_Bake_R_galang.move",
+  "milo_name": "shake_and_bake_r_galang",
+  "song_name": "galang",
+  "clips": {
+    "galang_r_galang_v3": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "galang_l_galang_v3",
+      "linked_from": "galang_l_galang_v2"
+    },
+    "galang_r_galang_v0": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "galang_l_galang_v0",
+      "linked_from": ""
+    },
+    "galang_r_galang_v1": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "galang_l_galang_v1",
+      "linked_from": "galang_l_galang_v0"
+    },
+    "galang_r_galang_v2": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "galang_l_galang_v2",
+      "linked_from": ""
+    }
+  }
+}

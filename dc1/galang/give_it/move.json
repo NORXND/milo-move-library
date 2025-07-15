@@ -1,0 +1,26 @@
+{
+  "name": "give_it",
+  "difficulty": 0,
+  "display_name": "Give It",
+  "ham_move_name": "Give_It_galang.move",
+  "milo_name": "give_it_galang",
+  "song_name": "galang",
+  "clips": {
+    "give_it_galang_v0": {
+      "avg_beats_per_second": 1.69,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "give_it_galang_v1": {
+      "avg_beats_per_second": 1.69,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

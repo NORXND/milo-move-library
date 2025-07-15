@@ -1,0 +1,26 @@
+{
+  "name": "crook",
+  "difficulty": 0,
+  "display_name": "Crook",
+  "ham_move_name": "Arm_Swing_funkytown.move",
+  "milo_name": "arm_swing_funkytown",
+  "song_name": "funkytown",
+  "clips": {
+    "crook_funkytown_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "crook_funkytown_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

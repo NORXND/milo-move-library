@@ -1,0 +1,26 @@
+{
+  "name": "abc_front",
+  "difficulty": 0,
+  "display_name": "ABC Front",
+  "ham_move_name": "ABC_Front_funkytown.move",
+  "milo_name": "abc_front_funkytown",
+  "song_name": "funkytown",
+  "clips": {
+    "abc_front_funkytown_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "abc_front_funkytown_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "abc_back_funkytown_v0",
+      "linked_from": ""
+    }
+  }
+}

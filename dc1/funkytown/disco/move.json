@@ -1,0 +1,74 @@
+{
+  "name": "disco",
+  "difficulty": 0,
+  "display_name": "Disco",
+  "ham_move_name": "Disco_funkytown.move",
+  "milo_name": "disco_funkytown",
+  "song_name": "funkytown",
+  "clips": {
+    "disco_funkytown_v0": {
+      "avg_beats_per_second": 2.04,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "disco_funkytown_v5": {
+      "avg_beats_per_second": 2.04,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "disco_funkytown_v3": {
+      "avg_beats_per_second": 2.05,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "disco_funkytown_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "disco_funkytown_v6": {
+      "avg_beats_per_second": 2.04,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "disco_funkytown_v4": {
+      "avg_beats_per_second": 2.04,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "disco_funkytown_v2": {
+      "avg_beats_per_second": 2.05,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "disco_funkytown_v7": {
+      "avg_beats_per_second": 2.04,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

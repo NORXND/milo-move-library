@@ -1,0 +1,42 @@
+{
+  "name": "talk_2_much",
+  "difficulty": 0,
+  "display_name": "Talk 2 Much",
+  "ham_move_name": "Talk_2_Much_funkytown.move",
+  "milo_name": "talk_2_much_funkytown",
+  "song_name": "funkytown",
+  "clips": {
+    "talk_2_much_funkytown_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "talk_2_much_funkytown_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "talk_2_much_funkytown_v2": {
+      "avg_beats_per_second": 2.05,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "talk_2_much_funkytown_v3": {
+      "avg_beats_per_second": 2.05,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

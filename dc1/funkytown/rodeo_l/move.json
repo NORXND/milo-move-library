@@ -1,0 +1,34 @@
+{
+  "name": "rodeo_l",
+  "difficulty": 0,
+  "display_name": "Rodeo",
+  "ham_move_name": "Rodeo_L_funkytown.move",
+  "milo_name": "rodeo_l_funkytown",
+  "song_name": "funkytown",
+  "clips": {
+    "rodeo_l_funkytown_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "rodeo_r_funkytown_v0"
+    },
+    "rodeo_l_funkytown_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "rodeo_r_funkytown_v1"
+    },
+    "rodeo_l_funkytown_v2": {
+      "avg_beats_per_second": 2.05,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "rodeo_r_funkytown_v2"
+    }
+  }
+}

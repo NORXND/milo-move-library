@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_funkytown_v1073",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "End_Pose_funkytown.move",
+  "milo_name": "end_pose_funkytown",
+  "song_name": "funkytown",
+  "clips": {
+    "finishing_move_funkytown_v1073": {
+      "avg_beats_per_second": 2.05,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

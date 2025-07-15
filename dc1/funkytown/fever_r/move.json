@@ -1,0 +1,42 @@
+{
+  "name": "fever_r",
+  "difficulty": 0,
+  "display_name": "Fever",
+  "ham_move_name": "Fever_R_funkytown.move",
+  "milo_name": "fever_r_funkytown",
+  "song_name": "funkytown",
+  "clips": {
+    "fever_r_funkytown_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "fever_l_funkytown_v1",
+      "linked_from": ""
+    },
+    "fever_r_funkytown_v2": {
+      "avg_beats_per_second": 2.04,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "fever_l_funkytown_v2",
+      "linked_from": ""
+    },
+    "fever_r_funkytown_v3": {
+      "avg_beats_per_second": 2.04,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "fever_l_funkytown_v3",
+      "linked_from": ""
+    },
+    "fever_r_funkytown_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "fever_l_funkytown_v0",
+      "linked_from": ""
+    }
+  }
+}

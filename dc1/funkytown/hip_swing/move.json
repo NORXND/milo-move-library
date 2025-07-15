@@ -1,0 +1,26 @@
+{
+  "name": "hip_swing",
+  "difficulty": 0,
+  "display_name": "Hip Swing",
+  "ham_move_name": "Hip_Swing_funkytown.move",
+  "milo_name": "hip_swing_funkytown",
+  "song_name": "funkytown",
+  "clips": {
+    "hip_swing_funkytown_v0": {
+      "avg_beats_per_second": 1.76,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_swing_funkytown_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

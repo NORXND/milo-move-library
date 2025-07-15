@@ -1,0 +1,18 @@
+{
+  "name": "teapot_r",
+  "difficulty": 1,
+  "display_name": "Teapot",
+  "ham_move_name": "Teacup_R_funkytown.move",
+  "milo_name": "teacup_r_funkytown",
+  "song_name": "funkytown",
+  "clips": {
+    "teapot_r_funkytown_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "teapot_l_funkytown_v0",
+      "linked_from": ""
+    }
+  }
+}

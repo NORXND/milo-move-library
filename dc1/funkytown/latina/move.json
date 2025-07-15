@@ -1,0 +1,26 @@
+{
+  "name": "latina",
+  "difficulty": 0,
+  "display_name": "Latina",
+  "ham_move_name": "Latina_funkytown.move",
+  "milo_name": "latina_funkytown",
+  "song_name": "funkytown",
+  "clips": {
+    "latina_funkytown_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "latina_funkytown_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

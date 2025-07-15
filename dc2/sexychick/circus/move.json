@@ -1,0 +1,26 @@
+{
+  "name": "circus",
+  "difficulty": 2,
+  "display_name": "Circus",
+  "ham_move_name": "Circus_sexychick.move",
+  "milo_name": "circus_sexychick",
+  "song_name": "sexychick",
+  "clips": {
+    "circus_sexychick_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "circus_sexychick_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "_bows_up_r",
+  "difficulty": 2,
+  "display_name": "'Bows Up",
+  "ham_move_name": "Escalator_R_sexychick.move",
+  "milo_name": "escalator_r_sexychick",
+  "song_name": "sexychick",
+  "clips": {
+    "_bows_up_r_sexychick_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "_bows_up_r_sexychick_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "_bows_up_r_sexychick_v2": {
+      "avg_beats_per_second": 2.16,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "_bows_up_r_sexychick_v3": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cut_and_dry",
+  "difficulty": 1,
+  "display_name": "Cut & Dry",
+  "ham_move_name": "Surfer_sexychick.move",
+  "milo_name": "surfer_sexychick",
+  "song_name": "sexychick",
+  "clips": {
+    "cut_and_dry_sexychick_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cut_and_dry_sexychick_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

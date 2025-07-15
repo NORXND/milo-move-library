@@ -1,0 +1,26 @@
+{
+  "name": "push_me",
+  "difficulty": 0,
+  "display_name": "Push Me",
+  "ham_move_name": "Breathtaker_sexychick.move",
+  "milo_name": "breathtaker_sexychick",
+  "song_name": "sexychick",
+  "clips": {
+    "push_me_sexychick_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "push_me_sexychick_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

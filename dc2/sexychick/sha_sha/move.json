@@ -1,0 +1,26 @@
+{
+  "name": "sha_sha",
+  "difficulty": 2,
+  "display_name": "Sha Sha",
+  "ham_move_name": "Sha_Sha_Snap_Back_sexychick.move",
+  "milo_name": "sha_sha_snap_back_sexychick",
+  "song_name": "sexychick",
+  "clips": {
+    "sha_sha_sexychick_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sha_sha_sexychick_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

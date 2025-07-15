@@ -1,0 +1,26 @@
+{
+  "name": "monsterous",
+  "difficulty": 2,
+  "display_name": "Monsterous",
+  "ham_move_name": "Get_Buck_sexychick.move",
+  "milo_name": "get_buck_sexychick",
+  "song_name": "sexychick",
+  "clips": {
+    "monsterous_sexychick_v1": {
+      "avg_beats_per_second": 2.16,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "monsterous_sexychick_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

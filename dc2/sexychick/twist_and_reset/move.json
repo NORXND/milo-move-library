@@ -1,0 +1,26 @@
+{
+  "name": "twist_and_reset",
+  "difficulty": 2,
+  "display_name": "Twist & Reset",
+  "ham_move_name": "Twist_And_Push_sexychick.move",
+  "milo_name": "twist_and_push_sexychick",
+  "song_name": "sexychick",
+  "clips": {
+    "twist_and_reset_sexychick_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "twist_and_reset_sexychick_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

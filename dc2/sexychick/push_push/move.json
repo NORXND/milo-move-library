@@ -1,0 +1,26 @@
+{
+  "name": "push_push",
+  "difficulty": 0,
+  "display_name": "Push Push",
+  "ham_move_name": "Push_Push_Pow_sexychick.move",
+  "milo_name": "push_push_pow_sexychick",
+  "song_name": "sexychick",
+  "clips": {
+    "push_push_sexychick_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 82,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "push_push_sexychick_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 82,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "what_up_man",
+  "difficulty": 2,
+  "display_name": "What Up Man",
+  "ham_move_name": "What_Up_Man_sexychick.move",
+  "milo_name": "what_up_man_sexychick",
+  "song_name": "sexychick",
+  "clips": {
+    "what_up_man_sexychick_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "what_up_man_sexychick_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "ragdoll",
+  "difficulty": 2,
+  "display_name": "Ragdoll",
+  "ham_move_name": "Around_Town_sexychick.move",
+  "milo_name": "around_town_sexychick",
+  "song_name": "sexychick",
+  "clips": {
+    "ragdoll_sexychick_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ragdoll_sexychick_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

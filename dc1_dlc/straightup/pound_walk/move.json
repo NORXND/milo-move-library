@@ -1,0 +1,50 @@
+{
+  "name": "pound_walk",
+  "difficulty": 0,
+  "display_name": "Pound Walk",
+  "ham_move_name": "Runnin_straightup.move",
+  "milo_name": "runnin_straightup",
+  "song_name": "straightup",
+  "clips": {
+    "pound_walk_straightup_v2": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_walk_straightup_v4": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_walk_straightup_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_walk_straightup_v3": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_walk_straightup_v1": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

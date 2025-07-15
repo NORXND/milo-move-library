@@ -1,0 +1,42 @@
+{
+  "name": "love_me",
+  "difficulty": 0,
+  "display_name": "Love Me",
+  "ham_move_name": "Love_Me_straightup.move",
+  "milo_name": "love_me_straightup",
+  "song_name": "straightup",
+  "clips": {
+    "love_me_straightup_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "love_me_straightup_v1": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "love_me_straightup_v2": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "love_me_straightup_v3": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

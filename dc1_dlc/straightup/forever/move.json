@@ -1,0 +1,18 @@
+{
+  "name": "forever",
+  "difficulty": 2,
+  "display_name": "Forever",
+  "ham_move_name": "Sunny_Side_straightup.move",
+  "milo_name": "sunny_side_straightup",
+  "song_name": "straightup",
+  "clips": {
+    "forever_straightup_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

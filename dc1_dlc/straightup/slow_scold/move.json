@@ -1,0 +1,26 @@
+{
+  "name": "slow_scold",
+  "difficulty": 0,
+  "display_name": "Slow Scold",
+  "ham_move_name": "Detective_straightup.move",
+  "milo_name": "detective_straightup",
+  "song_name": "straightup",
+  "clips": {
+    "slow_scold_straightup_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slow_scold_straightup_v1": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

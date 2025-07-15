@@ -1,0 +1,26 @@
+{
+  "name": "walk_and_hit_l",
+  "difficulty": 1,
+  "display_name": "Walk & Hit",
+  "ham_move_name": "Sassy_L_straightup.move",
+  "milo_name": "sassy_l_straightup",
+  "song_name": "straightup",
+  "clips": {
+    "walk_and_hit_l_straightup_v1": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "walk_and_hit_r_straightup_v1"
+    },
+    "walk_and_hit_l_straightup_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "walk_and_hit_r_straightup_v0"
+    }
+  }
+}

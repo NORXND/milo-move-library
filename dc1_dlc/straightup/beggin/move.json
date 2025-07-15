@@ -1,0 +1,26 @@
+{
+  "name": "beggin",
+  "difficulty": 0,
+  "display_name": "Beggin",
+  "ham_move_name": "Beggin_straightup.move",
+  "milo_name": "beggin_straightup",
+  "song_name": "straightup",
+  "clips": {
+    "beggin_straightup_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "beggin_straightup_v1": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

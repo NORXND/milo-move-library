@@ -1,0 +1,42 @@
+{
+  "name": "dizzy_hit",
+  "difficulty": 2,
+  "display_name": "Dizzy Hit",
+  "ham_move_name": "Caught_Up_straightup.move",
+  "milo_name": "caught_up_straightup",
+  "song_name": "straightup",
+  "clips": {
+    "dizzy_hit_straightup_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dizzy_hit_straightup_v1": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dizzy_hit_straightup_v2": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dizzy_hit_straightup_v3": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

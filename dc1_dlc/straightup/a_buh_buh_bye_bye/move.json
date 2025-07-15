@@ -1,0 +1,18 @@
+{
+  "name": "a_buh_buh_bye_bye",
+  "difficulty": 2,
+  "display_name": "A Buh Buh Bye Bye",
+  "ham_move_name": "Buh_Bye_straightup.move",
+  "milo_name": "buh_bye_straightup",
+  "song_name": "straightup",
+  "clips": {
+    "a_buh_buh_bye_bye_straightup_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

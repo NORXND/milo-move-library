@@ -1,0 +1,18 @@
+{
+  "name": "lost_child",
+  "difficulty": 2,
+  "display_name": "Lost Child",
+  "ham_move_name": "Lost_Child_straightup.move",
+  "milo_name": "lost_child_straightup",
+  "song_name": "straightup",
+  "clips": {
+    "lost_child_straightup_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

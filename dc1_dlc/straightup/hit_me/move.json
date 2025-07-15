@@ -1,0 +1,42 @@
+{
+  "name": "hit_me",
+  "difficulty": 1,
+  "display_name": "Hit Me",
+  "ham_move_name": "Hit_Me_straightup.move",
+  "milo_name": "hit_me_straightup",
+  "song_name": "straightup",
+  "clips": {
+    "hit_me_straightup_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hit_me_straightup_v3": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hit_me_straightup_v1": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hit_me_straightup_v2": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "bridle_step_center",
+  "difficulty": 2,
+  "display_name": "Bridle Step Center",
+  "ham_move_name": "Dip_And_Pose_Lr_euphoria.move",
+  "milo_name": "dip_and_pose_lr_euphoria",
+  "song_name": "euphoria",
+  "clips": {
+    "bridle_step_center_euphoria_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bridle_step_center_euphoria_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bridle_step_center_euphoria_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bridle_step_center_euphoria_v3": {
+      "avg_beats_per_second": 1.83,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

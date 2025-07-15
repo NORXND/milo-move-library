@@ -1,0 +1,42 @@
+{
+  "name": "gear_slide",
+  "difficulty": 2,
+  "display_name": "Gear Slide",
+  "ham_move_name": "Propeller_Arm_Rl_euphoria.move",
+  "milo_name": "propeller_arm_rl_euphoria",
+  "song_name": "euphoria",
+  "clips": {
+    "gear_slide_euphoria_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "gear_slide_euphoria_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "gear_slide_euphoria_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "gear_slide_euphoria_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

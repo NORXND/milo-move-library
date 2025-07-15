@@ -1,0 +1,18 @@
+{
+  "name": "say_what_and_clap_hop",
+  "difficulty": 2,
+  "display_name": "Say What / Clap Hop",
+  "ham_move_name": "L_Hand_R_Hand_Clap_Jump_euphoria.move",
+  "milo_name": "l_hand_r_hand_clap_jump_euphoria",
+  "song_name": "euphoria",
+  "clips": {
+    "say_what_and_clap_hop_euphoria_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

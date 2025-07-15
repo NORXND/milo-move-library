@@ -1,0 +1,42 @@
+{
+  "name": "dance_off_l",
+  "difficulty": 2,
+  "display_name": "Dance Off",
+  "ham_move_name": "Point_Jump_Push_Knee_L_euphoria.move",
+  "milo_name": "point_jump_push_knee_l_euphoria",
+  "song_name": "euphoria",
+  "clips": {
+    "dance_off_l_euphoria_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dance_off_l_euphoria_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dance_off_l_euphoria_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dance_off_l_euphoria_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

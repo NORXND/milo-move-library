@@ -1,0 +1,26 @@
+{
+  "name": "reflex_test",
+  "difficulty": 2,
+  "display_name": "Reflex Test",
+  "ham_move_name": "Hammer_To_The_R_Knee_Knees_Then_Left_euphoria.move",
+  "milo_name": "hammer_to_the_r_knee_knees_then_left_euphoria",
+  "song_name": "euphoria",
+  "clips": {
+    "reflex_test_euphoria_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "reflex_test_euphoria_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

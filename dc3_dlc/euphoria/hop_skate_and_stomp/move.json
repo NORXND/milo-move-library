@@ -1,0 +1,50 @@
+{
+  "name": "hop_skate_and_stomp",
+  "difficulty": 2,
+  "display_name": "Hop Skate / Stomp",
+  "ham_move_name": "Skate_L_Skate_R_Stomp_euphoria.move",
+  "milo_name": "skate_l_skate_r_stomp_euphoria",
+  "song_name": "euphoria",
+  "clips": {
+    "hop_skate_and_stomp_euphoria_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_skate_and_stomp_euphoria_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_skate_and_stomp_euphoria_v2": {
+      "avg_beats_per_second": 1.84,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_skate_and_stomp_euphoria_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_skate_and_stomp_euphoria_v4": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

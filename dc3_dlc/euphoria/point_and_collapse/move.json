@@ -1,0 +1,18 @@
+{
+  "name": "point_and_collapse",
+  "difficulty": 2,
+  "display_name": "Point & Collapse",
+  "ham_move_name": "Fold_Arms_Sink_After_Pointing_euphoria.move",
+  "milo_name": "fold_arms_sink_after_pointing_euphoria",
+  "song_name": "euphoria",
+  "clips": {
+    "point_and_collapse_euphoria_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

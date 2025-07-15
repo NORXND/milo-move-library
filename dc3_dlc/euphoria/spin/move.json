@@ -1,0 +1,42 @@
+{
+  "name": "spin",
+  "difficulty": 2,
+  "display_name": "Spin",
+  "ham_move_name": "Quick_Left_Cross_Turn_euphoria.move",
+  "milo_name": "quick_left_cross_turn_euphoria",
+  "song_name": "euphoria",
+  "clips": {
+    "spin_euphoria_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spin_euphoria_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spin_euphoria_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spin_euphoria_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

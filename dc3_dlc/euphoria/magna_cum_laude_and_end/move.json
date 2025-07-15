@@ -1,0 +1,18 @@
+{
+  "name": "magna_cum_laude_and_end",
+  "difficulty": 2,
+  "display_name": "Magna Cum Laude & End",
+  "ham_move_name": "L_Hand_Raise_The_Roof_Slowly_2_And_End_euphoria.move",
+  "milo_name": "l_hand_raise_the_roof_slowly_2_and_end_euphoria",
+  "song_name": "euphoria",
+  "clips": {
+    "magna_cum_laude_and_end_euphoria_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

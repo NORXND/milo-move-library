@@ -1,0 +1,18 @@
+{
+  "name": "umami",
+  "difficulty": 2,
+  "display_name": "Umami",
+  "ham_move_name": "Water_Waves_Down_euphoria.move",
+  "milo_name": "water_waves_down_euphoria",
+  "song_name": "euphoria",
+  "clips": {
+    "umami_euphoria_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

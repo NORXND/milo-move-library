@@ -1,0 +1,26 @@
+{
+  "name": "hop_skate",
+  "difficulty": 2,
+  "display_name": "Hop Skate",
+  "ham_move_name": "Skate_Rl_euphoria.move",
+  "milo_name": "skate_rl_euphoria",
+  "song_name": "euphoria",
+  "clips": {
+    "hop_skate_euphoria_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_skate_euphoria_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

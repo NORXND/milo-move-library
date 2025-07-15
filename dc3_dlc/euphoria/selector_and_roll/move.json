@@ -1,0 +1,18 @@
+{
+  "name": "selector_and_roll",
+  "difficulty": 2,
+  "display_name": "Selector / Roll",
+  "ham_move_name": "Lean_R_Point_F_Arm_Down_Chest_euphoria.move",
+  "milo_name": "lean_r_point_f_arm_down_chest_euphoria",
+  "song_name": "euphoria",
+  "clips": {
+    "selector_and_roll_euphoria_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "grab_and_pull",
+  "difficulty": 2,
+  "display_name": "Grab & Pull",
+  "ham_move_name": "Cross_Reach_Pull_Rl_euphoria.move",
+  "milo_name": "cross_reach_pull_rl_euphoria",
+  "song_name": "euphoria",
+  "clips": {
+    "grab_and_pull_euphoria_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "grab_and_pull_euphoria_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

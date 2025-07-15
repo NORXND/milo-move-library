@@ -1,0 +1,26 @@
+{
+  "name": "first_time_around",
+  "difficulty": 2,
+  "display_name": "First Time Around",
+  "ham_move_name": "First_Time_Around_euphoria.move",
+  "milo_name": "first_time_around_euphoria",
+  "song_name": "euphoria",
+  "clips": {
+    "first_time_around_euphoria_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "first_time_around_euphoria_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

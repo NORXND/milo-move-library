@@ -1,0 +1,26 @@
+{
+  "name": "spring_loaded_l",
+  "difficulty": 2,
+  "display_name": "Spring Loaded",
+  "ham_move_name": "Hopscotch_L_euphoria.move",
+  "milo_name": "hopscotch_l_euphoria",
+  "song_name": "euphoria",
+  "clips": {
+    "spring_loaded_l_euphoria_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "spring_loaded_r_euphoria_v1",
+      "linked_from": "spring_loaded_r_euphoria_v0"
+    },
+    "spring_loaded_l_euphoria_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "spring_loaded_r_euphoria_v1"
+    }
+  }
+}

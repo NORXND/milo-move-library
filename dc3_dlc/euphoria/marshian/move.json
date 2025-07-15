@@ -1,0 +1,42 @@
+{
+  "name": "marshian",
+  "difficulty": 2,
+  "display_name": "Marshian",
+  "ham_move_name": "Head_Shoulders_Back_Forward_euphoria.move",
+  "milo_name": "head_shoulders_back_forward_euphoria",
+  "song_name": "euphoria",
+  "clips": {
+    "marshian_euphoria_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "marshian_euphoria_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "marshian_euphoria_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "marshian_euphoria_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

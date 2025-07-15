@@ -1,0 +1,18 @@
+{
+  "name": "running",
+  "difficulty": 2,
+  "display_name": "Running",
+  "ham_move_name": "Run_Run_Run_Run_euphoria.move",
+  "milo_name": "run_run_run_run_euphoria",
+  "song_name": "euphoria",
+  "clips": {
+    "running_euphoria_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

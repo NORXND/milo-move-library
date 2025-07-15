@@ -1,0 +1,42 @@
+{
+  "name": "jump_off_clap_clap",
+  "difficulty": 2,
+  "display_name": "Jump Off Clap Clap",
+  "ham_move_name": "Cross_Jump_Turn_Clap_Clap_euphoria.move",
+  "milo_name": "cross_jump_turn_clap_clap_euphoria",
+  "song_name": "euphoria",
+  "clips": {
+    "jump_off_clap_clap_euphoria_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jump_off_clap_clap_euphoria_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jump_off_clap_clap_euphoria_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jump_off_clap_clap_euphoria_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "chakra_sneak",
+  "difficulty": 2,
+  "display_name": "Chakra Sneak",
+  "ham_move_name": "R_Side_Head_Chest_Wave_euphoria.move",
+  "milo_name": "r_side_head_chest_wave_euphoria",
+  "song_name": "euphoria",
+  "clips": {
+    "chakra_sneak_euphoria_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chakra_sneak_euphoria_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

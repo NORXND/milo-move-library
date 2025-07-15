@@ -1,0 +1,34 @@
+{
+  "name": "freak_flag_r",
+  "difficulty": 2,
+  "display_name": "Freak Flag",
+  "ham_move_name": "Run_It_R_geturfreakon.move",
+  "milo_name": "run_it_r_geturfreakon",
+  "song_name": "geturfreakon",
+  "clips": {
+    "freak_flag_r_geturfreakon_v0": {
+      "avg_beats_per_second": 1.49,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "freak_flag_l_geturfreakon_v0",
+      "linked_from": ""
+    },
+    "freak_flag_r_geturfreakon_v1": {
+      "avg_beats_per_second": 1.48,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "freak_flag_l_geturfreakon_v1",
+      "linked_from": "freak_flag_l_geturfreakon_v0"
+    },
+    "freak_flag_r_geturfreakon_v2": {
+      "avg_beats_per_second": 1.49,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "freak_flag_l_geturfreakon_v2",
+      "linked_from": ""
+    }
+  }
+}

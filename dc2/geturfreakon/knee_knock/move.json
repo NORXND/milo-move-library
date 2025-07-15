@@ -1,0 +1,34 @@
+{
+  "name": "knee_knock",
+  "difficulty": 0,
+  "display_name": "Knee Knock",
+  "ham_move_name": "Stop_N_Drop_geturfreakon.move",
+  "milo_name": "stop_n_drop_geturfreakon",
+  "song_name": "geturfreakon",
+  "clips": {
+    "knee_knock_geturfreakon_v0": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "knee_knock_geturfreakon_v1": {
+      "avg_beats_per_second": 1.29,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "knee_knock_geturfreakon_v2": {
+      "avg_beats_per_second": 1.28,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

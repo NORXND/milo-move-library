@@ -1,0 +1,18 @@
+{
+  "name": "skip_rope_stop",
+  "difficulty": 1,
+  "display_name": "Skip Rope Stop",
+  "ham_move_name": "Out_My_Way_geturfreakon.move",
+  "milo_name": "out_my_way_geturfreakon",
+  "song_name": "geturfreakon",
+  "clips": {
+    "skip_rope_stop_geturfreakon_v0": {
+      "avg_beats_per_second": 1.48,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

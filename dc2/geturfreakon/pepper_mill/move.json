@@ -1,0 +1,26 @@
+{
+  "name": "pepper_mill",
+  "difficulty": 0,
+  "display_name": "Pepper Mill",
+  "ham_move_name": "Dbl_Back_geturfreakon.move",
+  "milo_name": "dbl_back_geturfreakon",
+  "song_name": "geturfreakon",
+  "clips": {
+    "pepper_mill_geturfreakon_v0": {
+      "avg_beats_per_second": 1.48,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pepper_mill_geturfreakon_v1": {
+      "avg_beats_per_second": 1.49,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

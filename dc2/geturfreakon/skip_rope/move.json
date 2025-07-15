@@ -1,0 +1,18 @@
+{
+  "name": "skip_rope",
+  "difficulty": 1,
+  "display_name": "Skip Rope",
+  "ham_move_name": "Put_It_Down_geturfreakon.move",
+  "milo_name": "put_it_down_geturfreakon",
+  "song_name": "geturfreakon",
+  "clips": {
+    "skip_rope_geturfreakon_v0": {
+      "avg_beats_per_second": 1.48,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

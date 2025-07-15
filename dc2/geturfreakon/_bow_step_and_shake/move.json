@@ -1,0 +1,26 @@
+{
+  "name": "_bow_step_and_shake",
+  "difficulty": 2,
+  "display_name": "'Bow Step & Shake",
+  "ham_move_name": "Groove_And_Shake_geturfreakon.move",
+  "milo_name": "groove_and_shake_geturfreakon",
+  "song_name": "geturfreakon",
+  "clips": {
+    "_bow_step_and_shake_geturfreakon_v0": {
+      "avg_beats_per_second": 1.27,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "_bow_step_and_shake_geturfreakon_v1": {
+      "avg_beats_per_second": 1.48,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

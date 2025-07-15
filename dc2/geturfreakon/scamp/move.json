@@ -1,0 +1,34 @@
+{
+  "name": "scamp",
+  "difficulty": 2,
+  "display_name": "Scamp",
+  "ham_move_name": "Hey_Hey_geturfreakon.move",
+  "milo_name": "hey_hey_geturfreakon",
+  "song_name": "geturfreakon",
+  "clips": {
+    "scamp_geturfreakon_v0": {
+      "avg_beats_per_second": 1.47,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scamp_geturfreakon_v1": {
+      "avg_beats_per_second": 1.47,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scamp_geturfreakon_v2": {
+      "avg_beats_per_second": 1.47,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

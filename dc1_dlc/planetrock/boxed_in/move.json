@@ -1,0 +1,18 @@
+{
+  "name": "boxed_in",
+  "difficulty": 2,
+  "display_name": "Boxed In",
+  "ham_move_name": "Chair_Squat_planetrock.move",
+  "milo_name": "chair_squat_planetrock",
+  "song_name": "planetrock",
+  "clips": {
+    "boxed_in_planetrock_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

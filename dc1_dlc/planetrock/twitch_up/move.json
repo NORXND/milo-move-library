@@ -1,0 +1,18 @@
+{
+  "name": "twitch_up",
+  "difficulty": 2,
+  "display_name": "Twitch Up",
+  "ham_move_name": "Twitch_Up_planetrock.move",
+  "milo_name": "twitch_up_planetrock",
+  "song_name": "planetrock",
+  "clips": {
+    "twitch_up_planetrock_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

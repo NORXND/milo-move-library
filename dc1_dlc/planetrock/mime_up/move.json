@@ -1,0 +1,18 @@
+{
+  "name": "mime_up",
+  "difficulty": 2,
+  "display_name": "Mime Up",
+  "ham_move_name": "Mime_Up_planetrock.move",
+  "milo_name": "mime_up_planetrock",
+  "song_name": "planetrock",
+  "clips": {
+    "mime_up_planetrock_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

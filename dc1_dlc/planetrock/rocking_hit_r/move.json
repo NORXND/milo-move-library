@@ -1,0 +1,26 @@
+{
+  "name": "rocking_hit_r",
+  "difficulty": 0,
+  "display_name": "Rocking Hit",
+  "ham_move_name": "Press_Rock_R_planetrock.move",
+  "milo_name": "press_rock_r_planetrock",
+  "song_name": "planetrock",
+  "clips": {
+    "rocking_hit_r_planetrock_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "rocking_hit_l_planetrock_v1"
+    },
+    "rocking_hit_r_planetrock_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "rocking_hit_l_planetrock_v0"
+    }
+  }
+}

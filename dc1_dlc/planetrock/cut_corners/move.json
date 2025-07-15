@@ -1,0 +1,18 @@
+{
+  "name": "cut_corners",
+  "difficulty": 0,
+  "display_name": "Cut Corners",
+  "ham_move_name": "Re_Invent_Dbl_planetrock.move",
+  "milo_name": "re_invent_dbl_planetrock",
+  "song_name": "planetrock",
+  "clips": {
+    "cut_corners_planetrock_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

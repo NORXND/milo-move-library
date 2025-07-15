@@ -1,0 +1,26 @@
+{
+  "name": "ripple_in_r",
+  "difficulty": 0,
+  "display_name": "Ripple In",
+  "ham_move_name": "Wave_In_R_planetrock.move",
+  "milo_name": "wave_in_r_planetrock",
+  "song_name": "planetrock",
+  "clips": {
+    "ripple_in_r_planetrock_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "ripple_in_l_planetrock_v1",
+      "linked_from": ""
+    },
+    "ripple_in_r_planetrock_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "ripple_in_l_planetrock_v0",
+      "linked_from": ""
+    }
+  }
+}

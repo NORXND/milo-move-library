@@ -1,0 +1,18 @@
+{
+  "name": "freestyle_planetrock",
+  "difficulty": 2,
+  "display_name": "FREESTYLE!",
+  "ham_move_name": "Freestyle.move",
+  "milo_name": "freestyle",
+  "song_name": "planetrock",
+  "clips": {
+    "freestyle_planetrock_v0": {
+      "avg_beats_per_second": 1.59,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 96,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

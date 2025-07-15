@@ -1,0 +1,34 @@
+{
+  "name": "electric_l",
+  "difficulty": 0,
+  "display_name": "Electric",
+  "ham_move_name": "Puppet_L_planetrock.move",
+  "milo_name": "puppet_l_planetrock",
+  "song_name": "planetrock",
+  "clips": {
+    "electric_l_planetrock_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "electric_l_planetrock_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "electric_l_planetrock_v2": {
+      "avg_beats_per_second": 1.61,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "electric_r_planetrock_v2"
+    }
+  }
+}

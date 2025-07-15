@@ -1,0 +1,26 @@
+{
+  "name": "robotic_r",
+  "difficulty": 1,
+  "display_name": "Robotic",
+  "ham_move_name": "Tin_Man_R_planetrock.move",
+  "milo_name": "tin_man_r_planetrock",
+  "song_name": "planetrock",
+  "clips": {
+    "robotic_r_planetrock_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "robotic_l_planetrock_v0",
+      "linked_from": ""
+    },
+    "robotic_r_planetrock_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "robotic_l_planetrock_v1",
+      "linked_from": ""
+    }
+  }
+}

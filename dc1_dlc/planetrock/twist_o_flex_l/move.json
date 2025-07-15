@@ -1,0 +1,26 @@
+{
+  "name": "twist_o_flex_l",
+  "difficulty": 2,
+  "display_name": "Twist-o-Flex",
+  "ham_move_name": "Twisto_L_planetrock.move",
+  "milo_name": "twisto_l_planetrock",
+  "song_name": "planetrock",
+  "clips": {
+    "twist_o_flex_l_planetrock_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "twist_o_flex_r_planetrock_v0",
+      "linked_from": ""
+    },
+    "twist_o_flex_l_planetrock_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "twist_o_flex_r_planetrock_v1",
+      "linked_from": ""
+    }
+  }
+}

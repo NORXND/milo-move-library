@@ -1,0 +1,58 @@
+{
+  "name": "fresno",
+  "difficulty": 0,
+  "display_name": "Fresno",
+  "ham_move_name": "Fresno_planetrock.move",
+  "milo_name": "fresno_planetrock",
+  "song_name": "planetrock",
+  "clips": {
+    "fresno_planetrock_v4": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "fresno_planetrock_v5": {
+      "avg_beats_per_second": 2.13,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "fresno_planetrock_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "fresno_planetrock_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "fresno_planetrock_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "fresno_planetrock_v3": {
+      "avg_beats_per_second": 2.13,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

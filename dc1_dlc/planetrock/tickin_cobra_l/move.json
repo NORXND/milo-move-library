@@ -1,0 +1,42 @@
+{
+  "name": "tickin_cobra_l",
+  "difficulty": 1,
+  "display_name": "Tickin Cobra",
+  "ham_move_name": "Tickin_Cobra_L_planetrock.move",
+  "milo_name": "tickin_cobra_l_planetrock",
+  "song_name": "planetrock",
+  "clips": {
+    "tickin_cobra_l_planetrock_v3": {
+      "avg_beats_per_second": 2.13,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "tickin_cobra_r_planetrock_v3"
+    },
+    "tickin_cobra_l_planetrock_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "tickin_cobra_r_planetrock_v1",
+      "linked_from": "tickin_cobra_r_planetrock_v0"
+    },
+    "tickin_cobra_l_planetrock_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "tickin_cobra_r_planetrock_v1"
+    },
+    "tickin_cobra_l_planetrock_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "tickin_cobra_r_planetrock_v3",
+      "linked_from": "tickin_cobra_r_planetrock_v2"
+    }
+  }
+}

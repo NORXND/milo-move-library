@@ -1,0 +1,18 @@
+{
+  "name": "twitch_down",
+  "difficulty": 2,
+  "display_name": "Twitch Down",
+  "ham_move_name": "Twitch_Down_planetrock.move",
+  "milo_name": "twitch_down_planetrock",
+  "song_name": "planetrock",
+  "clips": {
+    "twitch_down_planetrock_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "pedestal",
+  "difficulty": 2,
+  "display_name": "Pedestal",
+  "ham_move_name": "Mannequin_planetrock.move",
+  "milo_name": "mannequin_planetrock",
+  "song_name": "planetrock",
+  "clips": {
+    "pedestal_planetrock_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pedestal_planetrock_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

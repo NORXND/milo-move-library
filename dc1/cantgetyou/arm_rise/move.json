@@ -1,0 +1,34 @@
+{
+  "name": "arm_rise",
+  "difficulty": 2,
+  "display_name": "Arm Rise",
+  "ham_move_name": "Arm_Rise_cantgetyou.move",
+  "milo_name": "arm_rise_cantgetyou",
+  "song_name": "cantgetyou",
+  "clips": {
+    "arm_rise_cantgetyou_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "arm_rise_cantgetyou_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "arm_rise_cantgetyou_v2": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

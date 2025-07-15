@@ -1,0 +1,18 @@
+{
+  "name": "exception_hugabout_2",
+  "difficulty": 2,
+  "display_name": "Hugabout",
+  "ham_move_name": "Hugabout_2_cantgetyou.move",
+  "milo_name": "hugabout_2_cantgetyou",
+  "song_name": "cantgetyou",
+  "clips": {
+    "hugabout_cantgetyou_v3": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "hugabout_cantgetyou_v2"
+    }
+  }
+}

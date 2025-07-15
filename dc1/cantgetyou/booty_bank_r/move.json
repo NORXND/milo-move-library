@@ -1,0 +1,18 @@
+{
+  "name": "booty_bank_r",
+  "difficulty": 2,
+  "display_name": "Booty Bank",
+  "ham_move_name": "Booty_Bank_R_cantgetyou.move",
+  "milo_name": "booty_bank_r_cantgetyou",
+  "song_name": "cantgetyou",
+  "clips": {
+    "booty_bank_r_cantgetyou_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

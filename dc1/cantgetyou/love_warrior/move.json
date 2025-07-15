@@ -1,0 +1,42 @@
+{
+  "name": "love_warrior",
+  "difficulty": 0,
+  "display_name": "Love Warrior",
+  "ham_move_name": "Love_Warrior_cantgetyou.move",
+  "milo_name": "love_warrior_cantgetyou",
+  "song_name": "cantgetyou",
+  "clips": {
+    "love_warrior_cantgetyou_v2": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "love_warrior_cantgetyou_v3": {
+      "avg_beats_per_second": 1.57,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "love_warrior_cantgetyou_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "love_warrior_cantgetyou_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

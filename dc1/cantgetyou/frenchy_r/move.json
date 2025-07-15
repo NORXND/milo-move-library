@@ -1,0 +1,26 @@
+{
+  "name": "frenchy_r",
+  "difficulty": 0,
+  "display_name": "Frenchy",
+  "ham_move_name": "Groove_R_cantgetyou.move",
+  "milo_name": "groove_r_cantgetyou",
+  "song_name": "cantgetyou",
+  "clips": {
+    "frenchy_r_cantgetyou_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "frenchy_l_cantgetyou_v1",
+      "linked_from": ""
+    },
+    "frenchy_r_cantgetyou_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "frenchy_l_cantgetyou_v0",
+      "linked_from": ""
+    }
+  }
+}

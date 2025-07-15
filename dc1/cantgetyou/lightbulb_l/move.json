@@ -1,0 +1,18 @@
+{
+  "name": "lightbulb_l",
+  "difficulty": 0,
+  "display_name": "Lightbulb",
+  "ham_move_name": "Lightbulb_L_cantgetyou.move",
+  "milo_name": "lightbulb_r_cantgetyou",
+  "song_name": "cantgetyou",
+  "clips": {
+    "lightbulb_l_cantgetyou_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

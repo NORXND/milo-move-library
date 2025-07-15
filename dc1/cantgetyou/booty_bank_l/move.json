@@ -1,0 +1,26 @@
+{
+  "name": "booty_bank_l",
+  "difficulty": 1,
+  "display_name": "Booty Bank",
+  "ham_move_name": "Booty_Bank_L_cantgetyou.move",
+  "milo_name": "booty_bank_l_cantgetyou",
+  "song_name": "cantgetyou",
+  "clips": {
+    "booty_bank_l_cantgetyou_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "booty_bank_l_cantgetyou_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

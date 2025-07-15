@@ -1,0 +1,34 @@
+{
+  "name": "architect",
+  "difficulty": 1,
+  "display_name": "Architect",
+  "ham_move_name": "DaVinci_cantgetyou.move",
+  "milo_name": "davinci_cantgetyou",
+  "song_name": "cantgetyou",
+  "clips": {
+    "architect_cantgetyou_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "architect_cantgetyou_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "architect_cantgetyou_v2": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

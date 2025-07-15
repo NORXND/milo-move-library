@@ -1,0 +1,26 @@
+{
+  "name": "wrap_up",
+  "difficulty": 1,
+  "display_name": "Wrap Up",
+  "ham_move_name": "Wrap_Up_cantgetyou.move",
+  "milo_name": "wrap_up_cantgetyou",
+  "song_name": "cantgetyou",
+  "clips": {
+    "wrap_up_cantgetyou_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wrap_up_cantgetyou_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "daybreak",
+  "difficulty": 0,
+  "display_name": "Daybreak",
+  "ham_move_name": "Stomp_The_Heart_badromance.move",
+  "milo_name": "stomp_the_heart_badromance",
+  "song_name": "badromance",
+  "clips": {
+    "daybreak_badromance_v0": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "daybreak_badromance_v1": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "daybreak_badromance_v2": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "daybreak_badromance_v3": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "daybreak_badromance_v4": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "daybreak_badromance_v5": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "heartbroken_l",
+  "difficulty": 0,
+  "display_name": "Heartbroken",
+  "ham_move_name": "I_Feel_Love_L_badromance.move",
+  "milo_name": "i_feel_love_l_badromance",
+  "song_name": "badromance",
+  "clips": {
+    "heartbroken_l_badromance_v0": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heartbroken_l_badromance_v1": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

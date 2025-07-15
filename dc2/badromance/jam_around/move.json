@@ -1,0 +1,18 @@
+{
+  "name": "jam_around",
+  "difficulty": 2,
+  "display_name": "Jam Around",
+  "ham_move_name": "Jam_Around_badromance.move",
+  "milo_name": "jam_around_badromance",
+  "song_name": "badromance",
+  "clips": {
+    "jam_around_badromance_v0": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

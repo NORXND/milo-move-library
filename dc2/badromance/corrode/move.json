@@ -1,0 +1,18 @@
+{
+  "name": "corrode",
+  "difficulty": 0,
+  "display_name": "Corrode",
+  "ham_move_name": "Carode_badromance.move",
+  "milo_name": "carode_badromance",
+  "song_name": "badromance",
+  "clips": {
+    "corrode_badromance_v0": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

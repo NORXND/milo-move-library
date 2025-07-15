@@ -1,0 +1,18 @@
+{
+  "name": "dirty_kiss",
+  "difficulty": 1,
+  "display_name": "Dirty Kiss",
+  "ham_move_name": "Dirty_Kiss_badromance.move",
+  "milo_name": "dirty_kiss_badromance",
+  "song_name": "badromance",
+  "clips": {
+    "dirty_kiss_badromance_v0": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

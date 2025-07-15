@@ -1,0 +1,42 @@
+{
+  "name": "swing_step_in",
+  "difficulty": 0,
+  "display_name": "Swing Step In",
+  "ham_move_name": "Swing_Step_In_badromance.move",
+  "milo_name": "swing_step_in_badromance",
+  "song_name": "badromance",
+  "clips": {
+    "swing_step_in_badromance_v0": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swing_step_in_badromance_v1": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swing_step_in_badromance_v2": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swing_step_in_badromance_v3": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

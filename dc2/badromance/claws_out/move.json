@@ -1,0 +1,18 @@
+{
+  "name": "claws_out",
+  "difficulty": 2,
+  "display_name": "Claws Out",
+  "ham_move_name": "Eh_badromance.move",
+  "milo_name": "eh_badromance",
+  "song_name": "badromance",
+  "clips": {
+    "claws_out_badromance_v0": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "stressed",
+  "difficulty": 1,
+  "display_name": "Stressed",
+  "ham_move_name": "Stressed_badromance.move",
+  "milo_name": "stressed_badromance",
+  "song_name": "badromance",
+  "clips": {
+    "stressed_badromance_v0": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stressed_badromance_v1": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

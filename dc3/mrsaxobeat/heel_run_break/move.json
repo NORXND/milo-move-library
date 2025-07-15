@@ -1,0 +1,50 @@
+{
+  "name": "heel_run_break",
+  "difficulty": 2,
+  "display_name": "Heel Run Break",
+  "ham_move_name": "Heel_Break_mrsaxobeat.move",
+  "milo_name": "heel_break_mrsaxobeat",
+  "song_name": "mrsaxobeat",
+  "clips": {
+    "heel_run_break_mrsaxobeat_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heel_run_break_mrsaxobeat_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heel_run_break_mrsaxobeat_v2": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heel_run_break_mrsaxobeat_v3": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heel_run_break_mrsaxobeat_v4": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

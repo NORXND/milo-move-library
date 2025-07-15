@@ -1,0 +1,18 @@
+{
+  "name": "nightshade",
+  "difficulty": 1,
+  "display_name": "Nightshade",
+  "ham_move_name": "I_Need_It_mrsaxobeat.move",
+  "milo_name": "i_need_it_mrsaxobeat",
+  "song_name": "mrsaxobeat",
+  "clips": {
+    "nightshade_mrsaxobeat_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

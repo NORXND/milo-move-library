@@ -1,0 +1,50 @@
+{
+  "name": "ngo_go",
+  "difficulty": 2,
+  "display_name": "Ngo Go",
+  "ham_move_name": "Joy_Ride_mrsaxobeat.move",
+  "milo_name": "joy_ride_mrsaxobeat",
+  "song_name": "mrsaxobeat",
+  "clips": {
+    "ngo_go_mrsaxobeat_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "reach_and_roller_skate_mrsaxobeat_v0",
+      "linked_from": ""
+    },
+    "ngo_go_mrsaxobeat_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "reach_and_roller_skate_mrsaxobeat_v1",
+      "linked_from": ""
+    },
+    "ngo_go_mrsaxobeat_v2": {
+      "avg_beats_per_second": 1.81,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "reach_and_roller_skate_mrsaxobeat_v2",
+      "linked_from": ""
+    },
+    "ngo_go_mrsaxobeat_v3": {
+      "avg_beats_per_second": 1.82,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "reach_and_roller_skate_mrsaxobeat_v3",
+      "linked_from": ""
+    },
+    "ngo_go_mrsaxobeat_v4": {
+      "avg_beats_per_second": 1.83,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "reach_and_roller_skate_mrsaxobeat_v4",
+      "linked_from": ""
+    }
+  }
+}

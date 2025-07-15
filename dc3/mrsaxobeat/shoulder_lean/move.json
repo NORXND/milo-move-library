@@ -1,0 +1,74 @@
+{
+  "name": "shoulder_lean",
+  "difficulty": 2,
+  "display_name": "Shoulder Lean",
+  "ham_move_name": "Slow_Pull_mrsaxobeat.move",
+  "milo_name": "slow_pull_mrsaxobeat",
+  "song_name": "mrsaxobeat",
+  "clips": {
+    "shoulder_lean_mrsaxobeat_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_lean_mrsaxobeat_v5": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_lean_mrsaxobeat_v3": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_lean_mrsaxobeat_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_lean_mrsaxobeat_v6": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_lean_mrsaxobeat_v4": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_lean_mrsaxobeat_v2": {
+      "avg_beats_per_second": 1.83,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_lean_mrsaxobeat_v7": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

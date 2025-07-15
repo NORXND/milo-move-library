@@ -1,0 +1,42 @@
+{
+  "name": "cross_and_pump",
+  "difficulty": 2,
+  "display_name": "Cross & Pump",
+  "ham_move_name": "Cross_Pump_mrsaxobeat.move",
+  "milo_name": "cross_pump_mrsaxobeat",
+  "song_name": "mrsaxobeat",
+  "clips": {
+    "cross_and_pump_mrsaxobeat_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_and_pump_mrsaxobeat_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_and_pump_mrsaxobeat_v2": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_and_pump_mrsaxobeat_v3": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

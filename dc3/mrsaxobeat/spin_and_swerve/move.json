@@ -1,0 +1,50 @@
+{
+  "name": "spin_and_swerve",
+  "difficulty": 2,
+  "display_name": "Spin & Swerve",
+  "ham_move_name": "Turn_And_Trix_mrsaxobeat.move",
+  "milo_name": "turn_and_trix_mrsaxobeat",
+  "song_name": "mrsaxobeat",
+  "clips": {
+    "spin_and_swerve_mrsaxobeat_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spin_and_swerve_mrsaxobeat_v1": {
+      "avg_beats_per_second": 1.8,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spin_and_swerve_mrsaxobeat_v2": {
+      "avg_beats_per_second": 1.81,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spin_and_swerve_mrsaxobeat_v3": {
+      "avg_beats_per_second": 2.0,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spin_and_swerve_mrsaxobeat_v4": {
+      "avg_beats_per_second": 1.8,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

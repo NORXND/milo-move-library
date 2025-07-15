@@ -1,0 +1,50 @@
+{
+  "name": "kick_step_back",
+  "difficulty": 1,
+  "display_name": "Kick Step Back",
+  "ham_move_name": "Kick_Step_Back_mrsaxobeat.move",
+  "milo_name": "kick_step_back_mrsaxobeat",
+  "song_name": "mrsaxobeat",
+  "clips": {
+    "kick_step_back_mrsaxobeat_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_step_back_mrsaxobeat_v4": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_step_back_mrsaxobeat_v2": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_step_back_mrsaxobeat_v3": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_step_back_mrsaxobeat_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

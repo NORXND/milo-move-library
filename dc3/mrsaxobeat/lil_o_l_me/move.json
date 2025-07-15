@@ -1,0 +1,18 @@
+{
+  "name": "lil_o_l_me",
+  "difficulty": 2,
+  "display_name": "Lil O'l Me",
+  "ham_move_name": "Lil_Ol_Me_mrsaxobeat.move",
+  "milo_name": "lil_ol_me_mrsaxobeat",
+  "song_name": "mrsaxobeat",
+  "clips": {
+    "lil_o_l_me_mrsaxobeat_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "wind_tap",
+  "difficulty": 2,
+  "display_name": "Wind Tap",
+  "ham_move_name": "Rotate_mrsaxobeat.move",
+  "milo_name": "rotate_mrsaxobeat",
+  "song_name": "mrsaxobeat",
+  "clips": {
+    "wind_tap_mrsaxobeat_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_tap_mrsaxobeat_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_tap_mrsaxobeat_v2": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_tap_mrsaxobeat_v3": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

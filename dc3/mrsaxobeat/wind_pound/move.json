@@ -1,0 +1,50 @@
+{
+  "name": "wind_pound",
+  "difficulty": 2,
+  "display_name": "Wind Pound",
+  "ham_move_name": "Hip_Freak_mrsaxobeat.move",
+  "milo_name": "hip_freak_mrsaxobeat",
+  "song_name": "mrsaxobeat",
+  "clips": {
+    "wind_pound_mrsaxobeat_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_pound_mrsaxobeat_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_pound_mrsaxobeat_v2": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_pound_mrsaxobeat_v3": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_pound_mrsaxobeat_v4": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

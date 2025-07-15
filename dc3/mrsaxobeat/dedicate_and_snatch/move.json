@@ -1,0 +1,18 @@
+{
+  "name": "dedicate_and_snatch",
+  "difficulty": 2,
+  "display_name": "Dedicate / Snatch",
+  "ham_move_name": "Hey_U_mrsaxobeat.move",
+  "milo_name": "hey_u_mrsaxobeat",
+  "song_name": "mrsaxobeat",
+  "clips": {
+    "dedicate_and_snatch_mrsaxobeat_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

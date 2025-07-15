@@ -1,0 +1,50 @@
+{
+  "name": "bottles_on_ice",
+  "difficulty": 1,
+  "display_name": "Bottles On Ice",
+  "ham_move_name": "Hip_Placement_mrsaxobeat.move",
+  "milo_name": "hip_placement_mrsaxobeat",
+  "song_name": "mrsaxobeat",
+  "clips": {
+    "bottles_on_ice_mrsaxobeat_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bottles_on_ice_mrsaxobeat_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bottles_on_ice_mrsaxobeat_v4": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bottles_on_ice_mrsaxobeat_v2": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bottles_on_ice_mrsaxobeat_v3": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "unleash",
+  "difficulty": 2,
+  "display_name": "Unleash",
+  "ham_move_name": "Spaztick_mrsaxobeat.move",
+  "milo_name": "spaztick_mrsaxobeat",
+  "song_name": "mrsaxobeat",
+  "clips": {
+    "unleash_mrsaxobeat_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "unleash_mrsaxobeat_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

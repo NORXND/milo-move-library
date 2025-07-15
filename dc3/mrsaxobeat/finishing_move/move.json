@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_mrsaxobeat_v1090",
+  "difficulty": 2,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_mrsaxobeat.move",
+  "milo_name": "finishing_move_mrsaxobeat",
+  "song_name": "mrsaxobeat",
+  "clips": {
+    "finishing_move_mrsaxobeat_v1090": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 74,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

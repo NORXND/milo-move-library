@@ -1,0 +1,26 @@
+{
+  "name": "downtown_and_pulse",
+  "difficulty": 2,
+  "display_name": "Downtown / Pulse",
+  "ham_move_name": "Wait_4_It_mrsaxobeat.move",
+  "milo_name": "wait_4_it_mrsaxobeat",
+  "song_name": "mrsaxobeat",
+  "clips": {
+    "downtown_and_pulse_mrsaxobeat_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "downtown_and_pulse_mrsaxobeat_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

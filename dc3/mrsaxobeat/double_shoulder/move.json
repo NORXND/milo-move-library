@@ -1,0 +1,34 @@
+{
+  "name": "double_shoulder",
+  "difficulty": 2,
+  "display_name": "Double Shoulder",
+  "ham_move_name": "Brit_Pumps_mrsaxobeat.move",
+  "milo_name": "brit_pumps_mrsaxobeat",
+  "song_name": "mrsaxobeat",
+  "clips": {
+    "double_shoulder_mrsaxobeat_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_shoulder_mrsaxobeat_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_shoulder_mrsaxobeat_v2": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "princess_snap_l",
+  "difficulty": 2,
+  "display_name": "Princess Snap",
+  "ham_move_name": "Princess_Snap_L_mrsaxobeat.move",
+  "milo_name": "princess_snap_l_mrsaxobeat",
+  "song_name": "mrsaxobeat",
+  "clips": {
+    "princess_snap_l_mrsaxobeat_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "princess_snap_r_mrsaxobeat_v0"
+    }
+  }
+}

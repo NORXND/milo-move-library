@@ -1,0 +1,42 @@
+{
+  "name": "spin_and_dry_roll",
+  "difficulty": 2,
+  "display_name": "Spin / Dry Roll",
+  "ham_move_name": "Turn_It_Back_mrsaxobeat.move",
+  "milo_name": "turn_it_back_mrsaxobeat",
+  "song_name": "mrsaxobeat",
+  "clips": {
+    "spin_and_dry_roll_mrsaxobeat_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spin_and_dry_roll_mrsaxobeat_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spin_and_dry_roll_mrsaxobeat_v2": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spin_and_dry_roll_mrsaxobeat_v3": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "toy_soldier",
+  "difficulty": 0,
+  "display_name": "Toy Soldier",
+  "ham_move_name": "Toy_Soldier_fergalicious.move",
+  "milo_name": "toy_soldier_fergalicious",
+  "song_name": "fergalicious",
+  "clips": {
+    "toy_soldier_fergalicious_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "toy_soldier_fergalicious_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

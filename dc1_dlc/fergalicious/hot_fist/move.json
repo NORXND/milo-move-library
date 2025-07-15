@@ -1,0 +1,42 @@
+{
+  "name": "hot_fist",
+  "difficulty": 2,
+  "display_name": "Hot Fist",
+  "ham_move_name": "Hot_Fist_fergalicious.move",
+  "milo_name": "hot_fist_fergalicious",
+  "song_name": "fergalicious",
+  "clips": {
+    "hot_fist_fergalicious_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hot_fist_fergalicious_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hot_fist_fergalicious_v2": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hot_fist_fergalicious_v3": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

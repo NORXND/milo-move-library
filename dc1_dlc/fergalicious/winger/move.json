@@ -1,0 +1,42 @@
+{
+  "name": "winger",
+  "difficulty": 0,
+  "display_name": "Winger",
+  "ham_move_name": "Flyin_Waaangs_fergalicious.move",
+  "milo_name": "flyin_waaangs_fergalicious",
+  "song_name": "fergalicious",
+  "clips": {
+    "winger_fergalicious_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "winger_fergalicious_v2": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "winger_fergalicious_v3": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "winger_fergalicious_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

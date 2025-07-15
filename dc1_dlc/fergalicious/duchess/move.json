@@ -1,0 +1,26 @@
+{
+  "name": "duchess",
+  "difficulty": 2,
+  "display_name": "Duchess",
+  "ham_move_name": "Supreme_Girl_fergalicious.move",
+  "milo_name": "supreme_girl_fergalicious",
+  "song_name": "fergalicious",
+  "clips": {
+    "duchess_fergalicious_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "duchess_fergalicious_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

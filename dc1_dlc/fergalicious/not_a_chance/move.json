@@ -1,0 +1,26 @@
+{
+  "name": "not_a_chance",
+  "difficulty": 0,
+  "display_name": "Not A Chance",
+  "ham_move_name": "Not_A_Chance_fergalicious.move",
+  "milo_name": "not_a_chance_fergalicious",
+  "song_name": "fergalicious",
+  "clips": {
+    "not_a_chance_fergalicious_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "not_a_chance_fergalicious_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

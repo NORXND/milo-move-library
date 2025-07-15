@@ -1,0 +1,42 @@
+{
+  "name": "dj_rndm",
+  "difficulty": 0,
+  "display_name": "DJ RNDM",
+  "ham_move_name": "Dj_Rndm_fergalicious.move",
+  "milo_name": "dj_rndm_fergalicious",
+  "song_name": "fergalicious",
+  "clips": {
+    "dj_rndm_fergalicious_v3": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dj_rndm_fergalicious_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dj_rndm_fergalicious_v2": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dj_rndm_fergalicious_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

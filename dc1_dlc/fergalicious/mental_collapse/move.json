@@ -1,0 +1,18 @@
+{
+  "name": "mental_collapse",
+  "difficulty": 2,
+  "display_name": "Mental Collapse",
+  "ham_move_name": "Cartouche_Screwball_fergalicious.move",
+  "milo_name": "cartouche_screwball_fergalicious",
+  "song_name": "fergalicious",
+  "clips": {
+    "mental_collapse_fergalicious_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

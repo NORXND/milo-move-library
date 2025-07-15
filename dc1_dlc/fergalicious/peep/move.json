@@ -1,0 +1,26 @@
+{
+  "name": "peep",
+  "difficulty": 1,
+  "display_name": "Peep",
+  "ham_move_name": "Look_Out_fergalicious.move",
+  "milo_name": "look_out_fergalicious",
+  "song_name": "fergalicious",
+  "clips": {
+    "peep_fergalicious_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "peep_fergalicious_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "striker_step",
+  "difficulty": 0,
+  "display_name": "Striker Step",
+  "ham_move_name": "Supah_Ccc_fergalicious.move",
+  "milo_name": "supah_ccc_fergalicious",
+  "song_name": "fergalicious",
+  "clips": {
+    "striker_step_fergalicious_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "striker_step_fergalicious_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "hip_drop",
+  "difficulty": 0,
+  "display_name": "Hip Drop",
+  "ham_move_name": "Hip_Drop_fergalicious.move",
+  "milo_name": "hip_drop_fergalicious",
+  "song_name": "fergalicious",
+  "clips": {
+    "hip_drop_fergalicious_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

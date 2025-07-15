@@ -1,0 +1,18 @@
+{
+  "name": "drill_bit_r",
+  "difficulty": 2,
+  "display_name": "Drill Bit",
+  "ham_move_name": "Drill_R_fergalicious.move",
+  "milo_name": "drill_r_fergalicious",
+  "song_name": "fergalicious",
+  "clips": {
+    "drill_bit_r_fergalicious_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "drill_bit_l_fergalicious_v0",
+      "linked_from": ""
+    }
+  }
+}

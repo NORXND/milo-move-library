@@ -1,0 +1,18 @@
+{
+  "name": "rib_rub",
+  "difficulty": 1,
+  "display_name": "Rib Rub",
+  "ham_move_name": "Rib_Rub_fergalicious.move",
+  "milo_name": "rib_rub_fergalicious",
+  "song_name": "fergalicious",
+  "clips": {
+    "rib_rub_fergalicious_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

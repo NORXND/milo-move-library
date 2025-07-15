@@ -1,0 +1,26 @@
+{
+  "name": "striker",
+  "difficulty": 0,
+  "display_name": "Striker",
+  "ham_move_name": "Ccc_fergalicious.move",
+  "milo_name": "ccc_fergalicious",
+  "song_name": "fergalicious",
+  "clips": {
+    "striker_fergalicious_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "striker_fergalicious_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

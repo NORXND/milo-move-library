@@ -1,0 +1,26 @@
+{
+  "name": "wall_bang",
+  "difficulty": 1,
+  "display_name": "Wall Bang",
+  "ham_move_name": "Wall_Bang_fergalicious.move",
+  "milo_name": "wall_bang_fergalicious",
+  "song_name": "fergalicious",
+  "clips": {
+    "wall_bang_fergalicious_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wall_bang_fergalicious_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

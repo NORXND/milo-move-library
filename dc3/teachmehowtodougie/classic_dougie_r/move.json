@@ -1,0 +1,18 @@
+{
+  "name": "classic_dougie_r",
+  "difficulty": 2,
+  "display_name": "Classic Dougie",
+  "ham_move_name": "Hand_On_Head_R_teachmehowtodougie.move",
+  "milo_name": "hand_on_head_r_teachmehowtodougie",
+  "song_name": "teachmehowtodougie",
+  "clips": {
+    "classic_dougie_r_teachmehowtodougie_v0": {
+      "avg_beats_per_second": 1.21,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "classic_dougie_l_teachmehowtodougie_v0"
+    }
+  }
+}

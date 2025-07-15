@@ -1,0 +1,18 @@
+{
+  "name": "dewey_x_l",
+  "difficulty": 2,
+  "display_name": "Dewey X",
+  "ham_move_name": "Crossing_Dougie_L_teachmehowtodougie.move",
+  "milo_name": "crossing_dougie_l_teachmehowtodougie",
+  "song_name": "teachmehowtodougie",
+  "clips": {
+    "dewey_x_l_teachmehowtodougie_v0": {
+      "avg_beats_per_second": 1.21,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "dewey_x_r_teachmehowtodougie_v0",
+      "linked_from": ""
+    }
+  }
+}

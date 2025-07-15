@@ -1,0 +1,18 @@
+{
+  "name": "rollerblades",
+  "difficulty": 2,
+  "display_name": "Rollerblades",
+  "ham_move_name": "Blade_Rl_teachmehowtodougie.move",
+  "milo_name": "blade_rl_teachmehowtodougie",
+  "song_name": "teachmehowtodougie",
+  "clips": {
+    "rollerblades_teachmehowtodougie_v0": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "_10_and_2",
+  "difficulty": 2,
+  "display_name": "10 & 2",
+  "ham_move_name": "Drive_The_Car_teachmehowtodougie.move",
+  "milo_name": "drive_the_car_teachmehowtodougie",
+  "song_name": "teachmehowtodougie",
+  "clips": {
+    "_10_and_2_teachmehowtodougie_v0": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

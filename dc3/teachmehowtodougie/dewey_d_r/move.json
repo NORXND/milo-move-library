@@ -1,0 +1,42 @@
+{
+  "name": "dewey_d_r",
+  "difficulty": 1,
+  "display_name": "Dewey D",
+  "ham_move_name": "Dougie_R_teachmehowtodougie.move",
+  "milo_name": "dougie_r_teachmehowtodougie",
+  "song_name": "teachmehowtodougie",
+  "clips": {
+    "dewey_d_r_teachmehowtodougie_v3": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "dewey_d_l_teachmehowtodougie_v3"
+    },
+    "dewey_d_r_teachmehowtodougie_v1": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "dewey_d_l_teachmehowtodougie_v1"
+    },
+    "dewey_d_r_teachmehowtodougie_v2": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "dewey_d_l_teachmehowtodougie_v2"
+    },
+    "dewey_d_r_teachmehowtodougie_v0": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "dewey_d_l_teachmehowtodougie_v0"
+    }
+  }
+}

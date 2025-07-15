@@ -1,0 +1,26 @@
+{
+  "name": "sarsaparilla_lean",
+  "difficulty": 2,
+  "display_name": "Sarsaparilla Lean",
+  "ham_move_name": "Have_Fun_teachmehowtodougie.move",
+  "milo_name": "have_fun_teachmehowtodougie",
+  "song_name": "teachmehowtodougie",
+  "clips": {
+    "sarsaparilla_lean_teachmehowtodougie_v0": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sarsaparilla_lean_teachmehowtodougie_v1": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

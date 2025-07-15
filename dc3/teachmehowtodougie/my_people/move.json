@@ -1,0 +1,18 @@
+{
+  "name": "my_people",
+  "difficulty": 2,
+  "display_name": "My People",
+  "ham_move_name": "Emt_teachmehowtodougie.move",
+  "milo_name": "emt_teachmehowtodougie",
+  "song_name": "teachmehowtodougie",
+  "clips": {
+    "my_people_teachmehowtodougie_v0": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

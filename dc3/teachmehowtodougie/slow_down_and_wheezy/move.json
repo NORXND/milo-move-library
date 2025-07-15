@@ -1,0 +1,26 @@
+{
+  "name": "slow_down_and_wheezy",
+  "difficulty": 2,
+  "display_name": "Slow Down / Wheezy",
+  "ham_move_name": "Get_Away_teachmehowtodougie.move",
+  "milo_name": "get_away_teachmehowtodougie",
+  "song_name": "teachmehowtodougie",
+  "clips": {
+    "slow_down_and_wheezy_teachmehowtodougie_v1": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slow_down_and_wheezy_teachmehowtodougie_v0": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

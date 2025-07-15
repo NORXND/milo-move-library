@@ -1,0 +1,18 @@
+{
+  "name": "double_curry_step_l",
+  "difficulty": 2,
+  "display_name": "Double Curry Step",
+  "ham_move_name": "Double_Curry_Step_L_turnmeon.move",
+  "milo_name": "double_curry_step_l_turnmeon",
+  "song_name": "turnmeon",
+  "clips": {
+    "double_curry_step_l_turnmeon_v0": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

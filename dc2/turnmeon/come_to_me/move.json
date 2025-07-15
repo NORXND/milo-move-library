@@ -1,0 +1,42 @@
+{
+  "name": "come_to_me",
+  "difficulty": 1,
+  "display_name": "Come To Me",
+  "ham_move_name": "Come_Into_Me_turnmeon.move",
+  "milo_name": "come_into_me_turnmeon",
+  "song_name": "turnmeon",
+  "clips": {
+    "come_to_me_turnmeon_v0": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "come_to_me_turnmeon_v2": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "come_to_me_turnmeon_v1": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "come_to_me_turnmeon_v3": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

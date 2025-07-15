@@ -1,0 +1,26 @@
+{
+  "name": "kitty_push",
+  "difficulty": 0,
+  "display_name": "Kitty Push",
+  "ham_move_name": "Spirit_sandm.move",
+  "milo_name": "spirit_sandm",
+  "song_name": "sandm",
+  "clips": {
+    "kitty_push_sandm_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kitty_push_sandm_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

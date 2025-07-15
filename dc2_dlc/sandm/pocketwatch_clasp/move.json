@@ -1,0 +1,18 @@
+{
+  "name": "pocketwatch_clasp",
+  "difficulty": 2,
+  "display_name": "Pocketwatch Clasp",
+  "ham_move_name": "Clock_Tower_sandm.move",
+  "milo_name": "clock_tower_sandm",
+  "song_name": "sandm",
+  "clips": {
+    "pocketwatch_clasp_sandm_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

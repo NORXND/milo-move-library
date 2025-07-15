@@ -1,0 +1,26 @@
+{
+  "name": "corset",
+  "difficulty": 1,
+  "display_name": "Corset",
+  "ham_move_name": "Feel_Up_sandm.move",
+  "milo_name": "feel_up_sandm",
+  "song_name": "sandm",
+  "clips": {
+    "corset_sandm_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "corset_sandm_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

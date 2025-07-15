@@ -1,0 +1,26 @@
+{
+  "name": "princess_snap",
+  "difficulty": 0,
+  "display_name": "Princess Snap",
+  "ham_move_name": "Naughty_Girl_sandm.move",
+  "milo_name": "naughty_girl_sandm",
+  "song_name": "sandm",
+  "clips": {
+    "princess_snap_sandm_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "princess_snap_sandm_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

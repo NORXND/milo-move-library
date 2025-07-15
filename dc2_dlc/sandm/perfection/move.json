@@ -1,0 +1,26 @@
+{
+  "name": "perfection",
+  "difficulty": 2,
+  "display_name": "Perfection",
+  "ham_move_name": "Worship_sandm.move",
+  "milo_name": "worship_sandm",
+  "song_name": "sandm",
+  "clips": {
+    "perfection_sandm_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "perfection_sandm_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

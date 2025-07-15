@@ -1,0 +1,18 @@
+{
+  "name": "exception_tropic_rain_2",
+  "difficulty": 2,
+  "display_name": "Tropic Rain",
+  "ham_move_name": "Glitter_Rain_2_sandm.move",
+  "milo_name": "glitter_rain_2_sandm",
+  "song_name": "sandm",
+  "clips": {
+    "tropic_rain_sandm_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "tropic_rain_sandm_v0"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "waterfall",
+  "difficulty": 1,
+  "display_name": "Waterfall",
+  "ham_move_name": "Belly_Dance_sandm.move",
+  "milo_name": "belly_dance_sandm",
+  "song_name": "sandm",
+  "clips": {
+    "waterfall_sandm_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

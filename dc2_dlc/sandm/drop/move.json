@@ -1,0 +1,18 @@
+{
+  "name": "drop",
+  "difficulty": 2,
+  "display_name": "Drop",
+  "ham_move_name": "Leg_Drop_sandm.move",
+  "milo_name": "leg_drop_sandm",
+  "song_name": "sandm",
+  "clips": {
+    "drop_sandm_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

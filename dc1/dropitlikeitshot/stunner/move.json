@@ -1,0 +1,26 @@
+{
+  "name": "stunner",
+  "difficulty": 1,
+  "display_name": "Stunner",
+  "ham_move_name": "Watch_The_Pour_dropitlikeitshot.move",
+  "milo_name": "watch_the_pour_dropitlikeitshot",
+  "song_name": "dropitlikeitshot",
+  "clips": {
+    "stunner_dropitlikeitshot_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stunner_dropitlikeitshot_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

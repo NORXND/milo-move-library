@@ -1,0 +1,26 @@
+{
+  "name": "hotwire_l",
+  "difficulty": 0,
+  "display_name": "Hotwire",
+  "ham_move_name": "Snatch_Car_L_dropitlikeitshot.move",
+  "milo_name": "snatch_car_l_dropitlikeitshot",
+  "song_name": "dropitlikeitshot",
+  "clips": {
+    "hotwire_l_dropitlikeitshot_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hotwire_l_dropitlikeitshot_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

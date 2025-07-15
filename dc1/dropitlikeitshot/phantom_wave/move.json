@@ -1,0 +1,18 @@
+{
+  "name": "phantom_wave",
+  "difficulty": 1,
+  "display_name": "Phantom Wave",
+  "ham_move_name": "Phantom_DBL_Wave_dropitlikeitshot.move",
+  "milo_name": "phantom_dbl_wave_dropitlikeitshot",
+  "song_name": "dropitlikeitshot",
+  "clips": {
+    "phantom_wave_dropitlikeitshot_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

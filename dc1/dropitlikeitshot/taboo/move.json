@@ -1,0 +1,26 @@
+{
+  "name": "taboo",
+  "difficulty": 1,
+  "display_name": "Taboo",
+  "ham_move_name": "B_Boy_Mime_R_Pound_dropitlikeitshot.move",
+  "milo_name": "b_boy_mime_r_pound_dropitlikeitshot",
+  "song_name": "dropitlikeitshot",
+  "clips": {
+    "taboo_dropitlikeitshot_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "taboo_dropitlikeitshot_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

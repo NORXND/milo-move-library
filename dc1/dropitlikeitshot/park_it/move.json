@@ -1,0 +1,26 @@
+{
+  "name": "park_it",
+  "difficulty": 0,
+  "display_name": "Park It",
+  "ham_move_name": "Car_R_Two_Cars_dropitlikeitshot.move",
+  "milo_name": "car_r_two_cars_dropitlikeitshot",
+  "song_name": "dropitlikeitshot",
+  "clips": {
+    "park_it_dropitlikeitshot_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "park_it_dropitlikeitshot_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "drop_it_r",
+  "difficulty": 1,
+  "display_name": "Drop It",
+  "ham_move_name": "Dive_R_DBL_Dive_R_dropitlikeitshot.move",
+  "milo_name": "dive_r_dbl_dive_r_dropitlikeitshot",
+  "song_name": "dropitlikeitshot",
+  "clips": {
+    "drop_it_r_dropitlikeitshot_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drop_it_r_dropitlikeitshot_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

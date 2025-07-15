@@ -1,0 +1,18 @@
+{
+  "name": "scratch_and_spin",
+  "difficulty": 2,
+  "display_name": "Scratch & Spin",
+  "ham_move_name": "Scratch_And_Spin_dropitlikeitshot.move",
+  "milo_name": "scratch_and_spin_dropitlikeitshot",
+  "song_name": "dropitlikeitshot",
+  "clips": {
+    "scratch_and_spin_dropitlikeitshot_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

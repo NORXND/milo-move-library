@@ -1,0 +1,34 @@
+{
+  "name": "amped_l",
+  "difficulty": 0,
+  "display_name": "Amped",
+  "ham_move_name": "Amped_R_Amped_L_dropitlikeitshot.move",
+  "milo_name": "amped_r_amped_l_dropitlikeitshot",
+  "song_name": "dropitlikeitshot",
+  "clips": {
+    "amped_l_dropitlikeitshot_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "amped_l_dropitlikeitshot_v1": {
+      "avg_beats_per_second": 1.32,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "amped_l_dropitlikeitshot_v2": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

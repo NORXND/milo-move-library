@@ -1,0 +1,26 @@
+{
+  "name": "swag_drop_l",
+  "difficulty": 1,
+  "display_name": "Swag Drop",
+  "ham_move_name": "Swag_Step_Dive_L_dropitlikeitshot.move",
+  "milo_name": "swag_step_dive_l_dropitlikeitshot",
+  "song_name": "dropitlikeitshot",
+  "clips": {
+    "swag_drop_l_dropitlikeitshot_v0": {
+      "avg_beats_per_second": 1.32,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swag_drop_l_dropitlikeitshot_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

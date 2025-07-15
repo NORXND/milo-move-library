@@ -1,0 +1,26 @@
+{
+  "name": "pop_it",
+  "difficulty": 1,
+  "display_name": "Pop It",
+  "ham_move_name": "L_Pound_Around_Pump_dropitlikeitshot.move",
+  "milo_name": "l_pound_around_pump_dropitlikeitshot",
+  "song_name": "dropitlikeitshot",
+  "clips": {
+    "pop_it_dropitlikeitshot_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pop_it_dropitlikeitshot_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

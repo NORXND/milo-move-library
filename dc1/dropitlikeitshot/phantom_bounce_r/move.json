@@ -1,0 +1,18 @@
+{
+  "name": "phantom_bounce_r",
+  "difficulty": 1,
+  "display_name": "Phantom Bounce",
+  "ham_move_name": "Phantom_Bounce_R_dropitlikeitshot.move",
+  "milo_name": "phantom_bounce_r_dropitlikeitshot",
+  "song_name": "dropitlikeitshot",
+  "clips": {
+    "phantom_bounce_r_dropitlikeitshot_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

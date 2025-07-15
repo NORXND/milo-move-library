@@ -1,0 +1,26 @@
+{
+  "name": "roll_it",
+  "difficulty": 1,
+  "display_name": "Roll It",
+  "ham_move_name": "The_Wave_Amped_dropitlikeitshot.move",
+  "milo_name": "the_wave_amped_dropitlikeitshot",
+  "song_name": "dropitlikeitshot",
+  "clips": {
+    "roll_it_dropitlikeitshot_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roll_it_dropitlikeitshot_v1": {
+      "avg_beats_per_second": 1.16,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

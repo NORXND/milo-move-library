@@ -1,0 +1,18 @@
+{
+  "name": "bachelor",
+  "difficulty": 2,
+  "display_name": "Bachelor",
+  "ham_move_name": "Cut_And_Slice_Money_dropitlikeitshot.move",
+  "milo_name": "cut_and_slice_money_dropitlikeitshot",
+  "song_name": "dropitlikeitshot",
+  "clips": {
+    "bachelor_dropitlikeitshot_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

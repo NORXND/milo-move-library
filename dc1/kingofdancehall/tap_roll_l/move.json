@@ -1,0 +1,26 @@
+{
+  "name": "tap_roll_l",
+  "difficulty": 1,
+  "display_name": "Tap Roll",
+  "ham_move_name": "taproll_L_kingofdancehall.move",
+  "milo_name": "taproll_l_kingofdancehall",
+  "song_name": "kingofdancehall",
+  "clips": {
+    "tap_roll_l_kingofdancehall_v1": {
+      "avg_beats_per_second": 1.75,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "tap_roll_r_kingofdancehall_v1",
+      "linked_from": ""
+    },
+    "tap_roll_l_kingofdancehall_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "tap_roll_r_kingofdancehall_v0",
+      "linked_from": ""
+    }
+  }
+}

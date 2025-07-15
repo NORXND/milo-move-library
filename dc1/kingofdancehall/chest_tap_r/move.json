@@ -1,0 +1,26 @@
+{
+  "name": "chest_tap_r",
+  "difficulty": 0,
+  "display_name": "Chest Tap",
+  "ham_move_name": "chesttap_R_kingofdancehall.move",
+  "milo_name": "chesttap_l_kingofdancehall",
+  "song_name": "kingofdancehall",
+  "clips": {
+    "chest_tap_r_kingofdancehall_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "chest_tap_l_kingofdancehall_v0",
+      "linked_from": ""
+    },
+    "chest_tap_r_kingofdancehall_v1": {
+      "avg_beats_per_second": 1.75,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

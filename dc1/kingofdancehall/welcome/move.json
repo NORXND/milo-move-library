@@ -1,0 +1,18 @@
+{
+  "name": "exception_welcome_2",
+  "difficulty": 0,
+  "display_name": "Welcome",
+  "ham_move_name": "welcome_kingofdancehall.move",
+  "milo_name": "welcome_kingofdancehall",
+  "song_name": "kingofdancehall",
+  "clips": {
+    "welcome_kingofdancehall_v1": {
+      "avg_beats_per_second": 1.75,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

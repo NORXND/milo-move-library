@@ -1,0 +1,42 @@
+{
+  "name": "wipe_and_rise",
+  "difficulty": 0,
+  "display_name": "Wipe & Rise",
+  "ham_move_name": "wipeandrise_kingofdancehall.move",
+  "milo_name": "wipeandrise_kingofdancehall",
+  "song_name": "kingofdancehall",
+  "clips": {
+    "wipe_and_rise_kingofdancehall_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wipe_and_rise_kingofdancehall_v2": {
+      "avg_beats_per_second": 1.75,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wipe_and_rise_kingofdancehall_v1": {
+      "avg_beats_per_second": 1.75,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wipe_and_rise_kingofdancehall_v3": {
+      "avg_beats_per_second": 1.75,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

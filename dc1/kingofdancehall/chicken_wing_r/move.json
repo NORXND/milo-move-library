@@ -1,0 +1,18 @@
+{
+  "name": "chicken_wing_r",
+  "difficulty": 2,
+  "display_name": "Chicken Wing",
+  "ham_move_name": "chickenwing_R_kingofdancehall.move",
+  "milo_name": "chickenwing_l_kingofdancehall",
+  "song_name": "kingofdancehall",
+  "clips": {
+    "chicken_wing_r_kingofdancehall_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "chicken_wing_l_kingofdancehall_v0"
+    }
+  }
+}

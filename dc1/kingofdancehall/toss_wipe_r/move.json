@@ -1,0 +1,18 @@
+{
+  "name": "toss_wipe_r",
+  "difficulty": 1,
+  "display_name": "Toss Wipe",
+  "ham_move_name": "tossandwipe_R_kingofdancehall.move",
+  "milo_name": "tossandwipe_l_kingofdancehall",
+  "song_name": "kingofdancehall",
+  "clips": {
+    "toss_wipe_r_kingofdancehall_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "toss_wipe_l_kingofdancehall_v0",
+      "linked_from": ""
+    }
+  }
+}

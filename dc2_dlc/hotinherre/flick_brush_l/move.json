@@ -1,0 +1,42 @@
+{
+  "name": "flick_brush_l",
+  "difficulty": 2,
+  "display_name": "Flick Brush",
+  "ham_move_name": "Brush_L_hotinherre.move",
+  "milo_name": "brush_l_hotinherre",
+  "song_name": "hotinherre",
+  "clips": {
+    "flick_brush_l_hotinherre_v0": {
+      "avg_beats_per_second": 1.78,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "reverse_roll_and_brush_r_hotinherre_v1",
+      "linked_from": "reverse_roll_and_brush_r_hotinherre_v0"
+    },
+    "flick_brush_l_hotinherre_v1": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "reverse_roll_and_brush_r_hotinherre_v1"
+    },
+    "flick_brush_l_hotinherre_v2": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "reverse_roll_and_brush_r_hotinherre_v2"
+    },
+    "flick_brush_l_hotinherre_v3": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "reverse_roll_and_brush_r_hotinherre_v3"
+    }
+  }
+}

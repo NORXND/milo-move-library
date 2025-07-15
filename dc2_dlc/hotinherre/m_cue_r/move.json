@@ -1,0 +1,18 @@
+{
+  "name": "m_cue_r",
+  "difficulty": 2,
+  "display_name": "M-Cue",
+  "ham_move_name": "Kick_Ball_Change_R_hotinherre.move",
+  "milo_name": "kick_ball_change_r_hotinherre",
+  "song_name": "hotinherre",
+  "clips": {
+    "m_cue_r_hotinherre_v0": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "m_cue_l_hotinherre_v0"
+    }
+  }
+}

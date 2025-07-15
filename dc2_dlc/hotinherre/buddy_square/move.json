@@ -1,0 +1,26 @@
+{
+  "name": "buddy_square",
+  "difficulty": 2,
+  "display_name": "Buddy Square",
+  "ham_move_name": "Stroll_hotinherre.move",
+  "milo_name": "stroll_hotinherre",
+  "song_name": "hotinherre",
+  "clips": {
+    "buddy_square_hotinherre_v0": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "buddy_square_hotinherre_v1": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

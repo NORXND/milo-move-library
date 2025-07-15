@@ -1,0 +1,42 @@
+{
+  "name": "sweatband",
+  "difficulty": 2,
+  "display_name": "Sweatband",
+  "ham_move_name": "Stanky_Leg_Swipe_hotinherre.move",
+  "milo_name": "stanky_leg_swipe_hotinherre",
+  "song_name": "hotinherre",
+  "clips": {
+    "sweatband_hotinherre_v0": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sweatband_hotinherre_v1": {
+      "avg_beats_per_second": 1.78,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sweatband_hotinherre_v2": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sweatband_hotinherre_v3": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

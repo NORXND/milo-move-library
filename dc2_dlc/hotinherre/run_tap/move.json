@@ -1,0 +1,26 @@
+{
+  "name": "run_tap",
+  "difficulty": 2,
+  "display_name": "Run Tap",
+  "ham_move_name": "Groove_Step_hotinherre.move",
+  "milo_name": "groove_step_hotinherre",
+  "song_name": "hotinherre",
+  "clips": {
+    "run_tap_hotinherre_v0": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "run_tap_hotinherre_v1": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

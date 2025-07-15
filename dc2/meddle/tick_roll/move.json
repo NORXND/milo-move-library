@@ -1,0 +1,26 @@
+{
+  "name": "tick_roll",
+  "difficulty": 0,
+  "display_name": "Tick Roll",
+  "ham_move_name": "Tick_Roll_meddle.move",
+  "milo_name": "tick_roll_meddle",
+  "song_name": "meddle",
+  "clips": {
+    "tick_roll_meddle_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tick_roll_meddle_v1": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

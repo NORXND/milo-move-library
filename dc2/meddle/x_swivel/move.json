@@ -1,0 +1,42 @@
+{
+  "name": "x_swivel",
+  "difficulty": 0,
+  "display_name": "X Swivel",
+  "ham_move_name": "X_Swivel_meddle.move",
+  "milo_name": "x_swivel_meddle",
+  "song_name": "meddle",
+  "clips": {
+    "x_swivel_meddle_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "x_swivel_meddle_v1": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "x_swivel_meddle_v2": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "x_swivel_meddle_v3": {
+      "avg_beats_per_second": 1.21,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

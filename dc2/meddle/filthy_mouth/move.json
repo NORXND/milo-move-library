@@ -1,0 +1,18 @@
+{
+  "name": "filthy_mouth",
+  "difficulty": 1,
+  "display_name": "Filthy Mouth",
+  "ham_move_name": "Dutty_Mouth_meddle.move",
+  "milo_name": "dutty_mouth_meddle",
+  "song_name": "meddle",
+  "clips": {
+    "filthy_mouth_meddle_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

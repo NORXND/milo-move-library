@@ -1,0 +1,18 @@
+{
+  "name": "exception_happy_birthday_2",
+  "difficulty": 0,
+  "display_name": "Happy Birthday",
+  "ham_move_name": "Feel_It_Up_2_meddle.move",
+  "milo_name": "feel_it_up_2_meddle",
+  "song_name": "meddle",
+  "clips": {
+    "happy_birthday_meddle_v1": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "happy_birthday_meddle_v0"
+    }
+  }
+}

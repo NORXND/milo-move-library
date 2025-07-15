@@ -1,0 +1,26 @@
+{
+  "name": "apple_picker",
+  "difficulty": 1,
+  "display_name": "Apple Picker",
+  "ham_move_name": "Toss_Away_downonme.move",
+  "milo_name": "toss_away_downonme",
+  "song_name": "downonme",
+  "clips": {
+    "apple_picker_downonme_v0": {
+      "avg_beats_per_second": 1.33,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "apple_picker_downonme_v1": {
+      "avg_beats_per_second": 1.33,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

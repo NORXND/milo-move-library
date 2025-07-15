@@ -1,0 +1,26 @@
+{
+  "name": "tread_softly",
+  "difficulty": 2,
+  "display_name": "Tread Softly",
+  "ham_move_name": "Ispy_downonme.move",
+  "milo_name": "ispy_downonme",
+  "song_name": "downonme",
+  "clips": {
+    "tread_softly_downonme_v0": {
+      "avg_beats_per_second": 1.33,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tread_softly_downonme_v1": {
+      "avg_beats_per_second": 1.33,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

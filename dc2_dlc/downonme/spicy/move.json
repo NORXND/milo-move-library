@@ -1,0 +1,18 @@
+{
+  "name": "spicy",
+  "difficulty": 2,
+  "display_name": "Spicy",
+  "ham_move_name": "Jeenah_downonme.move",
+  "milo_name": "jeenah_downonme",
+  "song_name": "downonme",
+  "clips": {
+    "spicy_downonme_v0": {
+      "avg_beats_per_second": 1.33,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

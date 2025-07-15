@@ -1,0 +1,26 @@
+{
+  "name": "double_shoulder",
+  "difficulty": 2,
+  "display_name": "Double Shoulder",
+  "ham_move_name": "Slow_Box_downonme.move",
+  "milo_name": "slow_box_downonme",
+  "song_name": "downonme",
+  "clips": {
+    "double_shoulder_downonme_v0": {
+      "avg_beats_per_second": 1.33,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_shoulder_downonme_v1": {
+      "avg_beats_per_second": 1.33,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

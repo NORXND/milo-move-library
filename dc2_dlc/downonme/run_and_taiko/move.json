@@ -1,0 +1,18 @@
+{
+  "name": "run_and_taiko",
+  "difficulty": 2,
+  "display_name": "Run / Taiko",
+  "ham_move_name": "Whimpy_Run_downonme.move",
+  "milo_name": "whimpy_run_downonme",
+  "song_name": "downonme",
+  "clips": {
+    "run_and_taiko_downonme_v0": {
+      "avg_beats_per_second": 1.33,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

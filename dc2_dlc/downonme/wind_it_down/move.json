@@ -1,0 +1,26 @@
+{
+  "name": "wind_it_down",
+  "difficulty": 2,
+  "display_name": "Wind It Down",
+  "ham_move_name": "Glide_It_Down_downonme.move",
+  "milo_name": "glide_it_down_downonme",
+  "song_name": "downonme",
+  "clips": {
+    "wind_it_down_downonme_v1": {
+      "avg_beats_per_second": 1.33,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_it_down_downonme_v0": {
+      "avg_beats_per_second": 1.33,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

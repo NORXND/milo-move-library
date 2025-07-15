@@ -1,0 +1,26 @@
+{
+  "name": "boxy_jerk_l",
+  "difficulty": 2,
+  "display_name": "Boxy Jerk",
+  "ham_move_name": "Bieber_Jerk_L_boyfriend.move",
+  "milo_name": "bieber_jerk_l_boyfriend",
+  "song_name": "boyfriend",
+  "clips": {
+    "boxy_jerk_l_boyfriend_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "boxy_jerk_r_boyfriend_v0"
+    },
+    "boxy_jerk_l_boyfriend_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "boxy_jerk_r_boyfriend_v1"
+    }
+  }
+}

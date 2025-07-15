@@ -1,0 +1,18 @@
+{
+  "name": "major_swagger_r",
+  "difficulty": 2,
+  "display_name": "Major Swagger",
+  "ham_move_name": "Holla_Atcha_R_boyfriend.move",
+  "milo_name": "holla_atcha_r_boyfriend",
+  "song_name": "boyfriend",
+  "clips": {
+    "major_swagger_r_boyfriend_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "major_swagger_l_boyfriend_v0"
+    }
+  }
+}

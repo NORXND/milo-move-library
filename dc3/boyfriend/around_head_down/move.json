@@ -1,0 +1,18 @@
+{
+  "name": "around_head_down",
+  "difficulty": 2,
+  "display_name": "Around Head Down",
+  "ham_move_name": "Around_Head_Down_boyfriend.move",
+  "milo_name": "around_head_down_boyfriend",
+  "song_name": "boyfriend",
+  "clips": {
+    "around_head_down_boyfriend_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

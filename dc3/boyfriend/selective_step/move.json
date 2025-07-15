@@ -1,0 +1,26 @@
+{
+  "name": "selective_step",
+  "difficulty": 2,
+  "display_name": "Selective Step",
+  "ham_move_name": "Move_boyfriend.move",
+  "milo_name": "move_boyfriend",
+  "song_name": "boyfriend",
+  "clips": {
+    "selective_step_boyfriend_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "selective_step_boyfriend_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

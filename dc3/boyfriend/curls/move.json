@@ -1,0 +1,26 @@
+{
+  "name": "curls",
+  "difficulty": 2,
+  "display_name": "Curls",
+  "ham_move_name": "Curls_boyfriend.move",
+  "milo_name": "curls_boyfriend",
+  "song_name": "boyfriend",
+  "clips": {
+    "curls_boyfriend_v1": {
+      "avg_beats_per_second": 1.39,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "curls_boyfriend_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

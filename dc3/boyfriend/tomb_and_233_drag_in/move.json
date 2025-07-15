@@ -1,0 +1,18 @@
+{
+  "name": "tomb_and_233_drag_in",
+  "difficulty": 2,
+  "display_name": "Tomb<&#233> Drag In",
+  "ham_move_name": "Step_Step_boyfriend.move",
+  "milo_name": "step_step_boyfriend",
+  "song_name": "boyfriend",
+  "clips": {
+    "tomb_and_233_drag_in_boyfriend_v0": {
+      "avg_beats_per_second": 1.38,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

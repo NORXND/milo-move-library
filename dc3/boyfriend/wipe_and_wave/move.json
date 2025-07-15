@@ -1,0 +1,26 @@
+{
+  "name": "wipe_and_wave",
+  "difficulty": 2,
+  "display_name": "Wipe & Wave",
+  "ham_move_name": "Dust_Off_boyfriend.move",
+  "milo_name": "dust_off_boyfriend",
+  "song_name": "boyfriend",
+  "clips": {
+    "wipe_and_wave_boyfriend_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wipe_and_wave_boyfriend_v1": {
+      "avg_beats_per_second": 1.38,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

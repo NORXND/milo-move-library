@@ -1,0 +1,26 @@
+{
+  "name": "muscle_man",
+  "difficulty": 0,
+  "display_name": "Muscle Man",
+  "ham_move_name": "Muscle_Man_boyfriend.move",
+  "milo_name": "muscle_man_boyfriend",
+  "song_name": "boyfriend",
+  "clips": {
+    "muscle_man_boyfriend_v0": {
+      "avg_beats_per_second": 1.61,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "muscle_man_boyfriend_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

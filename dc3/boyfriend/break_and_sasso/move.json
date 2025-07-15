@@ -1,0 +1,18 @@
+{
+  "name": "break_and_sasso",
+  "difficulty": 2,
+  "display_name": "Break / Sasso",
+  "ham_move_name": "Vq1_boyfriend.move",
+  "milo_name": "vq1_boyfriend",
+  "song_name": "boyfriend",
+  "clips": {
+    "break_and_sasso_boyfriend_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "cuff_wave",
+  "difficulty": 2,
+  "display_name": "Cuff Wave",
+  "ham_move_name": "No_Fighting_boyfriend.move",
+  "milo_name": "no_fighting_boyfriend",
+  "song_name": "boyfriend",
+  "clips": {
+    "cuff_wave_boyfriend_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

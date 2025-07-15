@@ -1,0 +1,26 @@
+{
+  "name": "step_turn_and_brush",
+  "difficulty": 2,
+  "display_name": "Step Turn & Brush",
+  "ham_move_name": "Step_Turn_boyfriend.move",
+  "milo_name": "step_turn_boyfriend",
+  "song_name": "boyfriend",
+  "clips": {
+    "step_turn_and_brush_boyfriend_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_turn_and_brush_boyfriend_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

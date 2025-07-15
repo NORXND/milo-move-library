@@ -1,0 +1,26 @@
+{
+  "name": "small_talk",
+  "difficulty": 2,
+  "display_name": "Small Talk",
+  "ham_move_name": "Talk_boyfriend.move",
+  "milo_name": "talk_boyfriend",
+  "song_name": "boyfriend",
+  "clips": {
+    "small_talk_boyfriend_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "small_talk_boyfriend_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

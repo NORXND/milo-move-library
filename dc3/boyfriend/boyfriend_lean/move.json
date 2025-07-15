@@ -1,0 +1,18 @@
+{
+  "name": "boyfriend_lean",
+  "difficulty": 2,
+  "display_name": "Boyfriend Lean",
+  "ham_move_name": "Rock_To_The_Right_boyfriend.move",
+  "milo_name": "rock_to_the_right_boyfriend",
+  "song_name": "boyfriend",
+  "clips": {
+    "boyfriend_lean_boyfriend_v0": {
+      "avg_beats_per_second": 1.39,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

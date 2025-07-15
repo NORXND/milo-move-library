@@ -1,0 +1,26 @@
+{
+  "name": "power_beam_and_shuffle",
+  "difficulty": 2,
+  "display_name": "Power Beam & Shuffle",
+  "ham_move_name": "Blade_boyfriend.move",
+  "milo_name": "blade_boyfriend",
+  "song_name": "boyfriend",
+  "clips": {
+    "power_beam_and_shuffle_boyfriend_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "power_beam_and_shuffle_boyfriend_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

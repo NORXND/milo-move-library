@@ -1,0 +1,34 @@
+{
+  "name": "what_s_up_and_rainbow",
+  "difficulty": 2,
+  "display_name": "What's Up / Rainbow",
+  "ham_move_name": "Skate_boyfriend.move",
+  "milo_name": "skate_boyfriend",
+  "song_name": "boyfriend",
+  "clips": {
+    "what_s_up_and_rainbow_boyfriend_v0": {
+      "avg_beats_per_second": 1.61,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "what_s_up_and_rainbow_boyfriend_v1": {
+      "avg_beats_per_second": 1.61,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "what_s_up_and_rainbow_boyfriend_v2": {
+      "avg_beats_per_second": 1.61,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

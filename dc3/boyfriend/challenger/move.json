@@ -1,0 +1,42 @@
+{
+  "name": "challenger",
+  "difficulty": 0,
+  "display_name": "Challenger",
+  "ham_move_name": "Get_Jiggy_Wit_It_boyfriend.move",
+  "milo_name": "get_jiggy_wit_it_boyfriend",
+  "song_name": "boyfriend",
+  "clips": {
+    "challenger_boyfriend_v3": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "challenger_boyfriend_v0": {
+      "avg_beats_per_second": 1.38,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "challenger_boyfriend_v1": {
+      "avg_beats_per_second": 1.38,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "challenger_boyfriend_v2": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

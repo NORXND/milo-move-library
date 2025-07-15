@@ -1,0 +1,34 @@
+{
+  "name": "side_row",
+  "difficulty": 2,
+  "display_name": "Side Row",
+  "ham_move_name": "Wheelchair_boyfriend.move",
+  "milo_name": "wheelchair_boyfriend",
+  "song_name": "boyfriend",
+  "clips": {
+    "side_row_boyfriend_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "side_row_boyfriend_v2": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "side_row_boyfriend_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

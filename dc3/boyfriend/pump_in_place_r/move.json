@@ -1,0 +1,18 @@
+{
+  "name": "pump_in_place_r",
+  "difficulty": 2,
+  "display_name": "Pump In Place",
+  "ham_move_name": "Pump_In_Place_R_boyfriend.move",
+  "milo_name": "pump_in_place_r_boyfriend",
+  "song_name": "boyfriend",
+  "clips": {
+    "pump_in_place_r_boyfriend_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

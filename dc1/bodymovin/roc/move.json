@@ -1,0 +1,26 @@
+{
+  "name": "roc",
+  "difficulty": 0,
+  "display_name": "Roc",
+  "ham_move_name": "Roc_bodymovin.move",
+  "milo_name": "roc_bodymovin",
+  "song_name": "bodymovin",
+  "clips": {
+    "roc_bodymovin_v0": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roc_bodymovin_v1": {
+      "avg_beats_per_second": 1.71,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

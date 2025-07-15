@@ -1,0 +1,18 @@
+{
+  "name": "step_tap",
+  "difficulty": 2,
+  "display_name": "Step Tap",
+  "ham_move_name": "Step_Tap_bodymovin.move",
+  "milo_name": "step_tap_bodymovin",
+  "song_name": "bodymovin",
+  "clips": {
+    "step_tap_bodymovin_v0": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

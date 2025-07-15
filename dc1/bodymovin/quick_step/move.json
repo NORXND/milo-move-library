@@ -1,0 +1,18 @@
+{
+  "name": "quick_step",
+  "difficulty": 2,
+  "display_name": "Quick Step",
+  "ham_move_name": "Top_Roc_bodymovin.move",
+  "milo_name": "top_roc_bodymovin",
+  "song_name": "bodymovin",
+  "clips": {
+    "quick_step_bodymovin_v0": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

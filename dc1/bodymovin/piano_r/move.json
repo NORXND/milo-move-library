@@ -1,0 +1,18 @@
+{
+  "name": "piano_r",
+  "difficulty": 2,
+  "display_name": "Piano",
+  "ham_move_name": "Piano_R_bodymovin.move",
+  "milo_name": "piano_r_bodymovin",
+  "song_name": "bodymovin",
+  "clips": {
+    "piano_r_bodymovin_v0": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "piano_l_bodymovin_v0",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "head_bop",
+  "difficulty": 0,
+  "display_name": "Head Bop",
+  "ham_move_name": "Head_Bop_bodymovin.move",
+  "milo_name": "head_bop_bodymovin",
+  "song_name": "bodymovin",
+  "clips": {
+    "head_bop_bodymovin_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "head_bop_bodymovin_v3": {
+      "avg_beats_per_second": 1.71,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "head_bop_bodymovin_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "head_bop_bodymovin_v4": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "head_bop_bodymovin_v2": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

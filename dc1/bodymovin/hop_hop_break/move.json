@@ -1,0 +1,42 @@
+{
+  "name": "hop_hop_break",
+  "difficulty": 1,
+  "display_name": "Hop Hop Break",
+  "ham_move_name": "Hop_Hop_Break_bodymovin.move",
+  "milo_name": "hop_hop_break_bodymovin",
+  "song_name": "bodymovin",
+  "clips": {
+    "hop_hop_break_bodymovin_v0": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_hop_break_bodymovin_v1": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_hop_break_bodymovin_v2": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_hop_break_bodymovin_v3": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

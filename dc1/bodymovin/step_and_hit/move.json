@@ -1,0 +1,18 @@
+{
+  "name": "step_and_hit",
+  "difficulty": 1,
+  "display_name": "Step & Hit",
+  "ham_move_name": "Step_and_Hit_bodymovin.move",
+  "milo_name": "step_and_hit_bodymovin",
+  "song_name": "bodymovin",
+  "clips": {
+    "step_and_hit_bodymovin_v0": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

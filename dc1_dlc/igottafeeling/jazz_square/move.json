@@ -1,0 +1,42 @@
+{
+  "name": "exception_jazz_square_2",
+  "difficulty": 1,
+  "display_name": "Jazz Square",
+  "ham_move_name": "Jazz_Square_2_igottafeeling.move",
+  "milo_name": "jazz_square_2_igottafeeling",
+  "song_name": "igottafeeling",
+  "clips": {
+    "jazz_square_igottafeeling_v11": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "jazz_square_igottafeeling_v10"
+    },
+    "jazz_square_igottafeeling_v5": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "jazz_square_igottafeeling_v4"
+    },
+    "jazz_square_igottafeeling_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "jazz_square_igottafeeling_v1"
+    },
+    "jazz_square_igottafeeling_v8": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "jazz_square_igottafeeling_v7"
+    }
+  }
+}

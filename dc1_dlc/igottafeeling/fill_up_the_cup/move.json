@@ -1,0 +1,18 @@
+{
+  "name": "fill_up_the_cup",
+  "difficulty": 2,
+  "display_name": "Fill Up The Cup",
+  "ham_move_name": "Fill_Up_The_Cup_igottafeeling.move",
+  "milo_name": "fill_up_the_cup_igottafeeling",
+  "song_name": "igottafeeling",
+  "clips": {
+    "fill_up_the_cup_igottafeeling_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

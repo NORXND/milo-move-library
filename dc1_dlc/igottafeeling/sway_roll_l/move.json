@@ -1,0 +1,18 @@
+{
+  "name": "sway_roll_l",
+  "difficulty": 1,
+  "display_name": "Sway Roll",
+  "ham_move_name": "Sway_Roll_L_igottafeeling.move",
+  "milo_name": "sway_roll_l_igottafeeling",
+  "song_name": "igottafeeling",
+  "clips": {
+    "sway_roll_l_igottafeeling_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "sway_roll_r_igottafeeling_v0"
+    }
+  }
+}

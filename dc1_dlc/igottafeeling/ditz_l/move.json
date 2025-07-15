@@ -1,0 +1,26 @@
+{
+  "name": "ditz_l",
+  "difficulty": 1,
+  "display_name": "Ditz",
+  "ham_move_name": "Ditz_L_igottafeeling.move",
+  "milo_name": "ditz_l_igottafeeling",
+  "song_name": "igottafeeling",
+  "clips": {
+    "ditz_l_igottafeeling_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "ditz_r_igottafeeling_v1"
+    },
+    "ditz_l_igottafeeling_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "ditz_r_igottafeeling_v0"
+    }
+  }
+}

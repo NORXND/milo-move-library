@@ -1,0 +1,18 @@
+{
+  "name": "quick_shuffle",
+  "difficulty": 2,
+  "display_name": "Quick Shuffle",
+  "ham_move_name": "Quick_Shuffle_igottafeeling.move",
+  "milo_name": "quick_shuffle_igottafeeling",
+  "song_name": "igottafeeling",
+  "clips": {
+    "quick_shuffle_igottafeeling_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

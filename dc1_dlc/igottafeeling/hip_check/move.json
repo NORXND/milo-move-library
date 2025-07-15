@@ -1,0 +1,26 @@
+{
+  "name": "hip_check",
+  "difficulty": 2,
+  "display_name": "Hip Check",
+  "ham_move_name": "Hip_Check_igottafeeling.move",
+  "milo_name": "hip_check_igottafeeling",
+  "song_name": "igottafeeling",
+  "clips": {
+    "hip_check_igottafeeling_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_check_igottafeeling_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

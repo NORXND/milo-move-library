@@ -1,0 +1,42 @@
+{
+  "name": "half_star",
+  "difficulty": 1,
+  "display_name": "Half Star",
+  "ham_move_name": "Half_Star_igottafeeling.move",
+  "milo_name": "half_star_igottafeeling",
+  "song_name": "igottafeeling",
+  "clips": {
+    "half_star_igottafeeling_v3": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "half_star_igottafeeling_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "half_star_igottafeeling_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "half_star_igottafeeling_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

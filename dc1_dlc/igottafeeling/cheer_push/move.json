@@ -1,0 +1,42 @@
+{
+  "name": "cheer_push",
+  "difficulty": 1,
+  "display_name": "Cheer Push",
+  "ham_move_name": "Cheer_Push_igottafeeling.move",
+  "milo_name": "cheer_push_igottafeeling",
+  "song_name": "igottafeeling",
+  "clips": {
+    "cheer_push_igottafeeling_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cheer_push_igottafeeling_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cheer_push_igottafeeling_v3": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cheer_push_igottafeeling_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

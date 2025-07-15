@@ -1,0 +1,26 @@
+{
+  "name": "scoop_hop",
+  "difficulty": 0,
+  "display_name": "Scoop Hop",
+  "ham_move_name": "Scoop_Hop_igottafeeling.move",
+  "milo_name": "scoop_hop_igottafeeling",
+  "song_name": "igottafeeling",
+  "clips": {
+    "scoop_hop_igottafeeling_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scoop_hop_igottafeeling_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

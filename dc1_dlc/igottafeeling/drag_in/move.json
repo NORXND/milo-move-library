@@ -1,0 +1,74 @@
+{
+  "name": "drag_in",
+  "difficulty": 0,
+  "display_name": "Drag In",
+  "ham_move_name": "Drag_In_igottafeeling.move",
+  "milo_name": "drag_in_igottafeeling",
+  "song_name": "igottafeeling",
+  "clips": {
+    "drag_in_igottafeeling_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drag_in_igottafeeling_v6": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drag_in_igottafeeling_v4": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drag_in_igottafeeling_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drag_in_igottafeeling_v7": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drag_in_igottafeeling_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drag_in_igottafeeling_v5": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drag_in_igottafeeling_v3": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

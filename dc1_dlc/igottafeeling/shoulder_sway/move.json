@@ -1,0 +1,42 @@
+{
+  "name": "shoulder_sway",
+  "difficulty": 1,
+  "display_name": "Shoulder Sway",
+  "ham_move_name": "Shoulder_Sway_igottafeeling.move",
+  "milo_name": "shoulder_sway_igottafeeling",
+  "song_name": "igottafeeling",
+  "clips": {
+    "shoulder_sway_igottafeeling_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_sway_igottafeeling_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_sway_igottafeeling_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_sway_igottafeeling_v3": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

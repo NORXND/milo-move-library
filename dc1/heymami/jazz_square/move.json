@@ -1,0 +1,42 @@
+{
+  "name": "jazz_square",
+  "difficulty": 0,
+  "display_name": "Jazz Square",
+  "ham_move_name": "Jazz_Square_heymami.move",
+  "milo_name": "jazz_square_heymami",
+  "song_name": "heymami",
+  "clips": {
+    "jazz_square_heymami_v3": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jazz_square_heymami_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jazz_square_heymami_v2": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jazz_square_heymami_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

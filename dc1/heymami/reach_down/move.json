@@ -1,0 +1,42 @@
+{
+  "name": "reach_down",
+  "difficulty": 0,
+  "display_name": "Reach Down",
+  "ham_move_name": "Reach_Down_heymami.move",
+  "milo_name": "reach_down_heymami",
+  "song_name": "heymami",
+  "clips": {
+    "reach_down_heymami_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "reach_down_heymami_v2": {
+      "avg_beats_per_second": 2.22,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "reach_down_heymami_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "reach_down_heymami_v3": {
+      "avg_beats_per_second": 2.22,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

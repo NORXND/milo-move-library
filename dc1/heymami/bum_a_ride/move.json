@@ -1,0 +1,42 @@
+{
+  "name": "bum_a_ride",
+  "difficulty": 0,
+  "display_name": "Bum A Ride",
+  "ham_move_name": "Bum_A_Ride_heymami.move",
+  "milo_name": "bum_a_ride_heymami",
+  "song_name": "heymami",
+  "clips": {
+    "bum_a_ride_heymami_v2": {
+      "avg_beats_per_second": 2.22,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bum_a_ride_heymami_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bum_a_ride_heymami_v3": {
+      "avg_beats_per_second": 2.22,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bum_a_ride_heymami_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

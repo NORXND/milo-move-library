@@ -1,0 +1,50 @@
+{
+  "name": "tap_front",
+  "difficulty": 0,
+  "display_name": "Tap Front",
+  "ham_move_name": "Tap_Front_heymami.move",
+  "milo_name": "tap_front_heymami",
+  "song_name": "heymami",
+  "clips": {
+    "tap_front_heymami_v3": {
+      "avg_beats_per_second": 2.22,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tap_front_heymami_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tap_front_heymami_v4": {
+      "avg_beats_per_second": 2.22,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tap_front_heymami_v2": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tap_front_heymami_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

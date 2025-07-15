@@ -1,0 +1,18 @@
+{
+  "name": "cross_front",
+  "difficulty": 0,
+  "display_name": "Cross Front",
+  "ham_move_name": "Cross_Front_heymami.move",
+  "milo_name": "cross_front_heymami",
+  "song_name": "heymami",
+  "clips": {
+    "cross_front_heymami_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

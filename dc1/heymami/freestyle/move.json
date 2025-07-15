@@ -1,0 +1,18 @@
+{
+  "name": "freestyle_heymami",
+  "difficulty": 2,
+  "display_name": "FREESTYLE!",
+  "ham_move_name": "Freestyle.move",
+  "milo_name": "freestyle",
+  "song_name": "heymami",
+  "clips": {
+    "freestyle_heymami_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 96,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

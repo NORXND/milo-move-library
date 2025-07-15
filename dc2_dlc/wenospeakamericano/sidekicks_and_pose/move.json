@@ -1,0 +1,18 @@
+{
+  "name": "sidekicks_and_pose",
+  "difficulty": 2,
+  "display_name": "Sidekicks & Pose",
+  "ham_move_name": "Side_Kicks_And_Starfish_wenospeakamericano.move",
+  "milo_name": "side_kicks_and_starfish_wenospeakamericano",
+  "song_name": "wenospeakamericano",
+  "clips": {
+    "sidekicks_and_pose_wenospeakamericano_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

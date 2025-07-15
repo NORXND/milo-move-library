@@ -1,0 +1,26 @@
+{
+  "name": "run_and_kick_step_back",
+  "difficulty": 2,
+  "display_name": "Run / Kick Step Back",
+  "ham_move_name": "Run_And_Step_Back_wenospeakamericano.move",
+  "milo_name": "run_and_step_back_wenospeakamericano",
+  "song_name": "wenospeakamericano",
+  "clips": {
+    "run_and_kick_step_back_wenospeakamericano_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "run_and_kick_step_back_wenospeakamericano_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

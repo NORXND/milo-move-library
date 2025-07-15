@@ -1,0 +1,26 @@
+{
+  "name": "spin_and_clap",
+  "difficulty": 2,
+  "display_name": "Spin & Clap",
+  "ham_move_name": "Slow_Turn_And_Clap_wenospeakamericano.move",
+  "milo_name": "slow_turn_and_clap_wenospeakamericano",
+  "song_name": "wenospeakamericano",
+  "clips": {
+    "spin_and_clap_wenospeakamericano_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spin_and_clap_wenospeakamericano_v1": {
+      "avg_beats_per_second": 1.8,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

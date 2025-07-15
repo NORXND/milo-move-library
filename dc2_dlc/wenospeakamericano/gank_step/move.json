@@ -1,0 +1,26 @@
+{
+  "name": "gank_step",
+  "difficulty": 2,
+  "display_name": "Gank Step",
+  "ham_move_name": "Gank_Step_wenospeakamericano.move",
+  "milo_name": "gank_step_wenospeakamericano",
+  "song_name": "wenospeakamericano",
+  "clips": {
+    "gank_step_wenospeakamericano_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "gank_step_wenospeakamericano_v1": {
+      "avg_beats_per_second": 1.79,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "red_light",
+  "difficulty": 2,
+  "display_name": "Red Light",
+  "ham_move_name": "Pause_wenospeakamericano.move",
+  "milo_name": "pause_wenospeakamericano",
+  "song_name": "wenospeakamericano",
+  "clips": {
+    "red_light_wenospeakamericano_v0": {
+      "avg_beats_per_second": 1.79,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "mini_step_back",
+  "difficulty": 2,
+  "display_name": "Mini Step Back",
+  "ham_move_name": "Step_Forward_Tap_wenospeakamericano.move",
+  "milo_name": "step_forward_tap_wenospeakamericano",
+  "song_name": "wenospeakamericano",
+  "clips": {
+    "mini_step_back_wenospeakamericano_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "mini_step_back_wenospeakamericano_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

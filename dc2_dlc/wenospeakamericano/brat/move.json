@@ -1,0 +1,42 @@
+{
+  "name": "brat",
+  "difficulty": 0,
+  "display_name": "Brat",
+  "ham_move_name": "Fat_Brat_wenospeakamericano.move",
+  "milo_name": "fat_brat_wenospeakamericano",
+  "song_name": "wenospeakamericano",
+  "clips": {
+    "brat_wenospeakamericano_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "brat_wenospeakamericano_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "brat_wenospeakamericano_v3": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "brat_wenospeakamericano_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

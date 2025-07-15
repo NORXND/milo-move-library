@@ -1,0 +1,26 @@
+{
+  "name": "predator_switch",
+  "difficulty": 2,
+  "display_name": "Predator Switch",
+  "ham_move_name": "Barreto_Switch_stereolove.move",
+  "milo_name": "barreto_switch_stereolove",
+  "song_name": "stereolove",
+  "clips": {
+    "predator_switch_stereolove_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "predator_switch_stereolove_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

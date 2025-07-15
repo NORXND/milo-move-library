@@ -1,0 +1,18 @@
+{
+  "name": "pop_and_cradle",
+  "difficulty": 2,
+  "display_name": "Pop & Cradle",
+  "ham_move_name": "Picture_Frames_stereolove.move",
+  "milo_name": "picture_frames_stereolove",
+  "song_name": "stereolove",
+  "clips": {
+    "pop_and_cradle_stereolove_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

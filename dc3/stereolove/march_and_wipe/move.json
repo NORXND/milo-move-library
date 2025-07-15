@@ -1,0 +1,26 @@
+{
+  "name": "march_and_wipe",
+  "difficulty": 0,
+  "display_name": "March & Wipe",
+  "ham_move_name": "Chest_Drop_stereolove.move",
+  "milo_name": "chest_drop_stereolove",
+  "song_name": "stereolove",
+  "clips": {
+    "march_and_wipe_stereolove_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "march_and_wipe_stereolove_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

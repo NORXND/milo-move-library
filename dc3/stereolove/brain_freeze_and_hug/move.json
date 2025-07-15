@@ -1,0 +1,26 @@
+{
+  "name": "brain_freeze_and_hug",
+  "difficulty": 2,
+  "display_name": "Brain Freeze / Hug",
+  "ham_move_name": "Chaos_stereolove.move",
+  "milo_name": "chaos_stereolove",
+  "song_name": "stereolove",
+  "clips": {
+    "brain_freeze_and_hug_stereolove_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "brain_freeze_and_hug_stereolove_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

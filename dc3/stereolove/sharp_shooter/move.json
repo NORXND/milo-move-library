@@ -1,0 +1,26 @@
+{
+  "name": "sharp_shooter",
+  "difficulty": 0,
+  "display_name": "Sharp Shooter",
+  "ham_move_name": "Kick_Swing_stereolove.move",
+  "milo_name": "kick_swing_stereolove",
+  "song_name": "stereolove",
+  "clips": {
+    "sharp_shooter_stereolove_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sharp_shooter_stereolove_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "get_over_here",
+  "difficulty": 1,
+  "display_name": "Get Over Here",
+  "ham_move_name": "Sky_Rocket_stereolove.move",
+  "milo_name": "sky_rocket_stereolove",
+  "song_name": "stereolove",
+  "clips": {
+    "get_over_here_stereolove_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "get_over_here_stereolove_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

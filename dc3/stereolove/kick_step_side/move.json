@@ -1,0 +1,42 @@
+{
+  "name": "kick_step_side",
+  "difficulty": 1,
+  "display_name": "Kick Step Side",
+  "ham_move_name": "Kick_Step_Back_stereolove.move",
+  "milo_name": "kick_step_back_stereolove",
+  "song_name": "stereolove",
+  "clips": {
+    "kick_step_side_stereolove_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_step_side_stereolove_v3": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_step_side_stereolove_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_step_side_stereolove_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

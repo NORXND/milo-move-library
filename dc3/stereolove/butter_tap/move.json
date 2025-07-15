@@ -1,0 +1,18 @@
+{
+  "name": "butter_tap",
+  "difficulty": 2,
+  "display_name": "Butter Tap",
+  "ham_move_name": "Butter_Slide_stereolove.move",
+  "milo_name": "butter_slide_stereolove",
+  "song_name": "stereolove",
+  "clips": {
+    "butter_tap_stereolove_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

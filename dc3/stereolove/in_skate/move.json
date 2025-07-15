@@ -1,0 +1,26 @@
+{
+  "name": "in_skate",
+  "difficulty": 1,
+  "display_name": "In-Skate",
+  "ham_move_name": "In_Skate_stereolove.move",
+  "milo_name": "in_skate_stereolove",
+  "song_name": "stereolove",
+  "clips": {
+    "in_skate_stereolove_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "in_skate_stereolove_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

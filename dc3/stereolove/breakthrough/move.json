@@ -1,0 +1,26 @@
+{
+  "name": "breakthrough",
+  "difficulty": 2,
+  "display_name": "Breakthrough",
+  "ham_move_name": "Long_Stretch_stereolove.move",
+  "milo_name": "long_stretch_stereolove",
+  "song_name": "stereolove",
+  "clips": {
+    "breakthrough_stereolove_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "breakthrough_stereolove_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

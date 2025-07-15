@@ -1,0 +1,26 @@
+{
+  "name": "self_comfort",
+  "difficulty": 2,
+  "display_name": "Self Comfort",
+  "ham_move_name": "Broken_Comfort_stereolove.move",
+  "milo_name": "broken_comfort_stereolove",
+  "song_name": "stereolove",
+  "clips": {
+    "self_comfort_stereolove_v0": {
+      "avg_beats_per_second": 1.82,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "self_comfort_stereolove_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

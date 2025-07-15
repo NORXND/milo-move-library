@@ -1,0 +1,18 @@
+{
+  "name": "slider",
+  "difficulty": 2,
+  "display_name": "Slider",
+  "ham_move_name": "Sliddy_stereolove.move",
+  "milo_name": "sliddy_stereolove",
+  "song_name": "stereolove",
+  "clips": {
+    "slider_stereolove_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

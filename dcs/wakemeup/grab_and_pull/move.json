@@ -1,0 +1,26 @@
+{
+  "name": "grab_and_pull",
+  "difficulty": 0,
+  "display_name": "Grab & Pull",
+  "ham_move_name": "Grab_And_Pull_wakemeup.move",
+  "milo_name": "grab_and_pull_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "grab_and_pull_wakemeup_v0": {
+      "avg_beats_per_second": 2.4,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "grab_and_pull_wakemeup_v1": {
+      "avg_beats_per_second": 2.4,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

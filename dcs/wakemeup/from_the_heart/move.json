@@ -1,0 +1,18 @@
+{
+  "name": "from_the_heart",
+  "difficulty": 1,
+  "display_name": "From The Heart",
+  "ham_move_name": "From_The_Heart_wakemeup.move",
+  "milo_name": "from_the_heart_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "from_the_heart_wakemeup_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

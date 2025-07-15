@@ -1,0 +1,42 @@
+{
+  "name": "aerobatic_l",
+  "difficulty": 2,
+  "display_name": "Aerobatic",
+  "ham_move_name": "Aerobatic_L_wakemeup.move",
+  "milo_name": "aerobatic_l_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "aerobatic_l_wakemeup_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "aerobatic_l_wakemeup_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "aerobatic_l_wakemeup_v2": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "aerobatic_l_wakemeup_v3": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

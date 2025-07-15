@@ -1,0 +1,18 @@
+{
+  "name": "tour_guide",
+  "difficulty": 0,
+  "display_name": "Tour Guide",
+  "ham_move_name": "Tour_Guide_wakemeup.move",
+  "milo_name": "tour_guide_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "tour_guide_wakemeup_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

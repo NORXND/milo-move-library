@@ -1,0 +1,18 @@
+{
+  "name": "this_guy",
+  "difficulty": 2,
+  "display_name": "This Guy",
+  "ham_move_name": "This_Guy_wakemeup.move",
+  "milo_name": "this_guy_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "this_guy_wakemeup_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

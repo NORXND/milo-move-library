@@ -1,0 +1,18 @@
+{
+  "name": "vagabond_r",
+  "difficulty": 1,
+  "display_name": "Vagabond",
+  "ham_move_name": "Vagabond_R_wakemeup.move",
+  "milo_name": "vagabond_r_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "vagabond_r_wakemeup_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "vagabond_l_wakemeup_v0",
+      "linked_from": ""
+    }
+  }
+}

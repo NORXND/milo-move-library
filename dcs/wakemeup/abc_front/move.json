@@ -1,0 +1,42 @@
+{
+  "name": "abc_front",
+  "difficulty": 0,
+  "display_name": "ABC Front",
+  "ham_move_name": "Abc_Front_wakemeup.move",
+  "milo_name": "abc_front_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "abc_front_wakemeup_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "abc_front_wakemeup_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "abc_front_wakemeup_v2": {
+      "avg_beats_per_second": 2.03,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "abc_front_wakemeup_v3": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

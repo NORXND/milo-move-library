@@ -1,0 +1,18 @@
+{
+  "name": "right_tight",
+  "difficulty": 2,
+  "display_name": "Right Tight",
+  "ham_move_name": "Right_Tight_wakemeup.move",
+  "milo_name": "right_tight_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "right_tight_wakemeup_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

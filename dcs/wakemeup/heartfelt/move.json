@@ -1,0 +1,26 @@
+{
+  "name": "heartfelt",
+  "difficulty": 1,
+  "display_name": "Heartfelt",
+  "ham_move_name": "Heartfelt_wakemeup.move",
+  "milo_name": "heartfelt_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "heartfelt_wakemeup_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heartfelt_wakemeup_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

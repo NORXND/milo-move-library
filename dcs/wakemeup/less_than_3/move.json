@@ -1,0 +1,42 @@
+{
+  "name": "less_than_3",
+  "difficulty": 2,
+  "display_name": "Less Than 3",
+  "ham_move_name": "Less_Than_3_wakemeup.move",
+  "milo_name": "less_than_3_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "less_than_3_wakemeup_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "less_than_3_wakemeup_v1": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "less_than_3_wakemeup_v2": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "less_than_3_wakemeup_v3": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

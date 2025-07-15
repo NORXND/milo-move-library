@@ -1,0 +1,18 @@
+{
+  "name": "general_sto_r",
+  "difficulty": 2,
+  "display_name": "General StoÃ¶r",
+  "ham_move_name": "General_Sto_R_wakemeup.move",
+  "milo_name": "general_sto_r_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "general_sto_r_wakemeup_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

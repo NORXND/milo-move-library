@@ -1,0 +1,18 @@
+{
+  "name": "sincere",
+  "difficulty": 1,
+  "display_name": "Sincere",
+  "ham_move_name": "Sincere_wakemeup.move",
+  "milo_name": "sincere_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "sincere_wakemeup_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

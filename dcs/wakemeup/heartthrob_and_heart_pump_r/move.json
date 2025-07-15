@@ -1,0 +1,18 @@
+{
+  "name": "heartthrob_and_heart_pump_r",
+  "difficulty": 2,
+  "display_name": "Heartthrob / Heart Pump",
+  "ham_move_name": "Heartthrob_And_Heart_Pump_R_wakemeup.move",
+  "milo_name": "heartthrob_and_heart_pump_r_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "heartthrob_and_heart_pump_r_wakemeup_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "point_and_knee_dip_l",
+  "difficulty": 2,
+  "display_name": "Point & Knee Dip",
+  "ham_move_name": "Point_And_Knee_Dip_L_wakemeup.move",
+  "milo_name": "point_and_knee_dip_l_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "point_and_knee_dip_l_wakemeup_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "point_and_knee_dip_l_wakemeup_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

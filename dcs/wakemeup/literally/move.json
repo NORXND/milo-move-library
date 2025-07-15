@@ -1,0 +1,26 @@
+{
+  "name": "literally",
+  "difficulty": 2,
+  "display_name": "Literally",
+  "ham_move_name": "Literally_wakemeup.move",
+  "milo_name": "literally_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "literally_wakemeup_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "literally_wakemeup_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

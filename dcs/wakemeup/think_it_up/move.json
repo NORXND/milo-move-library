@@ -1,0 +1,18 @@
+{
+  "name": "think_it_up",
+  "difficulty": 1,
+  "display_name": "Think It Up",
+  "ham_move_name": "Think_It_Up_wakemeup.move",
+  "milo_name": "think_it_up_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "think_it_up_wakemeup_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

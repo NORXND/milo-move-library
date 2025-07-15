@@ -1,0 +1,42 @@
+{
+  "name": "blade_swing",
+  "difficulty": 0,
+  "display_name": "Blade Swing",
+  "ham_move_name": "Blade_Swing_wakemeup.move",
+  "milo_name": "blade_swing_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "blade_swing_wakemeup_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "blade_swing_wakemeup_v1": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "blade_swing_wakemeup_v2": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "blade_swing_wakemeup_v3": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

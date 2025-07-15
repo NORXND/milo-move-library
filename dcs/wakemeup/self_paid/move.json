@@ -1,0 +1,26 @@
+{
+  "name": "self_paid",
+  "difficulty": 1,
+  "display_name": "Self Paid",
+  "ham_move_name": "Self_Paid_wakemeup.move",
+  "milo_name": "self_paid_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "self_paid_wakemeup_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "self_paid_wakemeup_v1": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

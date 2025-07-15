@@ -1,0 +1,18 @@
+{
+  "name": "nudge_l",
+  "difficulty": 0,
+  "display_name": "Nudge",
+  "ham_move_name": "Nudge_L_wakemeup.move",
+  "milo_name": "nudge_l_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "nudge_l_wakemeup_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

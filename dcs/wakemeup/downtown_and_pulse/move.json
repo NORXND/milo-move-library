@@ -1,0 +1,18 @@
+{
+  "name": "downtown_and_pulse",
+  "difficulty": 1,
+  "display_name": "Downtown / Pulse",
+  "ham_move_name": "Downtown_And_Pulse_wakemeup.move",
+  "milo_name": "downtown_and_pulse_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "downtown_and_pulse_wakemeup_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

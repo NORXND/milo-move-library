@@ -1,0 +1,26 @@
+{
+  "name": "suction",
+  "difficulty": 1,
+  "display_name": "Suction",
+  "ham_move_name": "Suction_wakemeup.move",
+  "milo_name": "suction_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "suction_wakemeup_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "suction_wakemeup_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "wild_abandon_r",
+  "difficulty": 2,
+  "display_name": "Wild Abandon",
+  "ham_move_name": "Wild_Abandon_R_wakemeup.move",
+  "milo_name": "wild_abandon_r_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "wild_abandon_r_wakemeup_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "wild_abandon_l_wakemeup_v0",
+      "linked_from": ""
+    },
+    "wild_abandon_r_wakemeup_v1": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "wild_abandon_l_wakemeup_v1",
+      "linked_from": ""
+    }
+  }
+}

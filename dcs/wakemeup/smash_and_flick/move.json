@@ -1,0 +1,42 @@
+{
+  "name": "smash_and_flick",
+  "difficulty": 1,
+  "display_name": "Smash & Flick",
+  "ham_move_name": "Smash_And_Flick_wakemeup.move",
+  "milo_name": "smash_and_flick_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "smash_and_flick_wakemeup_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smash_and_flick_wakemeup_v1": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smash_and_flick_wakemeup_v2": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smash_and_flick_wakemeup_v3": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "sunbeam_wave_r",
+  "difficulty": 1,
+  "display_name": "Sunbeam Wave",
+  "ham_move_name": "Sunbeam_Wave_R_wakemeup.move",
+  "milo_name": "sunbeam_wave_r_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "sunbeam_wave_r_wakemeup_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "sunbeam_wave_l_wakemeup_v0",
+      "linked_from": ""
+    }
+  }
+}

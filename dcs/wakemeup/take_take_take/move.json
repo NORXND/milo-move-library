@@ -1,0 +1,18 @@
+{
+  "name": "take_take_take",
+  "difficulty": 1,
+  "display_name": "Take Take Take",
+  "ham_move_name": "Take_Take_Take_wakemeup.move",
+  "milo_name": "take_take_take_wakemeup",
+  "song_name": "wakemeup",
+  "clips": {
+    "take_take_take_wakemeup_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

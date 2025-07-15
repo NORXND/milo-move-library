@@ -1,0 +1,26 @@
+{
+  "name": "test_the_dancefloor_l",
+  "difficulty": 2,
+  "display_name": "Test The Dancefloor",
+  "ham_move_name": "Golly_Gee_L_thehustle.move",
+  "milo_name": "golly_gee_l_thehustle",
+  "song_name": "thehustle",
+  "clips": {
+    "test_the_dancefloor_l_thehustle_v1": {
+      "avg_beats_per_second": 1.85,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "test_the_dancefloor_l_thehustle_v0": {
+      "avg_beats_per_second": 1.85,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "shoulder_pep_r",
+  "difficulty": 0,
+  "display_name": "Shoulder Pep",
+  "ham_move_name": "Slither_R_thehustle.move",
+  "milo_name": "slither_r_thehustle",
+  "song_name": "thehustle",
+  "clips": {
+    "shoulder_pep_r_thehustle_v2": {
+      "avg_beats_per_second": 1.87,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "shoulder_pep_l_thehustle_v2",
+      "linked_from": ""
+    },
+    "shoulder_pep_r_thehustle_v0": {
+      "avg_beats_per_second": 1.87,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "shoulder_pep_l_thehustle_v0",
+      "linked_from": ""
+    },
+    "shoulder_pep_r_thehustle_v3": {
+      "avg_beats_per_second": 1.64,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "shoulder_pep_l_thehustle_v3",
+      "linked_from": "shoulder_pep_l_thehustle_v2"
+    },
+    "shoulder_pep_r_thehustle_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "shoulder_pep_l_thehustle_v1",
+      "linked_from": "shoulder_pep_l_thehustle_v0"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "walk_front_and_flap_l",
+  "difficulty": 2,
+  "display_name": "Walk Front & Flap",
+  "ham_move_name": "Front_Clap_L_thehustle.move",
+  "milo_name": "front_clap_l_thehustle",
+  "song_name": "thehustle",
+  "clips": {
+    "walk_front_and_flap_l_thehustle_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "walk_front_and_flap_l_thehustle_v1": {
+      "avg_beats_per_second": 1.58,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "walk_front_and_flap_l_thehustle_v2": {
+      "avg_beats_per_second": 1.57,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

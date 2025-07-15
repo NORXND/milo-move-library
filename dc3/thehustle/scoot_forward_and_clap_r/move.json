@@ -1,0 +1,26 @@
+{
+  "name": "scoot_forward_and_clap_r",
+  "difficulty": 2,
+  "display_name": "Scoot Forward & Clap",
+  "ham_move_name": "Chug_Forward_R_thehustle.move",
+  "milo_name": "chug_forward_r_thehustle",
+  "song_name": "thehustle",
+  "clips": {
+    "scoot_forward_and_clap_r_thehustle_v0": {
+      "avg_beats_per_second": 1.85,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scoot_forward_and_clap_r_thehustle_v1": {
+      "avg_beats_per_second": 1.85,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "snake",
+  "difficulty": 0,
+  "display_name": "Snake",
+  "ham_move_name": "Snake_thehustle.move",
+  "milo_name": "snake_thehustle",
+  "song_name": "thehustle",
+  "clips": {
+    "snake_thehustle_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "snake_thehustle_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

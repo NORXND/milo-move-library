@@ -1,0 +1,18 @@
+{
+  "name": "hop_hit_out",
+  "difficulty": 0,
+  "display_name": "Hop Hit Out",
+  "ham_move_name": "T_Bump_thehustle.move",
+  "milo_name": "t_bump_thehustle",
+  "song_name": "thehustle",
+  "clips": {
+    "hop_hit_out_thehustle_v0": {
+      "avg_beats_per_second": 1.86,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

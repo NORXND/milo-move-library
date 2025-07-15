@@ -1,0 +1,74 @@
+{
+  "name": "step_side",
+  "difficulty": 0,
+  "display_name": "Step Side",
+  "ham_move_name": "_2_Step_thehustle.move",
+  "milo_name": "_2_step_thehustle",
+  "song_name": "thehustle",
+  "clips": {
+    "step_side_thehustle_v0": {
+      "avg_beats_per_second": 1.85,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_thehustle_v5": {
+      "avg_beats_per_second": 1.62,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_thehustle_v3": {
+      "avg_beats_per_second": 1.85,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_thehustle_v1": {
+      "avg_beats_per_second": 1.85,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_thehustle_v6": {
+      "avg_beats_per_second": 1.86,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_thehustle_v4": {
+      "avg_beats_per_second": 1.58,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_thehustle_v2": {
+      "avg_beats_per_second": 1.86,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_thehustle_v7": {
+      "avg_beats_per_second": 1.85,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

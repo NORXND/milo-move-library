@@ -1,0 +1,26 @@
+{
+  "name": "triple_toe_tap_l",
+  "difficulty": 2,
+  "display_name": "Triple Toe Tap",
+  "ham_move_name": "Jolly_L_thehustle.move",
+  "milo_name": "jolly_l_thehustle",
+  "song_name": "thehustle",
+  "clips": {
+    "triple_toe_tap_l_thehustle_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "triple_toe_tap_l_thehustle_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

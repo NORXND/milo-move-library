@@ -1,0 +1,26 @@
+{
+  "name": "walk_back_and_snap_r",
+  "difficulty": 2,
+  "display_name": "Walk Back & Snap",
+  "ham_move_name": "Back_Snap_R_thehustle.move",
+  "milo_name": "back_snap_r_thehustle",
+  "song_name": "thehustle",
+  "clips": {
+    "walk_back_and_snap_r_thehustle_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "walk_back_and_snap_r_thehustle_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

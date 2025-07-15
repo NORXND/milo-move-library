@@ -1,0 +1,34 @@
+{
+  "name": "tri_toe_r",
+  "difficulty": 2,
+  "display_name": "Tri Toe",
+  "ham_move_name": "Tri_Toe_R_thehustle.move",
+  "milo_name": "tri_toe_r_thehustle",
+  "song_name": "thehustle",
+  "clips": {
+    "tri_toe_r_thehustle_v1": {
+      "avg_beats_per_second": 1.57,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tri_toe_r_thehustle_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tri_toe_r_thehustle_v2": {
+      "avg_beats_per_second": 1.56,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

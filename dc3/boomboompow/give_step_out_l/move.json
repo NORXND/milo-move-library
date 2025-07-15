@@ -1,0 +1,26 @@
+{
+  "name": "give_step_out_l",
+  "difficulty": 2,
+  "display_name": "Give Step Out",
+  "ham_move_name": "Tardy_L_boomboompow.move",
+  "milo_name": "tardy_l_boomboompow",
+  "song_name": "boomboompow",
+  "clips": {
+    "give_step_out_l_boomboompow_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "give_step_out_r_boomboompow_v0",
+      "linked_from": ""
+    },
+    "give_step_out_l_boomboompow_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "give_step_out_r_boomboompow_v1",
+      "linked_from": ""
+    }
+  }
+}

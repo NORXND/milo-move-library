@@ -1,0 +1,18 @@
+{
+  "name": "what_s_good",
+  "difficulty": 0,
+  "display_name": "What's Good",
+  "ham_move_name": "Ape_boomboompow.move",
+  "milo_name": "ape_boomboompow",
+  "song_name": "boomboompow",
+  "clips": {
+    "what_s_good_boomboompow_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

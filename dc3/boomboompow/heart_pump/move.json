@@ -1,0 +1,26 @@
+{
+  "name": "heart_pump",
+  "difficulty": 0,
+  "display_name": "Heart Pump",
+  "ham_move_name": "Pump_Ish_boomboompow.move",
+  "milo_name": "pump_ish_boomboompow",
+  "song_name": "boomboompow",
+  "clips": {
+    "heart_pump_boomboompow_v0": {
+      "avg_beats_per_second": 2.16,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heart_pump_boomboompow_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

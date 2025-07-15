@@ -1,0 +1,18 @@
+{
+  "name": "amp_tap",
+  "difficulty": 2,
+  "display_name": "Amp Tap",
+  "ham_move_name": "High_Steps_boomboompow.move",
+  "milo_name": "high_steps_boomboompow",
+  "song_name": "boomboompow",
+  "clips": {
+    "amp_tap_boomboompow_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "drum_step_side",
+  "difficulty": 2,
+  "display_name": "Drum Step Side",
+  "ham_move_name": "Rock_Dem_Beats_boomboompow.move",
+  "milo_name": "rock_dem_beats_boomboompow",
+  "song_name": "boomboompow",
+  "clips": {
+    "drum_step_side_boomboompow_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drum_step_side_boomboompow_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drum_step_side_boomboompow_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

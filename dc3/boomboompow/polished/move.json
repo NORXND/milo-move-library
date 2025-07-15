@@ -1,0 +1,26 @@
+{
+  "name": "polished",
+  "difficulty": 2,
+  "display_name": "Polished",
+  "ham_move_name": "Copy_Cat_boomboompow.move",
+  "milo_name": "copy_cat_boomboompow",
+  "song_name": "boomboompow",
+  "clips": {
+    "polished_boomboompow_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "polished_boomboompow_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

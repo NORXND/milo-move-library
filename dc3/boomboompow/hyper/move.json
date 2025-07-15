@@ -1,0 +1,18 @@
+{
+  "name": "hyper",
+  "difficulty": 2,
+  "display_name": "Hyper",
+  "ham_move_name": "Ampy_boomboompow.move",
+  "milo_name": "ampy_boomboompow",
+  "song_name": "boomboompow",
+  "clips": {
+    "hyper_boomboompow_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

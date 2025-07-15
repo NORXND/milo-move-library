@@ -1,0 +1,26 @@
+{
+  "name": "steelo_and_raise_up_walk",
+  "difficulty": 2,
+  "display_name": "Steelo / Raise Up Walk",
+  "ham_move_name": "Next_Level_Ish_boomboompow.move",
+  "milo_name": "next_level_ish_boomboompow",
+  "song_name": "boomboompow",
+  "clips": {
+    "steelo_and_raise_up_walk_boomboompow_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "steelo_and_raise_up_walk_boomboompow_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

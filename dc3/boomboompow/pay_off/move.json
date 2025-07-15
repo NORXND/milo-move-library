@@ -1,0 +1,26 @@
+{
+  "name": "pay_off",
+  "difficulty": 0,
+  "display_name": "Pay Off",
+  "ham_move_name": "Schnapps_boomboompow.move",
+  "milo_name": "schnapps_boomboompow",
+  "song_name": "boomboompow",
+  "clips": {
+    "pay_off_boomboompow_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pay_off_boomboompow_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

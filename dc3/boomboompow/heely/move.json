@@ -1,0 +1,26 @@
+{
+  "name": "heely",
+  "difficulty": 1,
+  "display_name": "Heely",
+  "ham_move_name": "Quick_Feet_boomboompow.move",
+  "milo_name": "quick_feet_boomboompow",
+  "song_name": "boomboompow",
+  "clips": {
+    "heely_boomboompow_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "heely_and_torch_boomboompow_v0",
+      "linked_from": ""
+    },
+    "heely_boomboompow_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "heely_and_torch_boomboompow_v1",
+      "linked_from": "heely_and_torch_boomboompow_v0"
+    }
+  }
+}

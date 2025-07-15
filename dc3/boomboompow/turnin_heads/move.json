@@ -1,0 +1,18 @@
+{
+  "name": "exception_turnin_heads_2",
+  "difficulty": 2,
+  "display_name": "Turnin' Heads",
+  "ham_move_name": "Get_Around_boomboompow.move",
+  "milo_name": "get_around_boomboompow",
+  "song_name": "boomboompow",
+  "clips": {
+    "turnin_heads_boomboompow_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "crazy_dj_r",
+  "difficulty": 2,
+  "display_name": "Crazy DJ",
+  "ham_move_name": "Wiggan_R_boomboompow.move",
+  "milo_name": "wiggan_r_boomboompow",
+  "song_name": "boomboompow",
+  "clips": {
+    "crazy_dj_r_boomboompow_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "crazy_dj_l_boomboompow_v0",
+      "linked_from": ""
+    }
+  }
+}

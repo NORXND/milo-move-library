@@ -1,0 +1,18 @@
+{
+  "name": "weave_r",
+  "difficulty": 2,
+  "display_name": "Weave",
+  "ham_move_name": "On_The_Run_R_boomboompow.move",
+  "milo_name": "on_the_run_r_boomboompow",
+  "song_name": "boomboompow",
+  "clips": {
+    "weave_r_boomboompow_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "weave_l_boomboompow_v0"
+    }
+  }
+}

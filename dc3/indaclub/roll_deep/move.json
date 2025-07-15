@@ -1,0 +1,26 @@
+{
+  "name": "roll_deep",
+  "difficulty": 2,
+  "display_name": "Roll Deep",
+  "ham_move_name": "Roll_Deep_indaclub.move",
+  "milo_name": "roll_deep_indaclub",
+  "song_name": "indaclub",
+  "clips": {
+    "roll_deep_indaclub_v0": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roll_deep_indaclub_v1": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

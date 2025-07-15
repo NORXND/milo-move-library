@@ -1,0 +1,18 @@
+{
+  "name": "rest_indaclub_v1000",
+  "difficulty": 2,
+  "display_name": "",
+  "ham_move_name": "Rest.move",
+  "milo_name": "rest",
+  "song_name": "indaclub",
+  "clips": {
+    "rest_indaclub_v1000": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 64,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

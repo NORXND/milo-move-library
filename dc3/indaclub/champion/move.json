@@ -1,0 +1,18 @@
+{
+  "name": "champion",
+  "difficulty": 2,
+  "display_name": "Champion",
+  "ham_move_name": "Drama_In_The_Club_indaclub.move",
+  "milo_name": "drama_in_the_club_indaclub",
+  "song_name": "indaclub",
+  "clips": {
+    "champion_indaclub_v0": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

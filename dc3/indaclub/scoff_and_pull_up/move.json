@@ -1,0 +1,18 @@
+{
+  "name": "scoff_and_pull_up",
+  "difficulty": 2,
+  "display_name": "Scoff / Pull Up",
+  "ham_move_name": "Dont_Pull_Me_Back_indaclub.move",
+  "milo_name": "dont_pull_me_back_indaclub",
+  "song_name": "indaclub",
+  "clips": {
+    "scoff_and_pull_up_indaclub_v0": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "that_s_my_jam_r",
+  "difficulty": 2,
+  "display_name": "That's My Jam",
+  "ham_move_name": "Mc_R_indaclub.move",
+  "milo_name": "mc_r_indaclub",
+  "song_name": "indaclub",
+  "clips": {
+    "that_s_my_jam_r_indaclub_v0": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "that_s_my_jam_l_indaclub_v0",
+      "linked_from": ""
+    }
+  }
+}

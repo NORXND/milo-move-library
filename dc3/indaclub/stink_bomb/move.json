@@ -1,0 +1,18 @@
+{
+  "name": "stink_bomb",
+  "difficulty": 2,
+  "display_name": "Stink Bomb",
+  "ham_move_name": "Money_Talks_indaclub.move",
+  "milo_name": "money_talks_indaclub",
+  "song_name": "indaclub",
+  "clips": {
+    "stink_bomb_indaclub_v0": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

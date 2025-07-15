@@ -1,0 +1,18 @@
+{
+  "name": "choke_hold",
+  "difficulty": 2,
+  "display_name": "Choke Hold",
+  "ham_move_name": "Choked_Up_indaclub.move",
+  "milo_name": "choked_up_indaclub",
+  "song_name": "indaclub",
+  "clips": {
+    "choke_hold_indaclub_v0": {
+      "avg_beats_per_second": 1.28,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

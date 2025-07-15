@@ -1,0 +1,50 @@
+{
+  "name": "ragdoll_l",
+  "difficulty": 2,
+  "display_name": "Ragdoll",
+  "ham_move_name": "Birthday_Suit_L_indaclub.move",
+  "milo_name": "birthday_suit_l_indaclub",
+  "song_name": "indaclub",
+  "clips": {
+    "ragdoll_l_indaclub_v0": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "ragdoll_r_indaclub_v0",
+      "linked_from": ""
+    },
+    "ragdoll_l_indaclub_v3": {
+      "avg_beats_per_second": 1.28,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "ragdoll_r_indaclub_v3",
+      "linked_from": ""
+    },
+    "ragdoll_l_indaclub_v1": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "ragdoll_r_indaclub_v1",
+      "linked_from": "ragdoll_r_indaclub_v0"
+    },
+    "ragdoll_l_indaclub_v4": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "ragdoll_r_indaclub_v4",
+      "linked_from": ""
+    },
+    "ragdoll_l_indaclub_v2": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "ragdoll_r_indaclub_v2",
+      "linked_from": ""
+    }
+  }
+}

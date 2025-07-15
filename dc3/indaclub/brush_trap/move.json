@@ -1,0 +1,26 @@
+{
+  "name": "brush_trap",
+  "difficulty": 2,
+  "display_name": "Brush Trap",
+  "ham_move_name": "Fix_Your_Swagg_indaclub.move",
+  "milo_name": "fix_your_swagg_indaclub",
+  "song_name": "indaclub",
+  "clips": {
+    "brush_trap_indaclub_v0": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "brush_trap_indaclub_v1": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

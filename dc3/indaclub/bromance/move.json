@@ -1,0 +1,18 @@
+{
+  "name": "bromance",
+  "difficulty": 2,
+  "display_name": "Bromance",
+  "ham_move_name": "Gangsta_Groove_indaclub.move",
+  "milo_name": "gangsta_groove_indaclub",
+  "song_name": "indaclub",
+  "clips": {
+    "bromance_indaclub_v0": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

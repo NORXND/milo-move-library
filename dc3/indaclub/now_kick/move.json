@@ -1,0 +1,50 @@
+{
+  "name": "now_kick",
+  "difficulty": 2,
+  "display_name": "Now Kick",
+  "ham_move_name": "Cupid_Kicks_indaclub.move",
+  "milo_name": "cupid_kicks_indaclub",
+  "song_name": "indaclub",
+  "clips": {
+    "now_kick_indaclub_v3": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "now_kick_indaclub_v1": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "now_kick_indaclub_v0": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "now_kick_indaclub_v4": {
+      "avg_beats_per_second": 1.28,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "now_kick_indaclub_v2": {
+      "avg_beats_per_second": 1.39,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

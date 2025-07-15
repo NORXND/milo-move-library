@@ -1,0 +1,18 @@
+{
+  "name": "exception__2_step_turn_2",
+  "difficulty": 2,
+  "display_name": "2 Step Turn",
+  "ham_move_name": "_2_Step_2_indaclub.move",
+  "milo_name": "_2_step_2_indaclub",
+  "song_name": "indaclub",
+  "clips": {
+    "_2_step_turn_indaclub_v1": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "_2_step_turn_indaclub_v0"
+    }
+  }
+}

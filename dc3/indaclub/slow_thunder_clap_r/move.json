@@ -1,0 +1,50 @@
+{
+  "name": "slow_thunder_clap_r",
+  "difficulty": 2,
+  "display_name": "Slow Thunder Clap",
+  "ham_move_name": "Club_Poppin_R_indaclub.move",
+  "milo_name": "club_poppin_r_indaclub",
+  "song_name": "indaclub",
+  "clips": {
+    "slow_thunder_clap_r_indaclub_v2": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "slow_thunder_clap_l_indaclub_v2",
+      "linked_from": ""
+    },
+    "slow_thunder_clap_r_indaclub_v3": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "slow_thunder_clap_l_indaclub_v3",
+      "linked_from": ""
+    },
+    "slow_thunder_clap_r_indaclub_v4": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "slow_thunder_clap_l_indaclub_v4",
+      "linked_from": ""
+    },
+    "slow_thunder_clap_r_indaclub_v0": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "slow_thunder_clap_l_indaclub_v0",
+      "linked_from": ""
+    },
+    "slow_thunder_clap_r_indaclub_v1": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "slow_thunder_clap_l_indaclub_v1",
+      "linked_from": ""
+    }
+  }
+}

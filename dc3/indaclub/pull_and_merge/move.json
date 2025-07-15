@@ -1,0 +1,18 @@
+{
+  "name": "pull_and_merge",
+  "difficulty": 2,
+  "display_name": "Pull & Merge",
+  "ham_move_name": "Pull_Up_indaclub.move",
+  "milo_name": "pull_up_indaclub",
+  "song_name": "indaclub",
+  "clips": {
+    "pull_and_merge_indaclub_v0": {
+      "avg_beats_per_second": 1.5,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

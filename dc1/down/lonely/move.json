@@ -1,0 +1,26 @@
+{
+  "name": "lonely",
+  "difficulty": 0,
+  "display_name": "Lonely",
+  "ham_move_name": "Lonely_down.move",
+  "milo_name": "lonely_down",
+  "song_name": "down",
+  "clips": {
+    "lonely_down_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "lonely_down_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

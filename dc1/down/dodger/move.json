@@ -1,0 +1,26 @@
+{
+  "name": "dodger",
+  "difficulty": 1,
+  "display_name": "Dodger",
+  "ham_move_name": "Cross_Down_down.move",
+  "milo_name": "cross_down_down",
+  "song_name": "down",
+  "clips": {
+    "dodger_down_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dodger_down_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "knockout_r",
+  "difficulty": 0,
+  "display_name": "Knockout",
+  "ham_move_name": "Knockout_R_down.move",
+  "milo_name": "knockout_r_down",
+  "song_name": "down",
+  "clips": {
+    "knockout_r_down_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "knockout_l_down_v0",
+      "linked_from": ""
+    }
+  }
+}

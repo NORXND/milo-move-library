@@ -1,0 +1,26 @@
+{
+  "name": "step_side",
+  "difficulty": 0,
+  "display_name": "Step Side",
+  "ham_move_name": "Step_Out_down.move",
+  "milo_name": "step_out_down",
+  "song_name": "down",
+  "clips": {
+    "step_side_down_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_down_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

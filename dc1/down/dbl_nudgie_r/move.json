@@ -1,0 +1,18 @@
+{
+  "name": "dbl_nudgie_r",
+  "difficulty": 1,
+  "display_name": "DBL Nudgie",
+  "ham_move_name": "DBL_Nudgie_R_down.move",
+  "milo_name": "dbl_nudgie_r_down",
+  "song_name": "down",
+  "clips": {
+    "dbl_nudgie_r_down_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "dbl_nudgie_l_down_v0",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "watch_out",
+  "difficulty": 1,
+  "display_name": "Watch Out",
+  "ham_move_name": "Watch_Out_down.move",
+  "milo_name": "watch_out_down",
+  "song_name": "down",
+  "clips": {
+    "watch_out_down_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

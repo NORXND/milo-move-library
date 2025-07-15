@@ -1,0 +1,42 @@
+{
+  "name": "no_worries",
+  "difficulty": 0,
+  "display_name": "No Worries",
+  "ham_move_name": "No_Worries_down.move",
+  "milo_name": "no_worries_down",
+  "song_name": "down",
+  "clips": {
+    "no_worries_down_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "no_worries_down_v3": {
+      "avg_beats_per_second": 2.2,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "no_worries_down_v2": {
+      "avg_beats_per_second": 2.2,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "no_worries_down_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

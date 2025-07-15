@@ -1,0 +1,26 @@
+{
+  "name": "freestyle_down",
+  "difficulty": 2,
+  "display_name": "FREESTYLE!",
+  "ham_move_name": "Freestyle.move",
+  "milo_name": "freestyle",
+  "song_name": "down",
+  "clips": {
+    "freestyle_down_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 96,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freestyle_down_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 96,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

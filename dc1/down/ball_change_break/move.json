@@ -1,0 +1,26 @@
+{
+  "name": "ball_change_break",
+  "difficulty": 2,
+  "display_name": "Ball Change Break",
+  "ham_move_name": "Ball_Change_Break_down.move",
+  "milo_name": "ball_change_break_down",
+  "song_name": "down",
+  "clips": {
+    "ball_change_break_down_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ball_change_break_down_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

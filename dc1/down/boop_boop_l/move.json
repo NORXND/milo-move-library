@@ -1,0 +1,18 @@
+{
+  "name": "boop_boop_l",
+  "difficulty": 1,
+  "display_name": "Boop-Boop",
+  "ham_move_name": "Boop_Boop_L_down.move",
+  "milo_name": "boop_boop_l_down",
+  "song_name": "down",
+  "clips": {
+    "boop_boop_l_down_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "boop_boop_r_down_v0"
+    }
+  }
+}

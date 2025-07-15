@@ -1,0 +1,26 @@
+{
+  "name": "my_only",
+  "difficulty": 1,
+  "display_name": "My Only",
+  "ham_move_name": "My_Only_down.move",
+  "milo_name": "my_only_down",
+  "song_name": "down",
+  "clips": {
+    "my_only_down_v1": {
+      "avg_beats_per_second": 2.19,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "my_only_down_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

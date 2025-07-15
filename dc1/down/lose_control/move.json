@@ -1,0 +1,18 @@
+{
+  "name": "lose_control",
+  "difficulty": 1,
+  "display_name": "Lose Control",
+  "ham_move_name": "Lose_Control_down.move",
+  "milo_name": "lose_control_down",
+  "song_name": "down",
+  "clips": {
+    "lose_control_down_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

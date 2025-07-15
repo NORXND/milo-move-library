@@ -1,0 +1,26 @@
+{
+  "name": "double_clap",
+  "difficulty": 2,
+  "display_name": "Double Clap",
+  "ham_move_name": "Dbl_Cap_beautyandabeat.move",
+  "milo_name": "dbl_cap_beautyandabeat",
+  "song_name": "beautyandabeat",
+  "clips": {
+    "double_clap_beautyandabeat_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_clap_beautyandabeat_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

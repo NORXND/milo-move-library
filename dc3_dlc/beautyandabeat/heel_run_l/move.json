@@ -1,0 +1,26 @@
+{
+  "name": "heel_run_l",
+  "difficulty": 2,
+  "display_name": "Heel Run",
+  "ham_move_name": "Heelies_L_beautyandabeat.move",
+  "milo_name": "heelies_l_beautyandabeat",
+  "song_name": "beautyandabeat",
+  "clips": {
+    "heel_run_l_beautyandabeat_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "heel_run_r_beautyandabeat_v0",
+      "linked_from": ""
+    },
+    "heel_run_l_beautyandabeat_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "heel_run_r_beautyandabeat_v1",
+      "linked_from": ""
+    }
+  }
+}

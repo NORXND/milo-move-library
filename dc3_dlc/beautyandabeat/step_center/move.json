@@ -1,0 +1,26 @@
+{
+  "name": "step_center",
+  "difficulty": 0,
+  "display_name": "Step Center",
+  "ham_move_name": "Sharp_Lean_beautyandabeat.move",
+  "milo_name": "sharp_lean_beautyandabeat",
+  "song_name": "beautyandabeat",
+  "clips": {
+    "step_center_beautyandabeat_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_center_beautyandabeat_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

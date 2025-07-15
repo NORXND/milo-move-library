@@ -1,0 +1,18 @@
+{
+  "name": "tell_it",
+  "difficulty": 0,
+  "display_name": "Tell It",
+  "ham_move_name": "Tap_Dat_beautyandabeat.move",
+  "milo_name": "tap_dat_beautyandabeat",
+  "song_name": "beautyandabeat",
+  "clips": {
+    "tell_it_beautyandabeat_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

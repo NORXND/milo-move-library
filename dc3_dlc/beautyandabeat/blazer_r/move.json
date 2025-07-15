@@ -1,0 +1,26 @@
+{
+  "name": "blazer_r",
+  "difficulty": 2,
+  "display_name": "Blazer",
+  "ham_move_name": "Funktion_R_beautyandabeat.move",
+  "milo_name": "funktion_r_beautyandabeat",
+  "song_name": "beautyandabeat",
+  "clips": {
+    "blazer_r_beautyandabeat_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "blazer_l_beautyandabeat_v1",
+      "linked_from": "blazer_l_beautyandabeat_v0"
+    },
+    "blazer_r_beautyandabeat_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "blazer_l_beautyandabeat_v1"
+    }
+  }
+}

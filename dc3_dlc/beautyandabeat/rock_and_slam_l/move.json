@@ -1,0 +1,26 @@
+{
+  "name": "rock_and_slam_l",
+  "difficulty": 2,
+  "display_name": "Rock & Slam",
+  "ham_move_name": "Body_Rocks_L_beautyandabeat.move",
+  "milo_name": "body_rocks_l_beautyandabeat",
+  "song_name": "beautyandabeat",
+  "clips": {
+    "rock_and_slam_l_beautyandabeat_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "rock_and_slam_r_beautyandabeat_v1",
+      "linked_from": "rock_and_slam_r_beautyandabeat_v0"
+    },
+    "rock_and_slam_l_beautyandabeat_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "rock_and_slam_r_beautyandabeat_v1"
+    }
+  }
+}

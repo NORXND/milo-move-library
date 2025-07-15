@@ -1,0 +1,42 @@
+{
+  "name": "spirit_r",
+  "difficulty": 0,
+  "display_name": "Spirit",
+  "ham_move_name": "Offer_U_R_beautyandabeat.move",
+  "milo_name": "offer_u_r_beautyandabeat",
+  "song_name": "beautyandabeat",
+  "clips": {
+    "spirit_r_beautyandabeat_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "spirit_l_beautyandabeat_v0"
+    },
+    "spirit_r_beautyandabeat_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "spirit_l_beautyandabeat_v1"
+    },
+    "spirit_r_beautyandabeat_v2": {
+      "avg_beats_per_second": 1.82,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "spirit_l_beautyandabeat_v2"
+    },
+    "spirit_r_beautyandabeat_v3": {
+      "avg_beats_per_second": 2.13,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "spirit_l_beautyandabeat_v3"
+    }
+  }
+}

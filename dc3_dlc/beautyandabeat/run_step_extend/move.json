@@ -1,0 +1,26 @@
+{
+  "name": "run_step_extend",
+  "difficulty": 2,
+  "display_name": "Run Step Extend",
+  "ham_move_name": "Skipper_beautyandabeat.move",
+  "milo_name": "skipper_beautyandabeat",
+  "song_name": "beautyandabeat",
+  "clips": {
+    "run_step_extend_beautyandabeat_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "run_step_extend_beautyandabeat_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

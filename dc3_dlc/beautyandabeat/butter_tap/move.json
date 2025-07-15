@@ -1,0 +1,26 @@
+{
+  "name": "butter_tap",
+  "difficulty": 2,
+  "display_name": "Butter Tap",
+  "ham_move_name": "Sly_beautyandabeat.move",
+  "milo_name": "sly_beautyandabeat",
+  "song_name": "beautyandabeat",
+  "clips": {
+    "butter_tap_beautyandabeat_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "butter_tap_beautyandabeat_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

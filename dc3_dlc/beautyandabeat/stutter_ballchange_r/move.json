@@ -1,0 +1,26 @@
+{
+  "name": "stutter_ballchange_r",
+  "difficulty": 2,
+  "display_name": "Stutter Ballchange",
+  "ham_move_name": "Stumbles_R_beautyandabeat.move",
+  "milo_name": "stumbles_r_beautyandabeat",
+  "song_name": "beautyandabeat",
+  "clips": {
+    "stutter_ballchange_r_beautyandabeat_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "stutter_ballchange_l_beautyandabeat_v0"
+    },
+    "stutter_ballchange_r_beautyandabeat_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "stutter_ballchange_l_beautyandabeat_v1"
+    }
+  }
+}

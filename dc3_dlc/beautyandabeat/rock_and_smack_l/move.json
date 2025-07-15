@@ -1,0 +1,18 @@
+{
+  "name": "rock_and_smack_l",
+  "difficulty": 2,
+  "display_name": "Rock & Smack",
+  "ham_move_name": "Lean_Rocks_L_beautyandabeat.move",
+  "milo_name": "lean_rocks_l_beautyandabeat",
+  "song_name": "beautyandabeat",
+  "clips": {
+    "rock_and_smack_l_beautyandabeat_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "rock_and_smack_r_beautyandabeat_v0",
+      "linked_from": ""
+    }
+  }
+}

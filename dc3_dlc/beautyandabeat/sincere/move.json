@@ -1,0 +1,18 @@
+{
+  "name": "sincere",
+  "difficulty": 0,
+  "display_name": "Sincere",
+  "ham_move_name": "Slow_Grab_beautyandabeat.move",
+  "milo_name": "slow_grab_beautyandabeat",
+  "song_name": "beautyandabeat",
+  "clips": {
+    "sincere_beautyandabeat_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "for_ever_beautyandabeat_v0",
+      "linked_from": ""
+    }
+  }
+}

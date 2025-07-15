@@ -1,0 +1,26 @@
+{
+  "name": "alter_ego",
+  "difficulty": 2,
+  "display_name": "Alter ego",
+  "ham_move_name": "Face_Offs_beautyandabeat.move",
+  "milo_name": "face_offs_beautyandabeat",
+  "song_name": "beautyandabeat",
+  "clips": {
+    "alter_ego_beautyandabeat_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "alter_ego_beautyandabeat_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

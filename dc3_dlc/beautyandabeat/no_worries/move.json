@@ -1,0 +1,18 @@
+{
+  "name": "no_worries",
+  "difficulty": 0,
+  "display_name": "No Worries",
+  "ham_move_name": "Nevah_beautyandabeat.move",
+  "milo_name": "nevah_beautyandabeat",
+  "song_name": "beautyandabeat",
+  "clips": {
+    "no_worries_beautyandabeat_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

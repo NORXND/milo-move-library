@@ -1,0 +1,26 @@
+{
+  "name": "max",
+  "difficulty": 2,
+  "display_name": "Max",
+  "ham_move_name": "Max_beautyandabeat.move",
+  "milo_name": "max_beautyandabeat",
+  "song_name": "beautyandabeat",
+  "clips": {
+    "max_beautyandabeat_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "max_beautyandabeat_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

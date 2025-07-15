@@ -1,0 +1,18 @@
+{
+  "name": "offering",
+  "difficulty": 2,
+  "display_name": "Offering",
+  "ham_move_name": "Slow_Flash_beautyandabeat.move",
+  "milo_name": "slow_flash_beautyandabeat",
+  "song_name": "beautyandabeat",
+  "clips": {
+    "offering_beautyandabeat_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "dog_pound",
+  "difficulty": 0,
+  "display_name": "Dog Pound",
+  "ham_move_name": "Rope_Burn_beautyandabeat.move",
+  "milo_name": "rope_burn_beautyandabeat",
+  "song_name": "beautyandabeat",
+  "clips": {
+    "dog_pound_beautyandabeat_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dog_pound_beautyandabeat_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

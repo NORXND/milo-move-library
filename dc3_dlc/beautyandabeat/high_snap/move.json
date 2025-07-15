@@ -1,0 +1,26 @@
+{
+  "name": "high_snap",
+  "difficulty": 0,
+  "display_name": "High Snap",
+  "ham_move_name": "High_Snaps_beautyandabeat.move",
+  "milo_name": "high_snaps_beautyandabeat",
+  "song_name": "beautyandabeat",
+  "clips": {
+    "high_snap_beautyandabeat_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "high_snap_beautyandabeat_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

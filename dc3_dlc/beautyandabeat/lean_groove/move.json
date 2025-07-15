@@ -1,0 +1,26 @@
+{
+  "name": "lean_groove",
+  "difficulty": 2,
+  "display_name": "Lean Groove",
+  "ham_move_name": "Side_Rocks_beautyandabeat.move",
+  "milo_name": "side_rocks_beautyandabeat",
+  "song_name": "beautyandabeat",
+  "clips": {
+    "lean_groove_beautyandabeat_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "lean_groove_beautyandabeat_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

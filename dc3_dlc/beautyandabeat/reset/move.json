@@ -1,0 +1,18 @@
+{
+  "name": "reset",
+  "difficulty": 2,
+  "display_name": "Reset",
+  "ham_move_name": "Liyah_beautyandabeat.move",
+  "milo_name": "liyah_beautyandabeat",
+  "song_name": "beautyandabeat",
+  "clips": {
+    "reset_beautyandabeat_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "petite_feet",
+  "difficulty": 0,
+  "display_name": "Petite Feet",
+  "ham_move_name": "Footies_thewayiare.move",
+  "milo_name": "footies_thewayiare",
+  "song_name": "thewayiare",
+  "clips": {
+    "petite_feet_thewayiare_v0": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "petite_feet_thewayiare_v1": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

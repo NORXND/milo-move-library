@@ -1,0 +1,18 @@
+{
+  "name": "propose_l",
+  "difficulty": 2,
+  "display_name": "Propose",
+  "ham_move_name": "Propose_L_thewayiare.move",
+  "milo_name": "propose_l_thewayiare",
+  "song_name": "thewayiare",
+  "clips": {
+    "propose_l_thewayiare_v0": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "propose_r_thewayiare_v0",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "pride_stride",
+  "difficulty": 0,
+  "display_name": "Pride Stride",
+  "ham_move_name": "Booble_Walk_thewayiare.move",
+  "milo_name": "booble_walk_thewayiare",
+  "song_name": "thewayiare",
+  "clips": {
+    "pride_stride_thewayiare_v0": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pride_stride_thewayiare_v1": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pride_stride_thewayiare_v2": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pride_stride_thewayiare_v3": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

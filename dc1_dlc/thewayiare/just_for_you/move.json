@@ -1,0 +1,26 @@
+{
+  "name": "just_for_you",
+  "difficulty": 1,
+  "display_name": "Just For You",
+  "ham_move_name": "Figure_thewayiare.move",
+  "milo_name": "figure_thewayiare",
+  "song_name": "thewayiare",
+  "clips": {
+    "just_for_you_thewayiare_v1": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "just_for_you_thewayiare_v0": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

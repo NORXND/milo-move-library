@@ -1,0 +1,26 @@
+{
+  "name": "this_guy",
+  "difficulty": 1,
+  "display_name": "This Guy",
+  "ham_move_name": "Mmmmeeeeee_thewayiare.move",
+  "milo_name": "mmmmeeeeee_thewayiare",
+  "song_name": "thewayiare",
+  "clips": {
+    "this_guy_thewayiare_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "this_guy_thewayiare_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

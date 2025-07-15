@@ -1,0 +1,26 @@
+{
+  "name": "twist_o_just",
+  "difficulty": 2,
+  "display_name": "Twist-o-Just",
+  "ham_move_name": "Robo_Adjustment_thewayiare.move",
+  "milo_name": "robo_adjustment_thewayiare",
+  "song_name": "thewayiare",
+  "clips": {
+    "twist_o_just_thewayiare_v0": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "twist_o_just_thewayiare_v1": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

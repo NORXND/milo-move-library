@@ -1,0 +1,18 @@
+{
+  "name": "turnstile",
+  "difficulty": 2,
+  "display_name": "Turnstile",
+  "ham_move_name": "Except_thewayiare.move",
+  "milo_name": "except_thewayiare",
+  "song_name": "thewayiare",
+  "clips": {
+    "turnstile_thewayiare_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

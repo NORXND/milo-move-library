@@ -1,0 +1,26 @@
+{
+  "name": "nick_tuck_l",
+  "difficulty": 1,
+  "display_name": "Nick Tuck",
+  "ham_move_name": "Im_So_Nick_L_thewayiare.move",
+  "milo_name": "im_so_nick_l_thewayiare",
+  "song_name": "thewayiare",
+  "clips": {
+    "nick_tuck_l_thewayiare_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "nick_tuck_r_thewayiare_v1",
+      "linked_from": ""
+    },
+    "nick_tuck_l_thewayiare_v0": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "nick_tuck_r_thewayiare_v0",
+      "linked_from": ""
+    }
+  }
+}

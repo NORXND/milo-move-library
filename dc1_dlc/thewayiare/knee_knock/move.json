@@ -1,0 +1,42 @@
+{
+  "name": "knee_knock",
+  "difficulty": 0,
+  "display_name": "Knee Knock",
+  "ham_move_name": "Knee_Knoc_thewayiare.move",
+  "milo_name": "knee_knoc_thewayiare",
+  "song_name": "thewayiare",
+  "clips": {
+    "knee_knock_thewayiare_v2": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "knee_knock_thewayiare_v0": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "knee_knock_thewayiare_v3": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "knee_knock_thewayiare_v1": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

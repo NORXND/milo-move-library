@@ -1,0 +1,26 @@
+{
+  "name": "kick_switch",
+  "difficulty": 2,
+  "display_name": "Kick Switch",
+  "ham_move_name": "Kick_Switch_thewayiare.move",
+  "milo_name": "kick_switch_thewayiare",
+  "song_name": "thewayiare",
+  "clips": {
+    "kick_switch_thewayiare_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_switch_thewayiare_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

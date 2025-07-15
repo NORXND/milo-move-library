@@ -1,0 +1,18 @@
+{
+  "name": "jock",
+  "difficulty": 1,
+  "display_name": "Jock",
+  "ham_move_name": "Jock_crankthat.move",
+  "milo_name": "jock_crankthat",
+  "song_name": "crankthat",
+  "clips": {
+    "jock_crankthat_v0": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "don_t_hate_r",
+  "difficulty": 0,
+  "display_name": "Don't Hate",
+  "ham_move_name": "Step_Out_R_crankthat.move",
+  "milo_name": "step_out_r_crankthat",
+  "song_name": "crankthat",
+  "clips": {
+    "don_t_hate_r_crankthat_v0": {
+      "avg_beats_per_second": 2.34,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "don_t_hate_l_crankthat_v0",
+      "linked_from": ""
+    }
+  }
+}

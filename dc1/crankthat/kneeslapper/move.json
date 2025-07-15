@@ -1,0 +1,50 @@
+{
+  "name": "kneeslapper",
+  "difficulty": 1,
+  "display_name": "Kneeslapper",
+  "ham_move_name": "Step_Step_Knee_Hit_crankthat.move",
+  "milo_name": "step_step_knee_hit_crankthat",
+  "song_name": "crankthat",
+  "clips": {
+    "kneeslapper_crankthat_v0": {
+      "avg_beats_per_second": 2.34,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kneeslapper_crankthat_v1": {
+      "avg_beats_per_second": 2.34,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kneeslapper_crankthat_v2": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kneeslapper_crankthat_v3": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kneeslapper_crankthat_v4": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

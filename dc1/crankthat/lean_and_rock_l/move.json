@@ -1,0 +1,26 @@
+{
+  "name": "lean_and_rock_l",
+  "difficulty": 0,
+  "display_name": "Lean & Rock",
+  "ham_move_name": "Lean_and_Rock_L_crankthat.move",
+  "milo_name": "lean_and_rock_l_crankthat",
+  "song_name": "crankthat",
+  "clips": {
+    "lean_and_rock_l_crankthat_v0": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "lean_and_rock_r_crankthat_v8",
+      "linked_from": "lean_and_rock_r_crankthat_v7"
+    },
+    "lean_and_rock_l_crankthat_v1": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "lean_and_rock_r_crankthat_v8"
+    }
+  }
+}

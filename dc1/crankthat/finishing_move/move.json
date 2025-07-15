@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_crankthat_v1077",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Superman_Pose_crankthat.move",
+  "milo_name": "superman_pose_crankthat",
+  "song_name": "crankthat",
+  "clips": {
+    "finishing_move_crankthat_v1077": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

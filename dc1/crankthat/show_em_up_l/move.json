@@ -1,0 +1,18 @@
+{
+  "name": "show_em_up_l",
+  "difficulty": 0,
+  "display_name": "Show 'em Up",
+  "ham_move_name": "Show_em_Up_L_crankthat.move",
+  "milo_name": "show_em_up_l_crankthat",
+  "song_name": "crankthat",
+  "clips": {
+    "show_em_up_l_crankthat_v0": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "show_em_up_r_crankthat_v0",
+      "linked_from": ""
+    }
+  }
+}

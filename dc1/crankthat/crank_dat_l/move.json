@@ -1,0 +1,90 @@
+{
+  "name": "crank_dat_l",
+  "difficulty": 0,
+  "display_name": "Crank Dat",
+  "ham_move_name": "Crank_Dat_L_crankthat.move",
+  "milo_name": "crank_dat_r_crankthat",
+  "song_name": "crankthat",
+  "clips": {
+    "crank_dat_l_crankthat_v0": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "crank_dat_r_crankthat_v0",
+      "linked_from": ""
+    },
+    "crank_dat_l_crankthat_v5": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "crank_dat_r_crankthat_v5",
+      "linked_from": "crank_dat_r_crankthat_v4"
+    },
+    "crank_dat_l_crankthat_v3": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "crank_dat_r_crankthat_v3",
+      "linked_from": "crank_dat_r_crankthat_v2"
+    },
+    "crank_dat_l_crankthat_v8": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "crank_dat_r_crankthat_v8",
+      "linked_from": ""
+    },
+    "crank_dat_l_crankthat_v1": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "crank_dat_r_crankthat_v1",
+      "linked_from": "crank_dat_r_crankthat_v0"
+    },
+    "crank_dat_l_crankthat_v6": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "crank_dat_r_crankthat_v6",
+      "linked_from": ""
+    },
+    "crank_dat_l_crankthat_v4": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "crank_dat_r_crankthat_v4",
+      "linked_from": ""
+    },
+    "crank_dat_l_crankthat_v9": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "crank_dat_r_crankthat_v9",
+      "linked_from": "crank_dat_r_crankthat_v8"
+    },
+    "crank_dat_l_crankthat_v2": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "crank_dat_r_crankthat_v2",
+      "linked_from": ""
+    },
+    "crank_dat_l_crankthat_v7": {
+      "avg_beats_per_second": 2.34,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "crank_dat_r_crankthat_v7",
+      "linked_from": "crank_dat_r_crankthat_v6"
+    }
+  }
+}

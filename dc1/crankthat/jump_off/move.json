@@ -1,0 +1,58 @@
+{
+  "name": "jump_off",
+  "difficulty": 2,
+  "display_name": "Jump Off",
+  "ham_move_name": "Cross_Jump_Foot_Hit_crankthat.move",
+  "milo_name": "cross_jump_foot_hit_crankthat",
+  "song_name": "crankthat",
+  "clips": {
+    "jump_off_crankthat_v3": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jump_off_crankthat_v1": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jump_off_crankthat_v4": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jump_off_crankthat_v2": {
+      "avg_beats_per_second": 2.34,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jump_off_crankthat_v0": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jump_off_crankthat_v5": {
+      "avg_beats_per_second": 2.34,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

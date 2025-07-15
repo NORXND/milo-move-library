@@ -1,0 +1,18 @@
+{
+  "name": "punch_out",
+  "difficulty": 0,
+  "display_name": "Punch Out",
+  "ham_move_name": "Knock_Out_crankthat.move",
+  "milo_name": "knock_out_crankthat",
+  "song_name": "crankthat",
+  "clips": {
+    "punch_out_crankthat_v0": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

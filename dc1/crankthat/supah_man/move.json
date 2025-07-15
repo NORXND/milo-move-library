@@ -1,0 +1,58 @@
+{
+  "name": "supah_man",
+  "difficulty": 0,
+  "display_name": "Supah Man",
+  "ham_move_name": "Superman_crankthat.move",
+  "milo_name": "superman_crankthat",
+  "song_name": "crankthat",
+  "clips": {
+    "supah_man_crankthat_v0": {
+      "avg_beats_per_second": 2.34,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "supah_man_crankthat_v1": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "supah_man_crankthat_v2": {
+      "avg_beats_per_second": 2.34,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "supah_man_crankthat_v3": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "supah_man_crankthat_v4": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "supah_man_crankthat_v5": {
+      "avg_beats_per_second": 2.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

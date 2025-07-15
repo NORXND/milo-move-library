@@ -1,0 +1,34 @@
+{
+  "name": "club_kid_r",
+  "difficulty": 0,
+  "display_name": "Club Kid",
+  "ham_move_name": "Go_Dj_R_ilikeit.move",
+  "milo_name": "go_dj_r_ilikeit",
+  "song_name": "ilikeit",
+  "clips": {
+    "club_kid_r_ilikeit_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "club_kid_r_ilikeit_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "club_kid_l_ilikeit_v0",
+      "linked_from": ""
+    },
+    "club_kid_r_ilikeit_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

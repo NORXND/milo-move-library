@@ -1,0 +1,26 @@
+{
+  "name": "concert_jump_l",
+  "difficulty": 0,
+  "display_name": "Concert Jump",
+  "ham_move_name": "Concert_Jump_L_ilikeit.move",
+  "milo_name": "concert_jump_l_ilikeit",
+  "song_name": "ilikeit",
+  "clips": {
+    "concert_jump_l_ilikeit_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "concert_jump_l_ilikeit_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "watcher",
+  "difficulty": 1,
+  "display_name": "Watcher",
+  "ham_move_name": "Watcher_ilikeit.move",
+  "milo_name": "watcher_ilikeit",
+  "song_name": "ilikeit",
+  "clips": {
+    "watcher_ilikeit_v0": {
+      "avg_beats_per_second": 1.85,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

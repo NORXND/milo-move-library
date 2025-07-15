@@ -1,0 +1,18 @@
+{
+  "name": "equalizer",
+  "difficulty": 2,
+  "display_name": "Equalizer",
+  "ham_move_name": "Equalizer_ilikeit.move",
+  "milo_name": "equalizer_ilikeit",
+  "song_name": "ilikeit",
+  "clips": {
+    "equalizer_ilikeit_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

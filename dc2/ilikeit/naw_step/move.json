@@ -1,0 +1,42 @@
+{
+  "name": "naw_step",
+  "difficulty": 0,
+  "display_name": "Naw Step",
+  "ham_move_name": "Naw_Step_ilikeit.move",
+  "milo_name": "naw_step_ilikeit",
+  "song_name": "ilikeit",
+  "clips": {
+    "naw_step_ilikeit_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "naw_step_ilikeit_v2": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "naw_step_ilikeit_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "naw_step_ilikeit_v3": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

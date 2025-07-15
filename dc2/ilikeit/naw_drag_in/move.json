@@ -1,0 +1,26 @@
+{
+  "name": "naw_drag_in",
+  "difficulty": 0,
+  "display_name": "Naw Drag In",
+  "ham_move_name": "Slide_Stuff_ilikeit.move",
+  "milo_name": "slide_stuff_ilikeit",
+  "song_name": "ilikeit",
+  "clips": {
+    "naw_drag_in_ilikeit_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "naw_drag_in_ilikeit_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

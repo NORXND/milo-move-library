@@ -1,0 +1,74 @@
+{
+  "name": "testify_clap",
+  "difficulty": 0,
+  "display_name": "Testify Clap",
+  "ham_move_name": "Swing_Clap_sayhey.move",
+  "milo_name": "swing_clap_sayhey",
+  "song_name": "sayhey",
+  "clips": {
+    "testify_clap_sayhey_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "testify_clap_sayhey_v5": {
+      "avg_beats_per_second": 1.55,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "testify_clap_sayhey_v3": {
+      "avg_beats_per_second": 1.55,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "testify_clap_sayhey_v1": {
+      "avg_beats_per_second": 1.55,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "testify_clap_sayhey_v6": {
+      "avg_beats_per_second": 1.55,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "testify_clap_sayhey_v4": {
+      "avg_beats_per_second": 1.34,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "testify_clap_sayhey_v2": {
+      "avg_beats_per_second": 1.55,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "testify_clap_sayhey_v7": {
+      "avg_beats_per_second": 1.55,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

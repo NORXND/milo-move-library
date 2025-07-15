@@ -1,0 +1,26 @@
+{
+  "name": "x_ball_change",
+  "difficulty": 0,
+  "display_name": "X Ball Change",
+  "ham_move_name": "Back_Cross_sayhey.move",
+  "milo_name": "back_cross_sayhey",
+  "song_name": "sayhey",
+  "clips": {
+    "x_ball_change_sayhey_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "x_ball_change_sayhey_v1": {
+      "avg_beats_per_second": 1.55,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "heel_swerve_l",
+  "difficulty": 2,
+  "display_name": "Heel Swerve",
+  "ham_move_name": "Heel_Toe_L_sayhey.move",
+  "milo_name": "heel_toe_l_sayhey",
+  "song_name": "sayhey",
+  "clips": {
+    "heel_swerve_l_sayhey_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "heel_swerve_r_sayhey_v0"
+    }
+  }
+}

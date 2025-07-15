@@ -1,0 +1,34 @@
+{
+  "name": "ragga_sway",
+  "difficulty": 2,
+  "display_name": "Ragga Sway",
+  "ham_move_name": "Tootsie_sayhey.move",
+  "milo_name": "tootsie_sayhey",
+  "song_name": "sayhey",
+  "clips": {
+    "ragga_sway_sayhey_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ragga_sway_sayhey_v1": {
+      "avg_beats_per_second": 1.55,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ragga_sway_sayhey_v2": {
+      "avg_beats_per_second": 1.55,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

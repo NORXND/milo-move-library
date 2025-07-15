@@ -1,0 +1,34 @@
+{
+  "name": "glide",
+  "difficulty": 2,
+  "display_name": "Glide",
+  "ham_move_name": "Glide_Rl_allaroundtheworld.move",
+  "milo_name": "glide_rl_allaroundtheworld",
+  "song_name": "allaroundtheworld",
+  "clips": {
+    "glide_allaroundtheworld_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "glide_allaroundtheworld_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "glide_allaroundtheworld_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

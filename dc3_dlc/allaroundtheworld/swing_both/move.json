@@ -1,0 +1,26 @@
+{
+  "name": "swing_both",
+  "difficulty": 0,
+  "display_name": "Swing Both",
+  "ham_move_name": "Como_Peace_allaroundtheworld.move",
+  "milo_name": "como_peace_allaroundtheworld",
+  "song_name": "allaroundtheworld",
+  "clips": {
+    "swing_both_allaroundtheworld_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swing_both_allaroundtheworld_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

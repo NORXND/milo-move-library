@@ -1,0 +1,26 @@
+{
+  "name": "nefertiti",
+  "difficulty": 2,
+  "display_name": "Nefertiti",
+  "ham_move_name": "Nefertiti_allaroundtheworld.move",
+  "milo_name": "nefertiti_allaroundtheworld",
+  "song_name": "allaroundtheworld",
+  "clips": {
+    "nefertiti_allaroundtheworld_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "nefertiti_allaroundtheworld_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

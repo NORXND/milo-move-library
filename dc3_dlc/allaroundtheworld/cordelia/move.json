@@ -1,0 +1,26 @@
+{
+  "name": "cordelia",
+  "difficulty": 2,
+  "display_name": "Cordelia",
+  "ham_move_name": "Pet_Lefty_allaroundtheworld.move",
+  "milo_name": "pet_lefty_allaroundtheworld",
+  "song_name": "allaroundtheworld",
+  "clips": {
+    "cordelia_allaroundtheworld_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cordelia_allaroundtheworld_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

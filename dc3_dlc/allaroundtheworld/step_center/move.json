@@ -1,0 +1,34 @@
+{
+  "name": "step_center",
+  "difficulty": 0,
+  "display_name": "Step Center",
+  "ham_move_name": "Looney_Walk_allaroundtheworld.move",
+  "milo_name": "looney_walk_allaroundtheworld",
+  "song_name": "allaroundtheworld",
+  "clips": {
+    "step_center_allaroundtheworld_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_center_allaroundtheworld_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_center_allaroundtheworld_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

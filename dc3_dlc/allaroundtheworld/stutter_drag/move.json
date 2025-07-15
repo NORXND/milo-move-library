@@ -1,0 +1,34 @@
+{
+  "name": "stutter_drag",
+  "difficulty": 2,
+  "display_name": "Stutter Drag",
+  "ham_move_name": "Stutter_Skate_allaroundtheworld.move",
+  "milo_name": "stutter_skate_allaroundtheworld",
+  "song_name": "allaroundtheworld",
+  "clips": {
+    "stutter_drag_allaroundtheworld_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stutter_drag_allaroundtheworld_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stutter_drag_allaroundtheworld_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

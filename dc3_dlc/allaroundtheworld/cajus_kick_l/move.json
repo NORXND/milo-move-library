@@ -1,0 +1,58 @@
+{
+  "name": "cajus_kick_l",
+  "difficulty": 2,
+  "display_name": "Cajus Kick",
+  "ham_move_name": "Callaway_Kick_R_Facing_L_allaroundtheworld.move",
+  "milo_name": "callaway_kick_r_facing_l_allaroundtheworld",
+  "song_name": "allaroundtheworld",
+  "clips": {
+    "cajus_kick_l_allaroundtheworld_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cajus_kick_l_allaroundtheworld_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cajus_kick_l_allaroundtheworld_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cajus_kick_l_allaroundtheworld_v3": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cajus_kick_l_allaroundtheworld_v4": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cajus_kick_l_allaroundtheworld_v5": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

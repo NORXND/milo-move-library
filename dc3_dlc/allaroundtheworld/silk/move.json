@@ -1,0 +1,18 @@
+{
+  "name": "silk",
+  "difficulty": 0,
+  "display_name": "Silk",
+  "ham_move_name": "Silk_Left_Right_allaroundtheworld.move",
+  "milo_name": "silk_left_right_allaroundtheworld",
+  "song_name": "allaroundtheworld",
+  "clips": {
+    "silk_allaroundtheworld_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "power_windows_r",
+  "difficulty": 2,
+  "display_name": "Power Windows",
+  "ham_move_name": "Screw_Dat_R_allaroundtheworld.move",
+  "milo_name": "screw_dat_r_allaroundtheworld",
+  "song_name": "allaroundtheworld",
+  "clips": {
+    "power_windows_r_allaroundtheworld_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "power_windows_r_allaroundtheworld_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "time_twist_l",
+  "difficulty": 2,
+  "display_name": "Time Twist",
+  "ham_move_name": "Time_Twist_Lean_L_allaroundtheworld.move",
+  "milo_name": "time_twist_lean_l_allaroundtheworld",
+  "song_name": "allaroundtheworld",
+  "clips": {
+    "time_twist_l_allaroundtheworld_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "time_twist_r_allaroundtheworld_v0"
+    }
+  }
+}

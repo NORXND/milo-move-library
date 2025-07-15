@@ -1,0 +1,18 @@
+{
+  "name": "suede_runner_and_end",
+  "difficulty": 2,
+  "display_name": "Suede Runner & End",
+  "ham_move_name": "Mouse_Trap_2_And_End_allaroundtheworld.move",
+  "milo_name": "mouse_trap_2_and_end_allaroundtheworld",
+  "song_name": "allaroundtheworld",
+  "clips": {
+    "suede_runner_and_end_allaroundtheworld_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

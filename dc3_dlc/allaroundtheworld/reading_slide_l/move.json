@@ -1,0 +1,26 @@
+{
+  "name": "reading_slide_l",
+  "difficulty": 2,
+  "display_name": "Reading Slide",
+  "ham_move_name": "Reading_Slide_L_allaroundtheworld.move",
+  "milo_name": "reading_slide_l_allaroundtheworld",
+  "song_name": "allaroundtheworld",
+  "clips": {
+    "reading_slide_l_allaroundtheworld_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "reading_slide_r_allaroundtheworld_v0"
+    },
+    "reading_slide_l_allaroundtheworld_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "reading_slide_r_allaroundtheworld_v1"
+    }
+  }
+}

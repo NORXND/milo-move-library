@@ -1,0 +1,18 @@
+{
+  "name": "demeterandclub_monster",
+  "difficulty": 2,
+  "display_name": "Demeter/Club Monster",
+  "ham_move_name": "Corset_Lefty_Righty_allaroundtheworld.move",
+  "milo_name": "corset_lefty_righty_allaroundtheworld",
+  "song_name": "allaroundtheworld",
+  "clips": {
+    "demeterandclub_monster_allaroundtheworld_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

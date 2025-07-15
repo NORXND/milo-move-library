@@ -1,0 +1,18 @@
+{
+  "name": "gimme_gimme",
+  "difficulty": 2,
+  "display_name": "Gimme Gimme",
+  "ham_move_name": "Gimme_Dat_Good_allaroundtheworld.move",
+  "milo_name": "gimme_dat_good_allaroundtheworld",
+  "song_name": "allaroundtheworld",
+  "clips": {
+    "gimme_gimme_allaroundtheworld_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

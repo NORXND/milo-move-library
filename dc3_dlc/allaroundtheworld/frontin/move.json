@@ -1,0 +1,26 @@
+{
+  "name": "frontin",
+  "difficulty": 2,
+  "display_name": "Frontin'",
+  "ham_move_name": "Work_allaroundtheworld.move",
+  "milo_name": "work_allaroundtheworld",
+  "song_name": "allaroundtheworld",
+  "clips": {
+    "frontin_allaroundtheworld_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "frontin_allaroundtheworld_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "satin",
+  "difficulty": 2,
+  "display_name": "Satin",
+  "ham_move_name": "Silk_Left_allaroundtheworld.move",
+  "milo_name": "silk_left_allaroundtheworld",
+  "song_name": "allaroundtheworld",
+  "clips": {
+    "satin_allaroundtheworld_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "satin_allaroundtheworld_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

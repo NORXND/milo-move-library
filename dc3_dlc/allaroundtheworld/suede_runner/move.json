@@ -1,0 +1,34 @@
+{
+  "name": "suede_runner",
+  "difficulty": 2,
+  "display_name": "Suede Runner",
+  "ham_move_name": "Mouse_Trap_allaroundtheworld.move",
+  "milo_name": "mouse_trap_allaroundtheworld",
+  "song_name": "allaroundtheworld",
+  "clips": {
+    "suede_runner_allaroundtheworld_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "suede_runner_allaroundtheworld_v1",
+      "linked_from": ""
+    },
+    "suede_runner_allaroundtheworld_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "suede_runner_allaroundtheworld_v0"
+    },
+    "suede_runner_allaroundtheworld_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

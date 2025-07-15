@@ -1,0 +1,26 @@
+{
+  "name": "carta_lean",
+  "difficulty": 2,
+  "display_name": "Carta Lean",
+  "ham_move_name": "Mona_Lisa_allaroundtheworld.move",
+  "milo_name": "mona_lisa_allaroundtheworld",
+  "song_name": "allaroundtheworld",
+  "clips": {
+    "carta_lean_allaroundtheworld_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "carta_lean_allaroundtheworld_v1",
+      "linked_from": ""
+    },
+    "carta_lean_allaroundtheworld_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "carta_lean_allaroundtheworld_v0"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "third_wheel",
+  "difficulty": 2,
+  "display_name": "Third Wheel",
+  "ham_move_name": "Mad_Dash_allaroundtheworld.move",
+  "milo_name": "mad_dash_allaroundtheworld",
+  "song_name": "allaroundtheworld",
+  "clips": {
+    "third_wheel_allaroundtheworld_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "third_wheel_allaroundtheworld_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "third_wheel_allaroundtheworld_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "third_wheel_allaroundtheworld_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "who_s_with_me",
+  "difficulty": 1,
+  "display_name": "Who's With Me",
+  "ham_move_name": "Goombah_Rl_allaroundtheworld.move",
+  "milo_name": "goombah_rl_allaroundtheworld",
+  "song_name": "allaroundtheworld",
+  "clips": {
+    "who_s_with_me_allaroundtheworld_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

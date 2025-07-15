@@ -1,0 +1,18 @@
+{
+  "name": "hot_feet_and_clap",
+  "difficulty": 2,
+  "display_name": "Hot Feet & Clap",
+  "ham_move_name": "Army_Run_And_Clap_allaroundtheworld.move",
+  "milo_name": "army_run_and_clap_allaroundtheworld",
+  "song_name": "allaroundtheworld",
+  "clips": {
+    "hot_feet_and_clap_allaroundtheworld_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

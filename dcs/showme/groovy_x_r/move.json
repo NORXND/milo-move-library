@@ -1,0 +1,26 @@
+{
+  "name": "groovy_x_r",
+  "difficulty": 0,
+  "display_name": "Groovy X",
+  "ham_move_name": "Groovy_X_R_showme.move",
+  "milo_name": "groovy_x_r_showme",
+  "song_name": "showme",
+  "clips": {
+    "groovy_x_r_showme_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "groovy_x_l_showme_v0",
+      "linked_from": ""
+    },
+    "groovy_x_r_showme_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "groovy_x_l_showme_v1",
+      "linked_from": ""
+    }
+  }
+}

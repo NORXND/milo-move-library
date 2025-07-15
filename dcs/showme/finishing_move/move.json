@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_showme_v1069",
+  "difficulty": 2,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_showme.move",
+  "milo_name": "finishing_move_showme",
+  "song_name": "showme",
+  "clips": {
+    "finishing_move_showme_v1069": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

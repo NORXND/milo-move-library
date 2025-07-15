@@ -1,0 +1,58 @@
+{
+  "name": "ride_the_bass",
+  "difficulty": 2,
+  "display_name": "Ride The Bass",
+  "ham_move_name": "Ride_The_Bass_showme.move",
+  "milo_name": "ride_the_bass_showme",
+  "song_name": "showme",
+  "clips": {
+    "ride_the_bass_showme_v0": {
+      "avg_beats_per_second": 1.64,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ride_the_bass_showme_v1": {
+      "avg_beats_per_second": 1.64,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ride_the_bass_showme_v2": {
+      "avg_beats_per_second": 1.64,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ride_the_bass_showme_v3": {
+      "avg_beats_per_second": 1.64,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ride_the_bass_showme_v4": {
+      "avg_beats_per_second": 1.64,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ride_the_bass_showme_v5": {
+      "avg_beats_per_second": 1.64,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "nonsense",
+  "difficulty": 0,
+  "display_name": "Nonsense",
+  "ham_move_name": "Nonsense_showme.move",
+  "milo_name": "nonsense_showme",
+  "song_name": "showme",
+  "clips": {
+    "nonsense_showme_v0": {
+      "avg_beats_per_second": 1.64,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "nonsense_showme_v1": {
+      "avg_beats_per_second": 1.64,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "nonsense_showme_v2": {
+      "avg_beats_per_second": 1.64,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "nonsense_showme_v3": {
+      "avg_beats_per_second": 1.64,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "nonsense_showme_v4": {
+      "avg_beats_per_second": 1.64,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "nonsense_showme_v5": {
+      "avg_beats_per_second": 1.64,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "nonsense_showme_v6": {
+      "avg_beats_per_second": 1.64,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

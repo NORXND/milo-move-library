@@ -1,0 +1,18 @@
+{
+  "name": "buddy_square",
+  "difficulty": 2,
+  "display_name": "Buddy Square",
+  "ham_move_name": "Buddy_Square_showme.move",
+  "milo_name": "buddy_square_showme",
+  "song_name": "showme",
+  "clips": {
+    "buddy_square_showme_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

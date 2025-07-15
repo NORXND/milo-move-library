@@ -1,0 +1,26 @@
+{
+  "name": "stutter_sweep_r",
+  "difficulty": 2,
+  "display_name": "Stutter Sweep",
+  "ham_move_name": "Stutter_Sweep_R_showme.move",
+  "milo_name": "stutter_sweep_r_showme",
+  "song_name": "showme",
+  "clips": {
+    "stutter_sweep_r_showme_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "stutter_sweep_l_showme_v0",
+      "linked_from": ""
+    },
+    "stutter_sweep_r_showme_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "stutter_sweep_l_showme_v1",
+      "linked_from": ""
+    }
+  }
+}

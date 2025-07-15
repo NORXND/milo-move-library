@@ -1,0 +1,18 @@
+{
+  "name": "watch_lean_r",
+  "difficulty": 2,
+  "display_name": "Watch Lean",
+  "ham_move_name": "Watch_Lean_R_showme.move",
+  "milo_name": "watch_lean_r_showme",
+  "song_name": "showme",
+  "clips": {
+    "watch_lean_r_showme_v0": {
+      "avg_beats_per_second": 1.64,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "watch_lean_l_showme_v0",
+      "linked_from": ""
+    }
+  }
+}

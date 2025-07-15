@@ -1,0 +1,26 @@
+{
+  "name": "roundhouse",
+  "difficulty": 1,
+  "display_name": "Roundhouse",
+  "ham_move_name": "Roundhouse_showme.move",
+  "milo_name": "roundhouse_showme",
+  "song_name": "showme",
+  "clips": {
+    "roundhouse_showme_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roundhouse_showme_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

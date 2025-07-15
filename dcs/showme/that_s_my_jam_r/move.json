@@ -1,0 +1,18 @@
+{
+  "name": "that_s_my_jam_r",
+  "difficulty": 0,
+  "display_name": "That's My Jam",
+  "ham_move_name": "That_s_My_Jam_R_showme.move",
+  "milo_name": "that_s_my_jam_r_showme",
+  "song_name": "showme",
+  "clips": {
+    "that_s_my_jam_r_showme_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "that_s_my_jam_l_showme_v0"
+    }
+  }
+}

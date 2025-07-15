@@ -1,0 +1,26 @@
+{
+  "name": "scoop_step_center",
+  "difficulty": 0,
+  "display_name": "Scoop Step Center",
+  "ham_move_name": "Scoop_Step_Center_showme.move",
+  "milo_name": "scoop_step_center_showme",
+  "song_name": "showme",
+  "clips": {
+    "scoop_step_center_showme_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scoop_step_center_showme_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

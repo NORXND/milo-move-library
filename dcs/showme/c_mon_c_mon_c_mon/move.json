@@ -1,0 +1,26 @@
+{
+  "name": "c_mon_c_mon_c_mon",
+  "difficulty": 2,
+  "display_name": "C'mon C'mon C'mon",
+  "ham_move_name": "C_mon_C_mon_C_mon_showme.move",
+  "milo_name": "c_mon_c_mon_c_mon_showme",
+  "song_name": "showme",
+  "clips": {
+    "c_mon_c_mon_c_mon_showme_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "c_mon_c_mon_c_mon_showme_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

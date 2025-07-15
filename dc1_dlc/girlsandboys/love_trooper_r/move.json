@@ -1,0 +1,34 @@
+{
+  "name": "love_trooper_r",
+  "difficulty": 0,
+  "display_name": "Love Trooper",
+  "ham_move_name": "Love_Trooper_R_girlsandboys.move",
+  "milo_name": "love_trooper_r_girlsandboys",
+  "song_name": "girlsandboys",
+  "clips": {
+    "love_trooper_r_girlsandboys_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "love_trooper_l_girlsandboys_v0",
+      "linked_from": ""
+    },
+    "love_trooper_r_girlsandboys_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "love_trooper_l_girlsandboys_v1",
+      "linked_from": ""
+    },
+    "love_trooper_r_girlsandboys_v2": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "love_trooper_l_girlsandboys_v2",
+      "linked_from": ""
+    }
+  }
+}

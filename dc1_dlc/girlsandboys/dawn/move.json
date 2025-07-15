@@ -1,0 +1,18 @@
+{
+  "name": "dawn",
+  "difficulty": 0,
+  "display_name": "Dawn",
+  "ham_move_name": "Dawn_girlsandboys.move",
+  "milo_name": "dawn_girlsandboys",
+  "song_name": "girlsandboys",
+  "clips": {
+    "dawn_girlsandboys_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

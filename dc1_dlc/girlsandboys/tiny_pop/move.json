@@ -1,0 +1,42 @@
+{
+  "name": "tiny_pop",
+  "difficulty": 0,
+  "display_name": "Tiny Pop",
+  "ham_move_name": "Tiny_Pop_girlsandboys.move",
+  "milo_name": "tiny_pop_girlsandboys",
+  "song_name": "girlsandboys",
+  "clips": {
+    "tiny_pop_girlsandboys_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tiny_pop_girlsandboys_v3": {
+      "avg_beats_per_second": 1.71,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tiny_pop_girlsandboys_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tiny_pop_girlsandboys_v2": {
+      "avg_beats_per_second": 2.01,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

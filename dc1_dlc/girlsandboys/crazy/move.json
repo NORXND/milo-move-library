@@ -1,0 +1,34 @@
+{
+  "name": "crazy",
+  "difficulty": 0,
+  "display_name": "Crazy",
+  "ham_move_name": "Crazy_girlsandboys.move",
+  "milo_name": "crazy_girlsandboys",
+  "song_name": "girlsandboys",
+  "clips": {
+    "crazy_girlsandboys_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "crazy_girlsandboys_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "crazy_girlsandboys_v2": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "crunch_l",
+  "difficulty": 2,
+  "display_name": "Crunch",
+  "ham_move_name": "Crunch_L_girlsandboys.move",
+  "milo_name": "crunch_r_girlsandboys",
+  "song_name": "girlsandboys",
+  "clips": {
+    "crunch_l_girlsandboys_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "crunch_r_girlsandboys_v0",
+      "linked_from": ""
+    }
+  }
+}

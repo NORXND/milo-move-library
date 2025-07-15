@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_girlsandboys_v1072",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_girlsandboys.move",
+  "milo_name": "finishing_move_girlsandboys",
+  "song_name": "girlsandboys",
+  "clips": {
+    "finishing_move_girlsandboys_v1072": {
+      "avg_beats_per_second": 2.84,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

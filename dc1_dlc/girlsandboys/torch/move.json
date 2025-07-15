@@ -1,0 +1,26 @@
+{
+  "name": "torch",
+  "difficulty": 0,
+  "display_name": "Torch",
+  "ham_move_name": "Torch_girlsandboys.move",
+  "milo_name": "torch_girlsandboys",
+  "song_name": "girlsandboys",
+  "clips": {
+    "torch_girlsandboys_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "torch_girlsandboys_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

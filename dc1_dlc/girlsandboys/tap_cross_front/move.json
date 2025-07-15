@@ -1,0 +1,26 @@
+{
+  "name": "tap_cross_front",
+  "difficulty": 0,
+  "display_name": "Tap Cross Front",
+  "ham_move_name": "Tap_Cross_Front_girlsandboys.move",
+  "milo_name": "tap_cross_front_girlsandboys",
+  "song_name": "girlsandboys",
+  "clips": {
+    "tap_cross_front_girlsandboys_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tap_cross_front_girlsandboys_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

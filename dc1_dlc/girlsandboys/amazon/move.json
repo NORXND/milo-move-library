@@ -1,0 +1,26 @@
+{
+  "name": "amazon",
+  "difficulty": 0,
+  "display_name": "Amazon",
+  "ham_move_name": "Amazon_girlsandboys.move",
+  "milo_name": "amazon_girlsandboys",
+  "song_name": "girlsandboys",
+  "clips": {
+    "amazon_girlsandboys_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "amazon_girlsandboys_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

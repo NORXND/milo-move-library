@@ -1,0 +1,18 @@
+{
+  "name": "rodeo",
+  "difficulty": 1,
+  "display_name": "Rodeo",
+  "ham_move_name": "Red_Flag_giveituptome.move",
+  "milo_name": "red_flag_giveituptome",
+  "song_name": "giveituptome",
+  "clips": {
+    "rodeo_giveituptome_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

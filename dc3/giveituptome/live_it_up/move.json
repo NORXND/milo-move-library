@@ -1,0 +1,26 @@
+{
+  "name": "live_it_up",
+  "difficulty": 2,
+  "display_name": "Live It Up",
+  "ham_move_name": "Reggae_Groove_giveituptome.move",
+  "milo_name": "reggae_groove_giveituptome",
+  "song_name": "giveituptome",
+  "clips": {
+    "live_it_up_giveituptome_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "live_it_up_giveituptome_v1": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

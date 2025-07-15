@@ -1,0 +1,18 @@
+{
+  "name": "wind_grab",
+  "difficulty": 2,
+  "display_name": "Wind Grab",
+  "ham_move_name": "Give_It_To_Mama_giveituptome.move",
+  "milo_name": "give_it_to_mama_giveituptome",
+  "song_name": "giveituptome",
+  "clips": {
+    "wind_grab_giveituptome_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "slo_go",
+  "difficulty": 2,
+  "display_name": "Slo'go",
+  "ham_move_name": "Slow_Wind_giveituptome.move",
+  "milo_name": "slow_wind_giveituptome",
+  "song_name": "giveituptome",
+  "clips": {
+    "slo_go_giveituptome_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "slo_go_and_bolgo_giveituptome_v0",
+      "linked_from": ""
+    },
+    "slo_go_giveituptome_v1": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "slo_go_and_bolgo_giveituptome_v1",
+      "linked_from": ""
+    },
+    "slo_go_giveituptome_v2": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "slo_go_and_bolgo_giveituptome_v2",
+      "linked_from": ""
+    }
+  }
+}

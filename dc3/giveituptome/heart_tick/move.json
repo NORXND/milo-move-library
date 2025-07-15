@@ -1,0 +1,18 @@
+{
+  "name": "heart_tick",
+  "difficulty": 2,
+  "display_name": "Heart Tick",
+  "ham_move_name": "Heart_Attack_giveituptome.move",
+  "milo_name": "heart_attack_giveituptome",
+  "song_name": "giveituptome",
+  "clips": {
+    "heart_tick_giveituptome_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

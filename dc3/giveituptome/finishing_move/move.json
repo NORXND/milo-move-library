@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_giveituptome_v1060",
+  "difficulty": 2,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_giveituptome.move",
+  "milo_name": "finishing_move_giveituptome",
+  "song_name": "giveituptome",
+  "clips": {
+    "finishing_move_giveituptome_v1060": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 74,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

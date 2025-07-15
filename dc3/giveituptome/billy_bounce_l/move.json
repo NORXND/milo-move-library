@@ -1,0 +1,18 @@
+{
+  "name": "billy_bounce_l",
+  "difficulty": 2,
+  "display_name": "Billy Bounce",
+  "ham_move_name": "Wet_Willy_L_giveituptome.move",
+  "milo_name": "wet_willy_l_giveituptome",
+  "song_name": "giveituptome",
+  "clips": {
+    "billy_bounce_l_giveituptome_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "billy_bounce_r_giveituptome_v0"
+    }
+  }
+}

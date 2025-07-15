@@ -1,0 +1,26 @@
+{
+  "name": "stranger_hugs_r",
+  "difficulty": 2,
+  "display_name": "Stranger Hugs",
+  "ham_move_name": "Ragga_March_R_giveituptome.move",
+  "milo_name": "ragga_march_r_giveituptome",
+  "song_name": "giveituptome",
+  "clips": {
+    "stranger_hugs_r_giveituptome_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "stranger_hugs_l_giveituptome_v0",
+      "linked_from": ""
+    },
+    "stranger_hugs_r_giveituptome_v1": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "stranger_hugs_l_giveituptome_v1",
+      "linked_from": ""
+    }
+  }
+}

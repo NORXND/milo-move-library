@@ -1,0 +1,42 @@
+{
+  "name": "saucy_r",
+  "difficulty": 2,
+  "display_name": "Saucy",
+  "ham_move_name": "Slow_Motion_R_giveituptome.move",
+  "milo_name": "slow_motion_r_giveituptome",
+  "song_name": "giveituptome",
+  "clips": {
+    "saucy_r_giveituptome_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "saucy_l_giveituptome_v0"
+    },
+    "saucy_r_giveituptome_v1": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "saucy_l_giveituptome_v1"
+    },
+    "saucy_r_giveituptome_v2": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "saucy_l_giveituptome_v2"
+    },
+    "saucy_r_giveituptome_v3": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "saucy_l_giveituptome_v3"
+    }
+  }
+}

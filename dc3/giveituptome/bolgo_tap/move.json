@@ -1,0 +1,26 @@
+{
+  "name": "bolgo_tap",
+  "difficulty": 2,
+  "display_name": "Bolgo Tap",
+  "ham_move_name": "Empire_giveituptome.move",
+  "milo_name": "empire_giveituptome",
+  "song_name": "giveituptome",
+  "clips": {
+    "bolgo_tap_giveituptome_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bolgo_tap_giveituptome_v1": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "curry_step",
+  "difficulty": 2,
+  "display_name": "Curry Step",
+  "ham_move_name": "Footsies_giveituptome.move",
+  "milo_name": "footsies_giveituptome",
+  "song_name": "giveituptome",
+  "clips": {
+    "curry_step_giveituptome_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "curry_step_giveituptome_v1": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

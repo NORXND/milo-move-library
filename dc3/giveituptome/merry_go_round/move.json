@@ -1,0 +1,26 @@
+{
+  "name": "merry_go_round",
+  "difficulty": 2,
+  "display_name": "Merry Go Round",
+  "ham_move_name": "Foot_Skate_giveituptome.move",
+  "milo_name": "foot_skate_giveituptome",
+  "song_name": "giveituptome",
+  "clips": {
+    "merry_go_round_giveituptome_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "merry_go_round_giveituptome_v1": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "drummer_drag",
+  "difficulty": 2,
+  "display_name": "Drummer Drag",
+  "ham_move_name": "Boom_Boom_giveituptome.move",
+  "milo_name": "boom_boom_giveituptome",
+  "song_name": "giveituptome",
+  "clips": {
+    "drummer_drag_giveituptome_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drummer_drag_giveituptome_v1": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drummer_drag_giveituptome_v2": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drummer_drag_giveituptome_v3": {
+      "avg_beats_per_second": 1.6,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

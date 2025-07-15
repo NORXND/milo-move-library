@@ -1,0 +1,18 @@
+{
+  "name": "twist_and_fall",
+  "difficulty": 2,
+  "display_name": "Twist & Fall",
+  "ham_move_name": "Out_Break_Kick_And_Step_letitroll.move",
+  "milo_name": "out_break_kick_and_step_letitroll",
+  "song_name": "letitroll",
+  "clips": {
+    "twist_and_fall_letitroll_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

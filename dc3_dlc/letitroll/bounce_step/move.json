@@ -1,0 +1,18 @@
+{
+  "name": "bounce_step",
+  "difficulty": 0,
+  "display_name": "Bounce Step",
+  "ham_move_name": "Bounce_Step_Rl_letitroll.move",
+  "milo_name": "bounce_step_rl_letitroll",
+  "song_name": "letitroll",
+  "clips": {
+    "bounce_step_letitroll_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

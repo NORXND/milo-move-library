@@ -1,0 +1,18 @@
+{
+  "name": "slither",
+  "difficulty": 2,
+  "display_name": "Slither",
+  "ham_move_name": "Slither_letitroll.move",
+  "milo_name": "slither_letitroll",
+  "song_name": "letitroll",
+  "clips": {
+    "slither_letitroll_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

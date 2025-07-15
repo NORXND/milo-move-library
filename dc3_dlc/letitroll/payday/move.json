@@ -1,0 +1,34 @@
+{
+  "name": "payday",
+  "difficulty": 2,
+  "display_name": "Payday",
+  "ham_move_name": "Get_That_Money_letitroll.move",
+  "milo_name": "get_that_money_letitroll",
+  "song_name": "letitroll",
+  "clips": {
+    "payday_letitroll_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "payday_letitroll_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "payday_letitroll_v2": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

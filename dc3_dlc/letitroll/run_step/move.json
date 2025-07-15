@@ -1,0 +1,34 @@
+{
+  "name": "run_step",
+  "difficulty": 2,
+  "display_name": "Run Step",
+  "ham_move_name": "Half_Hill_letitroll.move",
+  "milo_name": "half_hill_letitroll",
+  "song_name": "letitroll",
+  "clips": {
+    "run_step_letitroll_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "run_step_letitroll_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "run_step_letitroll_v2": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

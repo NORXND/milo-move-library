@@ -1,0 +1,18 @@
+{
+  "name": "bring_it_and_click",
+  "difficulty": 2,
+  "display_name": "Bring It & Click",
+  "ham_move_name": "Squat_Step_Reset_letitroll.move",
+  "milo_name": "squat_step_reset_letitroll",
+  "song_name": "letitroll",
+  "clips": {
+    "bring_it_and_click_letitroll_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

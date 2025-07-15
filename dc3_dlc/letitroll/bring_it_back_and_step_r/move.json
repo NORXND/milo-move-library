@@ -1,0 +1,18 @@
+{
+  "name": "bring_it_back_and_step_r",
+  "difficulty": 2,
+  "display_name": "Bring It Back / Step",
+  "ham_move_name": "Ron_De_Stomp_R_letitroll.move",
+  "milo_name": "ron_de_stomp_r_letitroll",
+  "song_name": "letitroll",
+  "clips": {
+    "bring_it_back_and_step_r_letitroll_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "heel_grind_and_skate",
+  "difficulty": 2,
+  "display_name": "Heel Grind / Skate",
+  "ham_move_name": "The_New_Hustle_letitroll.move",
+  "milo_name": "the_new_hustle_letitroll",
+  "song_name": "letitroll",
+  "clips": {
+    "heel_grind_and_skate_letitroll_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

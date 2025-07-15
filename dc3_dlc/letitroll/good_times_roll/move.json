@@ -1,0 +1,18 @@
+{
+  "name": "good_times_roll",
+  "difficulty": 2,
+  "display_name": "Good Times Roll",
+  "ham_move_name": "Raise_The_Roof_Roll_Down_2_letitroll.move",
+  "milo_name": "raise_the_roof_roll_down_2_letitroll",
+  "song_name": "letitroll",
+  "clips": {
+    "good_times_roll_letitroll_v0": {
+      "avg_beats_per_second": 1.82,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

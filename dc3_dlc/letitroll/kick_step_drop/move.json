@@ -1,0 +1,18 @@
+{
+  "name": "kick_step_drop",
+  "difficulty": 2,
+  "display_name": "Kick Step Drop",
+  "ham_move_name": "Pas_De_Burre_Hop_Step_Kick_letitroll.move",
+  "milo_name": "pas_de_burre_hop_step_kick_letitroll",
+  "song_name": "letitroll",
+  "clips": {
+    "kick_step_drop_letitroll_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

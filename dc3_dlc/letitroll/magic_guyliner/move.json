@@ -1,0 +1,18 @@
+{
+  "name": "magic_guyliner",
+  "difficulty": 2,
+  "display_name": "Magic Guyliner",
+  "ham_move_name": "Open_Your_Eyes_letitroll.move",
+  "milo_name": "open_your_eyes_letitroll",
+  "song_name": "letitroll",
+  "clips": {
+    "magic_guyliner_letitroll_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

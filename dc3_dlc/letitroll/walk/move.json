@@ -1,0 +1,18 @@
+{
+  "name": "walk",
+  "difficulty": 2,
+  "display_name": "Walk",
+  "ham_move_name": "Stroovin_letitroll.move",
+  "milo_name": "stroovin_letitroll",
+  "song_name": "letitroll",
+  "clips": {
+    "walk_letitroll_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "stir_step",
+  "difficulty": 1,
+  "display_name": "Stir Step",
+  "ham_move_name": "Stir_Lr_letitroll.move",
+  "milo_name": "stir_lr_letitroll",
+  "song_name": "letitroll",
+  "clips": {
+    "stir_step_letitroll_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

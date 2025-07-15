@@ -1,0 +1,18 @@
+{
+  "name": "bendy_and_heart_pump",
+  "difficulty": 2,
+  "display_name": "Bendy / Heart Pump",
+  "ham_move_name": "Heel_Click_And_Bendy_letitroll.move",
+  "milo_name": "heel_click_and_bendy_letitroll",
+  "song_name": "letitroll",
+  "clips": {
+    "bendy_and_heart_pump_letitroll_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

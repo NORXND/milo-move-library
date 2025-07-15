@@ -1,0 +1,18 @@
+{
+  "name": "no_number",
+  "difficulty": 1,
+  "display_name": "No Number",
+  "ham_move_name": "No_Groupie_babygotback.move",
+  "milo_name": "no_groupie_babygotback",
+  "song_name": "babygotback",
+  "clips": {
+    "no_number_babygotback_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

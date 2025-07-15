@@ -1,0 +1,26 @@
+{
+  "name": "beta_block",
+  "difficulty": 0,
+  "display_name": "Beta Block",
+  "ham_move_name": "Dip_It_babygotback.move",
+  "milo_name": "dip_it_babygotback",
+  "song_name": "babygotback",
+  "clips": {
+    "beta_block_babygotback_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "beta_block_babygotback_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

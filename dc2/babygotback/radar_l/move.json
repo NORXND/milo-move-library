@@ -1,0 +1,18 @@
+{
+  "name": "radar_l",
+  "difficulty": 1,
+  "display_name": "Radar",
+  "ham_move_name": "Radar_L_babygotback.move",
+  "milo_name": "radar_l_babygotback",
+  "song_name": "babygotback",
+  "clips": {
+    "radar_l_babygotback_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "radar_r_babygotback_v0"
+    }
+  }
+}

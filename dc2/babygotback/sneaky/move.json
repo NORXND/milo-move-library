@@ -1,0 +1,18 @@
+{
+  "name": "sneaky",
+  "difficulty": 2,
+  "display_name": "Sneaky",
+  "ham_move_name": "Knee_Tut_babygotback.move",
+  "milo_name": "knee_tut_babygotback",
+  "song_name": "babygotback",
+  "clips": {
+    "sneaky_babygotback_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

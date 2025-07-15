@@ -1,0 +1,18 @@
+{
+  "name": "rodeo_l",
+  "difficulty": 0,
+  "display_name": "Rodeo",
+  "ham_move_name": "Rodeo_L_babygotback.move",
+  "milo_name": "rodeo_l_babygotback",
+  "song_name": "babygotback",
+  "clips": {
+    "rodeo_l_babygotback_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "rodeo_r_babygotback_v0"
+    }
+  }
+}

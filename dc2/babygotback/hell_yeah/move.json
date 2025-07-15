@@ -1,0 +1,26 @@
+{
+  "name": "hell_yeah",
+  "difficulty": 1,
+  "display_name": "Hell Yeah",
+  "ham_move_name": "Hell_Yeah_babygotback.move",
+  "milo_name": "hell_yeah_babygotback",
+  "song_name": "babygotback",
+  "clips": {
+    "hell_yeah_babygotback_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hell_yeah_babygotback_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

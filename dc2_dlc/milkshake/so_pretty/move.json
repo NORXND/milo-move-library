@@ -1,0 +1,58 @@
+{
+  "name": "so_pretty",
+  "difficulty": 2,
+  "display_name": "So Pretty",
+  "ham_move_name": "Let_Em_Know_milkshake.move",
+  "milo_name": "let_em_know_milkshake",
+  "song_name": "milkshake",
+  "clips": {
+    "so_pretty_milkshake_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "so_pretty_milkshake_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "so_pretty_milkshake_v2": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "so_pretty_milkshake_v3": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "so_pretty_milkshake_v4": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "so_pretty_milkshake_v5": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "sashay",
+  "difficulty": 2,
+  "display_name": "Sashay",
+  "ham_move_name": "Cool_Down_milkshake.move",
+  "milo_name": "cool_down_milkshake",
+  "song_name": "milkshake",
+  "clips": {
+    "sashay_milkshake_v1": {
+      "avg_beats_per_second": 1.89,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sashay_milkshake_v4": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sashay_milkshake_v2": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sashay_milkshake_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sashay_milkshake_v3": {
+      "avg_beats_per_second": 1.89,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

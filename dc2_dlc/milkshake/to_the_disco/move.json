@@ -1,0 +1,58 @@
+{
+  "name": "to_the_disco",
+  "difficulty": 2,
+  "display_name": "To The Disco",
+  "ham_move_name": "To_The_Disco_milkshake.move",
+  "milo_name": "to_the_disco_milkshake",
+  "song_name": "milkshake",
+  "clips": {
+    "to_the_disco_milkshake_v4": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "to_the_disco_milkshake_v5": {
+      "avg_beats_per_second": 1.62,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "to_the_disco_milkshake_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "to_the_disco_milkshake_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "to_the_disco_milkshake_v2": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "to_the_disco_milkshake_v3": {
+      "avg_beats_per_second": 1.68,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

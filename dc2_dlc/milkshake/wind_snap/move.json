@@ -1,0 +1,50 @@
+{
+  "name": "wind_snap",
+  "difficulty": 2,
+  "display_name": "Wind Snap",
+  "ham_move_name": "Wait_For_It_milkshake.move",
+  "milo_name": "wait_for_it_milkshake",
+  "song_name": "milkshake",
+  "clips": {
+    "wind_snap_milkshake_v3": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_snap_milkshake_v4": {
+      "avg_beats_per_second": 1.6,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_snap_milkshake_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_snap_milkshake_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_snap_milkshake_v2": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

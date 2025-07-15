@@ -1,0 +1,18 @@
+{
+  "name": "cross_and_sit",
+  "difficulty": 1,
+  "display_name": "Cross & Sit",
+  "ham_move_name": "Swings_milkshake.move",
+  "milo_name": "swings_milkshake",
+  "song_name": "milkshake",
+  "clips": {
+    "cross_and_sit_milkshake_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

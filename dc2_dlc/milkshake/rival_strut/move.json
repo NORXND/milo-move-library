@@ -1,0 +1,58 @@
+{
+  "name": "rival_strut",
+  "difficulty": 2,
+  "display_name": "Rival Strut",
+  "ham_move_name": "Better_Than_Yours_milkshake.move",
+  "milo_name": "better_than_yours_milkshake",
+  "song_name": "milkshake",
+  "clips": {
+    "rival_strut_milkshake_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rival_strut_milkshake_v1": {
+      "avg_beats_per_second": 1.89,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rival_strut_milkshake_v2": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rival_strut_milkshake_v3": {
+      "avg_beats_per_second": 1.68,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rival_strut_milkshake_v4": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rival_strut_milkshake_v5": {
+      "avg_beats_per_second": 1.89,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

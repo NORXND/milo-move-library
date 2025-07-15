@@ -1,0 +1,18 @@
+{
+  "name": "stir_it",
+  "difficulty": 2,
+  "display_name": "Stir It",
+  "ham_move_name": "Whirlwind_milkshake.move",
+  "milo_name": "whirlwind_milkshake",
+  "song_name": "milkshake",
+  "clips": {
+    "stir_it_milkshake_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

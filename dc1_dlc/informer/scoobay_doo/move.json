@@ -1,0 +1,26 @@
+{
+  "name": "scoobay_doo",
+  "difficulty": 0,
+  "display_name": "Scoobay Doo",
+  "ham_move_name": "Scoobay_Doo_informer.move",
+  "milo_name": "scoobay_doo_informer",
+  "song_name": "informer",
+  "clips": {
+    "scoobay_doo_informer_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scoobay_doo_informer_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

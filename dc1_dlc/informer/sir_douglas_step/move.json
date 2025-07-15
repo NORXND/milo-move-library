@@ -1,0 +1,18 @@
+{
+  "name": "sir_douglas_step",
+  "difficulty": 2,
+  "display_name": "Sir Douglas Step",
+  "ham_move_name": "My_Dougie_informer.move",
+  "milo_name": "my_dougie_informer",
+  "song_name": "informer",
+  "clips": {
+    "sir_douglas_step_informer_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

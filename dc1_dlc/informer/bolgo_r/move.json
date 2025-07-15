@@ -1,0 +1,34 @@
+{
+  "name": "bolgo_r",
+  "difficulty": 0,
+  "display_name": "Bolgo",
+  "ham_move_name": "Bolgo_R_informer.move",
+  "milo_name": "bolgo_r_informer",
+  "song_name": "informer",
+  "clips": {
+    "bolgo_r_informer_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "bolgo_l_informer_v0",
+      "linked_from": ""
+    },
+    "bolgo_r_informer_v1": {
+      "avg_beats_per_second": 1.41,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "bolgo_l_informer_v1",
+      "linked_from": ""
+    },
+    "bolgo_r_informer_v2": {
+      "avg_beats_per_second": 1.41,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "bolgo_l_informer_v2",
+      "linked_from": ""
+    }
+  }
+}

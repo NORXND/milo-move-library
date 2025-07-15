@@ -1,0 +1,26 @@
+{
+  "name": "the_bankhead",
+  "difficulty": 2,
+  "display_name": "The Bankhead",
+  "ham_move_name": "The_Bankhead_informer.move",
+  "milo_name": "the_bankhead_informer",
+  "song_name": "informer",
+  "clips": {
+    "the_bankhead_informer_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "the_bankhead_informer_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

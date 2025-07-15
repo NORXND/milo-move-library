@@ -1,0 +1,26 @@
+{
+  "name": "frat_step",
+  "difficulty": 0,
+  "display_name": "Frat Step",
+  "ham_move_name": "Frat_Step_informer.move",
+  "milo_name": "frat_step_informer",
+  "song_name": "informer",
+  "clips": {
+    "frat_step_informer_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "frat_step_informer_v1": {
+      "avg_beats_per_second": 1.64,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "bankhead_hop",
+  "difficulty": 0,
+  "display_name": "Bankhead Hop",
+  "ham_move_name": "Bankhead_Hop_informer.move",
+  "milo_name": "bankhead_hop_informer",
+  "song_name": "informer",
+  "clips": {
+    "bankhead_hop_informer_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bankhead_hop_informer_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bankhead_hop_informer_v2": {
+      "avg_beats_per_second": 1.63,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bankhead_hop_informer_v3": {
+      "avg_beats_per_second": 1.63,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

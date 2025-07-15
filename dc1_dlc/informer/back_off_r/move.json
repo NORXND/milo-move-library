@@ -1,0 +1,34 @@
+{
+  "name": "back_off_r",
+  "difficulty": 1,
+  "display_name": "Back Off",
+  "ham_move_name": "Push_Hit_R_informer.move",
+  "milo_name": "push_hit_r_informer",
+  "song_name": "informer",
+  "clips": {
+    "back_off_r_informer_v1": {
+      "avg_beats_per_second": 1.39,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "back_off_l_informer_v1",
+      "linked_from": ""
+    },
+    "back_off_r_informer_v2": {
+      "avg_beats_per_second": 1.4,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "back_off_l_informer_v2",
+      "linked_from": ""
+    },
+    "back_off_r_informer_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "back_off_l_informer_v0",
+      "linked_from": ""
+    }
+  }
+}

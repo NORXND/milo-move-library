@@ -1,0 +1,18 @@
+{
+  "name": "french_doors",
+  "difficulty": 1,
+  "display_name": "French Doors",
+  "ham_move_name": "French_Doors_nasty.move",
+  "milo_name": "french_doors_nasty",
+  "song_name": "nasty",
+  "clips": {
+    "french_doors_nasty_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "chest_press",
+  "difficulty": 0,
+  "display_name": "Chest Press",
+  "ham_move_name": "Chest_Press_nasty.move",
+  "milo_name": "chest_press_nasty",
+  "song_name": "nasty",
+  "clips": {
+    "chest_press_nasty_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chest_press_nasty_v1": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chest_press_nasty_v2": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chest_press_nasty_v3": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

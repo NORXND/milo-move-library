@@ -1,0 +1,66 @@
+{
+  "name": "miss_step",
+  "difficulty": 0,
+  "display_name": "Miss Step",
+  "ham_move_name": "Nation_nasty.move",
+  "milo_name": "nation_nasty",
+  "song_name": "nasty",
+  "clips": {
+    "miss_step_nasty_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "miss_step_nasty_v5": {
+      "avg_beats_per_second": 1.48,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "miss_step_nasty_v3": {
+      "avg_beats_per_second": 1.73,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "miss_step_nasty_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "miss_step_nasty_v6": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "miss_step_nasty_v4": {
+      "avg_beats_per_second": 1.73,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "miss_step_nasty_v2": {
+      "avg_beats_per_second": 1.73,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

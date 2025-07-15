@@ -1,0 +1,18 @@
+{
+  "name": "miss_step_out_r",
+  "difficulty": 0,
+  "display_name": "Miss Step Out",
+  "ham_move_name": "United_R_nasty.move",
+  "milo_name": "united_r_nasty",
+  "song_name": "nasty",
+  "clips": {
+    "miss_step_out_r_nasty_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "miss_step_out_l_nasty_v0"
+    }
+  }
+}

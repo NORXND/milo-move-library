@@ -1,0 +1,26 @@
+{
+  "name": "brockton_snap_r",
+  "difficulty": 0,
+  "display_name": "Brockton Snap",
+  "ham_move_name": "Groove_And_Snap_R_nasty.move",
+  "milo_name": "groove_and_snap_r_nasty",
+  "song_name": "nasty",
+  "clips": {
+    "brockton_snap_r_nasty_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "brockton_snap_l_nasty_v1",
+      "linked_from": "brockton_snap_l_nasty_v0"
+    },
+    "brockton_snap_r_nasty_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "brockton_snap_l_nasty_v1"
+    }
+  }
+}

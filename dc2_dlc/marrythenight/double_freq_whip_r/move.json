@@ -1,0 +1,26 @@
+{
+  "name": "double_freq_whip_r",
+  "difficulty": 2,
+  "display_name": "Double Freq Whip",
+  "ham_move_name": "Throw_It_Down_R_marrythenight.move",
+  "milo_name": "throw_it_down_r_marrythenight",
+  "song_name": "marrythenight",
+  "clips": {
+    "double_freq_whip_r_marrythenight_v0": {
+      "avg_beats_per_second": 2.19,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_freq_whip_r_marrythenight_v1": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "double_freq_whip_l_marrythenight_v0",
+      "linked_from": ""
+    }
+  }
+}

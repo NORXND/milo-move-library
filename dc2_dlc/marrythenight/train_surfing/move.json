@@ -1,0 +1,18 @@
+{
+  "name": "train_surfing",
+  "difficulty": 0,
+  "display_name": "Train Surfing",
+  "ham_move_name": "Earthquake_marrythenight.move",
+  "milo_name": "earthquake_marrythenight",
+  "song_name": "marrythenight",
+  "clips": {
+    "train_surfing_marrythenight_v0": {
+      "avg_beats_per_second": 1.87,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

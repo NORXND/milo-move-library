@@ -1,0 +1,18 @@
+{
+  "name": "sunburst",
+  "difficulty": 2,
+  "display_name": "Sunburst",
+  "ham_move_name": "Love_Passion_marrythenight.move",
+  "milo_name": "love_passion_marrythenight",
+  "song_name": "marrythenight",
+  "clips": {
+    "sunburst_marrythenight_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

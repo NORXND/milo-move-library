@@ -1,0 +1,18 @@
+{
+  "name": "spirit_raise",
+  "difficulty": 0,
+  "display_name": "Spirit Raise",
+  "ham_move_name": "Slow_Reach_marrythenight.move",
+  "milo_name": "slow_reach_marrythenight",
+  "song_name": "marrythenight",
+  "clips": {
+    "spirit_raise_marrythenight_v0": {
+      "avg_beats_per_second": 2.19,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

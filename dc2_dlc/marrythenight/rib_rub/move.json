@@ -1,0 +1,26 @@
+{
+  "name": "rib_rub",
+  "difficulty": 1,
+  "display_name": "Rib Rub",
+  "ham_move_name": "Deep_Blue_marrythenight.move",
+  "milo_name": "deep_blue_marrythenight",
+  "song_name": "marrythenight",
+  "clips": {
+    "rib_rub_marrythenight_v0": {
+      "avg_beats_per_second": 2.19,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rib_rub_marrythenight_v1": {
+      "avg_beats_per_second": 1.87,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

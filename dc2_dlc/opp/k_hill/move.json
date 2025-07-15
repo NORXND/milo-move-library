@@ -1,0 +1,18 @@
+{
+  "name": "k_hill",
+  "difficulty": 2,
+  "display_name": "K. Hill",
+  "ham_move_name": "K_Hill_opp.move",
+  "milo_name": "k_hill_opp",
+  "song_name": "opp",
+  "clips": {
+    "k_hill_opp_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

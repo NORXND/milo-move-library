@@ -1,0 +1,18 @@
+{
+  "name": "exception_thesis_2",
+  "difficulty": 2,
+  "display_name": "Thesis",
+  "ham_move_name": "Explaination_2_opp.move",
+  "milo_name": "explaination_2_opp",
+  "song_name": "opp",
+  "clips": {
+    "thesis_opp_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "thesis_opp_v0"
+    }
+  }
+}

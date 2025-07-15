@@ -1,0 +1,42 @@
+{
+  "name": "c_mon_c_mon_c_mon",
+  "difficulty": 2,
+  "display_name": "C'mon C'mon C'mon",
+  "ham_move_name": "Come_On_Come_On_Come_On_opp.move",
+  "milo_name": "come_on_come_on_come_on_opp",
+  "song_name": "opp",
+  "clips": {
+    "c_mon_c_mon_c_mon_opp_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "c_mon_c_mon_c_mon_opp_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "c_mon_c_mon_c_mon_opp_v2": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "c_mon_c_mon_c_mon_opp_v3": {
+      "avg_beats_per_second": 1.4,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

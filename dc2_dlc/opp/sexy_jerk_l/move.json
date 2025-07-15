@@ -1,0 +1,18 @@
+{
+  "name": "sexy_jerk_l",
+  "difficulty": 0,
+  "display_name": "Sexy Jerk",
+  "ham_move_name": "Sexy_Jerk_L_opp.move",
+  "milo_name": "sexy_jerk_l_opp",
+  "song_name": "opp",
+  "clips": {
+    "sexy_jerk_l_opp_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "sexy_jerk_r_opp_v0"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "dewey_d",
+  "difficulty": 2,
+  "display_name": "Dewey D",
+  "ham_move_name": "Dougie_opp.move",
+  "milo_name": "dougie_opp",
+  "song_name": "opp",
+  "clips": {
+    "dewey_d_opp_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

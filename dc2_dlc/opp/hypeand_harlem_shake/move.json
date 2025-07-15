@@ -1,0 +1,18 @@
+{
+  "name": "hypeand_harlem_shake",
+  "difficulty": 2,
+  "display_name": "Hype/ Harlem Shake",
+  "ham_move_name": "Hype_Up_R_Harlem_opp.move",
+  "milo_name": "hype_up_r_harlem_opp",
+  "song_name": "opp",
+  "clips": {
+    "hypeand_harlem_shake_opp_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

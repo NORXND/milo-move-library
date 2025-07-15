@@ -1,0 +1,18 @@
+{
+  "name": "run",
+  "difficulty": 1,
+  "display_name": "Run",
+  "ham_move_name": "Give_Em_A_Run_opp.move",
+  "milo_name": "give_em_a_run_opp",
+  "song_name": "opp",
+  "clips": {
+    "run_opp_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

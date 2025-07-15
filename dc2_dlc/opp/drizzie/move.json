@@ -1,0 +1,26 @@
+{
+  "name": "drizzie",
+  "difficulty": 2,
+  "display_name": "Drizzie",
+  "ham_move_name": "Drizzie_Front_opp.move",
+  "milo_name": "drizzie_front_opp",
+  "song_name": "opp",
+  "clips": {
+    "drizzie_opp_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drizzie_opp_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

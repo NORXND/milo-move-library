@@ -1,0 +1,18 @@
+{
+  "name": "bam",
+  "difficulty": 0,
+  "display_name": "Bam",
+  "ham_move_name": "Double_Slam_grenade.move",
+  "milo_name": "double_slam_grenade",
+  "song_name": "grenade",
+  "clips": {
+    "bam_grenade_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

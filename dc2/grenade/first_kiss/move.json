@@ -1,0 +1,18 @@
+{
+  "name": "first_kiss",
+  "difficulty": 1,
+  "display_name": "First Kiss",
+  "ham_move_name": "Express_grenade.move",
+  "milo_name": "express_grenade",
+  "song_name": "grenade",
+  "clips": {
+    "first_kiss_grenade_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

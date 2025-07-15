@@ -1,0 +1,42 @@
+{
+  "name": "disarm",
+  "difficulty": 0,
+  "display_name": "Disarm",
+  "ham_move_name": "Sharp_Blade_grenade.move",
+  "milo_name": "sharp_blade_grenade",
+  "song_name": "grenade",
+  "clips": {
+    "disarm_grenade_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "disarm_grenade_v1": {
+      "avg_beats_per_second": 1.85,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "disarm_grenade_v2": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "disarm_grenade_v3": {
+      "avg_beats_per_second": 1.85,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

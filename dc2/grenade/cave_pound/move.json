@@ -1,0 +1,18 @@
+{
+  "name": "cave_pound",
+  "difficulty": 0,
+  "display_name": "Cave Pound",
+  "ham_move_name": "Bang_Down_grenade.move",
+  "milo_name": "bang_down_grenade",
+  "song_name": "grenade",
+  "clips": {
+    "cave_pound_grenade_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

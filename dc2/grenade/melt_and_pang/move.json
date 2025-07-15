@@ -1,0 +1,26 @@
+{
+  "name": "melt_and_pang",
+  "difficulty": 2,
+  "display_name": "Melt & Pang",
+  "ham_move_name": "Melt_And_Stab_grenade.move",
+  "milo_name": "melt_and_stab_grenade",
+  "song_name": "grenade",
+  "clips": {
+    "melt_and_pang_grenade_v1": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "melt_and_pang_grenade_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

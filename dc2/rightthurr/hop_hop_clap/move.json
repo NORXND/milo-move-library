@@ -1,0 +1,26 @@
+{
+  "name": "hop_hop_clap",
+  "difficulty": 1,
+  "display_name": "Hop Hop Clap",
+  "ham_move_name": "Sun_Snap_rightthurr.move",
+  "milo_name": "sun_snap_rightthurr",
+  "song_name": "rightthurr",
+  "clips": {
+    "hop_hop_clap_rightthurr_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_hop_clap_rightthurr_v1": {
+      "avg_beats_per_second": 1.54,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

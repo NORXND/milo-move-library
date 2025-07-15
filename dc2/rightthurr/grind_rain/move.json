@@ -1,0 +1,26 @@
+{
+  "name": "grind_rain",
+  "difficulty": 1,
+  "display_name": "Grind Rain",
+  "ham_move_name": "Grind_Rain_rightthurr.move",
+  "milo_name": "grind_rain_rightthurr",
+  "song_name": "rightthurr",
+  "clips": {
+    "grind_rain_rightthurr_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "grind_rain_rightthurr_v1": {
+      "avg_beats_per_second": 1.54,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

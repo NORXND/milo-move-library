@@ -1,0 +1,26 @@
+{
+  "name": "wing_step",
+  "difficulty": 0,
+  "display_name": "Wing Step",
+  "ham_move_name": "Chx_Wing_rightthurr.move",
+  "milo_name": "chx_wing_rightthurr",
+  "song_name": "rightthurr",
+  "clips": {
+    "wing_step_rightthurr_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wing_step_rightthurr_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

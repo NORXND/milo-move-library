@@ -1,0 +1,26 @@
+{
+  "name": "hop_hop_snap",
+  "difficulty": 1,
+  "display_name": "Hop Hop Snap",
+  "ham_move_name": "Hoppy_Snap_rightthurr.move",
+  "milo_name": "hoppy_snap_rightthurr",
+  "song_name": "rightthurr",
+  "clips": {
+    "hop_hop_snap_rightthurr_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_hop_snap_rightthurr_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

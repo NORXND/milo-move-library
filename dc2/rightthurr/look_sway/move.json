@@ -1,0 +1,18 @@
+{
+  "name": "look_sway",
+  "difficulty": 0,
+  "display_name": "Look Sway",
+  "ham_move_name": "Look_Sway_rightthurr.move",
+  "milo_name": "look_sway_rightthurr",
+  "song_name": "rightthurr",
+  "clips": {
+    "look_sway_rightthurr_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

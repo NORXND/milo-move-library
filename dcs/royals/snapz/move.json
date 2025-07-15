@@ -1,0 +1,26 @@
+{
+  "name": "snapz",
+  "difficulty": 0,
+  "display_name": "Snapz",
+  "ham_move_name": "Snapz_royals.move",
+  "milo_name": "snapz_royals",
+  "song_name": "royals",
+  "clips": {
+    "snapz_royals_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "snapz_royals_v1": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cut_snap_hands",
+  "difficulty": 1,
+  "display_name": "Cut Snap Hands",
+  "ham_move_name": "Cut_Snap_Hands_royals.move",
+  "milo_name": "cut_snap_hands_royals",
+  "song_name": "royals",
+  "clips": {
+    "cut_snap_hands_royals_v0": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cut_snap_hands_royals_v1": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

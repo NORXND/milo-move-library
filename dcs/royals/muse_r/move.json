@@ -1,0 +1,18 @@
+{
+  "name": "muse_r",
+  "difficulty": 2,
+  "display_name": "Muse",
+  "ham_move_name": "Muse_R_royals.move",
+  "milo_name": "muse_r_royals",
+  "song_name": "royals",
+  "clips": {
+    "muse_r_royals_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

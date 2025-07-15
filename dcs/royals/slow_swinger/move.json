@@ -1,0 +1,26 @@
+{
+  "name": "slow_swinger",
+  "difficulty": 1,
+  "display_name": "Slow Swinger",
+  "ham_move_name": "Slow_Swinger_royals.move",
+  "milo_name": "slow_swinger_royals",
+  "song_name": "royals",
+  "clips": {
+    "slow_swinger_royals_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slow_swinger_royals_v1": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

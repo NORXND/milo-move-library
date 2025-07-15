@@ -1,0 +1,18 @@
+{
+  "name": "weep_l",
+  "difficulty": 1,
+  "display_name": "Weep",
+  "ham_move_name": "Weep_L_royals.move",
+  "milo_name": "weep_l_royals",
+  "song_name": "royals",
+  "clips": {
+    "weep_l_royals_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

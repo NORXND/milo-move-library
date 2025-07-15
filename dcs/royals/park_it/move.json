@@ -1,0 +1,26 @@
+{
+  "name": "park_it",
+  "difficulty": 2,
+  "display_name": "Park It",
+  "ham_move_name": "Park_It_royals.move",
+  "milo_name": "park_it_royals",
+  "song_name": "royals",
+  "clips": {
+    "park_it_royals_v0": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "park_it_royals_v1": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

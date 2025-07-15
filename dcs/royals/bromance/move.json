@@ -1,0 +1,42 @@
+{
+  "name": "bromance",
+  "difficulty": 0,
+  "display_name": "Bromance",
+  "ham_move_name": "Bromance_royals.move",
+  "milo_name": "bromance_royals",
+  "song_name": "royals",
+  "clips": {
+    "bromance_royals_v0": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bromance_royals_v1": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bromance_royals_v2": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bromance_royals_v3": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

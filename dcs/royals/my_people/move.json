@@ -1,0 +1,18 @@
+{
+  "name": "my_people",
+  "difficulty": 2,
+  "display_name": "My People",
+  "ham_move_name": "My_People_royals.move",
+  "milo_name": "my_people_royals",
+  "song_name": "royals",
+  "clips": {
+    "my_people_royals_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "kitty_push",
+  "difficulty": 2,
+  "display_name": "Kitty Push",
+  "ham_move_name": "Kitty_Push_royals.move",
+  "milo_name": "kitty_push_royals",
+  "song_name": "royals",
+  "clips": {
+    "kitty_push_royals_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kitty_push_royals_v1": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

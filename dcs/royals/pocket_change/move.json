@@ -1,0 +1,18 @@
+{
+  "name": "pocket_change",
+  "difficulty": 2,
+  "display_name": "Pocket Change",
+  "ham_move_name": "Pocket_Change_royals.move",
+  "milo_name": "pocket_change_royals",
+  "song_name": "royals",
+  "clips": {
+    "pocket_change_royals_v0": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

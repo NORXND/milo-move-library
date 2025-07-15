@@ -1,0 +1,26 @@
+{
+  "name": "boardwalk",
+  "difficulty": 0,
+  "display_name": "Boardwalk",
+  "ham_move_name": "Boardwalk_royals.move",
+  "milo_name": "boardwalk_royals",
+  "song_name": "royals",
+  "clips": {
+    "boardwalk_royals_v0": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "boardwalk_royals_v1": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

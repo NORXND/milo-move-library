@@ -1,0 +1,34 @@
+{
+  "name": "not_it",
+  "difficulty": 1,
+  "display_name": "Not It",
+  "ham_move_name": "Not_It_royals.move",
+  "milo_name": "not_it_royals",
+  "song_name": "royals",
+  "clips": {
+    "not_it_royals_v0": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "not_it_royals_v1": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "not_it_royals_v2": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

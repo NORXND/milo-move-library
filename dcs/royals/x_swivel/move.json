@@ -1,0 +1,26 @@
+{
+  "name": "x_swivel",
+  "difficulty": 0,
+  "display_name": "X Swivel",
+  "ham_move_name": "X_Swivel_royals.move",
+  "milo_name": "x_swivel_royals",
+  "song_name": "royals",
+  "clips": {
+    "x_swivel_royals_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "x_swivel_royals_v1": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

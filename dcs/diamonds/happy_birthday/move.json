@@ -1,0 +1,18 @@
+{
+  "name": "happy_birthday",
+  "difficulty": 2,
+  "display_name": "Happy Birthday",
+  "ham_move_name": "Happy_Birthday_diamonds.move",
+  "milo_name": "happy_birthday_diamonds",
+  "song_name": "diamonds",
+  "clips": {
+    "happy_birthday_diamonds_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

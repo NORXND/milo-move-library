@@ -1,0 +1,18 @@
+{
+  "name": "fold_and_flourish",
+  "difficulty": 2,
+  "display_name": "Fold & Flourish",
+  "ham_move_name": "Fold_And_Flourish_diamonds.move",
+  "milo_name": "fold_and_flourish_diamonds",
+  "song_name": "diamonds",
+  "clips": {
+    "fold_and_flourish_diamonds_v0": {
+      "avg_beats_per_second": 1.54,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

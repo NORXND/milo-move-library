@@ -1,0 +1,18 @@
+{
+  "name": "take_take_take",
+  "difficulty": 2,
+  "display_name": "Take Take Take",
+  "ham_move_name": "Take_Take_Take_diamonds.move",
+  "milo_name": "take_take_take_diamonds",
+  "song_name": "diamonds",
+  "clips": {
+    "take_take_take_diamonds_v0": {
+      "avg_beats_per_second": 1.54,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "teen_drama",
+  "difficulty": 2,
+  "display_name": "Teen Drama",
+  "ham_move_name": "Teen_Drama_diamonds.move",
+  "milo_name": "teen_drama_diamonds",
+  "song_name": "diamonds",
+  "clips": {
+    "teen_drama_diamonds_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "fledgeling_diamonds_v0",
+      "linked_from": ""
+    }
+  }
+}

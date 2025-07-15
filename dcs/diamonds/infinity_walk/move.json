@@ -1,0 +1,66 @@
+{
+  "name": "infinity_walk",
+  "difficulty": 2,
+  "display_name": "Infinity Walk",
+  "ham_move_name": "Infinity_Walk_diamonds.move",
+  "milo_name": "infinity_walk_diamonds",
+  "song_name": "diamonds",
+  "clips": {
+    "infinity_walk_diamonds_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "infinity_walk_diamonds_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "infinity_walk_diamonds_v2": {
+      "avg_beats_per_second": 1.53,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "infinity_walk_diamonds_v3": {
+      "avg_beats_per_second": 1.53,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "infinity_walk_diamonds_v4": {
+      "avg_beats_per_second": 1.53,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "infinity_walk_diamonds_v5": {
+      "avg_beats_per_second": 1.53,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "infinity_walk_diamonds_v6": {
+      "avg_beats_per_second": 1.53,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

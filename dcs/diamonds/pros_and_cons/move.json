@@ -1,0 +1,26 @@
+{
+  "name": "pros_and_cons",
+  "difficulty": 0,
+  "display_name": "Pros & Cons",
+  "ham_move_name": "Pros_And_Cons_diamonds.move",
+  "milo_name": "pros_and_cons_diamonds",
+  "song_name": "diamonds",
+  "clips": {
+    "pros_and_cons_diamonds_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pros_and_cons_diamonds_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

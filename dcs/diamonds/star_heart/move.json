@@ -1,0 +1,74 @@
+{
+  "name": "star_heart",
+  "difficulty": 1,
+  "display_name": "Star Heart",
+  "ham_move_name": "Star_Heart_diamonds.move",
+  "milo_name": "star_heart_diamonds",
+  "song_name": "diamonds",
+  "clips": {
+    "star_heart_diamonds_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "star_heart_diamonds_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "star_heart_diamonds_v2": {
+      "avg_beats_per_second": 1.53,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "star_heart_diamonds_v3": {
+      "avg_beats_per_second": 1.53,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "star_heart_diamonds_v4": {
+      "avg_beats_per_second": 1.53,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "star_heart_diamonds_v5": {
+      "avg_beats_per_second": 1.53,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "star_heart_diamonds_v6": {
+      "avg_beats_per_second": 1.53,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "star_heart_diamonds_v7": {
+      "avg_beats_per_second": 1.53,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

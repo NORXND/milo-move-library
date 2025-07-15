@@ -1,0 +1,18 @@
+{
+  "name": "attitude_ripple",
+  "difficulty": 2,
+  "display_name": "Attitude Ripple",
+  "ham_move_name": "Dble_Diva_Wave_iamthebest.move",
+  "milo_name": "dble_diva_wave_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "attitude_ripple_iamthebest_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

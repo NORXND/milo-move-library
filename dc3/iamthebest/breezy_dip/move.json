@@ -1,0 +1,18 @@
+{
+  "name": "breezy_dip",
+  "difficulty": 2,
+  "display_name": "Breezy Dip",
+  "ham_move_name": "Bouncy_Pop_Up_iamthebest.move",
+  "milo_name": "bouncy_pop_up_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "breezy_dip_iamthebest_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

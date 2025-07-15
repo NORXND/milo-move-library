@@ -1,0 +1,26 @@
+{
+  "name": "track",
+  "difficulty": 2,
+  "display_name": "Track",
+  "ham_move_name": "Track_Prep_iamthebest.move",
+  "milo_name": "track_prep_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "track_iamthebest_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "track_iamthebest_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "t_round",
+  "difficulty": 2,
+  "display_name": "T 'round",
+  "ham_move_name": "Tick_Open_Out_iamthebest.move",
+  "milo_name": "tick_open_out_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "t_round_iamthebest_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

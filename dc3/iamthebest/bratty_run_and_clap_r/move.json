@@ -1,0 +1,18 @@
+{
+  "name": "bratty_run_and_clap_r",
+  "difficulty": 2,
+  "display_name": "Bratty Run & Clap",
+  "ham_move_name": "Willie_Bounce_Foot_Flick_Clap_R_iamthebest.move",
+  "milo_name": "willie_bounce_foot_flick_clap_r_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "bratty_run_and_clap_r_iamthebest_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "bratty_run_and_clap_l_iamthebest_v0",
+      "linked_from": ""
+    }
+  }
+}

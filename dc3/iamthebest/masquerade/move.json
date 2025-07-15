@@ -1,0 +1,18 @@
+{
+  "name": "masquerade",
+  "difficulty": 2,
+  "display_name": "Masquerade",
+  "ham_move_name": "_3_4_Sleeve_iamthebest.move",
+  "milo_name": "_3_4_sleeve_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "masquerade_iamthebest_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "designer_jeans_dip",
+  "difficulty": 2,
+  "display_name": "Designer Jeans Dip",
+  "ham_move_name": "Shani_Drop_iamthebest.move",
+  "milo_name": "shani_drop_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "designer_jeans_dip_iamthebest_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "designer_jeans_dip_iamthebest_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

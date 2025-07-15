@@ -1,0 +1,42 @@
+{
+  "name": "island_gyal",
+  "difficulty": 0,
+  "display_name": "Island Gyal",
+  "ham_move_name": "Island_Concert_iamthebest.move",
+  "milo_name": "island_concert_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "island_gyal_iamthebest_v3": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "island_gyal_iamthebest_v1": {
+      "avg_beats_per_second": 1.82,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "island_gyal_iamthebest_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "island_gyal_iamthebest_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "taffy",
+  "difficulty": 2,
+  "display_name": "Taffy",
+  "ham_move_name": "Pull_That_Taffy_Sexy_iamthebest.move",
+  "milo_name": "pull_that_taffy_sexy_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "taffy_iamthebest_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "birdie_bop",
+  "difficulty": 2,
+  "display_name": "Birdie Bop",
+  "ham_move_name": "Nicki_No_No_iamthebest.move",
+  "milo_name": "nicki_no_no_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "birdie_bop_iamthebest_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

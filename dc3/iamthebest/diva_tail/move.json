@@ -1,0 +1,18 @@
+{
+  "name": "diva_tail",
+  "difficulty": 2,
+  "display_name": "Diva Tail",
+  "ham_move_name": "Diva_Bag_iamthebest.move",
+  "milo_name": "diva_bag_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "diva_tail_iamthebest_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

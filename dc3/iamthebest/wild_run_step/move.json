@@ -1,0 +1,26 @@
+{
+  "name": "wild_run_step",
+  "difficulty": 2,
+  "display_name": "Wild Run Step",
+  "ham_move_name": "Fake_Run_Foot_Hip_Kat_iamthebest.move",
+  "milo_name": "fake_run_foot_hip_kat_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "wild_run_step_iamthebest_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wild_run_step_iamthebest_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

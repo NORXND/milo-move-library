@@ -1,0 +1,26 @@
+{
+  "name": "track_spin",
+  "difficulty": 2,
+  "display_name": "Track Spin",
+  "ham_move_name": "Jump_In_Out_Spin_Kat_iamthebest.move",
+  "milo_name": "jump_in_out_spin_kat_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "track_spin_iamthebest_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "track_spin_iamthebest_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

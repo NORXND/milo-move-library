@@ -1,0 +1,18 @@
+{
+  "name": "free_skate",
+  "difficulty": 2,
+  "display_name": "Free Skate",
+  "ham_move_name": "Extended_Knee_Skate_iamthebest.move",
+  "milo_name": "extended_knee_skate_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "free_skate_iamthebest_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

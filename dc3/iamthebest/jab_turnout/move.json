@@ -1,0 +1,18 @@
+{
+  "name": "jab_turnout",
+  "difficulty": 2,
+  "display_name": "Jab Turnout",
+  "ham_move_name": "Squish_The_Beetle_Heel_iamthebest.move",
+  "milo_name": "squish_the_beetle_heel_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "jab_turnout_iamthebest_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "punchy",
+  "difficulty": 1,
+  "display_name": "Punchy",
+  "ham_move_name": "Punchy_iamthebest.move",
+  "milo_name": "punchy_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "punchy_iamthebest_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

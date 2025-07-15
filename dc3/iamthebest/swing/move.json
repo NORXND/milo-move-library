@@ -1,0 +1,42 @@
+{
+  "name": "swing",
+  "difficulty": 0,
+  "display_name": "Swing",
+  "ham_move_name": "Swing_Step_iamthebest.move",
+  "milo_name": "swing_step_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "swing_iamthebest_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swing_iamthebest_v2": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swing_iamthebest_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swing_iamthebest_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "close_and_open",
+  "difficulty": 2,
+  "display_name": "Close & Open",
+  "ham_move_name": "African_Hula_Hoop_iamthebest.move",
+  "milo_name": "african_hula_hoop_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "close_and_open_iamthebest_v0": {
+      "avg_beats_per_second": 1.82,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

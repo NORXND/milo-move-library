@@ -1,0 +1,18 @@
+{
+  "name": "booty_shake_and_snap",
+  "difficulty": 2,
+  "display_name": "Booty Shake & Snap",
+  "ham_move_name": "Booty_Pump_Snap_Up_Yeah_iamthebest.move",
+  "milo_name": "booty_pump_snap_up_yeah_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "booty_shake_and_snap_iamthebest_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "freq_whip",
+  "difficulty": 1,
+  "display_name": "Freq Whip",
+  "ham_move_name": "Fanny_Tap_iamthebest.move",
+  "milo_name": "fanny_tap_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "freq_whip_iamthebest_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freq_whip_iamthebest_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

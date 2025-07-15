@@ -1,0 +1,42 @@
+{
+  "name": "cross_roll_up",
+  "difficulty": 2,
+  "display_name": "Cross Roll Up",
+  "ham_move_name": "Cross_Fist_Dip_iamthebest.move",
+  "milo_name": "cross_fist_dip_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "cross_roll_up_iamthebest_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_roll_up_iamthebest_v3": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_roll_up_iamthebest_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_roll_up_iamthebest_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

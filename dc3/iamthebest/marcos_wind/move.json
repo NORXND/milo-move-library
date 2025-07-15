@@ -1,0 +1,18 @@
+{
+  "name": "marcos_wind",
+  "difficulty": 2,
+  "display_name": "Marcos Wind",
+  "ham_move_name": "F_In_Marcos_iamthebest.move",
+  "milo_name": "f_in_marcos_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "marcos_wind_iamthebest_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

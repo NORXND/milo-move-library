@@ -1,0 +1,26 @@
+{
+  "name": "reborn",
+  "difficulty": 2,
+  "display_name": "Reborn",
+  "ham_move_name": "Tred_Wave_Side_Side_iamthebest.move",
+  "milo_name": "tred_wave_side_side_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "reborn_iamthebest_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "reborn_iamthebest_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

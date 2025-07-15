@@ -1,0 +1,18 @@
+{
+  "name": "dusk_bow",
+  "difficulty": 2,
+  "display_name": "Dusk Bow",
+  "ham_move_name": "Dusk_Bow_iamthebest.move",
+  "milo_name": "dusk_bow_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "dusk_bow_iamthebest_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

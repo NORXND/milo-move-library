@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_iamthebest_v1078",
+  "difficulty": 2,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_iamthebest.move",
+  "milo_name": "finishing_move_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "finishing_move_iamthebest_v1078": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 74,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

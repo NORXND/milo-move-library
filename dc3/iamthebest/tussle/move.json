@@ -1,0 +1,42 @@
+{
+  "name": "tussle",
+  "difficulty": 2,
+  "display_name": "Tussle",
+  "ham_move_name": "Fist_To_Face_iamthebest.move",
+  "milo_name": "fist_to_face_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "tussle_iamthebest_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tussle_iamthebest_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tussle_iamthebest_v2": {
+      "avg_beats_per_second": 1.82,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tussle_iamthebest_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "to_the_right_r",
+  "difficulty": 2,
+  "display_name": "To The Right",
+  "ham_move_name": "Step_Out_R_cupidshuffle.move",
+  "milo_name": "step_out_r_cupidshuffle",
+  "song_name": "cupidshuffle",
+  "clips": {
+    "to_the_right_r_cupidshuffle_v4": {
+      "avg_beats_per_second": 2.05,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "to_the_right_r_cupidshuffle_v6": {
+      "avg_beats_per_second": 2.05,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "to_the_left_l_cupidshuffle_v6",
+      "linked_from": ""
+    },
+    "to_the_right_r_cupidshuffle_v2": {
+      "avg_beats_per_second": 2.05,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "to_the_right_r_cupidshuffle_v0": {
+      "avg_beats_per_second": 2.39,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "to_the_right_r_cupidshuffle_v3": {
+      "avg_beats_per_second": 2.05,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "to_the_left_l_cupidshuffle_v2",
+      "linked_from": ""
+    },
+    "to_the_right_r_cupidshuffle_v5": {
+      "avg_beats_per_second": 2.05,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "to_the_left_l_cupidshuffle_v4",
+      "linked_from": ""
+    },
+    "to_the_right_r_cupidshuffle_v1": {
+      "avg_beats_per_second": 2.4,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "to_the_left_l_cupidshuffle_v0",
+      "linked_from": ""
+    }
+  }
+}

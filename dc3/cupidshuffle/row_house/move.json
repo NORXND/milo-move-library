@@ -1,0 +1,26 @@
+{
+  "name": "row_house",
+  "difficulty": 2,
+  "display_name": "Row House",
+  "ham_move_name": "_1_2_Step_cupidshuffle.move",
+  "milo_name": "_1_2_step_cupidshuffle",
+  "song_name": "cupidshuffle",
+  "clips": {
+    "row_house_cupidshuffle_v0": {
+      "avg_beats_per_second": 2.39,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "row_house_cupidshuffle_v1": {
+      "avg_beats_per_second": 2.4,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

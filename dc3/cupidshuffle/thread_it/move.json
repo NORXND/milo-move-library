@@ -1,0 +1,26 @@
+{
+  "name": "thread_it",
+  "difficulty": 1,
+  "display_name": "Thread It",
+  "ham_move_name": "Thread_It_cupidshuffle.move",
+  "milo_name": "thread_it_cupidshuffle",
+  "song_name": "cupidshuffle",
+  "clips": {
+    "thread_it_cupidshuffle_v0": {
+      "avg_beats_per_second": 2.39,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "thread_it_cupidshuffle_v1": {
+      "avg_beats_per_second": 2.39,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

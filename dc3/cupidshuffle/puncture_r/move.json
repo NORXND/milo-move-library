@@ -1,0 +1,50 @@
+{
+  "name": "puncture_r",
+  "difficulty": 2,
+  "display_name": "Puncture",
+  "ham_move_name": "Pounder_R_cupidshuffle.move",
+  "milo_name": "pounder_r_cupidshuffle",
+  "song_name": "cupidshuffle",
+  "clips": {
+    "puncture_r_cupidshuffle_v2": {
+      "avg_beats_per_second": 2.4,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "puncture_l_cupidshuffle_v2"
+    },
+    "puncture_r_cupidshuffle_v3": {
+      "avg_beats_per_second": 2.4,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "puncture_l_cupidshuffle_v3"
+    },
+    "puncture_r_cupidshuffle_v4": {
+      "avg_beats_per_second": 2.4,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "puncture_l_cupidshuffle_v4"
+    },
+    "puncture_r_cupidshuffle_v0": {
+      "avg_beats_per_second": 2.4,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "puncture_l_cupidshuffle_v0"
+    },
+    "puncture_r_cupidshuffle_v1": {
+      "avg_beats_per_second": 2.4,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "puncture_l_cupidshuffle_v1"
+    }
+  }
+}

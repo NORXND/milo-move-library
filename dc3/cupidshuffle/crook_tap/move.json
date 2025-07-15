@@ -1,0 +1,42 @@
+{
+  "name": "crook_tap",
+  "difficulty": 2,
+  "display_name": "Crook Tap",
+  "ham_move_name": "Swerve_cupidshuffle.move",
+  "milo_name": "swerve_cupidshuffle",
+  "song_name": "cupidshuffle",
+  "clips": {
+    "crook_tap_cupidshuffle_v0": {
+      "avg_beats_per_second": 2.4,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "crook_tap_cupidshuffle_v1": {
+      "avg_beats_per_second": 2.39,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "crook_tap_cupidshuffle_v2": {
+      "avg_beats_per_second": 2.4,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "crook_tap_cupidshuffle_v3": {
+      "avg_beats_per_second": 2.39,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

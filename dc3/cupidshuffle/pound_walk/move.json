@@ -1,0 +1,26 @@
+{
+  "name": "exception_pound_walk_u",
+  "difficulty": 2,
+  "display_name": "Pound Walk",
+  "ham_move_name": "Its_Me_Up_cupidshuffle.move",
+  "milo_name": "its_me_up_cupidshuffle",
+  "song_name": "cupidshuffle",
+  "clips": {
+    "pound_walk_cupidshuffle_v3": {
+      "avg_beats_per_second": 2.4,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_walk_cupidshuffle_v1": {
+      "avg_beats_per_second": 2.4,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

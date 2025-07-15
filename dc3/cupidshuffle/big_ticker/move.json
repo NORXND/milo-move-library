@@ -1,0 +1,90 @@
+{
+  "name": "big_ticker",
+  "difficulty": 2,
+  "display_name": "Big Ticker",
+  "ham_move_name": "Hi_Hat_cupidshuffle.move",
+  "milo_name": "hi_hat_cupidshuffle",
+  "song_name": "cupidshuffle",
+  "clips": {
+    "big_ticker_cupidshuffle_v1": {
+      "avg_beats_per_second": 2.39,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "big_ticker_cupidshuffle_v7": {
+      "avg_beats_per_second": 2.04,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "big_ticker_cupidshuffle_v4": {
+      "avg_beats_per_second": 2.04,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "big_ticker_cupidshuffle_v5": {
+      "avg_beats_per_second": 2.04,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "big_ticker_cupidshuffle_v2": {
+      "avg_beats_per_second": 2.04,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "big_ticker_cupidshuffle_v8": {
+      "avg_beats_per_second": 2.06,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "big_ticker_cupidshuffle_v0": {
+      "avg_beats_per_second": 2.4,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "big_ticker_cupidshuffle_v6": {
+      "avg_beats_per_second": 2.04,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "big_ticker_cupidshuffle_v3": {
+      "avg_beats_per_second": 2.05,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "big_ticker_cupidshuffle_v9": {
+      "avg_beats_per_second": 2.06,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

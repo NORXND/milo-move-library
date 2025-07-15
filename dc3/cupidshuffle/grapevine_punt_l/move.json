@@ -1,0 +1,26 @@
+{
+  "name": "grapevine_punt_l",
+  "difficulty": 2,
+  "display_name": "Grapevine Punt",
+  "ham_move_name": "Walk_Hi_Hat_L_cupidshuffle.move",
+  "milo_name": "walk_hi_hat_l_cupidshuffle",
+  "song_name": "cupidshuffle",
+  "clips": {
+    "grapevine_punt_l_cupidshuffle_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "grapevine_punt_r_cupidshuffle_v0",
+      "linked_from": ""
+    },
+    "grapevine_punt_l_cupidshuffle_v1": {
+      "avg_beats_per_second": 2.06,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "grapevine_punt_r_cupidshuffle_v1",
+      "linked_from": ""
+    }
+  }
+}

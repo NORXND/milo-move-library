@@ -1,0 +1,42 @@
+{
+  "name": "pull_flick_r",
+  "difficulty": 2,
+  "display_name": "Pull Flick",
+  "ham_move_name": "Karate_Kid_R_cupidshuffle.move",
+  "milo_name": "karate_kid_r_cupidshuffle",
+  "song_name": "cupidshuffle",
+  "clips": {
+    "pull_flick_r_cupidshuffle_v1": {
+      "avg_beats_per_second": 2.39,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "pull_flick_l_cupidshuffle_v1",
+      "linked_from": ""
+    },
+    "pull_flick_r_cupidshuffle_v2": {
+      "avg_beats_per_second": 2.39,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "pull_flick_l_cupidshuffle_v2",
+      "linked_from": ""
+    },
+    "pull_flick_r_cupidshuffle_v3": {
+      "avg_beats_per_second": 2.09,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "pull_flick_l_cupidshuffle_v3",
+      "linked_from": ""
+    },
+    "pull_flick_r_cupidshuffle_v0": {
+      "avg_beats_per_second": 2.39,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "pull_flick_l_cupidshuffle_v0",
+      "linked_from": ""
+    }
+  }
+}

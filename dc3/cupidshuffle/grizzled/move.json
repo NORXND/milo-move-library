@@ -1,0 +1,26 @@
+{
+  "name": "grizzled",
+  "difficulty": 2,
+  "display_name": "Grizzled",
+  "ham_move_name": "Granddaddy_cupidshuffle.move",
+  "milo_name": "granddaddy_cupidshuffle",
+  "song_name": "cupidshuffle",
+  "clips": {
+    "grizzled_cupidshuffle_v0": {
+      "avg_beats_per_second": 2.39,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "grizzled_cupidshuffle_v1": {
+      "avg_beats_per_second": 2.39,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

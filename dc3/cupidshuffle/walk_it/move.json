@@ -1,0 +1,58 @@
+{
+  "name": "walk_it",
+  "difficulty": 2,
+  "display_name": "Walk It",
+  "ham_move_name": "Walk_It_Out_cupidshuffle.move",
+  "milo_name": "walk_it_out_cupidshuffle",
+  "song_name": "cupidshuffle",
+  "clips": {
+    "walk_it_cupidshuffle_v1": {
+      "avg_beats_per_second": 2.39,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "walk_it_cupidshuffle_v4": {
+      "avg_beats_per_second": 2.06,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "walk_it_cupidshuffle_v2": {
+      "avg_beats_per_second": 2.06,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "walk_it_cupidshuffle_v0": {
+      "avg_beats_per_second": 2.39,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "walk_it_cupidshuffle_v5": {
+      "avg_beats_per_second": 2.05,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "walk_it_cupidshuffle_v3": {
+      "avg_beats_per_second": 2.06,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "reunion_tour",
+  "difficulty": 2,
+  "display_name": "Reunion Tour",
+  "ham_move_name": "Sway_To_High_Fists_yougotittherightstuff.move",
+  "milo_name": "sway_to_high_fists_yougotittherightstuff",
+  "song_name": "yougotittherightstuff",
+  "clips": {
+    "reunion_tour_yougotittherightstuff_v0": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "reunion_tour_yougotittherightstuff_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "reunion_tour_yougotittherightstuff_v2": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "reunion_tour_yougotittherightstuff_v3": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

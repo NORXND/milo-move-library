@@ -1,0 +1,26 @@
+{
+  "name": "curl_hop",
+  "difficulty": 2,
+  "display_name": "Curl Hop",
+  "ham_move_name": "Bounce_Right_Left_Set_yougotittherightstuff.move",
+  "milo_name": "bounce_right_left_set_yougotittherightstuff",
+  "song_name": "yougotittherightstuff",
+  "clips": {
+    "curl_hop_yougotittherightstuff_v0": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "curl_hop_yougotittherightstuff_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

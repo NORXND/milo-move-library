@@ -1,0 +1,26 @@
+{
+  "name": "tap_and_reset",
+  "difficulty": 2,
+  "display_name": "Tap & Reset",
+  "ham_move_name": "Pose_Step_Thoughts_yougotittherightstuff.move",
+  "milo_name": "pose_step_thoughts_yougotittherightstuff",
+  "song_name": "yougotittherightstuff",
+  "clips": {
+    "tap_and_reset_yougotittherightstuff_v0": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tap_and_reset_yougotittherightstuff_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "dance_love",
+  "difficulty": 2,
+  "display_name": "Dance Love",
+  "ham_move_name": "Drag_Hand_In_yougotittherightstuff.move",
+  "milo_name": "drag_hand_in_yougotittherightstuff",
+  "song_name": "yougotittherightstuff",
+  "clips": {
+    "dance_love_yougotittherightstuff_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dance_love_yougotittherightstuff_v0": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

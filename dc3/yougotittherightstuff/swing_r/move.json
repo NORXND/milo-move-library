@@ -1,0 +1,18 @@
+{
+  "name": "swing_r",
+  "difficulty": 2,
+  "display_name": "Swing",
+  "ham_move_name": "Bounce_Shift_To_Throw_R_yougotittherightstuff.move",
+  "milo_name": "bounce_shift_to_throw_r_yougotittherightstuff",
+  "song_name": "yougotittherightstuff",
+  "clips": {
+    "swing_r_yougotittherightstuff_v0": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "swing_l_yougotittherightstuff_v0",
+      "linked_from": ""
+    }
+  }
+}

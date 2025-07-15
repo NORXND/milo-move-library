@@ -1,0 +1,26 @@
+{
+  "name": "time_belt",
+  "difficulty": 2,
+  "display_name": "Time Belt",
+  "ham_move_name": "Turn_On_To_Sway_yougotittherightstuff.move",
+  "milo_name": "turn_on_to_sway_yougotittherightstuff",
+  "song_name": "yougotittherightstuff",
+  "clips": {
+    "time_belt_yougotittherightstuff_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "time_belt_yougotittherightstuff_v0": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

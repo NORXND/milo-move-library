@@ -1,0 +1,50 @@
+{
+  "name": "the_stuff",
+  "difficulty": 2,
+  "display_name": "The Stuff",
+  "ham_move_name": "Hop_And_Pose_yougotittherightstuff.move",
+  "milo_name": "hop_and_pose_yougotittherightstuff",
+  "song_name": "yougotittherightstuff",
+  "clips": {
+    "the_stuff_yougotittherightstuff_v4": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "the_stuff_yougotittherightstuff_v0": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "the_stuff_yougotittherightstuff_v1": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "the_stuff_yougotittherightstuff_v2": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "the_stuff_yougotittherightstuff_v3": {
+      "avg_beats_per_second": 1.59,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

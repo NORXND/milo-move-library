@@ -1,0 +1,18 @@
+{
+  "name": "oh_jab_l",
+  "difficulty": 2,
+  "display_name": "Oh Jab",
+  "ham_move_name": "Sync_Hits_L_yougotittherightstuff.move",
+  "milo_name": "sync_hits_l_yougotittherightstuff",
+  "song_name": "yougotittherightstuff",
+  "clips": {
+    "oh_jab_l_yougotittherightstuff_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "oh_jab_r_yougotittherightstuff_v1",
+      "linked_from": "oh_jab_r_yougotittherightstuff_v0"
+    }
+  }
+}

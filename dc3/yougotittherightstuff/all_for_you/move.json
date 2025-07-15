@@ -1,0 +1,42 @@
+{
+  "name": "all_for_you",
+  "difficulty": 0,
+  "display_name": "All For You",
+  "ham_move_name": "Elbows_To_Point_yougotittherightstuff.move",
+  "milo_name": "elbows_to_point_yougotittherightstuff",
+  "song_name": "yougotittherightstuff",
+  "clips": {
+    "all_for_you_yougotittherightstuff_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "all_for_you_yougotittherightstuff_v3": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "all_for_you_yougotittherightstuff_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "all_for_you_yougotittherightstuff_v2": {
+      "avg_beats_per_second": 1.64,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

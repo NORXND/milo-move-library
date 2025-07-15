@@ -1,0 +1,26 @@
+{
+  "name": "give_it_slide",
+  "difficulty": 2,
+  "display_name": "Give It Slide",
+  "ham_move_name": "Style_Slide_yougotittherightstuff.move",
+  "milo_name": "style_slide_yougotittherightstuff",
+  "song_name": "yougotittherightstuff",
+  "clips": {
+    "give_it_slide_yougotittherightstuff_v0": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "give_it_slide_yougotittherightstuff_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

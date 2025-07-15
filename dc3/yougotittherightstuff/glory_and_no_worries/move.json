@@ -1,0 +1,26 @@
+{
+  "name": "glory_and_no_worries",
+  "difficulty": 2,
+  "display_name": "Glory / No Worries",
+  "ham_move_name": "Wipe_High_Low_yougotittherightstuff.move",
+  "milo_name": "wipe_high_low_yougotittherightstuff",
+  "song_name": "yougotittherightstuff",
+  "clips": {
+    "glory_and_no_worries_yougotittherightstuff_v0": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "glory_and_no_worries_yougotittherightstuff_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

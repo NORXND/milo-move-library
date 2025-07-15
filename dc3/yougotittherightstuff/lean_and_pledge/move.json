@@ -1,0 +1,26 @@
+{
+  "name": "lean_and_pledge",
+  "difficulty": 2,
+  "display_name": "Lean & Pledge",
+  "ham_move_name": "Slow_Right_Hand_yougotittherightstuff.move",
+  "milo_name": "slow_right_hand_yougotittherightstuff",
+  "song_name": "yougotittherightstuff",
+  "clips": {
+    "lean_and_pledge_yougotittherightstuff_v0": {
+      "avg_beats_per_second": 1.85,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "lean_and_pledge_yougotittherightstuff_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

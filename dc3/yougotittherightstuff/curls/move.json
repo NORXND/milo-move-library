@@ -1,0 +1,18 @@
+{
+  "name": "curls",
+  "difficulty": 2,
+  "display_name": "Curls",
+  "ham_move_name": "Rock_Groove_yougotittherightstuff.move",
+  "milo_name": "rock_groove_yougotittherightstuff",
+  "song_name": "yougotittherightstuff",
+  "clips": {
+    "curls_yougotittherightstuff_v0": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

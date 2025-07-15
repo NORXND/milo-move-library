@@ -1,0 +1,26 @@
+{
+  "name": "choir_walk",
+  "difficulty": 2,
+  "display_name": "Choir Walk",
+  "ham_move_name": "Boy_Band_yougotittherightstuff.move",
+  "milo_name": "boy_band_yougotittherightstuff",
+  "song_name": "yougotittherightstuff",
+  "clips": {
+    "choir_walk_yougotittherightstuff_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "choir_walk_yougotittherightstuff_v0": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

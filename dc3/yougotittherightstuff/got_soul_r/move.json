@@ -1,0 +1,74 @@
+{
+  "name": "got_soul_r",
+  "difficulty": 1,
+  "display_name": "Got Soul",
+  "ham_move_name": "Got_Soul_R_yougotittherightstuff.move",
+  "milo_name": "got_soul_r_yougotittherightstuff",
+  "song_name": "yougotittherightstuff",
+  "clips": {
+    "got_soul_r_yougotittherightstuff_v2": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "got_soul_l_yougotittherightstuff_v1",
+      "linked_from": ""
+    },
+    "got_soul_r_yougotittherightstuff_v5": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "got_soul_l_yougotittherightstuff_v2"
+    },
+    "got_soul_r_yougotittherightstuff_v0": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "got_soul_l_yougotittherightstuff_v0",
+      "linked_from": ""
+    },
+    "got_soul_r_yougotittherightstuff_v3": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "got_soul_l_yougotittherightstuff_v1"
+    },
+    "got_soul_r_yougotittherightstuff_v6": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "got_soul_l_yougotittherightstuff_v3",
+      "linked_from": ""
+    },
+    "got_soul_r_yougotittherightstuff_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "got_soul_l_yougotittherightstuff_v0"
+    },
+    "got_soul_r_yougotittherightstuff_v4": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "got_soul_l_yougotittherightstuff_v2",
+      "linked_from": ""
+    },
+    "got_soul_r_yougotittherightstuff_v7": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "got_soul_l_yougotittherightstuff_v3"
+    }
+  }
+}

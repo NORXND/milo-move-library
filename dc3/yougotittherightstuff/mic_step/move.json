@@ -1,0 +1,26 @@
+{
+  "name": "mic_step",
+  "difficulty": 2,
+  "display_name": "Mic Step",
+  "ham_move_name": "Swing_To_Mic_yougotittherightstuff.move",
+  "milo_name": "swing_to_mic_yougotittherightstuff",
+  "song_name": "yougotittherightstuff",
+  "clips": {
+    "mic_step_yougotittherightstuff_v1": {
+      "avg_beats_per_second": 1.59,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "mic_step_yougotittherightstuff_v0": {
+      "avg_beats_per_second": 1.59,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

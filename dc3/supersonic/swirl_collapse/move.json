@@ -1,0 +1,18 @@
+{
+  "name": "swirl_collapse",
+  "difficulty": 2,
+  "display_name": "Swirl Collapse",
+  "ham_move_name": "Puppet_supersonic.move",
+  "milo_name": "puppet_supersonic",
+  "song_name": "supersonic",
+  "clips": {
+    "swirl_collapse_supersonic_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

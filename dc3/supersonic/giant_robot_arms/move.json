@@ -1,0 +1,26 @@
+{
+  "name": "giant_robot_arms",
+  "difficulty": 2,
+  "display_name": "Giant Robot Arms",
+  "ham_move_name": "Giant_Robot_Arms_supersonic.move",
+  "milo_name": "giant_robot_arms_supersonic",
+  "song_name": "supersonic",
+  "clips": {
+    "giant_robot_arms_supersonic_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "giant_robot_arms_supersonic_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

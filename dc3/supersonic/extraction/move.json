@@ -1,0 +1,18 @@
+{
+  "name": "extraction",
+  "difficulty": 2,
+  "display_name": "Extraction",
+  "ham_move_name": "Shrinky_Dink_supersonic.move",
+  "milo_name": "shrinky_dink_supersonic",
+  "song_name": "supersonic",
+  "clips": {
+    "extraction_supersonic_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

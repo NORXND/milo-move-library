@@ -1,0 +1,18 @@
+{
+  "name": "peanut_butter_swirl",
+  "difficulty": 2,
+  "display_name": "Peanut Butter Swirl",
+  "ham_move_name": "Dynamo_supersonic.move",
+  "milo_name": "dynamo_supersonic",
+  "song_name": "supersonic",
+  "clips": {
+    "peanut_butter_swirl_supersonic_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

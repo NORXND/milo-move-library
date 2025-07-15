@@ -1,0 +1,26 @@
+{
+  "name": "awesome_bot",
+  "difficulty": 2,
+  "display_name": "Awesome Bot",
+  "ham_move_name": "Frankenbot_supersonic.move",
+  "milo_name": "frankenbot_supersonic",
+  "song_name": "supersonic",
+  "clips": {
+    "awesome_bot_supersonic_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "awesome_bot_supersonic_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

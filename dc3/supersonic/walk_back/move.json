@@ -1,0 +1,26 @@
+{
+  "name": "walk_back",
+  "difficulty": 2,
+  "display_name": "Walk Back",
+  "ham_move_name": "Walk_Back_supersonic.move",
+  "milo_name": "walk_back_supersonic",
+  "song_name": "supersonic",
+  "clips": {
+    "walk_back_supersonic_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "walk_back_supersonic_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

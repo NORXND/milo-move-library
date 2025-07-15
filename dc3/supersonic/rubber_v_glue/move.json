@@ -1,0 +1,26 @@
+{
+  "name": "rubber_v_glue",
+  "difficulty": 2,
+  "display_name": "Rubber V. Glue",
+  "ham_move_name": "Bobblehead_supersonic.move",
+  "milo_name": "bobblehead_supersonic",
+  "song_name": "supersonic",
+  "clips": {
+    "rubber_v_glue_supersonic_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rubber_v_glue_supersonic_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "break_wave_r",
+  "difficulty": 2,
+  "display_name": "Break Wave",
+  "ham_move_name": "Break_Wave_In_R_supersonic.move",
+  "milo_name": "break_wave_in_r_supersonic",
+  "song_name": "supersonic",
+  "clips": {
+    "break_wave_r_supersonic_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "break_wave_r_supersonic_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

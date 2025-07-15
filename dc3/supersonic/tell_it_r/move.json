@@ -1,0 +1,18 @@
+{
+  "name": "tell_it_r",
+  "difficulty": 2,
+  "display_name": "Tell It",
+  "ham_move_name": "Yeahhhh_Dassit_R_supersonic.move",
+  "milo_name": "yeahhhh_dassit_r_supersonic",
+  "song_name": "supersonic",
+  "clips": {
+    "tell_it_r_supersonic_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "tell_it_l_supersonic_v0"
+    }
+  }
+}

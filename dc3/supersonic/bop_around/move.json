@@ -1,0 +1,18 @@
+{
+  "name": "bop_around",
+  "difficulty": 2,
+  "display_name": "Bop Around",
+  "ham_move_name": "Bounce_supersonic.move",
+  "milo_name": "bounce_supersonic",
+  "song_name": "supersonic",
+  "clips": {
+    "bop_around_supersonic_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

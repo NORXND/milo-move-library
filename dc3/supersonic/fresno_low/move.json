@@ -1,0 +1,26 @@
+{
+  "name": "fresno_low",
+  "difficulty": 0,
+  "display_name": "Fresno Low",
+  "ham_move_name": "Dbl_Fresno_Down_Rl_supersonic.move",
+  "milo_name": "dbl_fresno_down_rl_supersonic",
+  "song_name": "supersonic",
+  "clips": {
+    "fresno_low_supersonic_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "fresno_low_supersonic_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

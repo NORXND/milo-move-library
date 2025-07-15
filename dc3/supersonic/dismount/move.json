@@ -1,0 +1,26 @@
+{
+  "name": "dismount",
+  "difficulty": 2,
+  "display_name": "Dismount",
+  "ham_move_name": "Pinnochio_supersonic.move",
+  "milo_name": "pinnochio_supersonic",
+  "song_name": "supersonic",
+  "clips": {
+    "dismount_supersonic_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dismount_supersonic_v1": {
+      "avg_beats_per_second": 1.64,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

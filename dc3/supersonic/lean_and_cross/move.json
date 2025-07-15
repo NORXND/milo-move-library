@@ -1,0 +1,18 @@
+{
+  "name": "lean_and_cross",
+  "difficulty": 2,
+  "display_name": "Lean & Cross",
+  "ham_move_name": "Boogaloo_supersonic.move",
+  "milo_name": "boogaloo_supersonic",
+  "song_name": "supersonic",
+  "clips": {
+    "lean_and_cross_supersonic_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

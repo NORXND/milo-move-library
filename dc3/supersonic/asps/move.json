@@ -1,0 +1,18 @@
+{
+  "name": "exception_asps_2",
+  "difficulty": 2,
+  "display_name": "Asps",
+  "ham_move_name": "Cobra_supersonic.move",
+  "milo_name": "cobra_supersonic",
+  "song_name": "supersonic",
+  "clips": {
+    "asps_supersonic_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

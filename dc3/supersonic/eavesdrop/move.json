@@ -1,0 +1,18 @@
+{
+  "name": "eavesdrop",
+  "difficulty": 2,
+  "display_name": "Eavesdrop",
+  "ham_move_name": "Sounds_Like_supersonic.move",
+  "milo_name": "sounds_like_supersonic",
+  "song_name": "supersonic",
+  "clips": {
+    "eavesdrop_supersonic_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

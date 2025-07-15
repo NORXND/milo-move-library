@@ -1,0 +1,58 @@
+{
+  "name": "heart_pump_side_l",
+  "difficulty": 2,
+  "display_name": "Heart Pump Side",
+  "ham_move_name": "Diagonal_Chest_Pop_L_supersonic.move",
+  "milo_name": "diagonal_chest_pop_l_supersonic",
+  "song_name": "supersonic",
+  "clips": {
+    "heart_pump_side_l_supersonic_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heart_pump_side_l_supersonic_v2": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heart_pump_side_l_supersonic_v3": {
+      "avg_beats_per_second": 2.21,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heart_pump_side_l_supersonic_v4": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heart_pump_side_l_supersonic_v5": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heart_pump_side_l_supersonic_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

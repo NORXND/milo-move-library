@@ -1,0 +1,26 @@
+{
+  "name": "push_me_r",
+  "difficulty": 1,
+  "display_name": "Push Me",
+  "ham_move_name": "Dime_Stop_R_supersonic.move",
+  "milo_name": "dime_stop_r_supersonic",
+  "song_name": "supersonic",
+  "clips": {
+    "push_me_r_supersonic_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "push_me_l_supersonic_v0",
+      "linked_from": ""
+    },
+    "push_me_r_supersonic_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "push_me_l_supersonic_v1",
+      "linked_from": ""
+    }
+  }
+}

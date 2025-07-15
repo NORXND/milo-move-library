@@ -1,0 +1,26 @@
+{
+  "name": "toe_snap",
+  "difficulty": 0,
+  "display_name": "Toe Snap",
+  "ham_move_name": "Toe_Snap_supersonic.move",
+  "milo_name": "toe_snap_supersonic",
+  "song_name": "supersonic",
+  "clips": {
+    "toe_snap_supersonic_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "toe_snap_supersonic_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

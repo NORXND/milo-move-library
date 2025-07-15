@@ -1,0 +1,18 @@
+{
+  "name": "lean_and_gumshoe",
+  "difficulty": 2,
+  "display_name": "Lean / Gumshoe",
+  "ham_move_name": "Skip_To_My_Lou_supersonic.move",
+  "milo_name": "skip_to_my_lou_supersonic",
+  "song_name": "supersonic",
+  "clips": {
+    "lean_and_gumshoe_supersonic_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

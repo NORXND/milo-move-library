@@ -1,0 +1,18 @@
+{
+  "name": "top_heavy_and_wave_up",
+  "difficulty": 2,
+  "display_name": "Top Heavy / Wave Up",
+  "ham_move_name": "Build_Up_supersonic.move",
+  "milo_name": "build_up_supersonic",
+  "song_name": "supersonic",
+  "clips": {
+    "top_heavy_and_wave_up_supersonic_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

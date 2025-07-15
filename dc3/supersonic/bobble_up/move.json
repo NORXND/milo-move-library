@@ -1,0 +1,18 @@
+{
+  "name": "bobble_up",
+  "difficulty": 2,
+  "display_name": "Bobble Up",
+  "ham_move_name": "Elevator_supersonic.move",
+  "milo_name": "elevator_supersonic",
+  "song_name": "supersonic",
+  "clips": {
+    "bobble_up_supersonic_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_supersonic_v1087",
+  "difficulty": 2,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_supersonic.move",
+  "milo_name": "finishing_move_supersonic",
+  "song_name": "supersonic",
+  "clips": {
+    "finishing_move_supersonic_v1087": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 74,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

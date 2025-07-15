@@ -1,0 +1,26 @@
+{
+  "name": "side_snatch",
+  "difficulty": 0,
+  "display_name": "Side Snatch",
+  "ham_move_name": "Side_Snatch_rendezvu.move",
+  "milo_name": "side_snatch_rendezvu",
+  "song_name": "rendezvu",
+  "clips": {
+    "side_snatch_rendezvu_v1": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "side_snatch_rendezvu_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "poppin",
+  "difficulty": 0,
+  "display_name": "Poppin",
+  "ham_move_name": "Poppin_rendezvu.move",
+  "milo_name": "poppin_rendezvu",
+  "song_name": "rendezvu",
+  "clips": {
+    "poppin_rendezvu_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

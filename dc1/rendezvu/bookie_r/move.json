@@ -1,0 +1,26 @@
+{
+  "name": "bookie_r",
+  "difficulty": 0,
+  "display_name": "Bookie",
+  "ham_move_name": "Bookie_R_rendezvu.move",
+  "milo_name": "bookie_r_rendezvu",
+  "song_name": "rendezvu",
+  "clips": {
+    "bookie_r_rendezvu_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "bookie_l_rendezvu_v0",
+      "linked_from": ""
+    },
+    "bookie_r_rendezvu_v1": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "bookie_l_rendezvu_v1",
+      "linked_from": ""
+    }
+  }
+}

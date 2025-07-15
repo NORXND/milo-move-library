@@ -1,0 +1,26 @@
+{
+  "name": "migraine",
+  "difficulty": 0,
+  "display_name": "Migraine",
+  "ham_move_name": "Migraine_rendezvu.move",
+  "milo_name": "migraine_rendezvu",
+  "song_name": "rendezvu",
+  "clips": {
+    "migraine_rendezvu_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "migraine_rendezvu_v1": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "double_rainbow",
+  "difficulty": 1,
+  "display_name": "Double Rainbow",
+  "ham_move_name": "Double_Sunrise_rendezvu.move",
+  "milo_name": "double_sunrise_rendezvu",
+  "song_name": "rendezvu",
+  "clips": {
+    "double_rainbow_rendezvu_v1": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_rainbow_rendezvu_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

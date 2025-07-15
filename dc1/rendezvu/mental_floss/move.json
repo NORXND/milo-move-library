@@ -1,0 +1,26 @@
+{
+  "name": "mental_floss",
+  "difficulty": 2,
+  "display_name": "Mental Floss",
+  "ham_move_name": "Ear_Floss_rendezvu.move",
+  "milo_name": "ear_floss_rendezvu",
+  "song_name": "rendezvu",
+  "clips": {
+    "mental_floss_rendezvu_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "mental_floss_rendezvu_v1": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

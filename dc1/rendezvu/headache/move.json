@@ -1,0 +1,26 @@
+{
+  "name": "headache",
+  "difficulty": 1,
+  "display_name": "Headache",
+  "ham_move_name": "Headache_rendezvu.move",
+  "milo_name": "headache_rendezvu",
+  "song_name": "rendezvu",
+  "clips": {
+    "headache_rendezvu_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "headache_rendezvu_v1": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

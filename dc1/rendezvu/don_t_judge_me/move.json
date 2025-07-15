@@ -1,0 +1,26 @@
+{
+  "name": "don_t_judge_me",
+  "difficulty": 1,
+  "display_name": "Don't Judge Me",
+  "ham_move_name": "Don_t_Judge_Me_rendezvu.move",
+  "milo_name": "don_t_judge_me_rendezvu",
+  "song_name": "rendezvu",
+  "clips": {
+    "don_t_judge_me_rendezvu_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "don_t_judge_me_rendezvu_v1": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

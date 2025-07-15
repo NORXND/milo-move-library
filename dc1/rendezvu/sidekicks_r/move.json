@@ -1,0 +1,26 @@
+{
+  "name": "sidekicks_r",
+  "difficulty": 0,
+  "display_name": "Sidekicks",
+  "ham_move_name": "Sidekicks_R_rendezvu.move",
+  "milo_name": "sidekicks_r_rendezvu",
+  "song_name": "rendezvu",
+  "clips": {
+    "sidekicks_r_rendezvu_v1": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "sidekicks_l_rendezvu_v1",
+      "linked_from": ""
+    },
+    "sidekicks_r_rendezvu_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "sidekicks_l_rendezvu_v0",
+      "linked_from": ""
+    }
+  }
+}

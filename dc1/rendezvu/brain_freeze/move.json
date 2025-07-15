@@ -1,0 +1,26 @@
+{
+  "name": "brain_freeze",
+  "difficulty": 0,
+  "display_name": "Brain Freeze",
+  "ham_move_name": "Little_Headache_rendezvu.move",
+  "milo_name": "little_headache_rendezvu",
+  "song_name": "rendezvu",
+  "clips": {
+    "brain_freeze_rendezvu_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "brain_freeze_rendezvu_v1": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

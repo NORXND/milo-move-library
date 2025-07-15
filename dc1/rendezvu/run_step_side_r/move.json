@@ -1,0 +1,18 @@
+{
+  "name": "run_step_side_r",
+  "difficulty": 2,
+  "display_name": "Run Step Side",
+  "ham_move_name": "Marcus_Run_R_rendezvu.move",
+  "milo_name": "marcus_run_r_rendezvu",
+  "song_name": "rendezvu",
+  "clips": {
+    "run_step_side_r_rendezvu_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "run_step_side_l_rendezvu_v0"
+    }
+  }
+}

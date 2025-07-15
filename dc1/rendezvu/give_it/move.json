@@ -1,0 +1,26 @@
+{
+  "name": "give_it",
+  "difficulty": 0,
+  "display_name": "Give It",
+  "ham_move_name": "Ready_OK_rendezvu.move",
+  "milo_name": "ready_ok_rendezvu",
+  "song_name": "rendezvu",
+  "clips": {
+    "give_it_rendezvu_v1": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "give_it_rendezvu_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

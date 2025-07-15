@@ -1,0 +1,26 @@
+{
+  "name": "talk_to_the_hand_r",
+  "difficulty": 2,
+  "display_name": "Talk To The Hand",
+  "ham_move_name": "Talk_To_The_Hand_R_rendezvu.move",
+  "milo_name": "talk_to_the_hand_r_rendezvu",
+  "song_name": "rendezvu",
+  "clips": {
+    "talk_to_the_hand_r_rendezvu_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "talk_to_the_hand_l_rendezvu_v0",
+      "linked_from": ""
+    },
+    "talk_to_the_hand_r_rendezvu_v1": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "talk_to_the_hand_l_rendezvu_v1",
+      "linked_from": ""
+    }
+  }
+}

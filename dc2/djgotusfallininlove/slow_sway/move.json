@@ -1,0 +1,18 @@
+{
+  "name": "slow_sway",
+  "difficulty": 0,
+  "display_name": "Slow Sway",
+  "ham_move_name": "Creep_Sway_djgotusfallininlove.move",
+  "milo_name": "creep_sway_djgotusfallininlove",
+  "song_name": "djgotusfallininlove",
+  "clips": {
+    "slow_sway_djgotusfallininlove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "dj_pose",
+  "difficulty": 0,
+  "display_name": "DJ Pose",
+  "ham_move_name": "Dj_Pose_djgotusfallininlove.move",
+  "milo_name": "dj_pose_djgotusfallininlove",
+  "song_name": "djgotusfallininlove",
+  "clips": {
+    "dj_pose_djgotusfallininlove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

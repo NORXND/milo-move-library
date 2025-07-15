@@ -1,0 +1,18 @@
+{
+  "name": "gear_hands",
+  "difficulty": 2,
+  "display_name": "Gear Hands",
+  "ham_move_name": "Gear_Hands_djgotusfallininlove.move",
+  "milo_name": "gear_hands_djgotusfallininlove",
+  "song_name": "djgotusfallininlove",
+  "clips": {
+    "gear_hands_djgotusfallininlove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "roll_clap_side",
+  "difficulty": 0,
+  "display_name": "Roll Clap Side",
+  "ham_move_name": "Roll_Clap_djgotusfallininlove.move",
+  "milo_name": "roll_clap_djgotusfallininlove",
+  "song_name": "djgotusfallininlove",
+  "clips": {
+    "roll_clap_side_djgotusfallininlove_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

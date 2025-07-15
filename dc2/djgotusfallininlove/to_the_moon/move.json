@@ -1,0 +1,26 @@
+{
+  "name": "to_the_moon",
+  "difficulty": 0,
+  "display_name": "To The Moon",
+  "ham_move_name": "To_The_Moon_djgotusfallininlove.move",
+  "milo_name": "to_the_moon_djgotusfallininlove",
+  "song_name": "djgotusfallininlove",
+  "clips": {
+    "to_the_moon_djgotusfallininlove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "to_the_moon_djgotusfallininlove_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

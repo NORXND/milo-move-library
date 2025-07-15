@@ -1,0 +1,18 @@
+{
+  "name": "punchy",
+  "difficulty": 1,
+  "display_name": "Punchy",
+  "ham_move_name": "Punchy_djgotusfallininlove.move",
+  "milo_name": "punchy_djgotusfallininlove",
+  "song_name": "djgotusfallininlove",
+  "clips": {
+    "punchy_djgotusfallininlove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "stutter_hands",
+  "difficulty": 2,
+  "display_name": "Stutter Hands",
+  "ham_move_name": "Show_Off_djgotusfallininlove.move",
+  "milo_name": "show_off_djgotusfallininlove",
+  "song_name": "djgotusfallininlove",
+  "clips": {
+    "stutter_hands_djgotusfallininlove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

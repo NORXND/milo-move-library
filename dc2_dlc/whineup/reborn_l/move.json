@@ -1,0 +1,34 @@
+{
+  "name": "reborn_l",
+  "difficulty": 2,
+  "display_name": "Reborn",
+  "ham_move_name": "Reborn_L_whineup.move",
+  "milo_name": "reborn_l_whineup",
+  "song_name": "whineup",
+  "clips": {
+    "reborn_l_whineup_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "reborn_l_whineup_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "reborn_l_whineup_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "fine_script",
+  "difficulty": 2,
+  "display_name": "Fine Script",
+  "ham_move_name": "Fine_Script_whineup.move",
+  "milo_name": "fine_script_whineup",
+  "song_name": "whineup",
+  "clips": {
+    "fine_script_whineup_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

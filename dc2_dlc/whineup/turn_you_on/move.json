@@ -1,0 +1,18 @@
+{
+  "name": "turn_you_on",
+  "difficulty": 2,
+  "display_name": "Turn You On",
+  "ham_move_name": "Zip_whineup.move",
+  "milo_name": "zip_whineup",
+  "song_name": "whineup",
+  "clips": {
+    "turn_you_on_whineup_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

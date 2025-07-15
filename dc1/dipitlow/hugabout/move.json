@@ -1,0 +1,18 @@
+{
+  "name": "hugabout",
+  "difficulty": 1,
+  "display_name": "Hugabout",
+  "ham_move_name": "Hugabout_dipitlow.move",
+  "milo_name": "hugabout_dipitlow",
+  "song_name": "dipitlow",
+  "clips": {
+    "hugabout_dipitlow_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

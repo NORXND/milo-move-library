@@ -1,0 +1,18 @@
+{
+  "name": "keyboard_cat",
+  "difficulty": 0,
+  "display_name": "Keyboard Cat",
+  "ham_move_name": "Keyboard_Cat_dipitlow.move",
+  "milo_name": "keyboard_cat_dipitlow",
+  "song_name": "dipitlow",
+  "clips": {
+    "keyboard_cat_dipitlow_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

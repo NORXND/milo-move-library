@@ -1,0 +1,34 @@
+{
+  "name": "beckon",
+  "difficulty": 2,
+  "display_name": "Beckon",
+  "ham_move_name": "Beckon_dipitlow.move",
+  "milo_name": "beckon_dipitlow",
+  "song_name": "dipitlow",
+  "clips": {
+    "beckon_dipitlow_v2": {
+      "avg_beats_per_second": 1.41,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "beckon_dipitlow_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "beckon_dipitlow_v1": {
+      "avg_beats_per_second": 1.41,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "cow_girl",
+  "difficulty": 0,
+  "display_name": "Cow Girl",
+  "ham_move_name": "Cow_Girl_dipitlow.move",
+  "milo_name": "cow_girl_dipitlow",
+  "song_name": "dipitlow",
+  "clips": {
+    "cow_girl_dipitlow_v3": {
+      "avg_beats_per_second": 1.41,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cow_girl_dipitlow_v4": {
+      "avg_beats_per_second": 1.41,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cow_girl_dipitlow_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cow_girl_dipitlow_v1": {
+      "avg_beats_per_second": 1.41,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cow_girl_dipitlow_v2": {
+      "avg_beats_per_second": 1.21,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

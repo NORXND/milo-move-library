@@ -1,0 +1,26 @@
+{
+  "name": "pop_that_thing",
+  "difficulty": 2,
+  "display_name": "Pop That Thing",
+  "ham_move_name": "Chest_Poppin_dipitlow.move",
+  "milo_name": "chest_poppin_dipitlow",
+  "song_name": "dipitlow",
+  "clips": {
+    "pop_that_thing_dipitlow_v1": {
+      "avg_beats_per_second": 1.41,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pop_that_thing_dipitlow_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

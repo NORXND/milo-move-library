@@ -1,0 +1,26 @@
+{
+  "name": "smooth",
+  "difficulty": 0,
+  "display_name": "Smooth",
+  "ham_move_name": "Smooth_dipitlow.move",
+  "milo_name": "smooth_dipitlow",
+  "song_name": "dipitlow",
+  "clips": {
+    "smooth_dipitlow_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smooth_dipitlow_v1": {
+      "avg_beats_per_second": 1.41,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

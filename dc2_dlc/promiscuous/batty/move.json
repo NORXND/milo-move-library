@@ -1,0 +1,26 @@
+{
+  "name": "batty",
+  "difficulty": 2,
+  "display_name": "Batty",
+  "ham_move_name": "Crazy_Feelin_promiscuous.move",
+  "milo_name": "crazy_feelin_promiscuous",
+  "song_name": "promiscuous",
+  "clips": {
+    "batty_promiscuous_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "batty_promiscuous_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

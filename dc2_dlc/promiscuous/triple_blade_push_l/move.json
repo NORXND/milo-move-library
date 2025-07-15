@@ -1,0 +1,26 @@
+{
+  "name": "triple_blade_push_l",
+  "difficulty": 2,
+  "display_name": "Triple Blade Push",
+  "ham_move_name": "Broken_Blade_Groove_L_promiscuous.move",
+  "milo_name": "broken_blade_groove_l_promiscuous",
+  "song_name": "promiscuous",
+  "clips": {
+    "triple_blade_push_l_promiscuous_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "triple_blade_push_r_promiscuous_v0"
+    },
+    "triple_blade_push_l_promiscuous_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "triple_blade_push_r_promiscuous_v1"
+    }
+  }
+}

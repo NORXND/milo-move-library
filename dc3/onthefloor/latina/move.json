@@ -1,0 +1,26 @@
+{
+  "name": "latina",
+  "difficulty": 0,
+  "display_name": "Latina",
+  "ham_move_name": "Latina_onthefloor.move",
+  "milo_name": "latina_onthefloor",
+  "song_name": "onthefloor",
+  "clips": {
+    "latina_onthefloor_v0": {
+      "avg_beats_per_second": 1.87,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "latina_onthefloor_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

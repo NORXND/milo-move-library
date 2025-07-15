@@ -1,0 +1,26 @@
+{
+  "name": "kick_cross_walk",
+  "difficulty": 2,
+  "display_name": "Kick Cross Walk",
+  "ham_move_name": "Genie_Kick_onthefloor.move",
+  "milo_name": "genie_kick_onthefloor",
+  "song_name": "onthefloor",
+  "clips": {
+    "kick_cross_walk_onthefloor_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_cross_walk_onthefloor_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

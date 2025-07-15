@@ -1,0 +1,26 @@
+{
+  "name": "merry_unbirthday",
+  "difficulty": 0,
+  "display_name": "Merry Unbirthday",
+  "ham_move_name": "Sexy_Chocolate_onthefloor.move",
+  "milo_name": "sexy_chocolate_onthefloor",
+  "song_name": "onthefloor",
+  "clips": {
+    "merry_unbirthday_onthefloor_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "merry_unbirthday_onthefloor_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

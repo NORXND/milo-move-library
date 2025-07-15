@@ -1,0 +1,26 @@
+{
+  "name": "fast_asps",
+  "difficulty": 2,
+  "display_name": "Fast Asps",
+  "ham_move_name": "Retardo_Foster_Jr_onthefloor.move",
+  "milo_name": "retardo_foster_jr_onthefloor",
+  "song_name": "onthefloor",
+  "clips": {
+    "fast_asps_onthefloor_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "fast_asps_onthefloor_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

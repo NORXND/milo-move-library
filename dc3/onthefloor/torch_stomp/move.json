@@ -1,0 +1,18 @@
+{
+  "name": "torch_stomp",
+  "difficulty": 2,
+  "display_name": "Torch Stomp",
+  "ham_move_name": "Torch_Stomp_onthefloor.move",
+  "milo_name": "torch_stomp_onthefloor",
+  "song_name": "onthefloor",
+  "clips": {
+    "torch_stomp_onthefloor_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

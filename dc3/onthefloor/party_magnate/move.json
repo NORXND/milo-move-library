@@ -1,0 +1,26 @@
+{
+  "name": "party_magnate",
+  "difficulty": 2,
+  "display_name": "Party Magnate",
+  "ham_move_name": "Wazzow_onthefloor.move",
+  "milo_name": "wazzow_onthefloor",
+  "song_name": "onthefloor",
+  "clips": {
+    "party_magnate_onthefloor_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "party_magnate_onthefloor_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

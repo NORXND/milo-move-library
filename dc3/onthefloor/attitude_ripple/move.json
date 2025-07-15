@@ -1,0 +1,26 @@
+{
+  "name": "attitude_ripple",
+  "difficulty": 2,
+  "display_name": "Attitude Ripple",
+  "ham_move_name": "Window_Dangle_onthefloor.move",
+  "milo_name": "window_dangle_onthefloor",
+  "song_name": "onthefloor",
+  "clips": {
+    "attitude_ripple_onthefloor_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "attitude_ripple_onthefloor_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

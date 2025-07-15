@@ -1,0 +1,18 @@
+{
+  "name": "sweat_it_out_and_pose",
+  "difficulty": 2,
+  "display_name": "Sweat It Out / Pose",
+  "ham_move_name": "Sweat_Frenchy_onthefloor.move",
+  "milo_name": "sweat_frenchy_onthefloor",
+  "song_name": "onthefloor",
+  "clips": {
+    "sweat_it_out_and_pose_onthefloor_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

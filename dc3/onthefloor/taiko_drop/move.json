@@ -1,0 +1,18 @@
+{
+  "name": "taiko_drop",
+  "difficulty": 2,
+  "display_name": "Taiko Drop",
+  "ham_move_name": "Booty_Drum_onthefloor.move",
+  "milo_name": "booty_drum_onthefloor",
+  "song_name": "onthefloor",
+  "clips": {
+    "taiko_drop_onthefloor_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

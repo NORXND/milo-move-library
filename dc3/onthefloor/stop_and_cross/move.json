@@ -1,0 +1,26 @@
+{
+  "name": "stop_and_cross",
+  "difficulty": 2,
+  "display_name": "Stop & Cross",
+  "ham_move_name": "Back_Up_Bouncer_onthefloor.move",
+  "milo_name": "back_up_bouncer_onthefloor",
+  "song_name": "onthefloor",
+  "clips": {
+    "stop_and_cross_onthefloor_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stop_and_cross_onthefloor_v1": {
+      "avg_beats_per_second": 1.87,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

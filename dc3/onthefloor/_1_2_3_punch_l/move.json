@@ -1,0 +1,18 @@
+{
+  "name": "_1_2_3_punch_l",
+  "difficulty": 2,
+  "display_name": "1 - 2 - 3 Punch",
+  "ham_move_name": "_1_2_3_Punch_L_onthefloor.move",
+  "milo_name": "_1_2_3_punch_l_onthefloor",
+  "song_name": "onthefloor",
+  "clips": {
+    "_1_2_3_punch_l_onthefloor_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "_1_2_3_punch_r_onthefloor_v0"
+    }
+  }
+}

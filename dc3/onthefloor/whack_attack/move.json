@@ -1,0 +1,26 @@
+{
+  "name": "whack_attack",
+  "difficulty": 2,
+  "display_name": "Whack Attack",
+  "ham_move_name": "Whack_Attack_onthefloor.move",
+  "milo_name": "whack_attack_onthefloor",
+  "song_name": "onthefloor",
+  "clips": {
+    "whack_attack_onthefloor_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "whack_attack_onthefloor_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

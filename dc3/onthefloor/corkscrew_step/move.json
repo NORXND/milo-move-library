@@ -1,0 +1,42 @@
+{
+  "name": "corkscrew_step",
+  "difficulty": 2,
+  "display_name": "Corkscrew Step",
+  "ham_move_name": "Corkscrew_Step_onthefloor.move",
+  "milo_name": "corkscrew_step_onthefloor",
+  "song_name": "onthefloor",
+  "clips": {
+    "corkscrew_step_onthefloor_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "corkscrew_step_onthefloor_v3": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "corkscrew_step_onthefloor_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "corkscrew_step_onthefloor_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

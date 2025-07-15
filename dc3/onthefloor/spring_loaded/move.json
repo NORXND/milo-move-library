@@ -1,0 +1,26 @@
+{
+  "name": "spring_loaded",
+  "difficulty": 2,
+  "display_name": "Spring Loaded",
+  "ham_move_name": "Smelly_Nelly_onthefloor.move",
+  "milo_name": "smelly_nelly_onthefloor",
+  "song_name": "onthefloor",
+  "clips": {
+    "spring_loaded_onthefloor_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spring_loaded_onthefloor_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

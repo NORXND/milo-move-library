@@ -1,0 +1,18 @@
+{
+  "name": "sweat_it_out",
+  "difficulty": 0,
+  "display_name": "Sweat It Out",
+  "ham_move_name": "Sweat_It_Out_onthefloor.move",
+  "milo_name": "sweat_it_out_onthefloor",
+  "song_name": "onthefloor",
+  "clips": {
+    "sweat_it_out_onthefloor_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

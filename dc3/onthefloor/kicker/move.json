@@ -1,0 +1,26 @@
+{
+  "name": "kicker",
+  "difficulty": 0,
+  "display_name": "Kicker",
+  "ham_move_name": "Youd_Better_Duck_onthefloor.move",
+  "milo_name": "youd_better_duck_onthefloor",
+  "song_name": "onthefloor",
+  "clips": {
+    "kicker_onthefloor_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kicker_onthefloor_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

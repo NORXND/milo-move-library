@@ -1,0 +1,18 @@
+{
+  "name": "show_stopper",
+  "difficulty": 2,
+  "display_name": "Show Stopper",
+  "ham_move_name": "Stop_The_Elevator_onthefloor.move",
+  "milo_name": "stop_the_elevator_onthefloor",
+  "song_name": "onthefloor",
+  "clips": {
+    "show_stopper_onthefloor_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

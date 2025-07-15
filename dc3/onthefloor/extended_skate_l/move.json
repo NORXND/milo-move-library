@@ -1,0 +1,18 @@
+{
+  "name": "extended_skate_l",
+  "difficulty": 2,
+  "display_name": "Extended Skate",
+  "ham_move_name": "Long_Stretch_L_onthefloor.move",
+  "milo_name": "long_stretch_l_onthefloor",
+  "song_name": "onthefloor",
+  "clips": {
+    "extended_skate_l_onthefloor_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "extended_skate_r_onthefloor_v0"
+    }
+  }
+}

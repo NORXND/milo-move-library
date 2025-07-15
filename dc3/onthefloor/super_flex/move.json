@@ -1,0 +1,26 @@
+{
+  "name": "super_flex",
+  "difficulty": 2,
+  "display_name": "Super Flex",
+  "ham_move_name": "Flex_onthefloor.move",
+  "milo_name": "flex_onthefloor",
+  "song_name": "onthefloor",
+  "clips": {
+    "super_flex_onthefloor_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "super_flex_onthefloor_v1": {
+      "avg_beats_per_second": 1.85,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

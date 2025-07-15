@@ -1,0 +1,74 @@
+{
+  "name": "extended_shoe_shine",
+  "difficulty": 2,
+  "display_name": "Extended Shoe Shine",
+  "ham_move_name": "Pretty_Ricky_Fontaine_yeah3x.move",
+  "milo_name": "pretty_ricky_fontaine_yeah3x",
+  "song_name": "yeah3x",
+  "clips": {
+    "extended_shoe_shine_yeah3x_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "extended_shoe_shine_yeah3x_v5": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "extended_shoe_shine_yeah3x_v3": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "extended_shoe_shine_yeah3x_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "extended_shoe_shine_yeah3x_v6": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "extended_shoe_shine_yeah3x_v4": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "extended_shoe_shine_yeah3x_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "extended_shoe_shine_yeah3x_v7": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

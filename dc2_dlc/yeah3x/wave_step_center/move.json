@@ -1,0 +1,26 @@
+{
+  "name": "wave_step_center",
+  "difficulty": 0,
+  "display_name": "Wave Step Center",
+  "ham_move_name": "Wave_Rl_yeah3x.move",
+  "milo_name": "wave_rl_yeah3x",
+  "song_name": "yeah3x",
+  "clips": {
+    "wave_step_center_yeah3x_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wave_step_center_yeah3x_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

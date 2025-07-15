@@ -1,0 +1,42 @@
+{
+  "name": "smash_and_flick",
+  "difficulty": 2,
+  "display_name": "Smash & Flick",
+  "ham_move_name": "House_Party_1_yeah3x.move",
+  "milo_name": "house_party_1_yeah3x",
+  "song_name": "yeah3x",
+  "clips": {
+    "smash_and_flick_yeah3x_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smash_and_flick_yeah3x_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smash_and_flick_yeah3x_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smash_and_flick_yeah3x_v3": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

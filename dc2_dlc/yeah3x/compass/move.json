@@ -1,0 +1,18 @@
+{
+  "name": "compass",
+  "difficulty": 2,
+  "display_name": "Compass",
+  "ham_move_name": "To_The_Window_yeah3x.move",
+  "milo_name": "to_the_window_yeah3x",
+  "song_name": "yeah3x",
+  "clips": {
+    "compass_yeah3x_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

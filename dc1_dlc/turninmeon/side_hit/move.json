@@ -1,0 +1,18 @@
+{
+  "name": "side_hit",
+  "difficulty": 2,
+  "display_name": "Side Hit",
+  "ham_move_name": "Up_On_It_2_turninmeon.move",
+  "milo_name": "up_on_it_2_turninmeon",
+  "song_name": "turninmeon",
+  "clips": {
+    "side_hit_turninmeon_v0": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

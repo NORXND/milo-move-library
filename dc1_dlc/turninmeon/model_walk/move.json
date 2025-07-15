@@ -1,0 +1,26 @@
+{
+  "name": "exception_model_walk_2",
+  "difficulty": 2,
+  "display_name": "Model Walk",
+  "ham_move_name": "Model_Walk_2_turninmeon.move",
+  "milo_name": "model_walk_2_turninmeon",
+  "song_name": "turninmeon",
+  "clips": {
+    "model_walk_turninmeon_v1": {
+      "avg_beats_per_second": 2.68,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "model_walk_turninmeon_v3": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

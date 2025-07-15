@@ -1,0 +1,26 @@
+{
+  "name": "silk",
+  "difficulty": 0,
+  "display_name": "Silk",
+  "ham_move_name": "IV_turninmeon.move",
+  "milo_name": "iv_turninmeon",
+  "song_name": "turninmeon",
+  "clips": {
+    "silk_turninmeon_v1": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "silk_turninmeon_v0": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

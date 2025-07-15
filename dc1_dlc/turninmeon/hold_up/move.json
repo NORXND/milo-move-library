@@ -1,0 +1,26 @@
+{
+  "name": "hold_up",
+  "difficulty": 2,
+  "display_name": "Hold Up",
+  "ham_move_name": "Hold_Up_turninmeon.move",
+  "milo_name": "hold_up_turninmeon",
+  "song_name": "turninmeon",
+  "clips": {
+    "hold_up_turninmeon_v0": {
+      "avg_beats_per_second": 2.68,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hold_up_turninmeon_v1": {
+      "avg_beats_per_second": 2.68,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "swag_check_r",
+  "difficulty": 0,
+  "display_name": "Swag Check",
+  "ham_move_name": "Swag_Check_R_turninmeon.move",
+  "milo_name": "swag_check_r_turninmeon",
+  "song_name": "turninmeon",
+  "clips": {
+    "swag_check_r_turninmeon_v0": {
+      "avg_beats_per_second": 2.52,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "swag_check_l_turninmeon_v1",
+      "linked_from": "swag_check_l_turninmeon_v0"
+    },
+    "swag_check_r_turninmeon_v1": {
+      "avg_beats_per_second": 2.52,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "swag_check_l_turninmeon_v2",
+      "linked_from": "swag_check_l_turninmeon_v1"
+    },
+    "swag_check_r_turninmeon_v2": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "swag_check_l_turninmeon_v2"
+    }
+  }
+}

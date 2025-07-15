@@ -1,0 +1,26 @@
+{
+  "name": "hook_wind_l",
+  "difficulty": 0,
+  "display_name": "Hook Wind",
+  "ham_move_name": "Want_It_L_turninmeon.move",
+  "milo_name": "want_it_l_turninmeon",
+  "song_name": "turninmeon",
+  "clips": {
+    "hook_wind_l_turninmeon_v0": {
+      "avg_beats_per_second": 2.68,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "hook_wind_r_turninmeon_v1",
+      "linked_from": "hook_wind_r_turninmeon_v0"
+    },
+    "hook_wind_l_turninmeon_v1": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "hook_wind_r_turninmeon_v1"
+    }
+  }
+}

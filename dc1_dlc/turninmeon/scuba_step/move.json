@@ -1,0 +1,42 @@
+{
+  "name": "exception_scuba_step_2",
+  "difficulty": 0,
+  "display_name": "Scuba Step",
+  "ham_move_name": "Scuba_Step_2_turninmeon.move",
+  "milo_name": "scuba_step_2_turninmeon",
+  "song_name": "turninmeon",
+  "clips": {
+    "scuba_step_turninmeon_v1": {
+      "avg_beats_per_second": 2.68,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "scuba_step_turninmeon_v0"
+    },
+    "scuba_step_turninmeon_v3": {
+      "avg_beats_per_second": 2.68,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "scuba_step_turninmeon_v2"
+    },
+    "scuba_step_turninmeon_v5": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "scuba_step_turninmeon_v4"
+    },
+    "scuba_step_turninmeon_v7": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "scuba_step_turninmeon_v6"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "crowd_control",
+  "difficulty": 2,
+  "display_name": "Crowd Control",
+  "ham_move_name": "Out_and_Punch_turninmeon.move",
+  "milo_name": "out_and_punch_turninmeon",
+  "song_name": "turninmeon",
+  "clips": {
+    "crowd_control_turninmeon_v0": {
+      "avg_beats_per_second": 2.66,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

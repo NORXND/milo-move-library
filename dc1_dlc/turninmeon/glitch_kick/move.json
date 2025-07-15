@@ -1,0 +1,18 @@
+{
+  "name": "glitch_kick",
+  "difficulty": 2,
+  "display_name": "Glitch Kick",
+  "ham_move_name": "Tickin__turninmeon.move",
+  "milo_name": "tickin_turninmeon",
+  "song_name": "turninmeon",
+  "clips": {
+    "glitch_kick_turninmeon_v0": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

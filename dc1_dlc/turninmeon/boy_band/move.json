@@ -1,0 +1,26 @@
+{
+  "name": "boy_band",
+  "difficulty": 0,
+  "display_name": "Boy Band",
+  "ham_move_name": "Boy_Band_turninmeon.move",
+  "milo_name": "boy_band_turninmeon",
+  "song_name": "turninmeon",
+  "clips": {
+    "boy_band_turninmeon_v1": {
+      "avg_beats_per_second": 2.66,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "boy_band_turninmeon_v0": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

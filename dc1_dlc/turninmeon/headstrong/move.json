@@ -1,0 +1,18 @@
+{
+  "name": "headstrong",
+  "difficulty": 2,
+  "display_name": "Headstrong",
+  "ham_move_name": "Whoop_Ya_Asssss_turninmeon.move",
+  "milo_name": "whoop_ya_asssss_turninmeon",
+  "song_name": "turninmeon",
+  "clips": {
+    "headstrong_turninmeon_v0": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

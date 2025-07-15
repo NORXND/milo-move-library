@@ -1,0 +1,18 @@
+{
+  "name": "feel_it_out",
+  "difficulty": 2,
+  "display_name": "Feel It Out",
+  "ham_move_name": "Feel_It_Out_turninmeon.move",
+  "milo_name": "feel_it_out_turninmeon",
+  "song_name": "turninmeon",
+  "clips": {
+    "feel_it_out_turninmeon_v0": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

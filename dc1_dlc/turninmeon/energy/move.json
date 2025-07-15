@@ -1,0 +1,42 @@
+{
+  "name": "energy",
+  "difficulty": 1,
+  "display_name": "Energy",
+  "ham_move_name": "Energy_turninmeon.move",
+  "milo_name": "energy_turninmeon",
+  "song_name": "turninmeon",
+  "clips": {
+    "energy_turninmeon_v2": {
+      "avg_beats_per_second": 2.68,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "energy_turninmeon_v3": {
+      "avg_beats_per_second": 2.68,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "energy_turninmeon_v0": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "energy_turninmeon_v1": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

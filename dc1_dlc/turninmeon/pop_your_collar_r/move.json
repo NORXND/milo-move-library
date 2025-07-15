@@ -1,0 +1,18 @@
+{
+  "name": "pop_your_collar_r",
+  "difficulty": 0,
+  "display_name": "Pop Your Collar",
+  "ham_move_name": "Pop_Your_Collar_R_turninmeon.move",
+  "milo_name": "pop_your_collar_r_turninmeon",
+  "song_name": "turninmeon",
+  "clips": {
+    "pop_your_collar_r_turninmeon_v0": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "pop_your_collar_l_turninmeon_v0",
+      "linked_from": ""
+    }
+  }
+}

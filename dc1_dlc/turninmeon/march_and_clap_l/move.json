@@ -1,0 +1,26 @@
+{
+  "name": "march_and_clap_l",
+  "difficulty": 1,
+  "display_name": "March & Clap",
+  "ham_move_name": "Stomp_Stomp_Clap_L_turninmeon.move",
+  "milo_name": "stomp_stomp_clap_l_turninmeon",
+  "song_name": "turninmeon",
+  "clips": {
+    "march_and_clap_l_turninmeon_v0": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "march_and_clap_l_turninmeon_v1": {
+      "avg_beats_per_second": 2.68,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "march_and_clap_r_turninmeon_v0",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "recognize",
+  "difficulty": 1,
+  "display_name": "Recognize",
+  "ham_move_name": "Recognize_turninmeon.move",
+  "milo_name": "recognize_turninmeon",
+  "song_name": "turninmeon",
+  "clips": {
+    "recognize_turninmeon_v0": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "recognize_turninmeon_v1": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "recognize_turninmeon_v2": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "recognize_turninmeon_v3": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

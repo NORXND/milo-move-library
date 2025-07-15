@@ -1,0 +1,18 @@
+{
+  "name": "scratch",
+  "difficulty": 2,
+  "display_name": "Scratch",
+  "ham_move_name": "Scratch_turninmeon.move",
+  "milo_name": "scratch_turninmeon",
+  "song_name": "turninmeon",
+  "clips": {
+    "scratch_turninmeon_v0": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

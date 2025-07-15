@@ -1,0 +1,42 @@
+{
+  "name": "and_snap",
+  "difficulty": 2,
+  "display_name": "& Snap",
+  "ham_move_name": "And_Step_turninmeon.move",
+  "milo_name": "and_step_turninmeon",
+  "song_name": "turninmeon",
+  "clips": {
+    "and_snap_turninmeon_v0": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "and_snap_turninmeon_v1": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "and_snap_turninmeon_v2": {
+      "avg_beats_per_second": 2.68,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "and_snap_turninmeon_v3": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

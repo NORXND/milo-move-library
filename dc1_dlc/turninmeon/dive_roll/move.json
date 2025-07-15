@@ -1,0 +1,42 @@
+{
+  "name": "dive_roll",
+  "difficulty": 1,
+  "display_name": "Dive Roll",
+  "ham_move_name": "Turn_Me_On_turninmeon.move",
+  "milo_name": "turn_me_on_turninmeon",
+  "song_name": "turninmeon",
+  "clips": {
+    "dive_roll_turninmeon_v1": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dive_roll_turninmeon_v2": {
+      "avg_beats_per_second": 2.68,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dive_roll_turninmeon_v0": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dive_roll_turninmeon_v3": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

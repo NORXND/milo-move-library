@@ -1,0 +1,26 @@
+{
+  "name": "crave",
+  "difficulty": 2,
+  "display_name": "Crave",
+  "ham_move_name": "Flirty_Boy_turninmeon.move",
+  "milo_name": "flirty_boy_turninmeon",
+  "song_name": "turninmeon",
+  "clips": {
+    "crave_turninmeon_v0": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "crave_turninmeon_v1": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "baby_face",
+  "difficulty": 2,
+  "display_name": "Baby Face",
+  "ham_move_name": "Baby_Makah_and_Face_turninmeon.move",
+  "milo_name": "baby_makah_and_face_turninmeon",
+  "song_name": "turninmeon",
+  "clips": {
+    "baby_face_turninmeon_v0": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

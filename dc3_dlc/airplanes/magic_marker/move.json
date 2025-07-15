@@ -1,0 +1,18 @@
+{
+  "name": "magic_marker",
+  "difficulty": 2,
+  "display_name": "Magic Marker",
+  "ham_move_name": "Magic_Rlrlc_airplanes.move",
+  "milo_name": "magic_rlrlc_airplanes",
+  "song_name": "airplanes",
+  "clips": {
+    "magic_marker_airplanes_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

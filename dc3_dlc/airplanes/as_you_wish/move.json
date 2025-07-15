@@ -1,0 +1,58 @@
+{
+  "name": "as_you_wish",
+  "difficulty": 2,
+  "display_name": "As You Wish",
+  "ham_move_name": "Chest_Up_And_Palm_Out_airplanes.move",
+  "milo_name": "chest_up_and_palm_out_airplanes",
+  "song_name": "airplanes",
+  "clips": {
+    "as_you_wish_airplanes_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "as_you_wish_airplanes_v1": {
+      "avg_beats_per_second": 1.55,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "as_you_wish_airplanes_v2": {
+      "avg_beats_per_second": 1.33,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "as_you_wish_airplanes_v3": {
+      "avg_beats_per_second": 1.55,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "as_you_wish_airplanes_v4": {
+      "avg_beats_per_second": 1.33,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "as_you_wish_airplanes_v5": {
+      "avg_beats_per_second": 1.55,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

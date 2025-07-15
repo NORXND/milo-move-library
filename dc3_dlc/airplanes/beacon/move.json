@@ -1,0 +1,18 @@
+{
+  "name": "beacon",
+  "difficulty": 2,
+  "display_name": "Beacon",
+  "ham_move_name": "Dance_Power_airplanes.move",
+  "milo_name": "dance_power_airplanes",
+  "song_name": "airplanes",
+  "clips": {
+    "beacon_airplanes_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

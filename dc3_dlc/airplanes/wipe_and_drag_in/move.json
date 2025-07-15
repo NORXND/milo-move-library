@@ -1,0 +1,18 @@
+{
+  "name": "wipe_and_drag_in",
+  "difficulty": 2,
+  "display_name": "Wipe & Drag In",
+  "ham_move_name": "Wax_On_R_Arm_Lfoot_Switch_airplanes.move",
+  "milo_name": "wax_on_r_arm_lfoot_switch_airplanes",
+  "song_name": "airplanes",
+  "clips": {
+    "wipe_and_drag_in_airplanes_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

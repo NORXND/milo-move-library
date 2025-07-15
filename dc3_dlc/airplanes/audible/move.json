@@ -1,0 +1,18 @@
+{
+  "name": "audible",
+  "difficulty": 2,
+  "display_name": "Audible",
+  "ham_move_name": "Step_Look_Hands_X_Up_airplanes.move",
+  "milo_name": "step_look_hands_x_up_airplanes",
+  "song_name": "airplanes",
+  "clips": {
+    "audible_airplanes_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

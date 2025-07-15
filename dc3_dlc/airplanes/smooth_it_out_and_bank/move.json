@@ -1,0 +1,58 @@
+{
+  "name": "smooth_it_out_and_bank",
+  "difficulty": 2,
+  "display_name": "Smooth It Out / Bank",
+  "ham_move_name": "Palm_Around_Out_Straight_Fly_airplanes.move",
+  "milo_name": "palm_around_out_straight_fly_airplanes",
+  "song_name": "airplanes",
+  "clips": {
+    "smooth_it_out_and_bank_airplanes_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smooth_it_out_and_bank_airplanes_v1": {
+      "avg_beats_per_second": 1.55,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smooth_it_out_and_bank_airplanes_v2": {
+      "avg_beats_per_second": 1.55,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smooth_it_out_and_bank_airplanes_v3": {
+      "avg_beats_per_second": 1.55,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smooth_it_out_and_bank_airplanes_v4": {
+      "avg_beats_per_second": 1.55,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smooth_it_out_and_bank_airplanes_v5": {
+      "avg_beats_per_second": 1.55,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

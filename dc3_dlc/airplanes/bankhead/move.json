@@ -1,0 +1,18 @@
+{
+  "name": "bankhead",
+  "difficulty": 2,
+  "display_name": "Bankhead",
+  "ham_move_name": "Brandy_Bounce_Fb_airplanes.move",
+  "milo_name": "brandy_bounce_fb_airplanes",
+  "song_name": "airplanes",
+  "clips": {
+    "bankhead_airplanes_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

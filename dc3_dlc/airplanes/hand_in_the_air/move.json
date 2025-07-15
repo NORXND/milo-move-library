@@ -1,0 +1,18 @@
+{
+  "name": "hand_in_the_air",
+  "difficulty": 2,
+  "display_name": "Hand In The Air",
+  "ham_move_name": "Hip_Hop_Lrlr_airplanes.move",
+  "milo_name": "hip_hop_lrlr_airplanes",
+  "song_name": "airplanes",
+  "clips": {
+    "hand_in_the_air_airplanes_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

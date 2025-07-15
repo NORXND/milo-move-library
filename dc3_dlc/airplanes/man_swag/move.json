@@ -1,0 +1,18 @@
+{
+  "name": "man_swag",
+  "difficulty": 2,
+  "display_name": "Man Swag",
+  "ham_move_name": "Old_School_Walk_airplanes.move",
+  "milo_name": "old_school_walk_airplanes",
+  "song_name": "airplanes",
+  "clips": {
+    "man_swag_airplanes_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

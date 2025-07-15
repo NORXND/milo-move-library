@@ -1,0 +1,18 @@
+{
+  "name": "astone",
+  "difficulty": 2,
+  "display_name": "Astone",
+  "ham_move_name": "Tony_Yayo_airplanes.move",
+  "milo_name": "tony_yayo_airplanes",
+  "song_name": "airplanes",
+  "clips": {
+    "astone_airplanes_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

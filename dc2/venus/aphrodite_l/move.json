@@ -1,0 +1,66 @@
+{
+  "name": "aphrodite_l",
+  "difficulty": 0,
+  "display_name": "Aphrodite",
+  "ham_move_name": "Venus_L_venus.move",
+  "milo_name": "venus_l_venus",
+  "song_name": "venus",
+  "clips": {
+    "aphrodite_l_venus_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "aphrodite_r_venus_v0"
+    },
+    "aphrodite_l_venus_v5": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "aphrodite_r_venus_v5"
+    },
+    "aphrodite_l_venus_v3": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "aphrodite_r_venus_v3"
+    },
+    "aphrodite_l_venus_v1": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "aphrodite_r_venus_v1"
+    },
+    "aphrodite_l_venus_v6": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "aphrodite_r_venus_v6"
+    },
+    "aphrodite_l_venus_v4": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "aphrodite_r_venus_v4"
+    },
+    "aphrodite_l_venus_v2": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "aphrodite_r_venus_v2"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "name": "smooth_snap",
+  "difficulty": 0,
+  "display_name": "Smooth Snap",
+  "ham_move_name": "Smooth_Snap_venus.move",
+  "milo_name": "smooth_snap_venus",
+  "song_name": "venus",
+  "clips": {
+    "smooth_snap_venus_v3": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smooth_snap_venus_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smooth_snap_venus_v6": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smooth_snap_venus_v4": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smooth_snap_venus_v2": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smooth_snap_venus_v7": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smooth_snap_venus_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smooth_snap_venus_v5": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

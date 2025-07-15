@@ -1,0 +1,26 @@
+{
+  "name": "brain_floss_r",
+  "difficulty": 2,
+  "display_name": "Brain Floss",
+  "ham_move_name": "Brain_Floss_R_temperature.move",
+  "milo_name": "brain_floss_r_temperature",
+  "song_name": "temperature",
+  "clips": {
+    "brain_floss_r_temperature_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "brain_floss_l_temperature_v1",
+      "linked_from": "brain_floss_l_temperature_v0"
+    },
+    "brain_floss_r_temperature_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "brain_floss_l_temperature_v1"
+    }
+  }
+}

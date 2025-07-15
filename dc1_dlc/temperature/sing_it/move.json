@@ -1,0 +1,26 @@
+{
+  "name": "sing_it",
+  "difficulty": 1,
+  "display_name": "Sing It",
+  "ham_move_name": "Sing_It_temperature.move",
+  "milo_name": "sing_it_temperature",
+  "song_name": "temperature",
+  "clips": {
+    "sing_it_temperature_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sing_it_temperature_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

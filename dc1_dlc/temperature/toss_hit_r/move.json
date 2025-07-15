@@ -1,0 +1,42 @@
+{
+  "name": "toss_hit_r",
+  "difficulty": 1,
+  "display_name": "Toss Hit",
+  "ham_move_name": "Bump_It_R_temperature.move",
+  "milo_name": "bump_it_r_temperature",
+  "song_name": "temperature",
+  "clips": {
+    "toss_hit_r_temperature_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "toss_hit_l_temperature_v1",
+      "linked_from": ""
+    },
+    "toss_hit_r_temperature_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "toss_hit_l_temperature_v2",
+      "linked_from": ""
+    },
+    "toss_hit_r_temperature_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "toss_hit_l_temperature_v3",
+      "linked_from": ""
+    },
+    "toss_hit_r_temperature_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "toss_hit_l_temperature_v0",
+      "linked_from": ""
+    }
+  }
+}

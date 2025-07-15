@@ -1,0 +1,26 @@
+{
+  "name": "hand_off",
+  "difficulty": 0,
+  "display_name": "Hand Off",
+  "ham_move_name": "Sway_It_temperature.move",
+  "milo_name": "sway_it_temperature",
+  "song_name": "temperature",
+  "clips": {
+    "hand_off_temperature_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hand_off_temperature_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

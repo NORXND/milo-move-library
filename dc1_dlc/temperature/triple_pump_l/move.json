@@ -1,0 +1,50 @@
+{
+  "name": "triple_pump_l",
+  "difficulty": 0,
+  "display_name": "Triple Pump",
+  "ham_move_name": "Pump_L_temperature.move",
+  "milo_name": "pump_l_temperature",
+  "song_name": "temperature",
+  "clips": {
+    "triple_pump_l_temperature_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "triple_pump_r_temperature_v2"
+    },
+    "triple_pump_l_temperature_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "triple_pump_r_temperature_v3"
+    },
+    "triple_pump_l_temperature_v4": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "triple_pump_r_temperature_v4"
+    },
+    "triple_pump_l_temperature_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "triple_pump_r_temperature_v0"
+    },
+    "triple_pump_l_temperature_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "triple_pump_r_temperature_v1"
+    }
+  }
+}

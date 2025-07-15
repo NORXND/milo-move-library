@@ -1,0 +1,42 @@
+{
+  "name": "tap_out_r",
+  "difficulty": 2,
+  "display_name": "Tap Out",
+  "ham_move_name": "Tap_Out_R_temperature.move",
+  "milo_name": "tap_out_r_temperature",
+  "song_name": "temperature",
+  "clips": {
+    "tap_out_r_temperature_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "tap_out_l_temperature_v0"
+    },
+    "tap_out_r_temperature_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "tap_out_l_temperature_v1"
+    },
+    "tap_out_r_temperature_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "tap_out_l_temperature_v2"
+    },
+    "tap_out_r_temperature_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "tap_out_l_temperature_v3"
+    }
+  }
+}

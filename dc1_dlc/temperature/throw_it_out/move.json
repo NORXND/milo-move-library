@@ -1,0 +1,26 @@
+{
+  "name": "throw_it_out",
+  "difficulty": 0,
+  "display_name": "Throw It Out",
+  "ham_move_name": "Throw_It_Out_temperature.move",
+  "milo_name": "throw_it_out_temperature",
+  "song_name": "temperature",
+  "clips": {
+    "throw_it_out_temperature_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "throw_it_out_temperature_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

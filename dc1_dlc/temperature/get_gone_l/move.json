@@ -1,0 +1,18 @@
+{
+  "name": "get_gone_l",
+  "difficulty": 2,
+  "display_name": "Get Gone",
+  "ham_move_name": "Thow_It_Back_L_temperature.move",
+  "milo_name": "thow_it_back_l_temperature",
+  "song_name": "temperature",
+  "clips": {
+    "get_gone_l_temperature_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "get_gone_r_temperature_v0"
+    }
+  }
+}

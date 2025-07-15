@@ -1,0 +1,26 @@
+{
+  "name": "gun_show",
+  "difficulty": 0,
+  "display_name": "Gun Show",
+  "ham_move_name": "Grav_Pull_whatislove.move",
+  "milo_name": "grav_pull_whatislove",
+  "song_name": "whatislove",
+  "clips": {
+    "gun_show_whatislove_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "gun_show_whatislove_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

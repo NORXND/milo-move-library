@@ -1,0 +1,18 @@
+{
+  "name": "slo_mo_pop_r",
+  "difficulty": 0,
+  "display_name": "Slo-Mo Pop",
+  "ham_move_name": "Tek_Slo_R_whatislove.move",
+  "milo_name": "tek_slo_r_whatislove",
+  "song_name": "whatislove",
+  "clips": {
+    "slo_mo_pop_r_whatislove_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "slo_mo_pop_l_whatislove_v0",
+      "linked_from": ""
+    }
+  }
+}

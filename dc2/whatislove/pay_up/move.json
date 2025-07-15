@@ -1,0 +1,58 @@
+{
+  "name": "pay_up",
+  "difficulty": 0,
+  "display_name": "Pay Up",
+  "ham_move_name": "Crowd_Sweat_whatislove.move",
+  "milo_name": "crowd_sweat_whatislove",
+  "song_name": "whatislove",
+  "clips": {
+    "pay_up_whatislove_v3": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pay_up_whatislove_v4": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pay_up_whatislove_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pay_up_whatislove_v5": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pay_up_whatislove_v1": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pay_up_whatislove_v2": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

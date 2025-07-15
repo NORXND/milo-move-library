@@ -1,0 +1,26 @@
+{
+  "name": "chin_ride",
+  "difficulty": 1,
+  "display_name": "Chin Ride",
+  "ham_move_name": "Chin_Ride_becauseofyou.move",
+  "milo_name": "chin_ride_becauseofyou",
+  "song_name": "becauseofyou",
+  "clips": {
+    "chin_ride_becauseofyou_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chin_ride_becauseofyou_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

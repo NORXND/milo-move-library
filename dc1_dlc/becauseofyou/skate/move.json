@@ -1,0 +1,26 @@
+{
+  "name": "skate",
+  "difficulty": 1,
+  "display_name": "Skate",
+  "ham_move_name": "Skate_becauseofyou.move",
+  "milo_name": "skate_becauseofyou",
+  "song_name": "becauseofyou",
+  "clips": {
+    "skate_becauseofyou_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "skate_becauseofyou_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

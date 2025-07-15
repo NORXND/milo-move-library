@@ -1,0 +1,26 @@
+{
+  "name": "pull_in",
+  "difficulty": 1,
+  "display_name": "Pull In",
+  "ham_move_name": "Pull_In_Pull_In_becauseofyou.move",
+  "milo_name": "pull_in_pull_in_becauseofyou",
+  "song_name": "becauseofyou",
+  "clips": {
+    "pull_in_becauseofyou_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pull_in_becauseofyou_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

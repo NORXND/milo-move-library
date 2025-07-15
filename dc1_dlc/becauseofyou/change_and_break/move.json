@@ -1,0 +1,26 @@
+{
+  "name": "change_and_break",
+  "difficulty": 2,
+  "display_name": "Change & Break",
+  "ham_move_name": "Swing_It_Back_becauseofyou.move",
+  "milo_name": "swing_it_back_becauseofyou",
+  "song_name": "becauseofyou",
+  "clips": {
+    "change_and_break_becauseofyou_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "change_and_break_becauseofyou_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

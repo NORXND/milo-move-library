@@ -1,0 +1,42 @@
+{
+  "name": "dodger",
+  "difficulty": 1,
+  "display_name": "Dodger",
+  "ham_move_name": "Cross_Down_and_Hit_becauseofyou.move",
+  "milo_name": "cross_down_and_hit_becauseofyou",
+  "song_name": "becauseofyou",
+  "clips": {
+    "dodger_becauseofyou_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dodger_becauseofyou_v3": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dodger_becauseofyou_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dodger_becauseofyou_v2": {
+      "avg_beats_per_second": 1.57,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

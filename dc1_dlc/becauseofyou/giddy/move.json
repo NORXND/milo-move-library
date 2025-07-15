@@ -1,0 +1,18 @@
+{
+  "name": "giddy",
+  "difficulty": 2,
+  "display_name": "Giddy",
+  "ham_move_name": "Giddy_becauseofyou.move",
+  "milo_name": "giddy_becauseofyou",
+  "song_name": "becauseofyou",
+  "clips": {
+    "giddy_becauseofyou_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

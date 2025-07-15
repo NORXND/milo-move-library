@@ -1,0 +1,18 @@
+{
+  "name": "double_pull_in_r",
+  "difficulty": 1,
+  "display_name": "Double Pull In",
+  "ham_move_name": "Double_Pull_In_R_becauseofyou.move",
+  "milo_name": "double_pull_in_r_becauseofyou",
+  "song_name": "becauseofyou",
+  "clips": {
+    "double_pull_in_r_becauseofyou_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "double_pull_in_l_becauseofyou_v0",
+      "linked_from": ""
+    }
+  }
+}

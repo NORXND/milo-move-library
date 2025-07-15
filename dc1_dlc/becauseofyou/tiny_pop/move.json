@@ -1,0 +1,34 @@
+{
+  "name": "tiny_pop",
+  "difficulty": 0,
+  "display_name": "Tiny Pop",
+  "ham_move_name": "Tiny_Pop_becauseofyou.move",
+  "milo_name": "tiny_pop_becauseofyou",
+  "song_name": "becauseofyou",
+  "clips": {
+    "tiny_pop_becauseofyou_v1": {
+      "avg_beats_per_second": 1.58,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tiny_pop_becauseofyou_v2": {
+      "avg_beats_per_second": 1.58,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tiny_pop_becauseofyou_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "abc_back",
+  "difficulty": 0,
+  "display_name": "ABC Back",
+  "ham_move_name": "ABC_Back_becauseofyou.move",
+  "milo_name": "abc_back_becauseofyou",
+  "song_name": "becauseofyou",
+  "clips": {
+    "abc_back_becauseofyou_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "abc_front_becauseofyou_v1"
+    },
+    "abc_back_becauseofyou_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

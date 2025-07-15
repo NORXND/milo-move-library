@@ -1,0 +1,26 @@
+{
+  "name": "wall_push",
+  "difficulty": 1,
+  "display_name": "Wall Push",
+  "ham_move_name": "Wall_Push_becauseofyou.move",
+  "milo_name": "wall_push_becauseofyou",
+  "song_name": "becauseofyou",
+  "clips": {
+    "wall_push_becauseofyou_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wall_push_becauseofyou_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

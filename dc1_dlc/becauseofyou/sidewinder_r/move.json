@@ -1,0 +1,18 @@
+{
+  "name": "sidewinder_r",
+  "difficulty": 1,
+  "display_name": "Sidewinder",
+  "ham_move_name": "Wind_and_Pull_R_becauseofyou.move",
+  "milo_name": "wind_and_pull_r_becauseofyou",
+  "song_name": "becauseofyou",
+  "clips": {
+    "sidewinder_r_becauseofyou_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 82,
+      "linked_to": "",
+      "linked_from": "sidewinder_l_becauseofyou_v0"
+    }
+  }
+}

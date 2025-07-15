@@ -1,0 +1,26 @@
+{
+  "name": "all_for_you_r",
+  "difficulty": 0,
+  "display_name": "All For You",
+  "ham_move_name": "Boy_Band_R_becauseofyou.move",
+  "milo_name": "boy_band_l_becauseofyou",
+  "song_name": "becauseofyou",
+  "clips": {
+    "all_for_you_r_becauseofyou_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "all_for_you_r_becauseofyou_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "side_to_side_l",
+  "difficulty": 0,
+  "display_name": "Side To Side",
+  "ham_move_name": "Side_To_Side_L_becauseofyou.move",
+  "milo_name": "side_to_side_l_becauseofyou",
+  "song_name": "becauseofyou",
+  "clips": {
+    "side_to_side_l_becauseofyou_v2": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "side_to_side_l_becauseofyou_v3": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "side_to_side_l_becauseofyou_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "side_to_side_l_becauseofyou_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

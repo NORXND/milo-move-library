@@ -1,0 +1,42 @@
+{
+  "name": "glide_crack",
+  "difficulty": 1,
+  "display_name": "Glide Crack",
+  "ham_move_name": "Swing_Break_becauseofyou.move",
+  "milo_name": "swing_break_becauseofyou",
+  "song_name": "becauseofyou",
+  "clips": {
+    "glide_crack_becauseofyou_v3": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "glide_crack_becauseofyou_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "glide_crack_becauseofyou_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "glide_crack_becauseofyou_v2": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

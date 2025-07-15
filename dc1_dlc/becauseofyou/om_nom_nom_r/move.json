@@ -1,0 +1,26 @@
+{
+  "name": "om_nom_nom_r",
+  "difficulty": 0,
+  "display_name": "Om Nom Nom",
+  "ham_move_name": "Eat_It_R_becauseofyou.move",
+  "milo_name": "eat_it_r_becauseofyou",
+  "song_name": "becauseofyou",
+  "clips": {
+    "om_nom_nom_r_becauseofyou_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "om_nom_nom_l_becauseofyou_v0",
+      "linked_from": ""
+    },
+    "om_nom_nom_r_becauseofyou_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "om_nom_nom_l_becauseofyou_v1",
+      "linked_from": ""
+    }
+  }
+}

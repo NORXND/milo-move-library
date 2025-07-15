@@ -1,0 +1,18 @@
+{
+  "name": "knockout_l",
+  "difficulty": 0,
+  "display_name": "Knockout",
+  "ham_move_name": "Knockout_L_becauseofyou.move",
+  "milo_name": "knockout_l_becauseofyou",
+  "song_name": "becauseofyou",
+  "clips": {
+    "knockout_l_becauseofyou_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "knockout_r_becauseofyou_v0",
+      "linked_from": ""
+    }
+  }
+}

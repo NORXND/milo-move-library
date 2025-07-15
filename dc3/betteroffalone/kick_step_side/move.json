@@ -1,0 +1,26 @@
+{
+  "name": "kick_step_side",
+  "difficulty": 1,
+  "display_name": "Kick Step Side",
+  "ham_move_name": "Kick_Step_Back_betteroffalone.move",
+  "milo_name": "kick_step_back_betteroffalone",
+  "song_name": "betteroffalone",
+  "clips": {
+    "kick_step_side_betteroffalone_v0": {
+      "avg_beats_per_second": 2.28,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_step_side_betteroffalone_v1": {
+      "avg_beats_per_second": 2.29,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

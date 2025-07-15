@@ -1,0 +1,26 @@
+{
+  "name": "swing_set",
+  "difficulty": 2,
+  "display_name": "Swing Set",
+  "ham_move_name": "Cross_Swings_betteroffalone.move",
+  "milo_name": "cross_swings_betteroffalone",
+  "song_name": "betteroffalone",
+  "clips": {
+    "swing_set_betteroffalone_v0": {
+      "avg_beats_per_second": 2.28,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swing_set_betteroffalone_v1": {
+      "avg_beats_per_second": 2.28,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

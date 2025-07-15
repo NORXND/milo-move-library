@@ -1,0 +1,74 @@
+{
+  "name": "dry_step_center",
+  "difficulty": 2,
+  "display_name": "Dry Step Center",
+  "ham_move_name": "Pull_Through_betteroffalone.move",
+  "milo_name": "pull_through_betteroffalone",
+  "song_name": "betteroffalone",
+  "clips": {
+    "dry_step_center_betteroffalone_v0": {
+      "avg_beats_per_second": 2.29,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dry_step_center_betteroffalone_v5": {
+      "avg_beats_per_second": 2.28,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dry_step_center_betteroffalone_v3": {
+      "avg_beats_per_second": 2.29,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dry_step_center_betteroffalone_v1": {
+      "avg_beats_per_second": 2.28,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dry_step_center_betteroffalone_v6": {
+      "avg_beats_per_second": 1.96,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dry_step_center_betteroffalone_v4": {
+      "avg_beats_per_second": 2.29,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dry_step_center_betteroffalone_v2": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dry_step_center_betteroffalone_v7": {
+      "avg_beats_per_second": 2.29,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "cross_front_walk",
+  "difficulty": 2,
+  "display_name": "Cross Front Walk",
+  "ham_move_name": "Cross_Jabs_betteroffalone.move",
+  "milo_name": "cross_jabs_betteroffalone",
+  "song_name": "betteroffalone",
+  "clips": {
+    "cross_front_walk_betteroffalone_v4": {
+      "avg_beats_per_second": 1.95,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_front_walk_betteroffalone_v5": {
+      "avg_beats_per_second": 1.95,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_front_walk_betteroffalone_v0": {
+      "avg_beats_per_second": 2.29,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_front_walk_betteroffalone_v1": {
+      "avg_beats_per_second": 2.28,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_front_walk_betteroffalone_v2": {
+      "avg_beats_per_second": 1.95,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_front_walk_betteroffalone_v3": {
+      "avg_beats_per_second": 1.95,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

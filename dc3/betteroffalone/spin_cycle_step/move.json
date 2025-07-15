@@ -1,0 +1,42 @@
+{
+  "name": "spin_cycle_step",
+  "difficulty": 2,
+  "display_name": "Spin Cycle Step",
+  "ham_move_name": "Low_Twists_betteroffalone.move",
+  "milo_name": "low_twists_betteroffalone",
+  "song_name": "betteroffalone",
+  "clips": {
+    "spin_cycle_step_betteroffalone_v3": {
+      "avg_beats_per_second": 1.96,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spin_cycle_step_betteroffalone_v0": {
+      "avg_beats_per_second": 2.28,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spin_cycle_step_betteroffalone_v1": {
+      "avg_beats_per_second": 2.28,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spin_cycle_step_betteroffalone_v2": {
+      "avg_beats_per_second": 2.28,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

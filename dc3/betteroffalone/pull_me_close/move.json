@@ -1,0 +1,42 @@
+{
+  "name": "pull_me_close",
+  "difficulty": 2,
+  "display_name": "Pull Me Close",
+  "ham_move_name": "I_Want_It_betteroffalone.move",
+  "milo_name": "i_want_it_betteroffalone",
+  "song_name": "betteroffalone",
+  "clips": {
+    "pull_me_close_betteroffalone_v0": {
+      "avg_beats_per_second": 2.28,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pull_me_close_betteroffalone_v1": {
+      "avg_beats_per_second": 2.28,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pull_me_close_betteroffalone_v2": {
+      "avg_beats_per_second": 2.28,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pull_me_close_betteroffalone_v3": {
+      "avg_beats_per_second": 2.28,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

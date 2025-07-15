@@ -1,0 +1,42 @@
+{
+  "name": "hyper_r",
+  "difficulty": 0,
+  "display_name": "Hyper",
+  "ham_move_name": "Hype_Pump_R_betteroffalone.move",
+  "milo_name": "hype_pump_r_betteroffalone",
+  "song_name": "betteroffalone",
+  "clips": {
+    "hyper_r_betteroffalone_v1": {
+      "avg_beats_per_second": 2.28,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "hyper_l_betteroffalone_v1",
+      "linked_from": ""
+    },
+    "hyper_r_betteroffalone_v2": {
+      "avg_beats_per_second": 1.96,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "hyper_l_betteroffalone_v2",
+      "linked_from": ""
+    },
+    "hyper_r_betteroffalone_v0": {
+      "avg_beats_per_second": 2.28,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "hyper_l_betteroffalone_v0",
+      "linked_from": ""
+    },
+    "hyper_r_betteroffalone_v3": {
+      "avg_beats_per_second": 2.28,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "hyper_l_betteroffalone_v3",
+      "linked_from": ""
+    }
+  }
+}

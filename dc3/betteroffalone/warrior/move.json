@@ -1,0 +1,58 @@
+{
+  "name": "warrior",
+  "difficulty": 0,
+  "display_name": "Warrior",
+  "ham_move_name": "Heely_betteroffalone.move",
+  "milo_name": "heely_betteroffalone",
+  "song_name": "betteroffalone",
+  "clips": {
+    "warrior_betteroffalone_v4": {
+      "avg_beats_per_second": 2.28,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "warrior_betteroffalone_v2": {
+      "avg_beats_per_second": 2.28,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "warrior_betteroffalone_v1": {
+      "avg_beats_per_second": 2.29,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "warrior_betteroffalone_v5": {
+      "avg_beats_per_second": 2.29,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "warrior_betteroffalone_v3": {
+      "avg_beats_per_second": 2.29,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "warrior_betteroffalone_v0": {
+      "avg_beats_per_second": 2.28,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

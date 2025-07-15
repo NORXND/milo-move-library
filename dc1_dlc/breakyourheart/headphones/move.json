@@ -1,0 +1,18 @@
+{
+  "name": "headphones",
+  "difficulty": 0,
+  "display_name": "Headphones",
+  "ham_move_name": "Headphones_breakyourheart.move",
+  "milo_name": "headphones_breakyourheart",
+  "song_name": "breakyourheart",
+  "clips": {
+    "headphones_breakyourheart_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "heartbreaker",
+  "difficulty": 1,
+  "display_name": "Heartbreaker",
+  "ham_move_name": "Heartbreaker_breakyourheart.move",
+  "milo_name": "heartbreaker_breakyourheart",
+  "song_name": "breakyourheart",
+  "clips": {
+    "heartbreaker_breakyourheart_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heartbreaker_breakyourheart_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "stompin_l",
+  "difficulty": 1,
+  "display_name": "Stompin'",
+  "ham_move_name": "Stompin_L_breakyourheart.move",
+  "milo_name": "stompin_l_breakyourheart",
+  "song_name": "breakyourheart",
+  "clips": {
+    "stompin_l_breakyourheart_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stompin_l_breakyourheart_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

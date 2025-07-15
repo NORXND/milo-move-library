@@ -1,0 +1,18 @@
+{
+  "name": "wave_hit_l",
+  "difficulty": 2,
+  "display_name": "Wave Hit",
+  "ham_move_name": "Wave_Rock_L_breakyourheart.move",
+  "milo_name": "wave_rock_l_breakyourheart",
+  "song_name": "breakyourheart",
+  "clips": {
+    "wave_hit_l_breakyourheart_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

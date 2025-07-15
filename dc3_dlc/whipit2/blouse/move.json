@@ -1,0 +1,26 @@
+{
+  "name": "blouse",
+  "difficulty": 2,
+  "display_name": "Blouse",
+  "ham_move_name": "Flirty_Hands_whipit2.move",
+  "milo_name": "flirty_hands_whipit2",
+  "song_name": "whipit2",
+  "clips": {
+    "blouse_whipit2_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "blouse_whipit2_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "spice_and_raise_l",
+  "difficulty": 2,
+  "display_name": "Spice & Raise",
+  "ham_move_name": "Quick_Taps_L_whipit2.move",
+  "milo_name": "quick_taps_l_whipit2",
+  "song_name": "whipit2",
+  "clips": {
+    "spice_and_raise_l_whipit2_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "spice_and_raise_r_whipit2_v0",
+      "linked_from": ""
+    }
+  }
+}

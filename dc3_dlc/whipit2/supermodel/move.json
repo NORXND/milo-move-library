@@ -1,0 +1,34 @@
+{
+  "name": "supermodel",
+  "difficulty": 2,
+  "display_name": "Supermodel",
+  "ham_move_name": "Supermodel_whipit2.move",
+  "milo_name": "supermodel_whipit2",
+  "song_name": "whipit2",
+  "clips": {
+    "supermodel_whipit2_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "supermodel_whipit2_v1": {
+      "avg_beats_per_second": 1.82,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "supermodel_whipit2_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

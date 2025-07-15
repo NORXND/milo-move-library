@@ -1,0 +1,26 @@
+{
+  "name": "honeysuckle",
+  "difficulty": 2,
+  "display_name": "Honeysuckle",
+  "ham_move_name": "Allure_whipit2.move",
+  "milo_name": "allure_whipit2",
+  "song_name": "whipit2",
+  "clips": {
+    "honeysuckle_whipit2_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "honeysuckle_whipit2_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

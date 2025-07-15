@@ -1,0 +1,26 @@
+{
+  "name": "baby_bird_power",
+  "difficulty": 2,
+  "display_name": "Baby Bird Power",
+  "ham_move_name": "Hold_Up_whipit2.move",
+  "milo_name": "hold_up_whipit2",
+  "song_name": "whipit2",
+  "clips": {
+    "baby_bird_power_whipit2_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "baby_bird_power_whipit2_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

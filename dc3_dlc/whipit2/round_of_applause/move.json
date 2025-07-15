@@ -1,0 +1,42 @@
+{
+  "name": "round_of_applause",
+  "difficulty": 2,
+  "display_name": "Round Of Applause",
+  "ham_move_name": "World_Claps_whipit2.move",
+  "milo_name": "world_claps_whipit2",
+  "song_name": "whipit2",
+  "clips": {
+    "round_of_applause_whipit2_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "round_of_applause_whipit2_v1",
+      "linked_from": ""
+    },
+    "round_of_applause_whipit2_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "round_of_applause_whipit2_v0"
+    },
+    "round_of_applause_whipit2_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "round_of_applause_whipit2_v3",
+      "linked_from": ""
+    },
+    "round_of_applause_whipit2_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "round_of_applause_whipit2_v2"
+    }
+  }
+}

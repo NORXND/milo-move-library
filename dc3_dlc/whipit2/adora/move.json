@@ -1,0 +1,26 @@
+{
+  "name": "adora",
+  "difficulty": 2,
+  "display_name": "Adora",
+  "ham_move_name": "Slam_Open_whipit2.move",
+  "milo_name": "slam_open_whipit2",
+  "song_name": "whipit2",
+  "clips": {
+    "adora_whipit2_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "adora_whipit2_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "warrior_roll",
+  "difficulty": 0,
+  "display_name": "Warrior Roll",
+  "ham_move_name": "Bra_Straps_whipit2.move",
+  "milo_name": "bra_straps_whipit2",
+  "song_name": "whipit2",
+  "clips": {
+    "warrior_roll_whipit2_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "warrior_roll_whipit2_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

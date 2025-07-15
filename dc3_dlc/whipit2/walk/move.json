@@ -1,0 +1,26 @@
+{
+  "name": "walk",
+  "difficulty": 2,
+  "display_name": "Walk",
+  "ham_move_name": "Wet_Hair_whipit2.move",
+  "milo_name": "wet_hair_whipit2",
+  "song_name": "whipit2",
+  "clips": {
+    "walk_whipit2_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "walk_whipit2_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

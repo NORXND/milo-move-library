@@ -1,0 +1,26 @@
+{
+  "name": "press_up",
+  "difficulty": 2,
+  "display_name": "Press Up",
+  "ham_move_name": "Reach_High_whipit2.move",
+  "milo_name": "reach_high_whipit2",
+  "song_name": "whipit2",
+  "clips": {
+    "press_up_whipit2_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "press_up_whipit2_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

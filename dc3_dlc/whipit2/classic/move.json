@@ -1,0 +1,18 @@
+{
+  "name": "classic",
+  "difficulty": 2,
+  "display_name": "Classic",
+  "ham_move_name": "Swifter_whipit2.move",
+  "milo_name": "swifter_whipit2",
+  "song_name": "whipit2",
+  "clips": {
+    "classic_whipit2_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

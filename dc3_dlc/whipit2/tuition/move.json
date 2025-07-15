@@ -1,0 +1,26 @@
+{
+  "name": "tuition",
+  "difficulty": 2,
+  "display_name": "Tuition",
+  "ham_move_name": "Come_Here_whipit2.move",
+  "milo_name": "come_here_whipit2",
+  "song_name": "whipit2",
+  "clips": {
+    "tuition_whipit2_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tuition_whipit2_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

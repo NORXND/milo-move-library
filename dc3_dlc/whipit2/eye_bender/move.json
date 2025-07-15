@@ -1,0 +1,18 @@
+{
+  "name": "eye_bender",
+  "difficulty": 2,
+  "display_name": "Eye Bender",
+  "ham_move_name": "Pick_It_Up_whipit2.move",
+  "milo_name": "pick_it_up_whipit2",
+  "song_name": "whipit2",
+  "clips": {
+    "eye_bender_whipit2_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

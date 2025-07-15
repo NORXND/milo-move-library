@@ -1,0 +1,18 @@
+{
+  "name": "prep_stir_and_snap",
+  "difficulty": 2,
+  "display_name": "Prep Stir & Snap",
+  "ham_move_name": "Good_Ish_whipit2.move",
+  "milo_name": "good_ish_whipit2",
+  "song_name": "whipit2",
+  "clips": {
+    "prep_stir_and_snap_whipit2_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

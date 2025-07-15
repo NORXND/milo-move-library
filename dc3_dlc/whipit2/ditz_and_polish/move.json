@@ -1,0 +1,34 @@
+{
+  "name": "ditz_and_polish",
+  "difficulty": 2,
+  "display_name": "Ditz / Polish",
+  "ham_move_name": "Me_Goo_Go_whipit2.move",
+  "milo_name": "me_goo_go_whipit2",
+  "song_name": "whipit2",
+  "clips": {
+    "ditz_and_polish_whipit2_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ditz_and_polish_whipit2_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ditz_and_polish_whipit2_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

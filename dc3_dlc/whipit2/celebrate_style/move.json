@@ -1,0 +1,18 @@
+{
+  "name": "celebrate_style",
+  "difficulty": 2,
+  "display_name": "Celebrate Style",
+  "ham_move_name": "Funky_whipit2.move",
+  "milo_name": "funky_whipit2",
+  "song_name": "whipit2",
+  "clips": {
+    "celebrate_style_whipit2_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

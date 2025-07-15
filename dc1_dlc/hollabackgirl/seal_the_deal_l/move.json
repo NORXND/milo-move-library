@@ -1,0 +1,34 @@
+{
+  "name": "seal_the_deal_l",
+  "difficulty": 0,
+  "display_name": "Seal The Deal",
+  "ham_move_name": "Seal_The_Deal_L_hollabackgirl.move",
+  "milo_name": "seal_the_deal_l_hollabackgirl",
+  "song_name": "hollabackgirl",
+  "clips": {
+    "seal_the_deal_l_hollabackgirl_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "seal_the_deal_l_hollabackgirl_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "seal_the_deal_l_hollabackgirl_v2": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "hot_stepper",
+  "difficulty": 2,
+  "display_name": "Hot Stepper",
+  "ham_move_name": "Hot_Stepper_hollabackgirl.move",
+  "milo_name": "hot_stepper_hollabackgirl",
+  "song_name": "hollabackgirl",
+  "clips": {
+    "hot_stepper_hollabackgirl_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hot_stepper_hollabackgirl_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "underbrush",
+  "difficulty": 2,
+  "display_name": "Underbrush",
+  "ham_move_name": "Magik_hollabackgirl.move",
+  "milo_name": "magik_hollabackgirl",
+  "song_name": "hollabackgirl",
+  "clips": {
+    "underbrush_hollabackgirl_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

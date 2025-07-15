@@ -1,0 +1,18 @@
+{
+  "name": "back_talk",
+  "difficulty": 1,
+  "display_name": "Back-Talk",
+  "ham_move_name": "Gossip_hollabackgirl.move",
+  "milo_name": "gossip_hollabackgirl",
+  "song_name": "hollabackgirl",
+  "clips": {
+    "back_talk_hollabackgirl_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

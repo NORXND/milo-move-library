@@ -1,0 +1,26 @@
+{
+  "name": "pack_leader",
+  "difficulty": 1,
+  "display_name": "Pack Leader",
+  "ham_move_name": "Keep_It_Up_hollabackgirl.move",
+  "milo_name": "keep_it_up_hollabackgirl",
+  "song_name": "hollabackgirl",
+  "clips": {
+    "pack_leader_hollabackgirl_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pack_leader_hollabackgirl_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

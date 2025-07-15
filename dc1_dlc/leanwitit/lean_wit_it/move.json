@@ -1,0 +1,18 @@
+{
+  "name": "lean_wit_it",
+  "difficulty": 0,
+  "display_name": "Lean Wit It",
+  "ham_move_name": "Lean_Wit_It_leanwitit.move",
+  "milo_name": "lean_wit_it_leanwitit",
+  "song_name": "leanwitit",
+  "clips": {
+    "lean_wit_it_leanwitit_v0": {
+      "avg_beats_per_second": 1.27,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

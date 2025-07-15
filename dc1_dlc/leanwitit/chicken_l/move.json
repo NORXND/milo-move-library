@@ -1,0 +1,18 @@
+{
+  "name": "chicken_l",
+  "difficulty": 1,
+  "display_name": "Chicken",
+  "ham_move_name": "Chicken_L_leanwitit.move",
+  "milo_name": "chicken_l_leanwitit",
+  "song_name": "leanwitit",
+  "clips": {
+    "chicken_l_leanwitit_v0": {
+      "avg_beats_per_second": 1.27,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "chicken_r_leanwitit_v0"
+    }
+  }
+}

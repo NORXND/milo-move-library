@@ -1,0 +1,58 @@
+{
+  "name": "round_lean",
+  "difficulty": 1,
+  "display_name": "Round Lean",
+  "ham_move_name": "Round_Lean_leanwitit.move",
+  "milo_name": "round_lean_leanwitit",
+  "song_name": "leanwitit",
+  "clips": {
+    "round_lean_leanwitit_v4": {
+      "avg_beats_per_second": 1.27,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "round_lean_leanwitit_v5": {
+      "avg_beats_per_second": 1.27,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "round_lean_leanwitit_v0": {
+      "avg_beats_per_second": 1.27,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "round_lean_leanwitit_v1": {
+      "avg_beats_per_second": 1.27,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "round_lean_leanwitit_v2": {
+      "avg_beats_per_second": 1.27,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "round_lean_leanwitit_v3": {
+      "avg_beats_per_second": 1.27,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "pick_it_up_r",
+  "difficulty": 1,
+  "display_name": "Pick It Up",
+  "ham_move_name": "Hoe_Down_R_leanwitit.move",
+  "milo_name": "hoe_down_r_leanwitit",
+  "song_name": "leanwitit",
+  "clips": {
+    "pick_it_up_r_leanwitit_v0": {
+      "avg_beats_per_second": 1.27,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "pick_it_up_l_leanwitit_v0",
+      "linked_from": ""
+    }
+  }
+}

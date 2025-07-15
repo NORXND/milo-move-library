@@ -1,0 +1,18 @@
+{
+  "name": "spare",
+  "difficulty": 1,
+  "display_name": "Spare",
+  "ham_move_name": "Da_Turkey_leanwitit.move",
+  "milo_name": "da_turkey_leanwitit",
+  "song_name": "leanwitit",
+  "clips": {
+    "spare_leanwitit_v0": {
+      "avg_beats_per_second": 1.27,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

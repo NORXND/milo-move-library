@@ -1,0 +1,18 @@
+{
+  "name": "delly_dip_l",
+  "difficulty": 2,
+  "display_name": "Delly Dip",
+  "ham_move_name": "Delly_Dip_L_leanwitit.move",
+  "milo_name": "delly_dip_l_leanwitit",
+  "song_name": "leanwitit",
+  "clips": {
+    "delly_dip_l_leanwitit_v0": {
+      "avg_beats_per_second": 1.27,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "delly_dip_r_leanwitit_v0"
+    }
+  }
+}

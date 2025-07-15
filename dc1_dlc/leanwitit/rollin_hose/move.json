@@ -1,0 +1,26 @@
+{
+  "name": "rollin_hose",
+  "difficulty": 2,
+  "display_name": "Rollin' 'Hose",
+  "ham_move_name": "Rollin_Hose_leanwitit.move",
+  "milo_name": "rollin_hose_leanwitit",
+  "song_name": "leanwitit",
+  "clips": {
+    "rollin_hose_leanwitit_v0": {
+      "avg_beats_per_second": 1.27,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rollin_hose_leanwitit_v1": {
+      "avg_beats_per_second": 1.27,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

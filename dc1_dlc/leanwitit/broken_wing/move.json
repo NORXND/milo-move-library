@@ -1,0 +1,26 @@
+{
+  "name": "broken_wing",
+  "difficulty": 0,
+  "display_name": "Broken Wing",
+  "ham_move_name": "Broken_Wing_leanwitit.move",
+  "milo_name": "broken_wing_leanwitit",
+  "song_name": "leanwitit",
+  "clips": {
+    "broken_wing_leanwitit_v0": {
+      "avg_beats_per_second": 1.27,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "broken_wing_leanwitit_v1": {
+      "avg_beats_per_second": 1.27,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

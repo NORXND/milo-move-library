@@ -1,0 +1,42 @@
+{
+  "name": "hyper_l",
+  "difficulty": 0,
+  "display_name": "Hyper",
+  "ham_move_name": "Punch_Step_L_sandstorm.move",
+  "milo_name": "punch_step_l_sandstorm",
+  "song_name": "sandstorm",
+  "clips": {
+    "hyper_l_sandstorm_v0": {
+      "avg_beats_per_second": 2.27,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "hyper_r_sandstorm_v0",
+      "linked_from": ""
+    },
+    "hyper_l_sandstorm_v3": {
+      "avg_beats_per_second": 2.26,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "hyper_r_sandstorm_v3",
+      "linked_from": "hyper_r_sandstorm_v2"
+    },
+    "hyper_l_sandstorm_v1": {
+      "avg_beats_per_second": 2.27,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "hyper_r_sandstorm_v1",
+      "linked_from": "hyper_r_sandstorm_v0"
+    },
+    "hyper_l_sandstorm_v2": {
+      "avg_beats_per_second": 1.94,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "hyper_r_sandstorm_v2",
+      "linked_from": ""
+    }
+  }
+}

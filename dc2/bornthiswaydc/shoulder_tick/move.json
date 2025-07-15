@@ -1,0 +1,42 @@
+{
+  "name": "shoulder_tick",
+  "difficulty": 0,
+  "display_name": "Shoulder Tick",
+  "ham_move_name": "Shoulder_Tick_bornthiswaydc.move",
+  "milo_name": "shoulder_tick_bornthiswaydc",
+  "song_name": "bornthiswaydc",
+  "clips": {
+    "shoulder_tick_bornthiswaydc_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_tick_bornthiswaydc_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_tick_bornthiswaydc_v2": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_tick_bornthiswaydc_v3": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

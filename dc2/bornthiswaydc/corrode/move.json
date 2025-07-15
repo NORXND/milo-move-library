@@ -1,0 +1,18 @@
+{
+  "name": "corrode",
+  "difficulty": 0,
+  "display_name": "Corrode",
+  "ham_move_name": "Squeeze_bornthiswaydc.move",
+  "milo_name": "squeeze_bornthiswaydc",
+  "song_name": "bornthiswaydc",
+  "clips": {
+    "corrode_bornthiswaydc_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

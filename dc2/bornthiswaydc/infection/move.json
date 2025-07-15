@@ -1,0 +1,18 @@
+{
+  "name": "infection",
+  "difficulty": 0,
+  "display_name": "Infection",
+  "ham_move_name": "Head_Toss_bornthiswaydc.move",
+  "milo_name": "head_toss_bornthiswaydc",
+  "song_name": "bornthiswaydc",
+  "clips": {
+    "infection_bornthiswaydc_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "lazy_hit",
+  "difficulty": 0,
+  "display_name": "Lazy Hit",
+  "ham_move_name": "Lazy_Hit_bornthiswaydc.move",
+  "milo_name": "lazy_hit_bornthiswaydc",
+  "song_name": "bornthiswaydc",
+  "clips": {
+    "lazy_hit_bornthiswaydc_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "lazy_hit_bornthiswaydc_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "lazy_hit_bornthiswaydc_v2": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "lazy_hit_bornthiswaydc_v3": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

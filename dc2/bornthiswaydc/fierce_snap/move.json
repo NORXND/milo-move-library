@@ -1,0 +1,26 @@
+{
+  "name": "fierce_snap",
+  "difficulty": 0,
+  "display_name": "Fierce Snap",
+  "ham_move_name": "Fierce_Snap_bornthiswaydc.move",
+  "milo_name": "fierce_snap_bornthiswaydc",
+  "song_name": "bornthiswaydc",
+  "clips": {
+    "fierce_snap_bornthiswaydc_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "fierce_snap_bornthiswaydc_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

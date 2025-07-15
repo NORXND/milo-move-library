@@ -1,0 +1,18 @@
+{
+  "name": "hands_on",
+  "difficulty": 2,
+  "display_name": "Hands On",
+  "ham_move_name": "Hands_bornthiswaydc.move",
+  "milo_name": "hands_bornthiswaydc",
+  "song_name": "bornthiswaydc",
+  "clips": {
+    "hands_on_bornthiswaydc_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

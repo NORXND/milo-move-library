@@ -1,0 +1,18 @@
+{
+  "name": "swing_step_out",
+  "difficulty": 0,
+  "display_name": "Swing Step Out",
+  "ham_move_name": "Swing_Step_In_bornthiswaydc.move",
+  "milo_name": "swing_step_in_bornthiswaydc",
+  "song_name": "bornthiswaydc",
+  "clips": {
+    "swing_step_out_bornthiswaydc_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

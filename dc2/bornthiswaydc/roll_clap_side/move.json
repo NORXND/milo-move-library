@@ -1,0 +1,34 @@
+{
+  "name": "roll_clap_side",
+  "difficulty": 0,
+  "display_name": "Roll Clap Side",
+  "ham_move_name": "Roll_Clap_bornthiswaydc.move",
+  "milo_name": "roll_clap_bornthiswaydc",
+  "song_name": "bornthiswaydc",
+  "clips": {
+    "roll_clap_side_bornthiswaydc_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roll_clap_side_bornthiswaydc_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roll_clap_side_bornthiswaydc_v2": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

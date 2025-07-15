@@ -1,0 +1,26 @@
+{
+  "name": "beach_party",
+  "difficulty": 0,
+  "display_name": "Beach Party",
+  "ham_move_name": "Beach_Party_bornthiswaydc.move",
+  "milo_name": "beach_party_bornthiswaydc",
+  "song_name": "bornthiswaydc",
+  "clips": {
+    "beach_party_bornthiswaydc_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "beach_party_bornthiswaydc_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

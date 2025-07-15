@@ -1,0 +1,26 @@
+{
+  "name": "breakdown",
+  "difficulty": 0,
+  "display_name": "Breakdown",
+  "ham_move_name": "Breakdown_bornthiswaydc.move",
+  "milo_name": "breakdown_bornthiswaydc",
+  "song_name": "bornthiswaydc",
+  "clips": {
+    "breakdown_bornthiswaydc_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "breakdown_bornthiswaydc_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

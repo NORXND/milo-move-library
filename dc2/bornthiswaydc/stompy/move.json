@@ -1,0 +1,26 @@
+{
+  "name": "stompy",
+  "difficulty": 0,
+  "display_name": "Stompy",
+  "ham_move_name": "Stomp_bornthiswaydc.move",
+  "milo_name": "stomp_bornthiswaydc",
+  "song_name": "bornthiswaydc",
+  "clips": {
+    "stompy_bornthiswaydc_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stompy_bornthiswaydc_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

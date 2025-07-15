@@ -1,0 +1,42 @@
+{
+  "name": "step_and_slam",
+  "difficulty": 2,
+  "display_name": "Step & Slam",
+  "ham_move_name": "Hip_Drop_Slam_bornthiswaydc.move",
+  "milo_name": "hip_drop_slam_bornthiswaydc",
+  "song_name": "bornthiswaydc",
+  "clips": {
+    "step_and_slam_bornthiswaydc_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_and_slam_bornthiswaydc_v1": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_and_slam_bornthiswaydc_v2": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_and_slam_bornthiswaydc_v3": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

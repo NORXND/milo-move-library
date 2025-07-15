@@ -1,0 +1,42 @@
+{
+  "name": "locomotive",
+  "difficulty": 2,
+  "display_name": "Locomotive",
+  "ham_move_name": "Funky_Step_bornthiswaydc.move",
+  "milo_name": "funky_step_bornthiswaydc",
+  "song_name": "bornthiswaydc",
+  "clips": {
+    "locomotive_bornthiswaydc_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "locomotive_bornthiswaydc_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "locomotive_bornthiswaydc_v2": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "locomotive_bornthiswaydc_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

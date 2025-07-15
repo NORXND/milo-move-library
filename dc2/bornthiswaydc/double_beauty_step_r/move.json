@@ -1,0 +1,26 @@
+{
+  "name": "double_beauty_step_r",
+  "difficulty": 1,
+  "display_name": "Double Beauty Step",
+  "ham_move_name": "Beauty_Snap_R_bornthiswaydc.move",
+  "milo_name": "beauty_snap_r_bornthiswaydc",
+  "song_name": "bornthiswaydc",
+  "clips": {
+    "double_beauty_step_r_bornthiswaydc_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "double_beauty_step_l_bornthiswaydc_v1",
+      "linked_from": "double_beauty_step_l_bornthiswaydc_v0"
+    },
+    "double_beauty_step_r_bornthiswaydc_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "double_beauty_step_l_bornthiswaydc_v1"
+    }
+  }
+}

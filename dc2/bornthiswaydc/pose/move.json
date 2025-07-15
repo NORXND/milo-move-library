@@ -1,0 +1,26 @@
+{
+  "name": "pose",
+  "difficulty": 0,
+  "display_name": "Pose",
+  "ham_move_name": "Hold_The_Pose_bornthiswaydc.move",
+  "milo_name": "hold_the_pose_bornthiswaydc",
+  "song_name": "bornthiswaydc",
+  "clips": {
+    "pose_bornthiswaydc_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pose_bornthiswaydc_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

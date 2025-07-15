@@ -1,0 +1,42 @@
+{
+  "name": "princess_snap",
+  "difficulty": 0,
+  "display_name": "Princess Snap",
+  "ham_move_name": "Sass_Snap_bornthiswaydc.move",
+  "milo_name": "sass_snap_bornthiswaydc",
+  "song_name": "bornthiswaydc",
+  "clips": {
+    "princess_snap_bornthiswaydc_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "princess_snap_bornthiswaydc_v1": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "princess_snap_bornthiswaydc_v2": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "princess_snap_bornthiswaydc_v3": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

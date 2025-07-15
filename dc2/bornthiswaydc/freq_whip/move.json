@@ -1,0 +1,42 @@
+{
+  "name": "freq_whip",
+  "difficulty": 1,
+  "display_name": "Freq Whip",
+  "ham_move_name": "Hippie_Slap_bornthiswaydc.move",
+  "milo_name": "hippie_slap_bornthiswaydc",
+  "song_name": "bornthiswaydc",
+  "clips": {
+    "freq_whip_bornthiswaydc_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freq_whip_bornthiswaydc_v2": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freq_whip_bornthiswaydc_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freq_whip_bornthiswaydc_v3": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

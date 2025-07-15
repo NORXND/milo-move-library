@@ -1,0 +1,18 @@
+{
+  "name": "step_front",
+  "difficulty": 0,
+  "display_name": "Step Front",
+  "ham_move_name": "Front_Step_In_bornthiswaydc.move",
+  "milo_name": "front_step_in_bornthiswaydc",
+  "song_name": "bornthiswaydc",
+  "clips": {
+    "step_front_bornthiswaydc_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

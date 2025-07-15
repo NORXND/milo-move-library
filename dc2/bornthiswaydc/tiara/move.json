@@ -1,0 +1,42 @@
+{
+  "name": "tiara",
+  "difficulty": 0,
+  "display_name": "Tiara",
+  "ham_move_name": "Drag_Queen_bornthiswaydc.move",
+  "milo_name": "drag_queen_bornthiswaydc",
+  "song_name": "bornthiswaydc",
+  "clips": {
+    "tiara_bornthiswaydc_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tiara_bornthiswaydc_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tiara_bornthiswaydc_v2": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tiara_bornthiswaydc_v3": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

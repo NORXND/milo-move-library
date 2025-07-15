@@ -1,0 +1,26 @@
+{
+  "name": "bang_it",
+  "difficulty": 0,
+  "display_name": "Bang It",
+  "ham_move_name": "Bang_It_bulletproof.move",
+  "milo_name": "bang_it_bulletproof",
+  "song_name": "bulletproof",
+  "clips": {
+    "bang_it_bulletproof_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bang_it_bulletproof_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

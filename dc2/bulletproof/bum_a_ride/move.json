@@ -1,0 +1,42 @@
+{
+  "name": "bum_a_ride",
+  "difficulty": 0,
+  "display_name": "Bum A Ride",
+  "ham_move_name": "Bum_A_Ride_bulletproof.move",
+  "milo_name": "bum_a_ride_bulletproof",
+  "song_name": "bulletproof",
+  "clips": {
+    "bum_a_ride_bulletproof_v2": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bum_a_ride_bulletproof_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bum_a_ride_bulletproof_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bum_a_ride_bulletproof_v3": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

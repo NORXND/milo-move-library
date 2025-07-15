@@ -1,0 +1,58 @@
+{
+  "name": "secret_agent",
+  "difficulty": 1,
+  "display_name": "Secret Agent",
+  "ham_move_name": "Bulletproof_bulletproof.move",
+  "milo_name": "bulletproof_bulletproof",
+  "song_name": "bulletproof",
+  "clips": {
+    "secret_agent_bulletproof_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "secret_agent_bulletproof_v1": {
+      "avg_beats_per_second": 1.76,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "secret_agent_bulletproof_v2": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "secret_agent_bulletproof_v3": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "secret_agent_bulletproof_v4": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "secret_agent_bulletproof_v5": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

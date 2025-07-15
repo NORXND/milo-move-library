@@ -1,0 +1,26 @@
+{
+  "name": "back_cross_out",
+  "difficulty": 2,
+  "display_name": "Back Cross Out",
+  "ham_move_name": "Step_Cross_Out_bulletproof.move",
+  "milo_name": "step_cross_out_bulletproof",
+  "song_name": "bulletproof",
+  "clips": {
+    "back_cross_out_bulletproof_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "back_cross_out_bulletproof_v1": {
+      "avg_beats_per_second": 2.04,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

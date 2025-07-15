@@ -1,0 +1,18 @@
+{
+  "name": "push_away",
+  "difficulty": 0,
+  "display_name": "Push Away",
+  "ham_move_name": "Push_Away_bulletproof.move",
+  "milo_name": "push_away_bulletproof",
+  "song_name": "bulletproof",
+  "clips": {
+    "push_away_bulletproof_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "west_side",
+  "difficulty": 2,
+  "display_name": "West Side",
+  "ham_move_name": "Fake_Crypt_thisishowwedoit.move",
+  "milo_name": "fake_crypt_thisishowwedoit",
+  "song_name": "thisishowwedoit",
+  "clips": {
+    "west_side_thisishowwedoit_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

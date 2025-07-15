@@ -1,0 +1,18 @@
+{
+  "name": "you_and_you",
+  "difficulty": 0,
+  "display_name": "You & You",
+  "ham_move_name": "You_And_You_thisishowwedoit.move",
+  "milo_name": "you_and_you_thisishowwedoit",
+  "song_name": "thisishowwedoit",
+  "clips": {
+    "you_and_you_thisishowwedoit_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

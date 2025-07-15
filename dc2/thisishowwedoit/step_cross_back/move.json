@@ -1,0 +1,26 @@
+{
+  "name": "step_cross_back",
+  "difficulty": 0,
+  "display_name": "Step Cross Back",
+  "ham_move_name": "Step_Cross_Back_thisishowwedoit.move",
+  "milo_name": "step_cross_back_thisishowwedoit",
+  "song_name": "thisishowwedoit",
+  "clips": {
+    "step_cross_back_thisishowwedoit_v1": {
+      "avg_beats_per_second": 1.72,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_cross_back_thisishowwedoit_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "mad_dash",
+  "difficulty": 2,
+  "display_name": "Mad Dash",
+  "ham_move_name": "Bank_Rob_thisishowwedoit.move",
+  "milo_name": "bank_rob_thisishowwedoit",
+  "song_name": "thisishowwedoit",
+  "clips": {
+    "mad_dash_thisishowwedoit_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

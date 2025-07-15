@@ -1,0 +1,34 @@
+{
+  "name": "brat",
+  "difficulty": 0,
+  "display_name": "Brat",
+  "ham_move_name": "Brat_thisishowwedoit.move",
+  "milo_name": "brat_thisishowwedoit",
+  "song_name": "thisishowwedoit",
+  "clips": {
+    "brat_thisishowwedoit_v2": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "brat_thisishowwedoit_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "brat_thisishowwedoit_v1": {
+      "avg_beats_per_second": 1.72,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

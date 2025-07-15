@@ -1,0 +1,18 @@
+{
+  "name": "get_away_r",
+  "difficulty": 0,
+  "display_name": "Get Away",
+  "ham_move_name": "Superstar_R_thisishowwedoit.move",
+  "milo_name": "superstar_r_thisishowwedoit",
+  "song_name": "thisishowwedoit",
+  "clips": {
+    "get_away_r_thisishowwedoit_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "get_away_l_thisishowwedoit_v0",
+      "linked_from": ""
+    }
+  }
+}

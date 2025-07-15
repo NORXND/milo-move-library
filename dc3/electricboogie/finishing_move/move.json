@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_electricboogie_v1071",
+  "difficulty": 2,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_electricboogie.move",
+  "milo_name": "finishing_move_electricboogie",
+  "song_name": "electricboogie",
+  "clips": {
+    "finishing_move_electricboogie_v1071": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 74,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

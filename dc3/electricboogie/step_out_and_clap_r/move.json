@@ -1,0 +1,34 @@
+{
+  "name": "step_out_and_clap_r",
+  "difficulty": 2,
+  "display_name": "Step Out & Clap",
+  "ham_move_name": "Es_Easy_R_electricboogie.move",
+  "milo_name": "es_easy_r_electricboogie",
+  "song_name": "electricboogie",
+  "clips": {
+    "step_out_and_clap_r_electricboogie_v0": {
+      "avg_beats_per_second": 1.56,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "step_out_and_clap_l_electricboogie_v0",
+      "linked_from": ""
+    },
+    "step_out_and_clap_r_electricboogie_v1": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "step_out_and_clap_l_electricboogie_v1",
+      "linked_from": ""
+    },
+    "step_out_and_clap_r_electricboogie_v2": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "step_out_and_clap_l_electricboogie_v2",
+      "linked_from": ""
+    }
+  }
+}

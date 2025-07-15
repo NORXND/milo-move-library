@@ -1,0 +1,50 @@
+{
+  "name": "floor_snap",
+  "difficulty": 2,
+  "display_name": "Floor Snap",
+  "ham_move_name": "Es_Hit_The_Floor_electricboogie.move",
+  "milo_name": "es_hit_the_floor_electricboogie",
+  "song_name": "electricboogie",
+  "clips": {
+    "floor_snap_electricboogie_v3": {
+      "avg_beats_per_second": 1.81,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "floor_snap_electricboogie_v4": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "floor_snap_electricboogie_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "floor_snap_electricboogie_v1": {
+      "avg_beats_per_second": 1.81,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "floor_snap_electricboogie_v2": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

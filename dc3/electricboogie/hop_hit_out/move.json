@@ -1,0 +1,42 @@
+{
+  "name": "hop_hit_out",
+  "difficulty": 0,
+  "display_name": "Hop Hit Out",
+  "ham_move_name": "Bump_electricboogie.move",
+  "milo_name": "bump_electricboogie",
+  "song_name": "electricboogie",
+  "clips": {
+    "hop_hit_out_electricboogie_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_hit_out_electricboogie_v3": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_hit_out_electricboogie_v1": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_hit_out_electricboogie_v2": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "grapevine_and_clap_r",
+  "difficulty": 2,
+  "display_name": "Grapevine & Clap",
+  "ham_move_name": "Es_Grapevine_R_electricboogie.move",
+  "milo_name": "es_grapevine_r_electricboogie",
+  "song_name": "electricboogie",
+  "clips": {
+    "grapevine_and_clap_r_electricboogie_v1": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "grapevine_and_clap_l_electricboogie_v1",
+      "linked_from": ""
+    },
+    "grapevine_and_clap_r_electricboogie_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "grapevine_and_clap_l_electricboogie_v0",
+      "linked_from": ""
+    }
+  }
+}

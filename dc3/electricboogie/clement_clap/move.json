@@ -1,0 +1,18 @@
+{
+  "name": "clement_clap",
+  "difficulty": 2,
+  "display_name": "Clement Clap",
+  "ham_move_name": "Hard_Claps_electricboogie.move",
+  "milo_name": "hard_claps_electricboogie",
+  "song_name": "electricboogie",
+  "clips": {
+    "clement_clap_electricboogie_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

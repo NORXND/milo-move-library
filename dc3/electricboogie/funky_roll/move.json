@@ -1,0 +1,26 @@
+{
+  "name": "funky_roll",
+  "difficulty": 1,
+  "display_name": "Funky Roll",
+  "ham_move_name": "Roll_Groove_electricboogie.move",
+  "milo_name": "roll_groove_electricboogie",
+  "song_name": "electricboogie",
+  "clips": {
+    "funky_roll_electricboogie_v0": {
+      "avg_beats_per_second": 1.81,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "funky_roll_electricboogie_v1": {
+      "avg_beats_per_second": 1.54,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

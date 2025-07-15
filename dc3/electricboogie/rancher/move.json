@@ -1,0 +1,26 @@
+{
+  "name": "rancher",
+  "difficulty": 2,
+  "display_name": "Rancher",
+  "ham_move_name": "Locking_Combo_2_electricboogie.move",
+  "milo_name": "locking_combo_2_electricboogie",
+  "song_name": "electricboogie",
+  "clips": {
+    "rancher_electricboogie_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "flying_lockdown_electricboogie_v1",
+      "linked_from": "flying_lockdown_electricboogie_v0"
+    },
+    "rancher_electricboogie_v1": {
+      "avg_beats_per_second": 1.64,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "flying_lockdown_electricboogie_v1"
+    }
+  }
+}

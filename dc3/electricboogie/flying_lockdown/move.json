@@ -1,0 +1,26 @@
+{
+  "name": "flying_lockdown",
+  "difficulty": 2,
+  "display_name": "Flying Lockdown",
+  "ham_move_name": "Locking_Combo_electricboogie.move",
+  "milo_name": "locking_combo_electricboogie",
+  "song_name": "electricboogie",
+  "clips": {
+    "flying_lockdown_electricboogie_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "rancher_electricboogie_v0",
+      "linked_from": ""
+    },
+    "flying_lockdown_electricboogie_v1": {
+      "avg_beats_per_second": 1.81,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "rancher_electricboogie_v1",
+      "linked_from": "rancher_electricboogie_v0"
+    }
+  }
+}

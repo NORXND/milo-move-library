@@ -1,0 +1,26 @@
+{
+  "name": "scope_the_room_r",
+  "difficulty": 2,
+  "display_name": "Scope The Room",
+  "ham_move_name": "Look_L_Look_R_electricboogie.move",
+  "milo_name": "look_l_look_r_electricboogie",
+  "song_name": "electricboogie",
+  "clips": {
+    "scope_the_room_r_electricboogie_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scope_the_room_r_electricboogie_v1": {
+      "avg_beats_per_second": 1.54,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

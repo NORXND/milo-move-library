@@ -1,0 +1,18 @@
+{
+  "name": "exception_toe_snap_2",
+  "difficulty": 2,
+  "display_name": "Toe Snap",
+  "ham_move_name": "Es_Easy_F_2_electricboogie.move",
+  "milo_name": "es_easy_f_2_electricboogie",
+  "song_name": "electricboogie",
+  "clips": {
+    "toe_snap_electricboogie_v2": {
+      "avg_beats_per_second": 1.81,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "oladehin",
+  "difficulty": 2,
+  "display_name": "Oladehin",
+  "ham_move_name": "Hop_Slap_Knees_Hitch_Hike_electricboogie.move",
+  "milo_name": "hop_slap_knees_hitch_hike_electricboogie",
+  "song_name": "electricboogie",
+  "clips": {
+    "oladehin_electricboogie_v0": {
+      "avg_beats_per_second": 1.56,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "oladehin_electricboogie_v1": {
+      "avg_beats_per_second": 1.55,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "oladehin_electricboogie_v2": {
+      "avg_beats_per_second": 1.43,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "oladehin_electricboogie_v3": {
+      "avg_beats_per_second": 1.54,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

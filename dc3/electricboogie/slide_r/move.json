@@ -1,0 +1,26 @@
+{
+  "name": "slide_r",
+  "difficulty": 2,
+  "display_name": "Slide",
+  "ham_move_name": "Slide_R_electricboogie.move",
+  "milo_name": "slide_r_electricboogie",
+  "song_name": "electricboogie",
+  "clips": {
+    "slide_r_electricboogie_v1": {
+      "avg_beats_per_second": 1.55,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slide_r_electricboogie_v0": {
+      "avg_beats_per_second": 1.57,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

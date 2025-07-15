@@ -1,0 +1,18 @@
+{
+  "name": "toe_snap_clap",
+  "difficulty": 2,
+  "display_name": "Toe Snap Clap",
+  "ham_move_name": "Step_Touch_Clap_Clap_electricboogie.move",
+  "milo_name": "step_touch_clap_clap_electricboogie",
+  "song_name": "electricboogie",
+  "clips": {
+    "toe_snap_clap_electricboogie_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

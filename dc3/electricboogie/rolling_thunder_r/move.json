@@ -1,0 +1,26 @@
+{
+  "name": "rolling_thunder_r",
+  "difficulty": 1,
+  "display_name": "Rolling Thunder",
+  "ham_move_name": "Arm_Rolls_R_electricboogie.move",
+  "milo_name": "arm_rolls_r_electricboogie",
+  "song_name": "electricboogie",
+  "clips": {
+    "rolling_thunder_r_electricboogie_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "rolling_thunder_l_electricboogie_v0",
+      "linked_from": ""
+    },
+    "rolling_thunder_r_electricboogie_v1": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "rolling_thunder_l_electricboogie_v1",
+      "linked_from": ""
+    }
+  }
+}

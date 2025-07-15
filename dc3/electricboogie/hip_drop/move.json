@@ -1,0 +1,42 @@
+{
+  "name": "hip_drop",
+  "difficulty": 0,
+  "display_name": "Hip Drop",
+  "ham_move_name": "Locking_Walk_electricboogie.move",
+  "milo_name": "locking_walk_electricboogie",
+  "song_name": "electricboogie",
+  "clips": {
+    "hip_drop_electricboogie_v3": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_drop_electricboogie_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_drop_electricboogie_v2": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_drop_electricboogie_v1": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

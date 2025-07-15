@@ -1,0 +1,42 @@
+{
+  "name": "love_tap",
+  "difficulty": 2,
+  "display_name": "Love Tap",
+  "ham_move_name": "Sway_Arms_electricboogie.move",
+  "milo_name": "sway_arms_electricboogie",
+  "song_name": "electricboogie",
+  "clips": {
+    "love_tap_electricboogie_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "love_tap_electricboogie_v1": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "love_tap_electricboogie_v2": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "love_tap_electricboogie_v3": {
+      "avg_beats_per_second": 1.56,
+      "genre": "raggae",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

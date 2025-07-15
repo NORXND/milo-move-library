@@ -1,0 +1,26 @@
+{
+  "name": "exception_cool_down_2",
+  "difficulty": 2,
+  "display_name": "Cool Down",
+  "ham_move_name": "Hot_Fan_2_hotstuff.move",
+  "milo_name": "hot_fan_2_hotstuff",
+  "song_name": "hotstuff",
+  "clips": {
+    "cool_down_hotstuff_v3": {
+      "avg_beats_per_second": 2.01,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "cool_down_hotstuff_v2"
+    },
+    "cool_down_hotstuff_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "cool_down_hotstuff_v0"
+    }
+  }
+}

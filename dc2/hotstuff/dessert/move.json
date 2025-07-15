@@ -1,0 +1,26 @@
+{
+  "name": "dessert",
+  "difficulty": 2,
+  "display_name": "Dessert",
+  "ham_move_name": "Snap_Glare_hotstuff.move",
+  "milo_name": "snap_glare_hotstuff",
+  "song_name": "hotstuff",
+  "clips": {
+    "dessert_hotstuff_v1": {
+      "avg_beats_per_second": 2.01,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dessert_hotstuff_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

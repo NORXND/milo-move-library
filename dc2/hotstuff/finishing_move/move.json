@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_hotstuff_v1071",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_hotstuff.move",
+  "milo_name": "finishing_move_hotstuff",
+  "song_name": "hotstuff",
+  "clips": {
+    "finishing_move_hotstuff_v1071": {
+      "avg_beats_per_second": 3.08,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "buster",
+  "difficulty": 0,
+  "display_name": "Buster",
+  "ham_move_name": "Buster_hotstuff.move",
+  "milo_name": "buster_hotstuff",
+  "song_name": "hotstuff",
+  "clips": {
+    "buster_hotstuff_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "buster_hotstuff_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

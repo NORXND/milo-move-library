@@ -1,0 +1,74 @@
+{
+  "name": "naw_drag_in",
+  "difficulty": 0,
+  "display_name": "Naw Drag In",
+  "ham_move_name": "Slide_Stuff_hotstuff.move",
+  "milo_name": "slide_stuff_hotstuff",
+  "song_name": "hotstuff",
+  "clips": {
+    "naw_drag_in_hotstuff_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "naw_drag_in_hotstuff_v6": {
+      "avg_beats_per_second": 2.01,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "naw_drag_in_hotstuff_v4": {
+      "avg_beats_per_second": 2.01,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "naw_drag_in_hotstuff_v2": {
+      "avg_beats_per_second": 2.0,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "naw_drag_in_hotstuff_v7": {
+      "avg_beats_per_second": 1.72,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "naw_drag_in_hotstuff_v0": {
+      "avg_beats_per_second": 1.99,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "naw_drag_in_hotstuff_v5": {
+      "avg_beats_per_second": 2.01,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "naw_drag_in_hotstuff_v3": {
+      "avg_beats_per_second": 2.01,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

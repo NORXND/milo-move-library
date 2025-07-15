@@ -1,0 +1,26 @@
+{
+  "name": "epic_guitar",
+  "difficulty": 0,
+  "display_name": "Epic Guitar",
+  "ham_move_name": "Epic_Guitar_hotstuff.move",
+  "milo_name": "epic_guitar_hotstuff",
+  "song_name": "hotstuff",
+  "clips": {
+    "epic_guitar_hotstuff_v1": {
+      "avg_beats_per_second": 2.01,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "epic_guitar_hotstuff_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

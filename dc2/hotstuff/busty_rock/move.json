@@ -1,0 +1,26 @@
+{
+  "name": "busty_rock",
+  "difficulty": 1,
+  "display_name": "Busty Rock",
+  "ham_move_name": "Busty_Rock_hotstuff.move",
+  "milo_name": "busty_rock_hotstuff",
+  "song_name": "hotstuff",
+  "clips": {
+    "busty_rock_hotstuff_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "busty_rock_hotstuff_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

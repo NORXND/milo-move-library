@@ -1,0 +1,18 @@
+{
+  "name": "tough_love",
+  "difficulty": 1,
+  "display_name": "Tough Love",
+  "ham_move_name": "Hit_Grab_Hit_Grab_hotstuff.move",
+  "milo_name": "hit_grab_hit_grab_hotstuff",
+  "song_name": "hotstuff",
+  "clips": {
+    "tough_love_hotstuff_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

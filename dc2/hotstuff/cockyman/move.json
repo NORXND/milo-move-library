@@ -1,0 +1,42 @@
+{
+  "name": "cockyman",
+  "difficulty": 0,
+  "display_name": "Cockyman",
+  "ham_move_name": "Cockyman_hotstuff.move",
+  "milo_name": "cockyman_hotstuff",
+  "song_name": "hotstuff",
+  "clips": {
+    "cockyman_hotstuff_v3": {
+      "avg_beats_per_second": 1.99,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cockyman_hotstuff_v0": {
+      "avg_beats_per_second": 1.99,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cockyman_hotstuff_v1": {
+      "avg_beats_per_second": 2.01,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cockyman_hotstuff_v2": {
+      "avg_beats_per_second": 1.98,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "spin_cycle",
+  "difficulty": 2,
+  "display_name": "Spin Cycle",
+  "ham_move_name": "Sleek_Slide_hotstuff.move",
+  "milo_name": "sleek_slide_hotstuff",
+  "song_name": "hotstuff",
+  "clips": {
+    "spin_cycle_hotstuff_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

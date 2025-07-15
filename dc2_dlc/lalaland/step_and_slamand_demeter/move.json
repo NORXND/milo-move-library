@@ -1,0 +1,26 @@
+{
+  "name": "step_and_slamand_demeter",
+  "difficulty": 0,
+  "display_name": "Step & Slam/ Demeter",
+  "ham_move_name": "Side_Throw_lalaland.move",
+  "milo_name": "side_throw_lalaland",
+  "song_name": "lalaland",
+  "clips": {
+    "step_and_slamand_demeter_lalaland_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_and_slamand_demeter_lalaland_v1": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

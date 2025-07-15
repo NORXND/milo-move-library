@@ -1,0 +1,26 @@
+{
+  "name": "snap_lean_forward",
+  "difficulty": 0,
+  "display_name": "Snap Lean Forward",
+  "ham_move_name": "Snap_Front_lalaland.move",
+  "milo_name": "snap_front_lalaland",
+  "song_name": "lalaland",
+  "clips": {
+    "snap_lean_forward_lalaland_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "snap_lean_back_lalaland_v0",
+      "linked_from": ""
+    },
+    "snap_lean_forward_lalaland_v1": {
+      "avg_beats_per_second": 1.22,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "snap_lean_back_lalaland_v1",
+      "linked_from": ""
+    }
+  }
+}

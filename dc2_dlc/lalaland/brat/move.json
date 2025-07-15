@@ -1,0 +1,18 @@
+{
+  "name": "brat",
+  "difficulty": 0,
+  "display_name": "Brat",
+  "ham_move_name": "Kick_Ups_lalaland.move",
+  "milo_name": "kick_ups_lalaland",
+  "song_name": "lalaland",
+  "clips": {
+    "brat_lalaland_v0": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

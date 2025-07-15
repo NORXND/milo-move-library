@@ -1,0 +1,26 @@
+{
+  "name": "ragdoll_and_twist_toss",
+  "difficulty": 2,
+  "display_name": "Ragdoll / Twist Toss",
+  "ham_move_name": "Ragdoll_Twist_It_Up_umbrella.move",
+  "milo_name": "ragdoll_twist_it_up_umbrella",
+  "song_name": "umbrella",
+  "clips": {
+    "ragdoll_and_twist_toss_umbrella_v0": {
+      "avg_beats_per_second": 1.45,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ragdoll_and_twist_toss_umbrella_v1": {
+      "avg_beats_per_second": 1.24,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

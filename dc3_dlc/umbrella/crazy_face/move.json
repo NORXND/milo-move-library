@@ -1,0 +1,26 @@
+{
+  "name": "crazy_face",
+  "difficulty": 2,
+  "display_name": "Crazy Face",
+  "ham_move_name": "Rain_All_In_My_Face_umbrella.move",
+  "milo_name": "rain_all_in_my_face_umbrella",
+  "song_name": "umbrella",
+  "clips": {
+    "crazy_face_umbrella_v0": {
+      "avg_beats_per_second": 1.45,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "dance_with_me_umbrella_v0",
+      "linked_from": ""
+    },
+    "crazy_face_umbrella_v1": {
+      "avg_beats_per_second": 1.45,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "dance_with_me_umbrella_v1",
+      "linked_from": ""
+    }
+  }
+}

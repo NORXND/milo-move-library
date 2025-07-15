@@ -1,0 +1,18 @@
+{
+  "name": "take_it_and_wind",
+  "difficulty": 1,
+  "display_name": "Take It & Wind",
+  "ham_move_name": "Waist_Wind_umbrella.move",
+  "milo_name": "waist_wind_umbrella",
+  "song_name": "umbrella",
+  "clips": {
+    "take_it_and_wind_umbrella_v0": {
+      "avg_beats_per_second": 1.45,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

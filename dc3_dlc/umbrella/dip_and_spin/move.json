@@ -1,0 +1,18 @@
+{
+  "name": "dip_and_spin",
+  "difficulty": 2,
+  "display_name": "Dip & Spin",
+  "ham_move_name": "Heres_My_Ring_Bitch_umbrella.move",
+  "milo_name": "heres_my_ring_bitch_umbrella",
+  "song_name": "umbrella",
+  "clips": {
+    "dip_and_spin_umbrella_v0": {
+      "avg_beats_per_second": 1.45,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

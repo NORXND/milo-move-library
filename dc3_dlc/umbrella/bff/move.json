@@ -1,0 +1,26 @@
+{
+  "name": "bff",
+  "difficulty": 2,
+  "display_name": "BFF",
+  "ham_move_name": "_5_And_6_And_7_And_8_umbrella.move",
+  "milo_name": "_5_and_6_and_7_and_8_umbrella",
+  "song_name": "umbrella",
+  "clips": {
+    "bff_umbrella_v0": {
+      "avg_beats_per_second": 1.45,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bff_umbrella_v1": {
+      "avg_beats_per_second": 1.45,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

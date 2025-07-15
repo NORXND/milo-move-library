@@ -1,0 +1,58 @@
+{
+  "name": "plume_and_freq_hip",
+  "difficulty": 2,
+  "display_name": "Plume / FreQ Hip",
+  "ham_move_name": "Over_Your_Head_Wind_X2_umbrella.move",
+  "milo_name": "over_your_head_wind_x2_umbrella",
+  "song_name": "umbrella",
+  "clips": {
+    "plume_and_freq_hip_umbrella_v0": {
+      "avg_beats_per_second": 1.45,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "plume_and_freq_hip_umbrella_v1": {
+      "avg_beats_per_second": 1.25,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "plume_and_freq_hip_umbrella_v2": {
+      "avg_beats_per_second": 1.45,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "plume_and_freq_hip_umbrella_v3": {
+      "avg_beats_per_second": 1.45,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "plume_and_freq_hip_umbrella_v4": {
+      "avg_beats_per_second": 1.45,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "plume_and_freq_hip_umbrella_v5": {
+      "avg_beats_per_second": 1.45,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

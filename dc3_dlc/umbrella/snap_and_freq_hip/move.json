@@ -1,0 +1,26 @@
+{
+  "name": "snap_and_freq_hip",
+  "difficulty": 2,
+  "display_name": "Snap & FreQ Hip",
+  "ham_move_name": "Snap_Back_And_Wind_umbrella.move",
+  "milo_name": "snap_back_and_wind_umbrella",
+  "song_name": "umbrella",
+  "clips": {
+    "snap_and_freq_hip_umbrella_v0": {
+      "avg_beats_per_second": 1.24,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "snap_and_freq_hip_umbrella_v1": {
+      "avg_beats_per_second": 1.09,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "hot_stepperandfly_roll",
+  "difficulty": 2,
+  "display_name": "Hot Stepper/Fly Roll",
+  "ham_move_name": "Buck_umbrella.move",
+  "milo_name": "buck_umbrella",
+  "song_name": "umbrella",
+  "clips": {
+    "hot_stepperandfly_roll_umbrella_v0": {
+      "avg_beats_per_second": 1.45,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hot_stepperandfly_roll_umbrella_v1": {
+      "avg_beats_per_second": 1.45,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

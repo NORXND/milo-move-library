@@ -1,0 +1,26 @@
+{
+  "name": "merry_unbirthday",
+  "difficulty": 0,
+  "display_name": "Merry Unbirthday",
+  "ham_move_name": "Wind_The_Curves_umbrella.move",
+  "milo_name": "wind_the_curves_umbrella",
+  "song_name": "umbrella",
+  "clips": {
+    "merry_unbirthday_umbrella_v0": {
+      "avg_beats_per_second": 1.45,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "merry_unbirthday_umbrella_v1": {
+      "avg_beats_per_second": 1.24,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

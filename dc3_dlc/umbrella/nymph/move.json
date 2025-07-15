@@ -1,0 +1,26 @@
+{
+  "name": "nymph",
+  "difficulty": 2,
+  "display_name": "Nymph",
+  "ham_move_name": "Shield_You_2x_umbrella.move",
+  "milo_name": "shield_you_2x_umbrella",
+  "song_name": "umbrella",
+  "clips": {
+    "nymph_umbrella_v0": {
+      "avg_beats_per_second": 1.45,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "nymph_umbrella_v1": {
+      "avg_beats_per_second": 1.45,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

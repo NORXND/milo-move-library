@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_umbrella_v1052",
+  "difficulty": 2,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_umbrella.move",
+  "milo_name": "finishing_move_umbrella",
+  "song_name": "umbrella",
+  "clips": {
+    "finishing_move_umbrella_v1052": {
+      "avg_beats_per_second": 1.45,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 74,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

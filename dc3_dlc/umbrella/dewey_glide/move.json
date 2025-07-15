@@ -1,0 +1,26 @@
+{
+  "name": "dewey_glide",
+  "difficulty": 2,
+  "display_name": "Dewey Glide",
+  "ham_move_name": "Mind_Your_Thighs_X4_umbrella.move",
+  "milo_name": "mind_your_thighs_x4_umbrella",
+  "song_name": "umbrella",
+  "clips": {
+    "dewey_glide_umbrella_v0": {
+      "avg_beats_per_second": 1.45,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dewey_glide_umbrella_v1": {
+      "avg_beats_per_second": 1.24,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

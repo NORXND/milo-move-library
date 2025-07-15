@@ -1,0 +1,26 @@
+{
+  "name": "mark_and_poster",
+  "difficulty": 2,
+  "display_name": "Mark / Poster",
+  "ham_move_name": "Point_Point_Poster_replay.move",
+  "milo_name": "point_point_poster_replay",
+  "song_name": "replay",
+  "clips": {
+    "mark_and_poster_replay_v1": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "mark_and_poster_replay_v0": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cross_step_x",
+  "difficulty": 2,
+  "display_name": "Cross Step X",
+  "ham_move_name": "Cross_Step_replay.move",
+  "milo_name": "cross_step_replay",
+  "song_name": "replay",
+  "clips": {
+    "cross_step_x_replay_v0": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_step_x_replay_v1": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

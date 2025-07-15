@@ -1,0 +1,26 @@
+{
+  "name": "lo_fo_step",
+  "difficulty": 2,
+  "display_name": "Lo 'FO Step",
+  "ham_move_name": "Shimmy_And_Step_replay.move",
+  "milo_name": "shimmy_and_step_replay",
+  "song_name": "replay",
+  "clips": {
+    "lo_fo_step_replay_v0": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "lo_fo_step_replay_v1": {
+      "avg_beats_per_second": 1.3,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

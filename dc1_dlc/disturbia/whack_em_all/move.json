@@ -1,0 +1,18 @@
+{
+  "name": "whack_em_all",
+  "difficulty": 0,
+  "display_name": "Whack 'em All",
+  "ham_move_name": "Whack_em_All_disturbia.move",
+  "milo_name": "whack_em_all_disturbia",
+  "song_name": "disturbia",
+  "clips": {
+    "whack_em_all_disturbia_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "merge_back_l",
+  "difficulty": 0,
+  "display_name": "Merge Back",
+  "ham_move_name": "Merge_Back_L_disturbia.move",
+  "milo_name": "merge_back_l_disturbia",
+  "song_name": "disturbia",
+  "clips": {
+    "merge_back_l_disturbia_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "merge_back_l_disturbia_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "merge_back_l_disturbia_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "merge_back_l_disturbia_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

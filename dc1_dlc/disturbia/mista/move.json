@@ -1,0 +1,26 @@
+{
+  "name": "mista",
+  "difficulty": 1,
+  "display_name": "Mista",
+  "ham_move_name": "Mista_disturbia.move",
+  "milo_name": "mista_disturbia",
+  "song_name": "disturbia",
+  "clips": {
+    "mista_disturbia_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "mista_disturbia_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

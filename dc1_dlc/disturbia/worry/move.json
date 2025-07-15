@@ -1,0 +1,34 @@
+{
+  "name": "worry",
+  "difficulty": 0,
+  "display_name": "Worry",
+  "ham_move_name": "Worry_disturbia.move",
+  "milo_name": "worry_disturbia",
+  "song_name": "disturbia",
+  "clips": {
+    "worry_disturbia_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "worry_disturbia_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "worry_disturbia_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

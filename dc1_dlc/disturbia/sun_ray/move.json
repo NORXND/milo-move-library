@@ -1,0 +1,18 @@
+{
+  "name": "sun_ray",
+  "difficulty": 2,
+  "display_name": "Sun Ray",
+  "ham_move_name": "Sun_Ray_disturbia.move",
+  "milo_name": "sun_ray_disturbia",
+  "song_name": "disturbia",
+  "clips": {
+    "sun_ray_disturbia_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

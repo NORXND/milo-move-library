@@ -1,0 +1,26 @@
+{
+  "name": "headwrush_slow",
+  "difficulty": 0,
+  "display_name": "Headwrush Slow",
+  "ham_move_name": "Headwrush_Slow_disturbia.move",
+  "milo_name": "headwrush_slow_disturbia",
+  "song_name": "disturbia",
+  "clips": {
+    "headwrush_slow_disturbia_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "headwrush_slow_disturbia_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

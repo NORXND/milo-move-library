@@ -1,0 +1,26 @@
+{
+  "name": "replay",
+  "difficulty": 1,
+  "display_name": "Replay",
+  "ham_move_name": "DJ_disturbia.move",
+  "milo_name": "dj_disturbia",
+  "song_name": "disturbia",
+  "clips": {
+    "replay_disturbia_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "replay_disturbia_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

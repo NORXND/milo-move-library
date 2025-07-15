@@ -1,0 +1,26 @@
+{
+  "name": "skeleton",
+  "difficulty": 1,
+  "display_name": "Skeleton",
+  "ham_move_name": "Skeleton_disturbia.move",
+  "milo_name": "skeleton_disturbia",
+  "song_name": "disturbia",
+  "clips": {
+    "skeleton_disturbia_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "skeleton_disturbia_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "in_skate",
+  "difficulty": 1,
+  "display_name": "In-Skate",
+  "ham_move_name": "In_Skate_satisfaction.move",
+  "milo_name": "in_skate_satisfaction",
+  "song_name": "satisfaction",
+  "clips": {
+    "in_skate_satisfaction_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "in_skate_satisfaction_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

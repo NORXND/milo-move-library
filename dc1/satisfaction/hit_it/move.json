@@ -1,0 +1,26 @@
+{
+  "name": "hit_it",
+  "difficulty": 0,
+  "display_name": "Hit It",
+  "ham_move_name": "Hit_It_satisfaction.move",
+  "milo_name": "hit_it_satisfaction",
+  "song_name": "satisfaction",
+  "clips": {
+    "hit_it_satisfaction_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hit_it_satisfaction_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

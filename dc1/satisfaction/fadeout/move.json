@@ -1,0 +1,18 @@
+{
+  "name": "fadeout",
+  "difficulty": 0,
+  "display_name": "Fadeout",
+  "ham_move_name": "Fadeout_satisfaction.move",
+  "milo_name": "fadeout_satisfaction",
+  "song_name": "satisfaction",
+  "clips": {
+    "fadeout_satisfaction_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

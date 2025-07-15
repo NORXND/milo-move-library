@@ -1,0 +1,26 @@
+{
+  "name": "shift",
+  "difficulty": 0,
+  "display_name": "Shift",
+  "ham_move_name": "Shift_satisfaction.move",
+  "milo_name": "shift_satisfaction",
+  "song_name": "satisfaction",
+  "clips": {
+    "shift_satisfaction_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shift_satisfaction_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

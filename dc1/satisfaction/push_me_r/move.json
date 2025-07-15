@@ -1,0 +1,42 @@
+{
+  "name": "push_me_r",
+  "difficulty": 1,
+  "display_name": "Push Me",
+  "ham_move_name": "Push_Me_R_satisfaction.move",
+  "milo_name": "push_me_r_satisfaction",
+  "song_name": "satisfaction",
+  "clips": {
+    "push_me_r_satisfaction_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "push_me_l_satisfaction_v0",
+      "linked_from": ""
+    },
+    "push_me_r_satisfaction_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "push_me_l_satisfaction_v1",
+      "linked_from": ""
+    },
+    "push_me_r_satisfaction_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "push_me_l_satisfaction_v2",
+      "linked_from": ""
+    },
+    "push_me_r_satisfaction_v3": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "push_me_l_satisfaction_v3",
+      "linked_from": ""
+    }
+  }
+}

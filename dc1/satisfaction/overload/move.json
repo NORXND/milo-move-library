@@ -1,0 +1,18 @@
+{
+  "name": "exception_overload_2",
+  "difficulty": 0,
+  "display_name": "Overload",
+  "ham_move_name": "Overload_2_satisfaction.move",
+  "milo_name": "overload_2_satisfaction",
+  "song_name": "satisfaction",
+  "clips": {
+    "overload_satisfaction_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "overload_satisfaction_v0"
+    }
+  }
+}

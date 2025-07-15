@@ -1,0 +1,26 @@
+{
+  "name": "glitch",
+  "difficulty": 0,
+  "display_name": "Glitch",
+  "ham_move_name": "Glitch_satisfaction.move",
+  "milo_name": "glitch_satisfaction",
+  "song_name": "satisfaction",
+  "clips": {
+    "glitch_satisfaction_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "glitch_satisfaction_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

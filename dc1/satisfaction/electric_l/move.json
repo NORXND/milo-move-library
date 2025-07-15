@@ -1,0 +1,50 @@
+{
+  "name": "electric_l",
+  "difficulty": 0,
+  "display_name": "Electric",
+  "ham_move_name": "Electric_L_satisfaction.move",
+  "milo_name": "electric_r_satisfaction",
+  "song_name": "satisfaction",
+  "clips": {
+    "electric_l_satisfaction_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "electric_r_satisfaction_v0"
+    },
+    "electric_l_satisfaction_v3": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "electric_r_satisfaction_v3"
+    },
+    "electric_l_satisfaction_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "electric_r_satisfaction_v1"
+    },
+    "electric_l_satisfaction_v4": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "electric_r_satisfaction_v4"
+    },
+    "electric_l_satisfaction_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "electric_r_satisfaction_v2"
+    }
+  }
+}

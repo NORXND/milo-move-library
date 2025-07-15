@@ -1,0 +1,74 @@
+{
+  "name": "figure_hop",
+  "difficulty": 2,
+  "display_name": "Figure Hop",
+  "ham_move_name": "Ski_wildones.move",
+  "milo_name": "ski_wildones",
+  "song_name": "wildones",
+  "clips": {
+    "figure_hop_wildones_v0": {
+      "avg_beats_per_second": 1.82,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "figure_hop_wildones_v5": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "figure_hop_wildones_v3": {
+      "avg_beats_per_second": 1.82,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "figure_hop_wildones_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "figure_hop_wildones_v6": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "figure_hop_wildones_v4": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "figure_hop_wildones_v2": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "figure_hop_wildones_v7": {
+      "avg_beats_per_second": 1.95,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

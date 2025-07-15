@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_wildones_v1089",
+  "difficulty": 2,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_wildones.move",
+  "milo_name": "finishing_move_wildones",
+  "song_name": "wildones",
+  "clips": {
+    "finishing_move_wildones_v1089": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 74,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

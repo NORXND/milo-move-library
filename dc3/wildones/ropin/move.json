@@ -1,0 +1,34 @@
+{
+  "name": "ropin",
+  "difficulty": 2,
+  "display_name": "Ropin'",
+  "ham_move_name": "Fist_Pumpin_wildones.move",
+  "milo_name": "fist_pumpin_wildones",
+  "song_name": "wildones",
+  "clips": {
+    "ropin_wildones_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ropin_wildones_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ropin_wildones_v2": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

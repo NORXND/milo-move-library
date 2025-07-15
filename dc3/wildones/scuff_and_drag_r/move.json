@@ -1,0 +1,26 @@
+{
+  "name": "scuff_and_drag_r",
+  "difficulty": 2,
+  "display_name": "Scuff & Drag",
+  "ham_move_name": "Styling_R_wildones.move",
+  "milo_name": "styling_r_wildones",
+  "song_name": "wildones",
+  "clips": {
+    "scuff_and_drag_r_wildones_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scuff_and_drag_r_wildones_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

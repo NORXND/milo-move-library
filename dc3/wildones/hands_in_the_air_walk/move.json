@@ -1,0 +1,42 @@
+{
+  "name": "hands_in_the_air_walk",
+  "difficulty": 2,
+  "display_name": "Hands In The Air Walk",
+  "ham_move_name": "Hands_Low_wildones.move",
+  "milo_name": "hands_low_wildones",
+  "song_name": "wildones",
+  "clips": {
+    "hands_in_the_air_walk_wildones_v3": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hands_in_the_air_walk_wildones_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hands_in_the_air_walk_wildones_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hands_in_the_air_walk_wildones_v2": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

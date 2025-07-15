@@ -1,0 +1,26 @@
+{
+  "name": "walk_o_twist",
+  "difficulty": 2,
+  "display_name": "Walk-o-Twist",
+  "ham_move_name": "French_Twist_wildones.move",
+  "milo_name": "french_twist_wildones",
+  "song_name": "wildones",
+  "clips": {
+    "walk_o_twist_wildones_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "walk_o_twist_wildones_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

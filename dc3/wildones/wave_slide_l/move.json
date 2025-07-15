@@ -1,0 +1,34 @@
+{
+  "name": "wave_slide_l",
+  "difficulty": 2,
+  "display_name": "Wave Slide",
+  "ham_move_name": "Wave_Slide_L_wildones.move",
+  "milo_name": "wave_slide_l_wildones",
+  "song_name": "wildones",
+  "clips": {
+    "wave_slide_l_wildones_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "wave_slide_r_wildones_v0",
+      "linked_from": ""
+    },
+    "wave_slide_l_wildones_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "wave_slide_r_wildones_v1",
+      "linked_from": "wave_slide_r_wildones_v0"
+    },
+    "wave_slide_l_wildones_v2": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

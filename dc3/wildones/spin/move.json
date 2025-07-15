@@ -1,0 +1,18 @@
+{
+  "name": "spin",
+  "difficulty": 2,
+  "display_name": "Spin",
+  "ham_move_name": "Melt_wildones.move",
+  "milo_name": "melt_wildones",
+  "song_name": "wildones",
+  "clips": {
+    "spin_wildones_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "loiter",
+  "difficulty": 2,
+  "display_name": "Loiter",
+  "ham_move_name": "March_wildones.move",
+  "milo_name": "march_wildones",
+  "song_name": "wildones",
+  "clips": {
+    "loiter_wildones_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "loiter_wildones_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

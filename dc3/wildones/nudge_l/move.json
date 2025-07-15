@@ -1,0 +1,42 @@
+{
+  "name": "nudge_l",
+  "difficulty": 2,
+  "display_name": "Nudge",
+  "ham_move_name": "Shrug_L_wildones.move",
+  "milo_name": "shrug_l_wildones",
+  "song_name": "wildones",
+  "clips": {
+    "nudge_l_wildones_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "nudge_r_wildones_v0"
+    },
+    "nudge_l_wildones_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "nudge_r_wildones_v1"
+    },
+    "nudge_l_wildones_v2": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "nudge_r_wildones_v2"
+    },
+    "nudge_l_wildones_v3": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "nudge_r_wildones_v3"
+    }
+  }
+}

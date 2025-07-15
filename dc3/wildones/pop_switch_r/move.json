@@ -1,0 +1,18 @@
+{
+  "name": "pop_switch_r",
+  "difficulty": 2,
+  "display_name": "Pop Switch",
+  "ham_move_name": "Pop_Combo_R_wildones.move",
+  "milo_name": "pop_combo_r_wildones",
+  "song_name": "wildones",
+  "clips": {
+    "pop_switch_r_wildones_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "pop_switch_l_wildones_v0",
+      "linked_from": ""
+    }
+  }
+}

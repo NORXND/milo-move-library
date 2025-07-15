@@ -1,0 +1,34 @@
+{
+  "name": "click_3x",
+  "difficulty": 2,
+  "display_name": "Click 3X",
+  "ham_move_name": "Heel_Clicks_wildones.move",
+  "milo_name": "heel_clicks_wildones",
+  "song_name": "wildones",
+  "clips": {
+    "click_3x_wildones_v2": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "click_3x_wildones_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "click_3x_wildones_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

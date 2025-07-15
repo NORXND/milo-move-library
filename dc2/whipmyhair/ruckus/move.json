@@ -1,0 +1,18 @@
+{
+  "name": "ruckus",
+  "difficulty": 1,
+  "display_name": "Ruckus",
+  "ham_move_name": "Wakin_Up_whipmyhair.move",
+  "milo_name": "wakin_up_whipmyhair",
+  "song_name": "whipmyhair",
+  "clips": {
+    "ruckus_whipmyhair_v0": {
+      "avg_beats_per_second": 1.36,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

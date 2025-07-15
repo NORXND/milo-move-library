@@ -1,0 +1,18 @@
+{
+  "name": "chicken",
+  "difficulty": 1,
+  "display_name": "Chicken",
+  "ham_move_name": "Chicken_whipmyhair.move",
+  "milo_name": "chicken_whipmyhair",
+  "song_name": "whipmyhair",
+  "clips": {
+    "chicken_whipmyhair_v0": {
+      "avg_beats_per_second": 1.36,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

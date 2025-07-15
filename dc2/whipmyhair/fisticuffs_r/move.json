@@ -1,0 +1,18 @@
+{
+  "name": "fisticuffs_r",
+  "difficulty": 0,
+  "display_name": "Fisticuffs",
+  "ham_move_name": "Ali_R_whipmyhair.move",
+  "milo_name": "ali_r_whipmyhair",
+  "song_name": "whipmyhair",
+  "clips": {
+    "fisticuffs_r_whipmyhair_v0": {
+      "avg_beats_per_second": 1.36,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "fisticuffs_l_whipmyhair_v0",
+      "linked_from": ""
+    }
+  }
+}

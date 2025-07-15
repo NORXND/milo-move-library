@@ -1,0 +1,26 @@
+{
+  "name": "demeter",
+  "difficulty": 0,
+  "display_name": "Demeter",
+  "ham_move_name": "Live_youmakemefeeldc.move",
+  "milo_name": "live_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "demeter_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "demeter_youmakemefeeldc_v1": {
+      "avg_beats_per_second": 1.89,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

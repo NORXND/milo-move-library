@@ -1,0 +1,26 @@
+{
+  "name": "bypass",
+  "difficulty": 2,
+  "display_name": "Bypass",
+  "ham_move_name": "Move_Out_Of_The_Way_youmakemefeeldc.move",
+  "milo_name": "move_out_of_the_way_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "bypass_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bypass_youmakemefeeldc_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

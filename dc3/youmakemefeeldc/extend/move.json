@@ -1,0 +1,26 @@
+{
+  "name": "extend",
+  "difficulty": 2,
+  "display_name": "Extend",
+  "ham_move_name": "Showgirl_youmakemefeeldc.move",
+  "milo_name": "showgirl_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "extend_youmakemefeeldc_v1": {
+      "avg_beats_per_second": 1.89,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "extend_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

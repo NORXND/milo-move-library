@@ -1,0 +1,26 @@
+{
+  "name": "old_way",
+  "difficulty": 2,
+  "display_name": "Old Way",
+  "ham_move_name": "Old_Way_youmakemefeeldc.move",
+  "milo_name": "old_way_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "old_way_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "old_way_youmakemefeeldc_v1": {
+      "avg_beats_per_second": 1.89,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

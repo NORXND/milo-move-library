@@ -1,0 +1,26 @@
+{
+  "name": "bubblegum",
+  "difficulty": 2,
+  "display_name": "Bubblegum",
+  "ham_move_name": "Slide_Punch_Lr_youmakemefeeldc.move",
+  "milo_name": "slide_punch_lr_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "bubblegum_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bubblegum_youmakemefeeldc_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

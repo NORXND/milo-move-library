@@ -1,0 +1,42 @@
+{
+  "name": "seatbelt_spin",
+  "difficulty": 2,
+  "display_name": "Seatbelt Spin",
+  "ham_move_name": "Shoulder_And_Spin_youmakemefeeldc.move",
+  "milo_name": "shoulder_and_spin_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "seatbelt_spin_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "seatbelt_spin_youmakemefeeldc_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "seatbelt_spin_youmakemefeeldc_v2": {
+      "avg_beats_per_second": 1.89,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "seatbelt_spin_youmakemefeeldc_v3": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

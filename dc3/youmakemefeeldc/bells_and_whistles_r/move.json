@@ -1,0 +1,18 @@
+{
+  "name": "bells_and_whistles_r",
+  "difficulty": 2,
+  "display_name": "Bells & Whistles",
+  "ham_move_name": "Throw_R_youmakemefeeldc.move",
+  "milo_name": "throw_r_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "bells_and_whistles_r_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

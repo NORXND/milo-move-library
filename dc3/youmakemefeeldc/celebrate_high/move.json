@@ -1,0 +1,18 @@
+{
+  "name": "celebrate_high",
+  "difficulty": 2,
+  "display_name": "Celebrate High",
+  "ham_move_name": "Pom_Pom_High_youmakemefeeldc.move",
+  "milo_name": "pom_pom_high_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "celebrate_high_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

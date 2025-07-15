@@ -1,0 +1,26 @@
+{
+  "name": "marcy_jean",
+  "difficulty": 2,
+  "display_name": "Marcy Jean",
+  "ham_move_name": "Grind_youmakemefeeldc.move",
+  "milo_name": "grind_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "marcy_jean_youmakemefeeldc_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "marcy_jean_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

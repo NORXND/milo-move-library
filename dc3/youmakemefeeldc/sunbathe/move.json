@@ -1,0 +1,26 @@
+{
+  "name": "sunbathe",
+  "difficulty": 2,
+  "display_name": "Sunbathe",
+  "ham_move_name": "Magazine_youmakemefeeldc.move",
+  "milo_name": "magazine_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "sunbathe_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sunbathe_youmakemefeeldc_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

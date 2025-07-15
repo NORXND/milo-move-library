@@ -1,0 +1,18 @@
+{
+  "name": "single_extension",
+  "difficulty": 2,
+  "display_name": "Single Extension",
+  "ham_move_name": "Foot_Drag_youmakemefeeldc.move",
+  "milo_name": "foot_drag_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "single_extension_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

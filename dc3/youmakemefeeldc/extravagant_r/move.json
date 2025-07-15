@@ -1,0 +1,26 @@
+{
+  "name": "extravagant_r",
+  "difficulty": 2,
+  "display_name": "Extravagant",
+  "ham_move_name": "Ninja_Straight_R_youmakemefeeldc.move",
+  "milo_name": "ninja_straight_r_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "extravagant_r_youmakemefeeldc_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "extravagant_r_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

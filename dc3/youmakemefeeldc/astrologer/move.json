@@ -1,0 +1,26 @@
+{
+  "name": "astrologer",
+  "difficulty": 2,
+  "display_name": "Astrologer",
+  "ham_move_name": "Balance_youmakemefeeldc.move",
+  "milo_name": "balance_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "astrologer_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "astrologer_youmakemefeeldc_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

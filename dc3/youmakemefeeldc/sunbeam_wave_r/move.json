@@ -1,0 +1,26 @@
+{
+  "name": "sunbeam_wave_r",
+  "difficulty": 2,
+  "display_name": "Sunbeam Wave",
+  "ham_move_name": "Give_Me_Michael_R_youmakemefeeldc.move",
+  "milo_name": "give_me_michael_r_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "sunbeam_wave_r_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sunbeam_wave_r_youmakemefeeldc_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "sunbeam_wave_l_youmakemefeeldc_v0",
+      "linked_from": ""
+    }
+  }
+}

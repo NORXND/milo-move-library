@@ -1,0 +1,18 @@
+{
+  "name": "seduction_snap",
+  "difficulty": 2,
+  "display_name": "Seduction Snap",
+  "ham_move_name": "Slave_4_U_Snap_youmakemefeeldc.move",
+  "milo_name": "slave_4_u_snap_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "seduction_snap_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

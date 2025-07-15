@@ -1,0 +1,18 @@
+{
+  "name": "pom_poms",
+  "difficulty": 2,
+  "display_name": "Pom Poms",
+  "ham_move_name": "Taps_youmakemefeeldc.move",
+  "milo_name": "taps_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "pom_poms_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

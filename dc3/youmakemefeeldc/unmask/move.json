@@ -1,0 +1,18 @@
+{
+  "name": "unmask",
+  "difficulty": 2,
+  "display_name": "Unmask",
+  "ham_move_name": "Drag_Hand_youmakemefeeldc.move",
+  "milo_name": "drag_hand_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "unmask_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

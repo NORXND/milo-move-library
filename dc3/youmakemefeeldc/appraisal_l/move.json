@@ -1,0 +1,26 @@
+{
+  "name": "appraisal_l",
+  "difficulty": 2,
+  "display_name": "Appraisal",
+  "ham_move_name": "Push_L_youmakemefeeldc.move",
+  "milo_name": "push_l_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "appraisal_l_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "appraisal_l_youmakemefeeldc_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "exception_hand_performance_1",
+  "difficulty": 2,
+  "display_name": "Hand Performance",
+  "ham_move_name": "Hand_Performance_1_youmakemefeeldc.move",
+  "milo_name": "hand_performance_1_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "hand_performance_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hand_performance_youmakemefeeldc_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

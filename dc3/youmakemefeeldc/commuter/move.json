@@ -1,0 +1,26 @@
+{
+  "name": "commuter",
+  "difficulty": 2,
+  "display_name": "Commuter",
+  "ham_move_name": "Atl_youmakemefeeldc.move",
+  "milo_name": "atl_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "commuter_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "commuter_youmakemefeeldc_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

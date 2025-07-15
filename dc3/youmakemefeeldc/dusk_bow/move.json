@@ -1,0 +1,26 @@
+{
+  "name": "dusk_bow",
+  "difficulty": 2,
+  "display_name": "Dusk Bow",
+  "ham_move_name": "Around_The_World_youmakemefeeldc.move",
+  "milo_name": "around_the_world_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "dusk_bow_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dusk_bow_youmakemefeeldc_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

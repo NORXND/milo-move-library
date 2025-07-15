@@ -1,0 +1,26 @@
+{
+  "name": "power_beam_and_pull",
+  "difficulty": 2,
+  "display_name": "Power Beam & Pull",
+  "ham_move_name": "Cheer_youmakemefeeldc.move",
+  "milo_name": "cheer_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "power_beam_and_pull_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "power_beam_and_pull_youmakemefeeldc_v1": {
+      "avg_beats_per_second": 1.89,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

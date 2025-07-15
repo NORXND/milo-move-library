@@ -1,0 +1,18 @@
+{
+  "name": "supermodel_walk",
+  "difficulty": 2,
+  "display_name": "Supermodel Walk",
+  "ham_move_name": "Give_Me_What_I_Want_youmakemefeeldc.move",
+  "milo_name": "give_me_what_i_want_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "supermodel_walk_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

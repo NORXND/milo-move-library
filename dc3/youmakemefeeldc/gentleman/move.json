@@ -1,0 +1,18 @@
+{
+  "name": "gentleman",
+  "difficulty": 1,
+  "display_name": "Gentleman",
+  "ham_move_name": "Search_Low_youmakemefeeldc.move",
+  "milo_name": "search_low_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "gentleman_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

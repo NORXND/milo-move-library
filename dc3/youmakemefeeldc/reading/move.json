@@ -1,0 +1,18 @@
+{
+  "name": "reading",
+  "difficulty": 2,
+  "display_name": "Reading",
+  "ham_move_name": "Vogue_Rl_Up_youmakemefeeldc.move",
+  "milo_name": "vogue_rl_up_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "reading_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

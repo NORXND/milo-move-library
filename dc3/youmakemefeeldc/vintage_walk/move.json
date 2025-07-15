@@ -1,0 +1,26 @@
+{
+  "name": "vintage_walk",
+  "difficulty": 2,
+  "display_name": "Vintage Walk",
+  "ham_move_name": "Vintage_youmakemefeeldc.move",
+  "milo_name": "vintage_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "vintage_walk_youmakemefeeldc_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "vintage_walk_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

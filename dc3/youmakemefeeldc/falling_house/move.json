@@ -1,0 +1,26 @@
+{
+  "name": "falling_house",
+  "difficulty": 2,
+  "display_name": "Falling House",
+  "ham_move_name": "Gail_La_youmakemefeeldc.move",
+  "milo_name": "gail_la_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "falling_house_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "falling_house_youmakemefeeldc_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

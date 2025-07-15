@@ -1,0 +1,18 @@
+{
+  "name": "anemone_walk",
+  "difficulty": 2,
+  "display_name": "Anemone Walk",
+  "ham_move_name": "Vanna_White_youmakemefeeldc.move",
+  "milo_name": "vanna_white_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "anemone_walk_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

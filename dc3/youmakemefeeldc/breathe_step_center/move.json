@@ -1,0 +1,26 @@
+{
+  "name": "breathe_step_center",
+  "difficulty": 2,
+  "display_name": "Breathe Step Center",
+  "ham_move_name": "Chest_Pop_youmakemefeeldc.move",
+  "milo_name": "chest_pop_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "breathe_step_center_youmakemefeeldc_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "breathe_step_center_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

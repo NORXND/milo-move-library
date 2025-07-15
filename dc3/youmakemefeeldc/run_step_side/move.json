@@ -1,0 +1,42 @@
+{
+  "name": "run_step_side",
+  "difficulty": 2,
+  "display_name": "Run Step Side",
+  "ham_move_name": "Subway_youmakemefeeldc.move",
+  "milo_name": "subway_youmakemefeeldc",
+  "song_name": "youmakemefeeldc",
+  "clips": {
+    "run_step_side_youmakemefeeldc_v3": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "run_step_side_youmakemefeeldc_v0": {
+      "avg_beats_per_second": 1.93,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "run_step_side_youmakemefeeldc_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "run_step_side_youmakemefeeldc_v2": {
+      "avg_beats_per_second": 1.89,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

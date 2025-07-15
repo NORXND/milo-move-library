@@ -1,0 +1,18 @@
+{
+  "name": "assembly_line",
+  "difficulty": 2,
+  "display_name": "Assembly Line",
+  "ham_move_name": "Robo_Stance_discoinferno.move",
+  "milo_name": "robo_stance_discoinferno",
+  "song_name": "discoinferno",
+  "clips": {
+    "assembly_line_discoinferno_v0": {
+      "avg_beats_per_second": 2.19,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

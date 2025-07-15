@@ -1,0 +1,42 @@
+{
+  "name": "test_the_water_l",
+  "difficulty": 2,
+  "display_name": "Test The Water",
+  "ham_move_name": "Test_The_Water_L_discoinferno.move",
+  "milo_name": "test_the_water_l_discoinferno",
+  "song_name": "discoinferno",
+  "clips": {
+    "test_the_water_l_discoinferno_v0": {
+      "avg_beats_per_second": 2.16,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "test_the_water_l_discoinferno_v2": {
+      "avg_beats_per_second": 2.16,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "test_the_water_l_discoinferno_v3": {
+      "avg_beats_per_second": 2.16,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "test_the_water_l_discoinferno_v1": {
+      "avg_beats_per_second": 2.16,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "name": "ticker",
+  "difficulty": 0,
+  "display_name": "Ticker",
+  "ham_move_name": "Ticker_discoinferno.move",
+  "milo_name": "ticker_discoinferno",
+  "song_name": "discoinferno",
+  "clips": {
+    "ticker_discoinferno_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ticker_discoinferno_v5": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ticker_discoinferno_v13": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ticker_discoinferno_v9": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ticker_discoinferno_v3": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ticker_discoinferno_v11": {
+      "avg_beats_per_second": 1.82,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ticker_discoinferno_v7": {
+      "avg_beats_per_second": 1.86,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ticker_discoinferno_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ticker_discoinferno_v6": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ticker_discoinferno_v14": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ticker_discoinferno_v4": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ticker_discoinferno_v12": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ticker_discoinferno_v8": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ticker_discoinferno_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ticker_discoinferno_v10": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ticker_discoinferno_v15": {
+      "avg_beats_per_second": 1.88,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

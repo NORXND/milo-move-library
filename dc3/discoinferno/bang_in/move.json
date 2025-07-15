@@ -1,0 +1,26 @@
+{
+  "name": "bang_in",
+  "difficulty": 2,
+  "display_name": "Bang In",
+  "ham_move_name": "Rocky_Punches_discoinferno.move",
+  "milo_name": "rocky_punches_discoinferno",
+  "song_name": "discoinferno",
+  "clips": {
+    "bang_in_discoinferno_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bang_in_discoinferno_v1": {
+      "avg_beats_per_second": 2.19,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

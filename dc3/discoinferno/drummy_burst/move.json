@@ -1,0 +1,18 @@
+{
+  "name": "drummy_burst",
+  "difficulty": 2,
+  "display_name": "Drummy Burst",
+  "ham_move_name": "Drummy_Burst_discoinferno.move",
+  "milo_name": "drummy_burst_discoinferno",
+  "song_name": "discoinferno",
+  "clips": {
+    "drummy_burst_discoinferno_v0": {
+      "avg_beats_per_second": 2.19,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

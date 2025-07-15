@@ -1,0 +1,26 @@
+{
+  "name": "rolling_thunder_l",
+  "difficulty": 1,
+  "display_name": "Rolling Thunder",
+  "ham_move_name": "Rolling_Thunder_L_discoinferno.move",
+  "milo_name": "rolling_thunder_l_discoinferno",
+  "song_name": "discoinferno",
+  "clips": {
+    "rolling_thunder_l_discoinferno_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "rolling_thunder_r_discoinferno_v0"
+    },
+    "rolling_thunder_l_discoinferno_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "rolling_thunder_r_discoinferno_v1"
+    }
+  }
+}

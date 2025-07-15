@@ -1,0 +1,42 @@
+{
+  "name": "tri_toe_l",
+  "difficulty": 2,
+  "display_name": "Tri Toe",
+  "ham_move_name": "Tri_Toe_L_discoinferno.move",
+  "milo_name": "tri_toe_l_discoinferno",
+  "song_name": "discoinferno",
+  "clips": {
+    "tri_toe_l_discoinferno_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tri_toe_l_discoinferno_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tri_toe_l_discoinferno_v3": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tri_toe_l_discoinferno_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

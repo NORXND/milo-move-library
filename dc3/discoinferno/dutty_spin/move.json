@@ -1,0 +1,26 @@
+{
+  "name": "dutty_spin",
+  "difficulty": 2,
+  "display_name": "Dutty Spin",
+  "ham_move_name": "Spirit_Turn_discoinferno.move",
+  "milo_name": "spirit_turn_discoinferno",
+  "song_name": "discoinferno",
+  "clips": {
+    "dutty_spin_discoinferno_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dutty_spin_discoinferno_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

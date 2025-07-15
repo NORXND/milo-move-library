@@ -1,0 +1,18 @@
+{
+  "name": "pick_me",
+  "difficulty": 2,
+  "display_name": "Pick Me",
+  "ham_move_name": "Chesty_Spirit_discoinferno.move",
+  "milo_name": "chesty_spirit_discoinferno",
+  "song_name": "discoinferno",
+  "clips": {
+    "pick_me_discoinferno_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "false_start",
+  "difficulty": 2,
+  "display_name": "False Start",
+  "ham_move_name": "Chug_Front_discoinferno.move",
+  "milo_name": "chug_front_discoinferno",
+  "song_name": "discoinferno",
+  "clips": {
+    "false_start_discoinferno_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

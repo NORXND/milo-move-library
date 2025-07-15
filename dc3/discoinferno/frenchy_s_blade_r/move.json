@@ -1,0 +1,18 @@
+{
+  "name": "frenchy_s_blade_r",
+  "difficulty": 2,
+  "display_name": "Frenchy's Blade",
+  "ham_move_name": "French_Blade_R_discoinferno.move",
+  "milo_name": "french_blade_r_discoinferno",
+  "song_name": "discoinferno",
+  "clips": {
+    "frenchy_s_blade_r_discoinferno_v0": {
+      "avg_beats_per_second": 1.85,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "frenchy_s_blade_l_discoinferno_v0",
+      "linked_from": ""
+    }
+  }
+}

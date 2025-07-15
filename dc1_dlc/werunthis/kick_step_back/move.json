@@ -1,0 +1,26 @@
+{
+  "name": "kick_step_back",
+  "difficulty": 1,
+  "display_name": "Kick Step Back",
+  "ham_move_name": "Broke_Change_werunthis.move",
+  "milo_name": "broke_change_werunthis",
+  "song_name": "werunthis",
+  "clips": {
+    "kick_step_back_werunthis_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_step_back_werunthis_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

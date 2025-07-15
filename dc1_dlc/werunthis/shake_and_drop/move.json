@@ -1,0 +1,18 @@
+{
+  "name": "shake_and_drop",
+  "difficulty": 2,
+  "display_name": "Shake & Drop",
+  "ham_move_name": "Shake_and_Drop_werunthis.move",
+  "milo_name": "shake_and_drop_werunthis",
+  "song_name": "werunthis",
+  "clips": {
+    "shake_and_drop_werunthis_v0": {
+      "avg_beats_per_second": 1.82,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

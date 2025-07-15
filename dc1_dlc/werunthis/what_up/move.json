@@ -1,0 +1,26 @@
+{
+  "name": "what_up",
+  "difficulty": 0,
+  "display_name": "What Up",
+  "ham_move_name": "Run_This_werunthis.move",
+  "milo_name": "run_this_werunthis",
+  "song_name": "werunthis",
+  "clips": {
+    "what_up_werunthis_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "what_up_werunthis_v1": {
+      "avg_beats_per_second": 1.56,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

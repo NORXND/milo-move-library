@@ -1,0 +1,18 @@
+{
+  "name": "slow_hit",
+  "difficulty": 0,
+  "display_name": "Slow Hit",
+  "ham_move_name": "Slow_Hit_werunthis.move",
+  "milo_name": "slow_hit_werunthis",
+  "song_name": "werunthis",
+  "clips": {
+    "slow_hit_werunthis_v0": {
+      "avg_beats_per_second": 1.81,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

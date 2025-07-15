@@ -1,0 +1,26 @@
+{
+  "name": "slow_weave",
+  "difficulty": 0,
+  "display_name": "Slow Weave",
+  "ham_move_name": "Duck_Under_werunthis.move",
+  "milo_name": "duck_under_werunthis",
+  "song_name": "werunthis",
+  "clips": {
+    "slow_weave_werunthis_v1": {
+      "avg_beats_per_second": 1.81,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slow_weave_werunthis_v0": {
+      "avg_beats_per_second": 1.81,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

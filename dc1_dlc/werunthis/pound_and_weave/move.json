@@ -1,0 +1,26 @@
+{
+  "name": "pound_and_weave",
+  "difficulty": 2,
+  "display_name": "Pound & Weave",
+  "ham_move_name": "Rockin__werunthis.move",
+  "milo_name": "rockin_werunthis",
+  "song_name": "werunthis",
+  "clips": {
+    "pound_and_weave_werunthis_v1": {
+      "avg_beats_per_second": 1.82,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_and_weave_werunthis_v0": {
+      "avg_beats_per_second": 1.82,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

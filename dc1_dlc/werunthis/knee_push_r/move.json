@@ -1,0 +1,18 @@
+{
+  "name": "knee_push_r",
+  "difficulty": 1,
+  "display_name": "Knee Push",
+  "ham_move_name": "Knee_Push_R_werunthis.move",
+  "milo_name": "knee_push_r_werunthis",
+  "song_name": "werunthis",
+  "clips": {
+    "knee_push_r_werunthis_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "knee_push_l_werunthis_v0"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ringleader",
+  "difficulty": 0,
+  "display_name": "Ringleader",
+  "ham_move_name": "Ringleader_werunthis.move",
+  "milo_name": "ringleader_werunthis",
+  "song_name": "werunthis",
+  "clips": {
+    "ringleader_werunthis_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

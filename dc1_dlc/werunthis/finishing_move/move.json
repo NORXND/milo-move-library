@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_werunthis_v1055",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_werunthis.move",
+  "milo_name": "finishing_move_werunthis",
+  "song_name": "werunthis",
+  "clips": {
+    "finishing_move_werunthis_v1055": {
+      "avg_beats_per_second": 3.42,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

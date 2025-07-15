@@ -1,0 +1,26 @@
+{
+  "name": "brook_rep",
+  "difficulty": 2,
+  "display_name": "Brook Rep",
+  "ham_move_name": "Brook_Rep_werunthis.move",
+  "milo_name": "brook_rep_werunthis",
+  "song_name": "werunthis",
+  "clips": {
+    "brook_rep_werunthis_v1": {
+      "avg_beats_per_second": 1.82,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "brook_rep_werunthis_v0": {
+      "avg_beats_per_second": 1.82,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

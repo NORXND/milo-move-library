@@ -1,0 +1,42 @@
+{
+  "name": "giddy_up",
+  "difficulty": 1,
+  "display_name": "Giddy Up",
+  "ham_move_name": "Giddie_Up_werunthis.move",
+  "milo_name": "giddie_up_werunthis",
+  "song_name": "werunthis",
+  "clips": {
+    "giddy_up_werunthis_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "giddy_up_werunthis_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "giddy_up_werunthis_v2": {
+      "avg_beats_per_second": 1.56,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "giddy_up_werunthis_v3": {
+      "avg_beats_per_second": 1.56,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

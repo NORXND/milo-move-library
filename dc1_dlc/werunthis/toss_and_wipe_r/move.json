@@ -1,0 +1,18 @@
+{
+  "name": "toss_and_wipe_r",
+  "difficulty": 1,
+  "display_name": "Toss & Wipe",
+  "ham_move_name": "Toss_and_Wipe_R_werunthis.move",
+  "milo_name": "toss_and_wipe_r_werunthis",
+  "song_name": "werunthis",
+  "clips": {
+    "toss_and_wipe_r_werunthis_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "toss_and_wipe_l_werunthis_v0",
+      "linked_from": ""
+    }
+  }
+}

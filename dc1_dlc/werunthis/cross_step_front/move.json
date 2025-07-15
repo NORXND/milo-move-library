@@ -1,0 +1,26 @@
+{
+  "name": "cross_step_front",
+  "difficulty": 0,
+  "display_name": "Cross Step Front",
+  "ham_move_name": "Cross_Step_Front_werunthis.move",
+  "milo_name": "cross_step_front_werunthis",
+  "song_name": "werunthis",
+  "clips": {
+    "cross_step_front_werunthis_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_step_front_werunthis_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

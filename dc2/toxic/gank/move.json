@@ -1,0 +1,26 @@
+{
+  "name": "gank",
+  "difficulty": 0,
+  "display_name": "Gank",
+  "ham_move_name": "Gank_toxic.move",
+  "milo_name": "gank_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "gank_toxic_v1": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "gank_toxic_v0": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

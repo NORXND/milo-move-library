@@ -1,0 +1,26 @@
+{
+  "name": "it_s_a_trap",
+  "difficulty": 0,
+  "display_name": "It's A Trap",
+  "ham_move_name": "Open_Hit_toxic.move",
+  "milo_name": "open_hit_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "it_s_a_trap_toxic_v0": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "it_s_a_trap_toxic_v1": {
+      "avg_beats_per_second": 2.26,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

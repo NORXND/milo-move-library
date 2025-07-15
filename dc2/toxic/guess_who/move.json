@@ -1,0 +1,26 @@
+{
+  "name": "guess_who",
+  "difficulty": 1,
+  "display_name": "Guess Who",
+  "ham_move_name": "Fancy_Hands_2_toxic.move",
+  "milo_name": "fancy_hands_2_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "guess_who_toxic_v0": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "fold_and_flourish_toxic_v0"
+    },
+    "guess_who_toxic_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "fold_and_flourish_toxic_v1"
+    }
+  }
+}

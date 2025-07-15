@@ -1,0 +1,18 @@
+{
+  "name": "sweet_talk",
+  "difficulty": 0,
+  "display_name": "Sweet Talk",
+  "ham_move_name": "Taste_Lips_toxic.move",
+  "milo_name": "taste_lips_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "sweet_talk_toxic_v0": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "snob",
+  "difficulty": 0,
+  "display_name": "Snob",
+  "ham_move_name": "Snob_toxic.move",
+  "milo_name": "snob_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "snob_toxic_v0": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

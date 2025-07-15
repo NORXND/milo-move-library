@@ -1,0 +1,18 @@
+{
+  "name": "wind_it_up_r",
+  "difficulty": 1,
+  "display_name": "Wind It Up",
+  "ham_move_name": "Rotate_Hip_R_toxic.move",
+  "milo_name": "rotate_hip_r_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "wind_it_up_r_toxic_v0": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "wind_it_up_l_toxic_v0"
+    }
+  }
+}

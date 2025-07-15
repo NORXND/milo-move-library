@@ -1,0 +1,18 @@
+{
+  "name": "battle_shimmy_l",
+  "difficulty": 0,
+  "display_name": "Battle Shimmy",
+  "ham_move_name": "Shake_It_Off_L_toxic.move",
+  "milo_name": "shake_it_off_l_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "battle_shimmy_l_toxic_v0": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

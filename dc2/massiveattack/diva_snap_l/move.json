@@ -1,0 +1,18 @@
+{
+  "name": "diva_snap_l",
+  "difficulty": 0,
+  "display_name": "Diva Snap",
+  "ham_move_name": "Phunk_Snap_L_massiveattack.move",
+  "milo_name": "phunk_snap_l_massiveattack",
+  "song_name": "massiveattack",
+  "clips": {
+    "diva_snap_l_massiveattack_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "diva_snap_r_massiveattack_v0"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "chest_pound",
+  "difficulty": 0,
+  "display_name": "Chest Pound",
+  "ham_move_name": "Monster_massiveattack.move",
+  "milo_name": "monster_massiveattack",
+  "song_name": "massiveattack",
+  "clips": {
+    "chest_pound_massiveattack_v3": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chest_pound_massiveattack_v4": {
+      "avg_beats_per_second": 1.22,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chest_pound_massiveattack_v5": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chest_pound_massiveattack_v0": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chest_pound_massiveattack_v1": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chest_pound_massiveattack_v2": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

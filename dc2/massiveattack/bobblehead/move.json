@@ -1,0 +1,42 @@
+{
+  "name": "bobblehead",
+  "difficulty": 0,
+  "display_name": "Bobblehead",
+  "ham_move_name": "Bobblehead_massiveattack.move",
+  "milo_name": "bobblehead_massiveattack",
+  "song_name": "massiveattack",
+  "clips": {
+    "bobblehead_massiveattack_v3": {
+      "avg_beats_per_second": 1.22,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 82,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bobblehead_massiveattack_v0": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 82,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bobblehead_massiveattack_v1": {
+      "avg_beats_per_second": 1.22,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 82,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bobblehead_massiveattack_v2": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 82,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

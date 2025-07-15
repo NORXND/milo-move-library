@@ -1,0 +1,26 @@
+{
+  "name": "pound_it",
+  "difficulty": 0,
+  "display_name": "Pound It",
+  "ham_move_name": "Pound_It_massiveattack.move",
+  "milo_name": "pound_it_massiveattack",
+  "song_name": "massiveattack",
+  "clips": {
+    "pound_it_massiveattack_v0": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_it_massiveattack_v1": {
+      "avg_beats_per_second": 1.22,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

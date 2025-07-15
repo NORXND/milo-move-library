@@ -1,0 +1,42 @@
+{
+  "name": "whiplash_hop",
+  "difficulty": 1,
+  "display_name": "Whiplash Hop",
+  "ham_move_name": "Headbang_massiveattack.move",
+  "milo_name": "headbang_massiveattack",
+  "song_name": "massiveattack",
+  "clips": {
+    "whiplash_hop_massiveattack_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "whiplash_hop_massiveattack_v1": {
+      "avg_beats_per_second": 1.41,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "whiplash_hop_massiveattack_v2": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "whiplash_hop_massiveattack_v3": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

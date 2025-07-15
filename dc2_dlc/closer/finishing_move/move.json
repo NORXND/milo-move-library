@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_closer_v1069",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_closer.move",
+  "milo_name": "finishing_move_closer",
+  "song_name": "closer",
+  "clips": {
+    "finishing_move_closer_v1069": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

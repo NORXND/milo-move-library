@@ -1,0 +1,42 @@
+{
+  "name": "dice_r",
+  "difficulty": 2,
+  "display_name": "Dice",
+  "ham_move_name": "Dice_R_closer.move",
+  "milo_name": "dice_r_closer",
+  "song_name": "closer",
+  "clips": {
+    "dice_r_closer_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "dice_l_closer_v0",
+      "linked_from": ""
+    },
+    "dice_r_closer_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "dice_l_closer_v1",
+      "linked_from": "dice_l_closer_v0"
+    },
+    "dice_r_closer_v2": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "dice_l_closer_v1"
+    },
+    "dice_r_closer_v3": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

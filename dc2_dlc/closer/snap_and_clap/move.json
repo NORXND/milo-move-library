@@ -1,0 +1,26 @@
+{
+  "name": "snap_and_clap",
+  "difficulty": 0,
+  "display_name": "Snap & Clap",
+  "ham_move_name": "Snap_And_Clap_closer.move",
+  "milo_name": "snap_and_clap_closer",
+  "song_name": "closer",
+  "clips": {
+    "snap_and_clap_closer_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "snap_and_clap_closer_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

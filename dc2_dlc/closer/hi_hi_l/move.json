@@ -1,0 +1,18 @@
+{
+  "name": "hi_hi_l",
+  "difficulty": 0,
+  "display_name": "Hi Hi",
+  "ham_move_name": "Hi_5_L_closer.move",
+  "milo_name": "hi_5_l_closer",
+  "song_name": "closer",
+  "clips": {
+    "hi_hi_l_closer_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

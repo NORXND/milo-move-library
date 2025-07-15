@@ -1,0 +1,26 @@
+{
+  "name": "pull_through",
+  "difficulty": 0,
+  "display_name": "Pull Through",
+  "ham_move_name": "Pull_Through_closer.move",
+  "milo_name": "pull_through_closer",
+  "song_name": "closer",
+  "clips": {
+    "pull_through_closer_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pull_through_closer_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

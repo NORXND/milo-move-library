@@ -1,0 +1,26 @@
+{
+  "name": "carter_rock",
+  "difficulty": 1,
+  "display_name": "Carter Rock",
+  "ham_move_name": "Journey_closer.move",
+  "milo_name": "journey_closer",
+  "song_name": "closer",
+  "clips": {
+    "carter_rock_closer_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "carter_rock_closer_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

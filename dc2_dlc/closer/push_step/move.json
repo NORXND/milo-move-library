@@ -1,0 +1,26 @@
+{
+  "name": "push_step",
+  "difficulty": 0,
+  "display_name": "Push Step",
+  "ham_move_name": "Push_Step_closer.move",
+  "milo_name": "push_step_closer",
+  "song_name": "closer",
+  "clips": {
+    "push_step_closer_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "push_step_closer_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "frenchy_r",
+  "difficulty": 0,
+  "display_name": "Frenchy",
+  "ham_move_name": "Frenchy_R_getbusy.move",
+  "milo_name": "frenchy_r_getbusy",
+  "song_name": "getbusy",
+  "clips": {
+    "frenchy_r_getbusy_v0": {
+      "avg_beats_per_second": 1.67,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "frenchy_l_getbusy_v0",
+      "linked_from": ""
+    }
+  }
+}

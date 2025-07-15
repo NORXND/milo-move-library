@@ -1,0 +1,26 @@
+{
+  "name": "sexy_march",
+  "difficulty": 0,
+  "display_name": "Sexy March",
+  "ham_move_name": "Wedding_Wave_getbusy.move",
+  "milo_name": "wedding_wave_getbusy",
+  "song_name": "getbusy",
+  "clips": {
+    "sexy_march_getbusy_v0": {
+      "avg_beats_per_second": 1.43,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sexy_march_getbusy_v1": {
+      "avg_beats_per_second": 1.42,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

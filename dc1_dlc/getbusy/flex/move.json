@@ -1,0 +1,58 @@
+{
+  "name": "flex",
+  "difficulty": 0,
+  "display_name": "Flex",
+  "ham_move_name": "Flexie_getbusy.move",
+  "milo_name": "flexie_getbusy",
+  "song_name": "getbusy",
+  "clips": {
+    "flex_getbusy_v1": {
+      "avg_beats_per_second": 1.67,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "flex_getbusy_v4": {
+      "avg_beats_per_second": 1.67,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "flex_getbusy_v2": {
+      "avg_beats_per_second": 1.67,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "flex_getbusy_v5": {
+      "avg_beats_per_second": 1.67,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "flex_getbusy_v0": {
+      "avg_beats_per_second": 1.67,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "flex_getbusy_v3": {
+      "avg_beats_per_second": 1.67,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

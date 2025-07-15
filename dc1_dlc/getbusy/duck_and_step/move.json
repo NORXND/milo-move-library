@@ -1,0 +1,42 @@
+{
+  "name": "duck_and_step",
+  "difficulty": 1,
+  "display_name": "Duck & Step",
+  "ham_move_name": "Dip_Dip_getbusy.move",
+  "milo_name": "dip_dip_getbusy",
+  "song_name": "getbusy",
+  "clips": {
+    "duck_and_step_getbusy_v0": {
+      "avg_beats_per_second": 1.67,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "duck_and_step_getbusy_v1": {
+      "avg_beats_per_second": 1.43,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "duck_and_step_getbusy_v2": {
+      "avg_beats_per_second": 1.67,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "duck_and_step_getbusy_v3": {
+      "avg_beats_per_second": 1.43,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

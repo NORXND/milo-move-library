@@ -1,0 +1,26 @@
+{
+  "name": "no_sweat_r",
+  "difficulty": 2,
+  "display_name": "No Sweat",
+  "ham_move_name": "No_Sweat_R_getbusy.move",
+  "milo_name": "no_sweat_r_getbusy",
+  "song_name": "getbusy",
+  "clips": {
+    "no_sweat_r_getbusy_v0": {
+      "avg_beats_per_second": 1.67,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "no_sweat_l_getbusy_v0",
+      "linked_from": ""
+    },
+    "no_sweat_r_getbusy_v1": {
+      "avg_beats_per_second": 1.67,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "no_sweat_l_getbusy_v1",
+      "linked_from": ""
+    }
+  }
+}

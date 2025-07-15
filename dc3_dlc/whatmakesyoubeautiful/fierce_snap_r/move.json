@@ -1,0 +1,18 @@
+{
+  "name": "fierce_snap_r",
+  "difficulty": 2,
+  "display_name": "Fierce Snap",
+  "ham_move_name": "Kool_Snap_R_whatmakesyoubeautiful.move",
+  "milo_name": "kool_snap_r_whatmakesyoubeautiful",
+  "song_name": "whatmakesyoubeautiful",
+  "clips": {
+    "fierce_snap_r_whatmakesyoubeautiful_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "fierce_snap_l_whatmakesyoubeautiful_v0"
+    }
+  }
+}

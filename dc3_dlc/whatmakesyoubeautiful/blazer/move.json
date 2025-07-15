@@ -1,0 +1,74 @@
+{
+  "name": "blazer",
+  "difficulty": 0,
+  "display_name": "Blazer",
+  "ham_move_name": "Rok_Bak_whatmakesyoubeautiful.move",
+  "milo_name": "rok_bak_whatmakesyoubeautiful",
+  "song_name": "whatmakesyoubeautiful",
+  "clips": {
+    "blazer_whatmakesyoubeautiful_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "blazer_whatmakesyoubeautiful_v1": {
+      "avg_beats_per_second": 1.78,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "blazer_whatmakesyoubeautiful_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "blazer_whatmakesyoubeautiful_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "blazer_whatmakesyoubeautiful_v4": {
+      "avg_beats_per_second": 1.89,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "blazer_whatmakesyoubeautiful_v5": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "blazer_whatmakesyoubeautiful_v6": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "blazer_whatmakesyoubeautiful_v7": {
+      "avg_beats_per_second": 1.79,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

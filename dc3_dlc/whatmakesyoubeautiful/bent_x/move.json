@@ -1,0 +1,50 @@
+{
+  "name": "bent_x",
+  "difficulty": 2,
+  "display_name": "Bent X",
+  "ham_move_name": "X_Rok_whatmakesyoubeautiful.move",
+  "milo_name": "x_rok_whatmakesyoubeautiful",
+  "song_name": "whatmakesyoubeautiful",
+  "clips": {
+    "bent_x_whatmakesyoubeautiful_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bent_x_whatmakesyoubeautiful_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bent_x_whatmakesyoubeautiful_v2": {
+      "avg_beats_per_second": 1.99,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bent_x_whatmakesyoubeautiful_v3": {
+      "avg_beats_per_second": 1.87,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bent_x_whatmakesyoubeautiful_v4": {
+      "avg_beats_per_second": 1.83,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

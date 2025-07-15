@@ -1,0 +1,18 @@
+{
+  "name": "headache_and_punch",
+  "difficulty": 2,
+  "display_name": "Headache & Punch",
+  "ham_move_name": "Headstress_whatmakesyoubeautiful.move",
+  "milo_name": "headstress_whatmakesyoubeautiful",
+  "song_name": "whatmakesyoubeautiful",
+  "clips": {
+    "headache_and_punch_whatmakesyoubeautiful_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

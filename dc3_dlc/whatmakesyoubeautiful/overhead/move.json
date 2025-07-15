@@ -1,0 +1,58 @@
+{
+  "name": "overhead",
+  "difficulty": 0,
+  "display_name": "Overhead",
+  "ham_move_name": "Duck_Under_whatmakesyoubeautiful.move",
+  "milo_name": "duck_under_whatmakesyoubeautiful",
+  "song_name": "whatmakesyoubeautiful",
+  "clips": {
+    "overhead_whatmakesyoubeautiful_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "overhead_whatmakesyoubeautiful_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "overhead_whatmakesyoubeautiful_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "overhead_whatmakesyoubeautiful_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "overhead_whatmakesyoubeautiful_v4": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "overhead_whatmakesyoubeautiful_v5": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

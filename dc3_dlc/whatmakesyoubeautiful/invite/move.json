@@ -1,0 +1,18 @@
+{
+  "name": "invite",
+  "difficulty": 2,
+  "display_name": "Invite",
+  "ham_move_name": "Comhea_whatmakesyoubeautiful.move",
+  "milo_name": "comhea_whatmakesyoubeautiful",
+  "song_name": "whatmakesyoubeautiful",
+  "clips": {
+    "invite_whatmakesyoubeautiful_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

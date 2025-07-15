@@ -1,0 +1,26 @@
+{
+  "name": "head_bopper",
+  "difficulty": 2,
+  "display_name": "Head Bopper",
+  "ham_move_name": "Head_Bop_whatmakesyoubeautiful.move",
+  "milo_name": "head_bop_whatmakesyoubeautiful",
+  "song_name": "whatmakesyoubeautiful",
+  "clips": {
+    "head_bopper_whatmakesyoubeautiful_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "head_bopper_whatmakesyoubeautiful_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

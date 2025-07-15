@@ -1,0 +1,18 @@
+{
+  "name": "cross_grabs",
+  "difficulty": 2,
+  "display_name": "Cross Grabs",
+  "ham_move_name": "Side_Grabs_whatmakesyoubeautiful.move",
+  "milo_name": "side_grabs_whatmakesyoubeautiful",
+  "song_name": "whatmakesyoubeautiful",
+  "clips": {
+    "cross_grabs_whatmakesyoubeautiful_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

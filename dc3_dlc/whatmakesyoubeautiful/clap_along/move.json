@@ -1,0 +1,90 @@
+{
+  "name": "clap_along",
+  "difficulty": 2,
+  "display_name": "Clap Along",
+  "ham_move_name": "Overhead_Clap_whatmakesyoubeautiful.move",
+  "milo_name": "overhead_clap_whatmakesyoubeautiful",
+  "song_name": "whatmakesyoubeautiful",
+  "clips": {
+    "clap_along_whatmakesyoubeautiful_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "clap_along_whatmakesyoubeautiful_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "clap_along_whatmakesyoubeautiful_v2": {
+      "avg_beats_per_second": 1.77,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "clap_along_whatmakesyoubeautiful_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "clap_along_whatmakesyoubeautiful_v4": {
+      "avg_beats_per_second": 1.91,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "clap_along_whatmakesyoubeautiful_v5": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "clap_along_whatmakesyoubeautiful_v6": {
+      "avg_beats_per_second": 1.77,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "clap_along_whatmakesyoubeautiful_v7": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "clap_along_whatmakesyoubeautiful_v8": {
+      "avg_beats_per_second": 1.77,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "clap_along_whatmakesyoubeautiful_v9": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "crook",
+  "difficulty": 0,
+  "display_name": "Crook",
+  "ham_move_name": "Beach_Party_whatmakesyoubeautiful.move",
+  "milo_name": "beach_party_whatmakesyoubeautiful",
+  "song_name": "whatmakesyoubeautiful",
+  "clips": {
+    "crook_whatmakesyoubeautiful_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "crook_whatmakesyoubeautiful_v1": {
+      "avg_beats_per_second": 1.78,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "baby_girl",
+  "difficulty": 1,
+  "display_name": "Baby Girl",
+  "ham_move_name": "Smooth_Chin_whatmakesyoubeautiful.move",
+  "milo_name": "smooth_chin_whatmakesyoubeautiful",
+  "song_name": "whatmakesyoubeautiful",
+  "clips": {
+    "baby_girl_whatmakesyoubeautiful_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "baby_girl_whatmakesyoubeautiful_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "baby_girl_whatmakesyoubeautiful_v2": {
+      "avg_beats_per_second": 1.99,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "baby_girl_whatmakesyoubeautiful_v3": {
+      "avg_beats_per_second": 1.91,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "baby_girl_whatmakesyoubeautiful_v4": {
+      "avg_beats_per_second": 1.91,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "baby_girl_whatmakesyoubeautiful_v5": {
+      "avg_beats_per_second": 1.8,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

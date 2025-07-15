@@ -1,0 +1,42 @@
+{
+  "name": "step_side_and_clap",
+  "difficulty": 0,
+  "display_name": "Step Side & Clap",
+  "ham_move_name": "Side_Claps_whatmakesyoubeautiful.move",
+  "milo_name": "side_claps_whatmakesyoubeautiful",
+  "song_name": "whatmakesyoubeautiful",
+  "clips": {
+    "step_side_and_clap_whatmakesyoubeautiful_v0": {
+      "avg_beats_per_second": 1.79,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_and_clap_whatmakesyoubeautiful_v1": {
+      "avg_beats_per_second": 1.8,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_and_clap_whatmakesyoubeautiful_v2": {
+      "avg_beats_per_second": 1.8,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_and_clap_whatmakesyoubeautiful_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

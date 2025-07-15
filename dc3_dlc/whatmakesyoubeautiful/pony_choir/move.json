@@ -1,0 +1,26 @@
+{
+  "name": "pony_choir",
+  "difficulty": 2,
+  "display_name": "Pony Choir",
+  "ham_move_name": "Aboard_whatmakesyoubeautiful.move",
+  "milo_name": "aboard_whatmakesyoubeautiful",
+  "song_name": "whatmakesyoubeautiful",
+  "clips": {
+    "pony_choir_whatmakesyoubeautiful_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pony_choir_whatmakesyoubeautiful_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

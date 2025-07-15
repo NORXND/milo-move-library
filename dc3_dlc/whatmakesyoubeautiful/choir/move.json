@@ -1,0 +1,74 @@
+{
+  "name": "choir",
+  "difficulty": 0,
+  "display_name": "Choir",
+  "ham_move_name": "Clean_Feeling_whatmakesyoubeautiful.move",
+  "milo_name": "clean_feeling_whatmakesyoubeautiful",
+  "song_name": "whatmakesyoubeautiful",
+  "clips": {
+    "choir_whatmakesyoubeautiful_v0": {
+      "avg_beats_per_second": 1.78,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "choir_whatmakesyoubeautiful_v1": {
+      "avg_beats_per_second": 1.78,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "choir_whatmakesyoubeautiful_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "choir_whatmakesyoubeautiful_v3": {
+      "avg_beats_per_second": 1.78,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "choir_whatmakesyoubeautiful_v4": {
+      "avg_beats_per_second": 1.89,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "choir_whatmakesyoubeautiful_v5": {
+      "avg_beats_per_second": 1.79,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "choir_whatmakesyoubeautiful_v6": {
+      "avg_beats_per_second": 1.57,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "choir_whatmakesyoubeautiful_v7": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

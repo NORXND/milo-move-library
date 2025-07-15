@@ -1,0 +1,18 @@
+{
+  "name": "makeup",
+  "difficulty": 2,
+  "display_name": "Makeup",
+  "ham_move_name": "Cover_Up_whatmakesyoubeautiful.move",
+  "milo_name": "cover_up_whatmakesyoubeautiful",
+  "song_name": "whatmakesyoubeautiful",
+  "clips": {
+    "makeup_whatmakesyoubeautiful_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "other",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

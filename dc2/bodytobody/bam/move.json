@@ -1,0 +1,18 @@
+{
+  "name": "bam",
+  "difficulty": 0,
+  "display_name": "Bam",
+  "ham_move_name": "Stomp_bodytobody.move",
+  "milo_name": "stomp_bodytobody",
+  "song_name": "bodytobody",
+  "clips": {
+    "bam_bodytobody_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

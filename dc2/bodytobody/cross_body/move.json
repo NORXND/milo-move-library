@@ -1,0 +1,42 @@
+{
+  "name": "cross_body",
+  "difficulty": 2,
+  "display_name": "Cross Body",
+  "ham_move_name": "Slave_Tick_bodytobody.move",
+  "milo_name": "slave_tick_bodytobody",
+  "song_name": "bodytobody",
+  "clips": {
+    "cross_body_bodytobody_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_body_bodytobody_v3": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_body_bodytobody_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_body_bodytobody_v2": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

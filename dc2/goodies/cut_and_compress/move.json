@@ -1,0 +1,18 @@
+{
+  "name": "cut_and_compress",
+  "difficulty": 1,
+  "display_name": "Cut & Compress",
+  "ham_move_name": "Not_Shinkin_goodies.move",
+  "milo_name": "not_shinkin_goodies",
+  "song_name": "goodies",
+  "clips": {
+    "cut_and_compress_goodies_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

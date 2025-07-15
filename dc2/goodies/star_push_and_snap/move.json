@@ -1,0 +1,18 @@
+{
+  "name": "star_push_and_snap",
+  "difficulty": 2,
+  "display_name": "Star Push & Snap",
+  "ham_move_name": "Holding_Back_Cookies_goodies.move",
+  "milo_name": "holding_back_cookies_goodies",
+  "song_name": "goodies",
+  "clips": {
+    "star_push_and_snap_goodies_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

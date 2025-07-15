@@ -1,0 +1,18 @@
+{
+  "name": "look_it_up",
+  "difficulty": 2,
+  "display_name": "Look It Up",
+  "ham_move_name": "Really_Lookin_goodies.move",
+  "milo_name": "really_lookin_goodies",
+  "song_name": "goodies",
+  "clips": {
+    "look_it_up_goodies_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

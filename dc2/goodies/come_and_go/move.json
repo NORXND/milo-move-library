@@ -1,0 +1,18 @@
+{
+  "name": "come_and_go",
+  "difficulty": 2,
+  "display_name": "Come & Go",
+  "ham_move_name": "Come_Right_Ther_goodies.move",
+  "milo_name": "come_right_ther_goodies",
+  "song_name": "goodies",
+  "clips": {
+    "come_and_go_goodies_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "knock_out",
+  "difficulty": 0,
+  "display_name": "Knock Out",
+  "ham_move_name": "Knock_Out_goodies.move",
+  "milo_name": "knock_out_goodies",
+  "song_name": "goodies",
+  "clips": {
+    "knock_out_goodies_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

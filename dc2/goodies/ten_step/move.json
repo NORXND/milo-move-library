@@ -1,0 +1,42 @@
+{
+  "name": "ten_step",
+  "difficulty": 0,
+  "display_name": "Ten Step",
+  "ham_move_name": "Ten_Step_goodies.move",
+  "milo_name": "ten_step_goodies",
+  "song_name": "goodies",
+  "clips": {
+    "ten_step_goodies_v0": {
+      "avg_beats_per_second": 1.47,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ten_step_goodies_v3": {
+      "avg_beats_per_second": 1.7,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ten_step_goodies_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ten_step_goodies_v2": {
+      "avg_beats_per_second": 1.7,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

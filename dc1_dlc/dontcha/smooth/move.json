@@ -1,0 +1,26 @@
+{
+  "name": "smooth",
+  "difficulty": 0,
+  "display_name": "Smooth",
+  "ham_move_name": "Smooth_dontcha.move",
+  "milo_name": "smooth_dontcha",
+  "song_name": "dontcha",
+  "clips": {
+    "smooth_dontcha_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smooth_dontcha_v1": {
+      "avg_beats_per_second": 2.01,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "get_it",
+  "difficulty": 0,
+  "display_name": "Get It",
+  "ham_move_name": "Get_It_dontcha.move",
+  "milo_name": "get_it_dontcha",
+  "song_name": "dontcha",
+  "clips": {
+    "get_it_dontcha_v1": {
+      "avg_beats_per_second": 2.01,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "get_it_dontcha_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

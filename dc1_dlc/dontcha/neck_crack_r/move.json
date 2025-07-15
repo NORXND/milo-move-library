@@ -1,0 +1,18 @@
+{
+  "name": "neck_crack_r",
+  "difficulty": 2,
+  "display_name": "Neck Crack",
+  "ham_move_name": "Backlash_R_dontcha.move",
+  "milo_name": "backlash_r_dontcha",
+  "song_name": "dontcha",
+  "clips": {
+    "neck_crack_r_dontcha_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "neck_crack_l_dontcha_v0",
+      "linked_from": ""
+    }
+  }
+}

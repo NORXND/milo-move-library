@@ -1,0 +1,42 @@
+{
+  "name": "mini_wind",
+  "difficulty": 1,
+  "display_name": "Mini Wind",
+  "ham_move_name": "Wind_Up_dontcha.move",
+  "milo_name": "wind_up_dontcha",
+  "song_name": "dontcha",
+  "clips": {
+    "mini_wind_dontcha_v3": {
+      "avg_beats_per_second": 1.7,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "mini_wind_dontcha_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "mini_wind_dontcha_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "mini_wind_dontcha_v2": {
+      "avg_beats_per_second": 2.0,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

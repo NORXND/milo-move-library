@@ -1,0 +1,18 @@
+{
+  "name": "open_hip_wind",
+  "difficulty": 2,
+  "display_name": "Open Hip Wind",
+  "ham_move_name": "Flare_dontcha.move",
+  "milo_name": "flare_dontcha",
+  "song_name": "dontcha",
+  "clips": {
+    "open_hip_wind_dontcha_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "lasso_down_r",
+  "difficulty": 1,
+  "display_name": "Lasso Down",
+  "ham_move_name": "Lasso_Down_R_dontcha.move",
+  "milo_name": "lasso_down_r_dontcha",
+  "song_name": "dontcha",
+  "clips": {
+    "lasso_down_r_dontcha_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "lasso_down_l_dontcha_v0"
+    }
+  }
+}

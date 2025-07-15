@@ -1,0 +1,42 @@
+{
+  "name": "djinn",
+  "difficulty": 1,
+  "display_name": "Djinn",
+  "ham_move_name": "Djinn_dontcha.move",
+  "milo_name": "djinn_dontcha",
+  "song_name": "dontcha",
+  "clips": {
+    "djinn_dontcha_v3": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "djinn_dontcha_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "djinn_dontcha_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "djinn_dontcha_v2": {
+      "avg_beats_per_second": 1.71,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

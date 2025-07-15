@@ -1,0 +1,42 @@
+{
+  "name": "slow_snatch_r",
+  "difficulty": 0,
+  "display_name": "Slow Snatch",
+  "ham_move_name": "Slow_Snatch_R_dontcha.move",
+  "milo_name": "slow_snatch_r_dontcha",
+  "song_name": "dontcha",
+  "clips": {
+    "slow_snatch_r_dontcha_v2": {
+      "avg_beats_per_second": 2.0,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "slow_snatch_l_dontcha_v2",
+      "linked_from": ""
+    },
+    "slow_snatch_r_dontcha_v3": {
+      "avg_beats_per_second": 2.0,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "slow_snatch_l_dontcha_v3",
+      "linked_from": ""
+    },
+    "slow_snatch_r_dontcha_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "slow_snatch_l_dontcha_v0",
+      "linked_from": ""
+    },
+    "slow_snatch_r_dontcha_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "slow_snatch_l_dontcha_v1",
+      "linked_from": ""
+    }
+  }
+}

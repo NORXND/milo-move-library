@@ -1,0 +1,42 @@
+{
+  "name": "phoenix",
+  "difficulty": 2,
+  "display_name": "Phoenix",
+  "ham_move_name": "Pheonix_dontcha.move",
+  "milo_name": "pheonix_dontcha",
+  "song_name": "dontcha",
+  "clips": {
+    "phoenix_dontcha_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "phoenix_dontcha_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "phoenix_dontcha_v2": {
+      "avg_beats_per_second": 2.01,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "phoenix_dontcha_v3": {
+      "avg_beats_per_second": 2.0,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

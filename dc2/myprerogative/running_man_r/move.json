@@ -1,0 +1,26 @@
+{
+  "name": "running_man_r",
+  "difficulty": 1,
+  "display_name": "Running Man",
+  "ham_move_name": "Running_Man_R_myprerogative.move",
+  "milo_name": "running_man_r_myprerogative",
+  "song_name": "myprerogative",
+  "clips": {
+    "running_man_r_myprerogative_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "randb",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "running_man_l_myprerogative_v0",
+      "linked_from": ""
+    },
+    "running_man_r_myprerogative_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "running_man_l_myprerogative_v1",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "alternator",
+  "difficulty": 2,
+  "display_name": "Alternator",
+  "ham_move_name": "My_Prerogative_myprerogative.move",
+  "milo_name": "my_prerogative_myprerogative",
+  "song_name": "myprerogative",
+  "clips": {
+    "alternator_myprerogative_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "alternator_myprerogative_v1": {
+      "avg_beats_per_second": 1.57,
+      "genre": "randb",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "alternator_myprerogative_v2": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "alternator_myprerogative_v3": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

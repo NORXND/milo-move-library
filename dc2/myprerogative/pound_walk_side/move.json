@@ -1,0 +1,26 @@
+{
+  "name": "pound_walk_side",
+  "difficulty": 1,
+  "display_name": "Pound Walk Side",
+  "ham_move_name": "Pound_Walk_Side_myprerogative.move",
+  "milo_name": "pound_walk_side_myprerogative",
+  "song_name": "myprerogative",
+  "clips": {
+    "pound_walk_side_myprerogative_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_walk_side_myprerogative_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

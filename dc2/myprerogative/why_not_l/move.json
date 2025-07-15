@@ -1,0 +1,42 @@
+{
+  "name": "why_not_l",
+  "difficulty": 1,
+  "display_name": "Why Not",
+  "ham_move_name": "Why_Not_L_myprerogative.move",
+  "milo_name": "why_not_l_myprerogative",
+  "song_name": "myprerogative",
+  "clips": {
+    "why_not_l_myprerogative_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "why_not_r_myprerogative_v0"
+    },
+    "why_not_l_myprerogative_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "why_not_r_myprerogative_v1"
+    },
+    "why_not_l_myprerogative_v2": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "why_not_r_myprerogative_v2"
+    },
+    "why_not_l_myprerogative_v3": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "why_not_r_myprerogative_v3"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "side_spirit_l",
+  "difficulty": 2,
+  "display_name": "Side Spirit",
+  "ham_move_name": "Aj_L_everybody.move",
+  "milo_name": "aj_l_everybody",
+  "song_name": "everybody",
+  "clips": {
+    "side_spirit_l_everybody_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

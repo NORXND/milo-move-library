@@ -1,0 +1,26 @@
+{
+  "name": "side_spirit",
+  "difficulty": 2,
+  "display_name": "Side Spirit",
+  "ham_move_name": "Aj_R_Hand_everybody.move",
+  "milo_name": "aj_r_hand_everybody",
+  "song_name": "everybody",
+  "clips": {
+    "side_spirit_everybody_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "side_spirit_everybody_v1": {
+      "avg_beats_per_second": 1.55,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

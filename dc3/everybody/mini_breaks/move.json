@@ -1,0 +1,18 @@
+{
+  "name": "mini_breaks",
+  "difficulty": 2,
+  "display_name": "Mini Breaks",
+  "ham_move_name": "Ooh_Ooh_Ooh_Ooh_everybody.move",
+  "milo_name": "ooh_ooh_ooh_ooh_everybody",
+  "song_name": "everybody",
+  "clips": {
+    "mini_breaks_everybody_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

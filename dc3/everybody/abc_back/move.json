@@ -1,0 +1,18 @@
+{
+  "name": "abc_back",
+  "difficulty": 0,
+  "display_name": "ABC Back",
+  "ham_move_name": "Slide_1_And_Drop_everybody.move",
+  "milo_name": "slide_1_and_drop_everybody",
+  "song_name": "everybody",
+  "clips": {
+    "abc_back_everybody_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

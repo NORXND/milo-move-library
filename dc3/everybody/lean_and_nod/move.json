@@ -1,0 +1,26 @@
+{
+  "name": "lean_and_nod",
+  "difficulty": 2,
+  "display_name": "Lean & Nod",
+  "ham_move_name": "Jesus_Yeah_everybody.move",
+  "milo_name": "jesus_yeah_everybody",
+  "song_name": "everybody",
+  "clips": {
+    "lean_and_nod_everybody_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "lean_and_nod_everybody_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "queen_lean",
+  "difficulty": 2,
+  "display_name": "Queen Lean",
+  "ham_move_name": "Of_Course_B_everybody.move",
+  "milo_name": "of_course_b_everybody",
+  "song_name": "everybody",
+  "clips": {
+    "queen_lean_everybody_v1": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "queen_lean_everybody_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

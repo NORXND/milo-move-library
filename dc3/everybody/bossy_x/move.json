@@ -1,0 +1,18 @@
+{
+  "name": "bossy_x",
+  "difficulty": 2,
+  "display_name": "Bossy X",
+  "ham_move_name": "Getting_It_In_everybody.move",
+  "milo_name": "getting_it_in_everybody",
+  "song_name": "everybody",
+  "clips": {
+    "bossy_x_everybody_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

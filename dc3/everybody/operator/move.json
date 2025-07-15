@@ -1,0 +1,18 @@
+{
+  "name": "operator",
+  "difficulty": 2,
+  "display_name": "Operator",
+  "ham_move_name": "Question_For_You_everybody.move",
+  "milo_name": "question_for_you_everybody",
+  "song_name": "everybody",
+  "clips": {
+    "operator_everybody_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

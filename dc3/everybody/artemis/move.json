@@ -1,0 +1,26 @@
+{
+  "name": "artemis",
+  "difficulty": 2,
+  "display_name": "Artemis",
+  "ham_move_name": "Nick_Carter_everybody.move",
+  "milo_name": "nick_carter_everybody",
+  "song_name": "everybody",
+  "clips": {
+    "artemis_everybody_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "artemis_everybody_v1": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

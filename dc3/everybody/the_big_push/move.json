@@ -1,0 +1,18 @@
+{
+  "name": "the_big_push",
+  "difficulty": 2,
+  "display_name": "The Big Push",
+  "ham_move_name": "Dont_Hurt_Me_Now_everybody.move",
+  "milo_name": "dont_hurt_me_now_everybody",
+  "song_name": "everybody",
+  "clips": {
+    "the_big_push_everybody_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

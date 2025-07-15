@@ -1,0 +1,18 @@
+{
+  "name": "booty_boogie",
+  "difficulty": 2,
+  "display_name": "Booty Boogie",
+  "ham_move_name": "Show_You_How_everybody.move",
+  "milo_name": "show_you_how_everybody",
+  "song_name": "everybody",
+  "clips": {
+    "booty_boogie_everybody_v0": {
+      "avg_beats_per_second": 1.81,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

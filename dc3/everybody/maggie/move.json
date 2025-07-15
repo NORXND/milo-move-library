@@ -1,0 +1,18 @@
+{
+  "name": "maggie",
+  "difficulty": 2,
+  "display_name": "Maggie",
+  "ham_move_name": "Macarena_1_everybody.move",
+  "milo_name": "macarena_1_everybody",
+  "song_name": "everybody",
+  "clips": {
+    "maggie_everybody_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

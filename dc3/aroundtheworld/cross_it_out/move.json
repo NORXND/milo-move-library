@@ -1,0 +1,34 @@
+{
+  "name": "cross_it_out",
+  "difficulty": 2,
+  "display_name": "Cross It Out",
+  "ham_move_name": "Saccing_Cross_Arms_aroundtheworld.move",
+  "milo_name": "saccing_cross_arms_aroundtheworld",
+  "song_name": "aroundtheworld",
+  "clips": {
+    "cross_it_out_aroundtheworld_v0": {
+      "avg_beats_per_second": 1.74,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_it_out_aroundtheworld_v1": {
+      "avg_beats_per_second": 2.03,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_it_out_aroundtheworld_v2": {
+      "avg_beats_per_second": 2.01,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

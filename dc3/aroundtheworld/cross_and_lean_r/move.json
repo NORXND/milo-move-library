@@ -1,0 +1,42 @@
+{
+  "name": "cross_and_lean_r",
+  "difficulty": 2,
+  "display_name": "Cross & Lean",
+  "ham_move_name": "Around_The_World_R_aroundtheworld.move",
+  "milo_name": "around_the_world_r_aroundtheworld",
+  "song_name": "aroundtheworld",
+  "clips": {
+    "cross_and_lean_r_aroundtheworld_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_and_lean_r_aroundtheworld_v3": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_and_lean_r_aroundtheworld_v1": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_and_lean_r_aroundtheworld_v2": {
+      "avg_beats_per_second": 1.74,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

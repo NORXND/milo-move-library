@@ -1,0 +1,26 @@
+{
+  "name": "around_the_block",
+  "difficulty": 2,
+  "display_name": "Around The Block",
+  "ham_move_name": "Strut_aroundtheworld.move",
+  "milo_name": "strut_aroundtheworld",
+  "song_name": "aroundtheworld",
+  "clips": {
+    "around_the_block_aroundtheworld_v1": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "around_the_block_aroundtheworld_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

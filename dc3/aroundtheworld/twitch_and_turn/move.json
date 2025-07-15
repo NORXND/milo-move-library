@@ -1,0 +1,26 @@
+{
+  "name": "twitch_and_turn",
+  "difficulty": 2,
+  "display_name": "Twitch & Turn",
+  "ham_move_name": "French_Twist_aroundtheworld.move",
+  "milo_name": "french_twist_aroundtheworld",
+  "song_name": "aroundtheworld",
+  "clips": {
+    "twitch_and_turn_aroundtheworld_v1": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "twitch_and_turn_aroundtheworld_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

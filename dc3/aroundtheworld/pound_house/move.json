@@ -1,0 +1,42 @@
+{
+  "name": "pound_house",
+  "difficulty": 2,
+  "display_name": "Pound House",
+  "ham_move_name": "Cross_Step_aroundtheworld.move",
+  "milo_name": "cross_step_aroundtheworld",
+  "song_name": "aroundtheworld",
+  "clips": {
+    "pound_house_aroundtheworld_v0": {
+      "avg_beats_per_second": 1.81,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_house_aroundtheworld_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_house_aroundtheworld_v2": {
+      "avg_beats_per_second": 1.75,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_house_aroundtheworld_v3": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

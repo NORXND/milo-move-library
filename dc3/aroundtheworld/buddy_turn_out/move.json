@@ -1,0 +1,26 @@
+{
+  "name": "buddy_turn_out",
+  "difficulty": 2,
+  "display_name": "Buddy Turn Out",
+  "ham_move_name": "J_I_B_Swing_aroundtheworld.move",
+  "milo_name": "j_i_b_swing_aroundtheworld",
+  "song_name": "aroundtheworld",
+  "clips": {
+    "buddy_turn_out_aroundtheworld_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "buddy_turn_out_aroundtheworld_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

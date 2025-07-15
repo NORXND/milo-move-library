@@ -1,0 +1,26 @@
+{
+  "name": "frame",
+  "difficulty": 2,
+  "display_name": "Frame",
+  "ham_move_name": "Double_Hit_U_Normal_aroundtheworld.move",
+  "milo_name": "double_hit_u_normal_aroundtheworld",
+  "song_name": "aroundtheworld",
+  "clips": {
+    "frame_aroundtheworld_v1": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "frame_aroundtheworld_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

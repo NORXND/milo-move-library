@@ -1,0 +1,18 @@
+{
+  "name": "sneaky_knees",
+  "difficulty": 2,
+  "display_name": "Sneaky Knees",
+  "ham_move_name": "Leg_Roll_aroundtheworld.move",
+  "milo_name": "leg_roll_aroundtheworld",
+  "song_name": "aroundtheworld",
+  "clips": {
+    "sneaky_knees_aroundtheworld_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

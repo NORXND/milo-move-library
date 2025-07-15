@@ -1,0 +1,26 @@
+{
+  "name": "niece",
+  "difficulty": 0,
+  "display_name": "Niece",
+  "ham_move_name": "Step_Out_aroundtheworld.move",
+  "milo_name": "step_out_aroundtheworld",
+  "song_name": "aroundtheworld",
+  "clips": {
+    "niece_aroundtheworld_v1": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "niece_aroundtheworld_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "figure_skate",
+  "difficulty": 2,
+  "display_name": "Figure Skate",
+  "ham_move_name": "Skate_aroundtheworld.move",
+  "milo_name": "skate_aroundtheworld",
+  "song_name": "aroundtheworld",
+  "clips": {
+    "figure_skate_aroundtheworld_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "figure_skate_aroundtheworld_v1": {
+      "avg_beats_per_second": 1.79,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "figure_skate_aroundtheworld_v2": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "figure_skate_aroundtheworld_v3": {
+      "avg_beats_per_second": 1.74,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

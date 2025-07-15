@@ -1,0 +1,18 @@
+{
+  "name": "exception_ninja_creep_l",
+  "difficulty": 2,
+  "display_name": "Ninja Creep",
+  "ham_move_name": "Around_This_Low_Dl_aroundtheworld.move",
+  "milo_name": "around_this_low_dl_aroundtheworld",
+  "song_name": "aroundtheworld",
+  "clips": {
+    "ninja_creep_aroundtheworld_v1": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

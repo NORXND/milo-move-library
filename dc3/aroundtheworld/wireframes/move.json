@@ -1,0 +1,42 @@
+{
+  "name": "wireframes",
+  "difficulty": 2,
+  "display_name": "Wireframes",
+  "ham_move_name": "Single_Hits_aroundtheworld.move",
+  "milo_name": "single_hits_aroundtheworld",
+  "song_name": "aroundtheworld",
+  "clips": {
+    "wireframes_aroundtheworld_v1": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wireframes_aroundtheworld_v2": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wireframes_aroundtheworld_v3": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wireframes_aroundtheworld_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "tin_man_hop",
+  "difficulty": 2,
+  "display_name": "Tin Man Hop",
+  "ham_move_name": "Boog_Hop_aroundtheworld.move",
+  "milo_name": "boog_hop_aroundtheworld",
+  "song_name": "aroundtheworld",
+  "clips": {
+    "tin_man_hop_aroundtheworld_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tin_man_hop_aroundtheworld_v1": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tin_man_hop_aroundtheworld_v2": {
+      "avg_beats_per_second": 2.03,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

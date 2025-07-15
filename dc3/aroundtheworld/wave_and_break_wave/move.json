@@ -1,0 +1,18 @@
+{
+  "name": "exception_wave_and_break_wave_l",
+  "difficulty": 2,
+  "display_name": "Wave / Break Wave",
+  "ham_move_name": "Wave_L_Out_In_aroundtheworld.move",
+  "milo_name": "wave_l_out_in_aroundtheworld",
+  "song_name": "aroundtheworld",
+  "clips": {
+    "wave_and_break_wave_aroundtheworld_v1": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 82,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

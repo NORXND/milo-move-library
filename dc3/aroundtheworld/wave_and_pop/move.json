@@ -1,0 +1,18 @@
+{
+  "name": "wave_and_pop",
+  "difficulty": 2,
+  "display_name": "Wave / Pop",
+  "ham_move_name": "Wave_Breakdown_aroundtheworld.move",
+  "milo_name": "wave_breakdown_aroundtheworld",
+  "song_name": "aroundtheworld",
+  "clips": {
+    "wave_and_pop_aroundtheworld_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

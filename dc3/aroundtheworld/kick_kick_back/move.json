@@ -1,0 +1,58 @@
+{
+  "name": "kick_kick_back",
+  "difficulty": 2,
+  "display_name": "Kick Kick Back",
+  "ham_move_name": "Shuffle_Back_aroundtheworld.move",
+  "milo_name": "shuffle_back_aroundtheworld",
+  "song_name": "aroundtheworld",
+  "clips": {
+    "kick_kick_back_aroundtheworld_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_kick_back_aroundtheworld_v1": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_kick_back_aroundtheworld_v2": {
+      "avg_beats_per_second": 2.03,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_kick_back_aroundtheworld_v3": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_kick_back_aroundtheworld_v4": {
+      "avg_beats_per_second": 2.02,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_kick_back_aroundtheworld_v5": {
+      "avg_beats_per_second": 2.03,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

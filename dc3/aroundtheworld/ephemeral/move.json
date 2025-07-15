@@ -1,0 +1,18 @@
+{
+  "name": "ephemeral",
+  "difficulty": 2,
+  "display_name": "Ephemeral",
+  "ham_move_name": "Leg_Rock_aroundtheworld.move",
+  "milo_name": "leg_rock_aroundtheworld",
+  "song_name": "aroundtheworld",
+  "clips": {
+    "ephemeral_aroundtheworld_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

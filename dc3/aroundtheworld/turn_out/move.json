@@ -1,0 +1,26 @@
+{
+  "name": "turn_out",
+  "difficulty": 2,
+  "display_name": "Turn Out",
+  "ham_move_name": "Jack_In_The_Box_aroundtheworld.move",
+  "milo_name": "jack_in_the_box_aroundtheworld",
+  "song_name": "aroundtheworld",
+  "clips": {
+    "turn_out_aroundtheworld_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "turn_out_aroundtheworld_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

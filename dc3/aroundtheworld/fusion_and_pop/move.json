@@ -1,0 +1,50 @@
+{
+  "name": "fusion_and_pop",
+  "difficulty": 2,
+  "display_name": "Fusion / Pop",
+  "ham_move_name": "Roll_Breakdown_aroundtheworld.move",
+  "milo_name": "roll_breakdown_aroundtheworld",
+  "song_name": "aroundtheworld",
+  "clips": {
+    "fusion_and_pop_aroundtheworld_v3": {
+      "avg_beats_per_second": 1.74,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "fusion_and_pop_aroundtheworld_v4": {
+      "avg_beats_per_second": 2.03,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "fusion_and_pop_aroundtheworld_v0": {
+      "avg_beats_per_second": 1.74,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "fusion_and_pop_aroundtheworld_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "fusion_and_pop_aroundtheworld_v2": {
+      "avg_beats_per_second": 2.03,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

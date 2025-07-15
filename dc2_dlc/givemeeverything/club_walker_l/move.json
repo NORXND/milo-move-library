@@ -1,0 +1,34 @@
+{
+  "name": "club_walker_l",
+  "difficulty": 1,
+  "display_name": "Club Walker",
+  "ham_move_name": "Salsaside_Tap_L_givemeeverything.move",
+  "milo_name": "salsaside_tap_l_givemeeverything",
+  "song_name": "givemeeverything",
+  "clips": {
+    "club_walker_l_givemeeverything_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "club_walker_l_givemeeverything_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "club_walker_l_givemeeverything_v2": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

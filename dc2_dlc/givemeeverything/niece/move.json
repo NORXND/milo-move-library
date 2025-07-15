@@ -1,0 +1,26 @@
+{
+  "name": "niece",
+  "difficulty": 0,
+  "display_name": "Niece",
+  "ham_move_name": "Niece_givemeeverything.move",
+  "milo_name": "niece_givemeeverything",
+  "song_name": "givemeeverything",
+  "clips": {
+    "niece_givemeeverything_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "niece_givemeeverything_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

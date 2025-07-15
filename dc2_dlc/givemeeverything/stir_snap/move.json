@@ -1,0 +1,26 @@
+{
+  "name": "stir_snap",
+  "difficulty": 2,
+  "display_name": "Stir Snap",
+  "ham_move_name": "Stir_Snap_givemeeverything.move",
+  "milo_name": "stir_snap_givemeeverything",
+  "song_name": "givemeeverything",
+  "clips": {
+    "stir_snap_givemeeverything_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stir_snap_givemeeverything_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

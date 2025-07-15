@@ -1,0 +1,18 @@
+{
+  "name": "spirit_point",
+  "difficulty": 2,
+  "display_name": "Spirit Point",
+  "ham_move_name": "Point_Now_givemeeverything.move",
+  "milo_name": "point_now_givemeeverything",
+  "song_name": "givemeeverything",
+  "clips": {
+    "spirit_point_givemeeverything_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

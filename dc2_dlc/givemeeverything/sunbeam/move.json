@@ -1,0 +1,18 @@
+{
+  "name": "sunbeam",
+  "difficulty": 2,
+  "display_name": "Sunbeam",
+  "ham_move_name": "Stop_The_Rain_givemeeverything.move",
+  "milo_name": "stop_the_rain_givemeeverything",
+  "song_name": "givemeeverything",
+  "clips": {
+    "sunbeam_givemeeverything_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

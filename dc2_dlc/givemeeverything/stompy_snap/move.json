@@ -1,0 +1,26 @@
+{
+  "name": "stompy_snap",
+  "difficulty": 2,
+  "display_name": "Stompy Snap",
+  "ham_move_name": "Jerk_Snap_givemeeverything.move",
+  "milo_name": "jerk_snap_givemeeverything",
+  "song_name": "givemeeverything",
+  "clips": {
+    "stompy_snap_givemeeverything_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stompy_snap_givemeeverything_v1": {
+      "avg_beats_per_second": 1.85,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "sexy_hip_sway",
+  "difficulty": 2,
+  "display_name": "Sexy Hip Sway",
+  "ham_move_name": "Sexy_Wrap_givemeeverything.move",
+  "milo_name": "sexy_wrap_givemeeverything",
+  "song_name": "givemeeverything",
+  "clips": {
+    "sexy_hip_sway_givemeeverything_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sexy_hip_sway_givemeeverything_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

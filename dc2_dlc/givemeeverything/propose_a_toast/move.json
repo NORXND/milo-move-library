@@ -1,0 +1,26 @@
+{
+  "name": "propose_a_toast",
+  "difficulty": 2,
+  "display_name": "Propose A Toast",
+  "ham_move_name": "Proposeatoast_givemeeverything.move",
+  "milo_name": "proposeatoast_givemeeverything",
+  "song_name": "givemeeverything",
+  "clips": {
+    "propose_a_toast_givemeeverything_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "propose_a_toast_givemeeverything_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

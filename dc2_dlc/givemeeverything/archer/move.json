@@ -1,0 +1,26 @@
+{
+  "name": "archer",
+  "difficulty": 2,
+  "display_name": "Archer",
+  "ham_move_name": "Archer_givemeeverything.move",
+  "milo_name": "archer_givemeeverything",
+  "song_name": "givemeeverything",
+  "clips": {
+    "archer_givemeeverything_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "archer_givemeeverything_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

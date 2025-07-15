@@ -1,0 +1,26 @@
+{
+  "name": "side_lean_sway",
+  "difficulty": 2,
+  "display_name": "Side Lean Sway",
+  "ham_move_name": "Side_Lean_Sway_givemeeverything.move",
+  "milo_name": "side_lean_sway_givemeeverything",
+  "song_name": "givemeeverything",
+  "clips": {
+    "side_lean_sway_givemeeverything_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "side_lean_sway_givemeeverything_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

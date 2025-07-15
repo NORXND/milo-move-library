@@ -1,0 +1,18 @@
+{
+  "name": "blushing_bride",
+  "difficulty": 1,
+  "display_name": "Blushing Bride",
+  "ham_move_name": "Flower_Girl_givemeeverything.move",
+  "milo_name": "flower_girl_givemeeverything",
+  "song_name": "givemeeverything",
+  "clips": {
+    "blushing_bride_givemeeverything_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

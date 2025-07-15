@@ -1,0 +1,26 @@
+{
+  "name": "whippersnapper",
+  "difficulty": 2,
+  "display_name": "Whippersnapper",
+  "ham_move_name": "Whippersnapper_thehumptydance.move",
+  "milo_name": "whippersnapper_thehumptydance",
+  "song_name": "thehumptydance",
+  "clips": {
+    "whippersnapper_thehumptydance_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "whippersnapper_thehumptydance_v1": {
+      "avg_beats_per_second": 1.72,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

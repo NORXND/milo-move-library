@@ -1,0 +1,18 @@
+{
+  "name": "shoulder_pep_l",
+  "difficulty": 0,
+  "display_name": "Shoulder Pep",
+  "ham_move_name": "Shoulder_Rock_L_thehumptydance.move",
+  "milo_name": "shoulder_rock_l_thehumptydance",
+  "song_name": "thehumptydance",
+  "clips": {
+    "shoulder_pep_l_thehumptydance_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "shoulder_pep_r_thehumptydance_v0"
+    }
+  }
+}

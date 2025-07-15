@@ -1,0 +1,58 @@
+{
+  "name": "booty_bump",
+  "difficulty": 0,
+  "display_name": "Booty Bump",
+  "ham_move_name": "Booty_Bump_thehumptydance.move",
+  "milo_name": "booty_bump_thehumptydance",
+  "song_name": "thehumptydance",
+  "clips": {
+    "booty_bump_thehumptydance_v3": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "booty_bump_thehumptydance_v1": {
+      "avg_beats_per_second": 1.74,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "booty_bump_thehumptydance_v4": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "booty_bump_thehumptydance_v2": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "booty_bump_thehumptydance_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "booty_bump_thehumptydance_v5": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

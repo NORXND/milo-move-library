@@ -1,0 +1,26 @@
+{
+  "name": "rolling_thunder",
+  "difficulty": 0,
+  "display_name": "Rolling Thunder",
+  "ham_move_name": "Rolling_Thunder_thehumptydance.move",
+  "milo_name": "rolling_thunder_thehumptydance",
+  "song_name": "thehumptydance",
+  "clips": {
+    "rolling_thunder_thehumptydance_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rolling_thunder_thehumptydance_v1": {
+      "avg_beats_per_second": 1.72,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

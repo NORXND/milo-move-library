@@ -1,0 +1,18 @@
+{
+  "name": "real_talk",
+  "difficulty": 2,
+  "display_name": "Real Talk",
+  "ham_move_name": "Goin_In_getlow.move",
+  "milo_name": "goin_in_getlow",
+  "song_name": "getlow",
+  "clips": {
+    "real_talk_getlow_v0": {
+      "avg_beats_per_second": 1.44,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

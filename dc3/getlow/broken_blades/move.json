@@ -1,0 +1,34 @@
+{
+  "name": "broken_blades",
+  "difficulty": 0,
+  "display_name": "Broken Blades",
+  "ham_move_name": "To_The_Windows_getlow.move",
+  "milo_name": "to_the_windows_getlow",
+  "song_name": "getlow",
+  "clips": {
+    "broken_blades_getlow_v1": {
+      "avg_beats_per_second": 1.68,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "broken_blades_getlow_v2": {
+      "avg_beats_per_second": 1.68,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "broken_blades_getlow_v0": {
+      "avg_beats_per_second": 1.68,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

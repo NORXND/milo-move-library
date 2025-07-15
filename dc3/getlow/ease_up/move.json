@@ -1,0 +1,34 @@
+{
+  "name": "ease_up",
+  "difficulty": 2,
+  "display_name": "Ease Up",
+  "ham_move_name": "To_The_Wall_getlow.move",
+  "milo_name": "to_the_wall_getlow",
+  "song_name": "getlow",
+  "clips": {
+    "ease_up_getlow_v0": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ease_up_getlow_v1": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ease_up_getlow_v2": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

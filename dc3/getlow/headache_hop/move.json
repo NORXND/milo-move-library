@@ -1,0 +1,18 @@
+{
+  "name": "headache_hop",
+  "difficulty": 2,
+  "display_name": "Headache Hop",
+  "ham_move_name": "Fine_Mind_getlow.move",
+  "milo_name": "fine_mind_getlow",
+  "song_name": "getlow",
+  "clips": {
+    "headache_hop_getlow_v0": {
+      "avg_beats_per_second": 1.68,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

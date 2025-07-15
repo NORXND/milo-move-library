@@ -1,0 +1,26 @@
+{
+  "name": "wind_clap",
+  "difficulty": 2,
+  "display_name": "Wind Clap",
+  "ham_move_name": "Roll_Clap_getlow.move",
+  "milo_name": "roll_clap_getlow",
+  "song_name": "getlow",
+  "clips": {
+    "wind_clap_getlow_v0": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_clap_getlow_v1": {
+      "avg_beats_per_second": 1.68,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "busy_body",
+  "difficulty": 2,
+  "display_name": "Busy Body",
+  "ham_move_name": "Hip_Rock_getlow.move",
+  "milo_name": "hip_rock_getlow",
+  "song_name": "getlow",
+  "clips": {
+    "busy_body_getlow_v0": {
+      "avg_beats_per_second": 1.68,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "busy_body_getlow_v1": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "busy_body_getlow_v2": {
+      "avg_beats_per_second": 1.43,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "busy_body_getlow_v3": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "busy_body_getlow_v4": {
+      "avg_beats_per_second": 1.68,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

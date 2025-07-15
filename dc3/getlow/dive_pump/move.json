@@ -1,0 +1,26 @@
+{
+  "name": "dive_pump",
+  "difficulty": 2,
+  "display_name": "Dive Pump",
+  "ham_move_name": "Back_It_Up_getlow.move",
+  "milo_name": "back_it_up_getlow",
+  "song_name": "getlow",
+  "clips": {
+    "dive_pump_getlow_v0": {
+      "avg_beats_per_second": 1.68,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dive_pump_getlow_v1": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

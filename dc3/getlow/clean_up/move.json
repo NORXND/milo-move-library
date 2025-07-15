@@ -1,0 +1,42 @@
+{
+  "name": "clean_up",
+  "difficulty": 2,
+  "display_name": "Clean Up",
+  "ham_move_name": "Wash_My_Hands_getlow.move",
+  "milo_name": "wash_my_hands_getlow",
+  "song_name": "getlow",
+  "clips": {
+    "clean_up_getlow_v0": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "clean_up_getlow_v1": {
+      "avg_beats_per_second": 1.44,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "clean_up_getlow_v2": {
+      "avg_beats_per_second": 1.43,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "clean_up_getlow_v3": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

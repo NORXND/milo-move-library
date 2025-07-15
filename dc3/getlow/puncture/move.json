@@ -1,0 +1,34 @@
+{
+  "name": "puncture",
+  "difficulty": 2,
+  "display_name": "Puncture",
+  "ham_move_name": "Dirty_South_getlow.move",
+  "milo_name": "dirty_south_getlow",
+  "song_name": "getlow",
+  "clips": {
+    "puncture_getlow_v1": {
+      "avg_beats_per_second": 1.68,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "puncture_getlow_v2": {
+      "avg_beats_per_second": 1.68,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "puncture_getlow_v0": {
+      "avg_beats_per_second": 1.68,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

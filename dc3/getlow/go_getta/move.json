@@ -1,0 +1,18 @@
+{
+  "name": "go_getta",
+  "difficulty": 2,
+  "display_name": "Go Getta",
+  "ham_move_name": "Go_Getta_getlow.move",
+  "milo_name": "go_getta_getlow",
+  "song_name": "getlow",
+  "clips": {
+    "go_getta_getlow_v0": {
+      "avg_beats_per_second": 1.68,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

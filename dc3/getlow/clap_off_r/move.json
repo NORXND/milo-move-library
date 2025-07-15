@@ -1,0 +1,18 @@
+{
+  "name": "clap_off_r",
+  "difficulty": 2,
+  "display_name": "Clap Off",
+  "ham_move_name": "Gospel_Clap_R_getlow.move",
+  "milo_name": "gospel_clap_r_getlow",
+  "song_name": "getlow",
+  "clips": {
+    "clap_off_r_getlow_v0": {
+      "avg_beats_per_second": 1.68,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "clap_off_l_getlow_v0",
+      "linked_from": ""
+    }
+  }
+}

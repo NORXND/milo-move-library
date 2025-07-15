@@ -1,0 +1,26 @@
+{
+  "name": "puncture_and_clap",
+  "difficulty": 2,
+  "display_name": "Puncture / Clap",
+  "ham_move_name": "Who_Scared_getlow.move",
+  "milo_name": "who_scared_getlow",
+  "song_name": "getlow",
+  "clips": {
+    "puncture_and_clap_getlow_v0": {
+      "avg_beats_per_second": 1.68,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "puncture_and_clap_getlow_v1": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

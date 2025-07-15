@@ -1,0 +1,26 @@
+{
+  "name": "stop_and_wiggle",
+  "difficulty": 2,
+  "display_name": "Stop & Wiggle",
+  "ham_move_name": "Stop_And_Wiggle_getlow.move",
+  "milo_name": "stop_and_wiggle_getlow",
+  "song_name": "getlow",
+  "clips": {
+    "stop_and_wiggle_getlow_v0": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stop_and_wiggle_getlow_v1": {
+      "avg_beats_per_second": 1.68,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

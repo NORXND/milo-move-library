@@ -1,0 +1,58 @@
+{
+  "name": "action_r",
+  "difficulty": 2,
+  "display_name": "Action",
+  "ham_move_name": "Ghetto_Girl_R_getlow.move",
+  "milo_name": "ghetto_girl_r_getlow",
+  "song_name": "getlow",
+  "clips": {
+    "action_r_getlow_v2": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "action_r_getlow_v3": {
+      "avg_beats_per_second": 1.45,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "action_r_getlow_v4": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "action_r_getlow_v5": {
+      "avg_beats_per_second": 1.45,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "action_r_getlow_v0": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "action_r_getlow_v1": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "double_dig_em_r",
+  "difficulty": 0,
+  "display_name": "Double Dig Em",
+  "ham_move_name": "Double_Dig_Em_R_evacuate.move",
+  "milo_name": "double_dig_em_r_evacuate",
+  "song_name": "evacuate",
+  "clips": {
+    "double_dig_em_r_evacuate_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "double_dig_em_l_evacuate_v0"
+    },
+    "double_dig_em_r_evacuate_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "double_dig_em_l_evacuate_v1"
+    },
+    "double_dig_em_r_evacuate_v2": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "double_dig_em_l_evacuate_v2"
+    },
+    "double_dig_em_r_evacuate_v3": {
+      "avg_beats_per_second": 2.11,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "double_dig_em_l_evacuate_v3"
+    }
+  }
+}

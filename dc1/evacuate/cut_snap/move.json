@@ -1,0 +1,74 @@
+{
+  "name": "cut_snap",
+  "difficulty": 1,
+  "display_name": "Cut Snap",
+  "ham_move_name": "Cut_Snap_evacuate.move",
+  "milo_name": "cut_snap_evacuate",
+  "song_name": "evacuate",
+  "clips": {
+    "cut_snap_evacuate_v5": {
+      "avg_beats_per_second": 2.11,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cut_snap_evacuate_v3": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cut_snap_evacuate_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cut_snap_evacuate_v6": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cut_snap_evacuate_v4": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cut_snap_evacuate_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cut_snap_evacuate_v2": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cut_snap_evacuate_v7": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

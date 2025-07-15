@@ -1,0 +1,42 @@
+{
+  "name": "infection",
+  "difficulty": 0,
+  "display_name": "Infection",
+  "ham_move_name": "INFECTION_evacuate.move",
+  "milo_name": "infection_evacuate",
+  "song_name": "evacuate",
+  "clips": {
+    "infection_evacuate_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "infection_evacuate_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "infection_evacuate_v2": {
+      "avg_beats_per_second": 2.11,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "infection_evacuate_v3": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

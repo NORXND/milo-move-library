@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_evacuate_v1061",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "End_Pose_evacuate.move",
+  "milo_name": "end_pose_evacuate",
+  "song_name": "evacuate",
+  "clips": {
+    "finishing_move_evacuate_v1061": {
+      "avg_beats_per_second": 2.11,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

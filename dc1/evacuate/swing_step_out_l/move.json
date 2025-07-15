@@ -1,0 +1,26 @@
+{
+  "name": "swing_step_out_l",
+  "difficulty": 1,
+  "display_name": "Swing Step Out",
+  "ham_move_name": "Swing_L_evacuate.move",
+  "milo_name": "swing_l_evacuate",
+  "song_name": "evacuate",
+  "clips": {
+    "swing_step_out_l_evacuate_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swing_step_out_l_evacuate_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

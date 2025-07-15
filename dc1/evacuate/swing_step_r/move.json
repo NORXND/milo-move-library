@@ -1,0 +1,18 @@
+{
+  "name": "swing_step_r",
+  "difficulty": 1,
+  "display_name": "Swing Step",
+  "ham_move_name": "Double_Swing_R_evacuate.move",
+  "milo_name": "double_swing_r_evacuate",
+  "song_name": "evacuate",
+  "clips": {
+    "swing_step_r_evacuate_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "swing_step_l_evacuate_v0",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "headwrush",
+  "difficulty": 0,
+  "display_name": "Headwrush",
+  "ham_move_name": "Headwrush_evacuate.move",
+  "milo_name": "headwrush_evacuate",
+  "song_name": "evacuate",
+  "clips": {
+    "headwrush_evacuate_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "headwrush_evacuate_v2": {
+      "avg_beats_per_second": 2.11,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "headwrush_evacuate_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "headwrush_evacuate_v4": {
+      "avg_beats_per_second": 2.11,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "headwrush_evacuate_v3": {
+      "avg_beats_per_second": 2.11,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

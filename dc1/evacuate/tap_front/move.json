@@ -1,0 +1,50 @@
+{
+  "name": "tap_front",
+  "difficulty": 0,
+  "display_name": "Tap Front",
+  "ham_move_name": "Step_Front_evacuate.move",
+  "milo_name": "step_front_evacuate",
+  "song_name": "evacuate",
+  "clips": {
+    "tap_front_evacuate_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tap_front_evacuate_v3": {
+      "avg_beats_per_second": 2.11,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tap_front_evacuate_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tap_front_evacuate_v4": {
+      "avg_beats_per_second": 2.11,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tap_front_evacuate_v2": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

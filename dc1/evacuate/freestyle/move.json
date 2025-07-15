@@ -1,0 +1,18 @@
+{
+  "name": "freestyle_evacuate",
+  "difficulty": 2,
+  "display_name": "FREESTYLE!",
+  "ham_move_name": "Freestyle.move",
+  "milo_name": "freestyle",
+  "song_name": "evacuate",
+  "clips": {
+    "freestyle_evacuate_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 96,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

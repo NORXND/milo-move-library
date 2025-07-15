@@ -1,0 +1,42 @@
+{
+  "name": "dig_em",
+  "difficulty": 1,
+  "display_name": "Dig Em",
+  "ham_move_name": "Dig_Em_evacuate.move",
+  "milo_name": "dig_em_evacuate",
+  "song_name": "evacuate",
+  "clips": {
+    "dig_em_evacuate_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dig_em_evacuate_v2": {
+      "avg_beats_per_second": 2.11,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dig_em_evacuate_v3": {
+      "avg_beats_per_second": 2.11,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dig_em_evacuate_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

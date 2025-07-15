@@ -1,0 +1,26 @@
+{
+  "name": "round_hit_it",
+  "difficulty": 0,
+  "display_name": "Round Hit It",
+  "ham_move_name": "Round_Hit_evacuate.move",
+  "milo_name": "round_hit_evacuate",
+  "song_name": "evacuate",
+  "clips": {
+    "round_hit_it_evacuate_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "round_hit_it_evacuate_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

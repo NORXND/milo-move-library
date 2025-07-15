@@ -1,0 +1,18 @@
+{
+  "name": "jump_off_tap_r",
+  "difficulty": 2,
+  "display_name": "Jump Off Tap",
+  "ham_move_name": "Hop_Scotch_Tap_R_macarena.move",
+  "milo_name": "hop_scotch_tap_r_macarena",
+  "song_name": "macarena",
+  "clips": {
+    "jump_off_tap_r_macarena_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "jump_off_tap_l_macarena_v0",
+      "linked_from": ""
+    }
+  }
+}

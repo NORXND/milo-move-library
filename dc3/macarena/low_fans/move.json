@@ -1,0 +1,18 @@
+{
+  "name": "low_fans",
+  "difficulty": 2,
+  "display_name": "Low Fans",
+  "ham_move_name": "Spirit_Fingers_Bootay_Shake_macarena.move",
+  "milo_name": "spirit_fingers_bootay_shake_macarena",
+  "song_name": "macarena",
+  "clips": {
+    "low_fans_macarena_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

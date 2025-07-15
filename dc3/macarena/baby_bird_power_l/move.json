@@ -1,0 +1,18 @@
+{
+  "name": "baby_bird_power_l",
+  "difficulty": 2,
+  "display_name": "Baby Bird Power",
+  "ham_move_name": "Butterfly_Pound_L_macarena.move",
+  "milo_name": "butterfly_pound_l_macarena",
+  "song_name": "macarena",
+  "clips": {
+    "baby_bird_power_l_macarena_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "baby_bird_power_r_macarena_v0"
+    }
+  }
+}

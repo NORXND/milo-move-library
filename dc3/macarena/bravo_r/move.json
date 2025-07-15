@@ -1,0 +1,26 @@
+{
+  "name": "bravo_r",
+  "difficulty": 2,
+  "display_name": "Bravo",
+  "ham_move_name": "Clap_Down_R_macarena.move",
+  "milo_name": "clap_down_r_macarena",
+  "song_name": "macarena",
+  "clips": {
+    "bravo_r_macarena_v0": {
+      "avg_beats_per_second": 1.71,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "bravo_l_macarena_v0"
+    },
+    "bravo_r_macarena_v1": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "bravo_l_macarena_v1"
+    }
+  }
+}

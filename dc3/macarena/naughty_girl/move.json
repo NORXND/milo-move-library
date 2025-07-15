@@ -1,0 +1,18 @@
+{
+  "name": "naughty_girl",
+  "difficulty": 2,
+  "display_name": "Naughty Girl",
+  "ham_move_name": "Bootay_Roll_Slap_macarena.move",
+  "milo_name": "bootay_roll_slap_macarena",
+  "song_name": "macarena",
+  "clips": {
+    "naughty_girl_macarena_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "jumpy_and_scorcher",
+  "difficulty": 2,
+  "display_name": "Jumpy / Scorcher",
+  "ham_move_name": "Jumpy_Fan_macarena.move",
+  "milo_name": "jumpy_fan_macarena",
+  "song_name": "macarena",
+  "clips": {
+    "jumpy_and_scorcher_macarena_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

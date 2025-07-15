@@ -1,0 +1,26 @@
+{
+  "name": "bookie",
+  "difficulty": 2,
+  "display_name": "Bookie",
+  "ham_move_name": "Bookie_macarena.move",
+  "milo_name": "bookie_macarena",
+  "song_name": "macarena",
+  "clips": {
+    "bookie_macarena_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bookie_macarena_v1": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

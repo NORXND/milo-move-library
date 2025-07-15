@@ -1,0 +1,18 @@
+{
+  "name": "so_fly",
+  "difficulty": 2,
+  "display_name": "So Fly",
+  "ham_move_name": "So_Fly_macarena.move",
+  "milo_name": "so_fly_macarena",
+  "song_name": "macarena",
+  "clips": {
+    "so_fly_macarena_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

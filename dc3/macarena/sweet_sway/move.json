@@ -1,0 +1,18 @@
+{
+  "name": "sweet_sway",
+  "difficulty": 2,
+  "display_name": "Sweet Sway",
+  "ham_move_name": "Hop_4_Ways_macarena.move",
+  "milo_name": "hop_4_ways_macarena",
+  "song_name": "macarena",
+  "clips": {
+    "sweet_sway_macarena_v0": {
+      "avg_beats_per_second": 1.71,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

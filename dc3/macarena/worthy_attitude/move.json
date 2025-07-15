@@ -1,0 +1,26 @@
+{
+  "name": "worthy_attitude",
+  "difficulty": 2,
+  "display_name": "Worthy Attitude",
+  "ham_move_name": "Dive_Flick_macarena.move",
+  "milo_name": "dive_flick_macarena",
+  "song_name": "macarena",
+  "clips": {
+    "worthy_attitude_macarena_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "worthy_attitude_macarena_v1": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

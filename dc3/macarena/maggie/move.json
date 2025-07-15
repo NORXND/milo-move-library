@@ -1,0 +1,58 @@
+{
+  "name": "maggie",
+  "difficulty": 2,
+  "display_name": "Maggie",
+  "ham_move_name": "Macarena_1_macarena.move",
+  "milo_name": "macarena_1_macarena",
+  "song_name": "macarena",
+  "clips": {
+    "maggie_macarena_v0": {
+      "avg_beats_per_second": 1.47,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "maggie_macarena_v4": {
+      "avg_beats_per_second": 1.48,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "maggie_macarena_v3": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "maggie_macarena_v1": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "maggie_macarena_v5": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "maggie_macarena_v2": {
+      "avg_beats_per_second": 1.48,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

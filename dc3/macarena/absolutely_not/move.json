@@ -1,0 +1,18 @@
+{
+  "name": "absolutely_not",
+  "difficulty": 2,
+  "display_name": "Absolutely Not",
+  "ham_move_name": "Away_No_No_macarena.move",
+  "milo_name": "away_no_no_macarena",
+  "song_name": "macarena",
+  "clips": {
+    "absolutely_not_macarena_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

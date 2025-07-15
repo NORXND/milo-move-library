@@ -1,0 +1,42 @@
+{
+  "name": "booty_down",
+  "difficulty": 0,
+  "display_name": "Booty Down",
+  "ham_move_name": "Bootay_Down_thebreaks.move",
+  "milo_name": "bootay_down_thebreaks",
+  "song_name": "thebreaks",
+  "clips": {
+    "booty_down_thebreaks_v2": {
+      "avg_beats_per_second": 1.87,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "booty_down_thebreaks_v0": {
+      "avg_beats_per_second": 1.87,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "booty_down_thebreaks_v3": {
+      "avg_beats_per_second": 1.87,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "booty_down_thebreaks_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

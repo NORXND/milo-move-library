@@ -1,0 +1,42 @@
+{
+  "name": "slick_slide",
+  "difficulty": 0,
+  "display_name": "Slick Slide",
+  "ham_move_name": "Break_Slide_thebreaks.move",
+  "milo_name": "break_slide_thebreaks",
+  "song_name": "thebreaks",
+  "clips": {
+    "slick_slide_thebreaks_v0": {
+      "avg_beats_per_second": 1.6,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slick_slide_thebreaks_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slick_slide_thebreaks_v2": {
+      "avg_beats_per_second": 1.86,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slick_slide_thebreaks_v3": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

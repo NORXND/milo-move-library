@@ -1,0 +1,42 @@
+{
+  "name": "pound_walk_r",
+  "difficulty": 2,
+  "display_name": "Pound Walk",
+  "ham_move_name": "Pound_Walk_R_thebreaks.move",
+  "milo_name": "pound_walk_r_thebreaks",
+  "song_name": "thebreaks",
+  "clips": {
+    "pound_walk_r_thebreaks_v0": {
+      "avg_beats_per_second": 1.87,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "pound_walk_l_thebreaks_v0",
+      "linked_from": ""
+    },
+    "pound_walk_r_thebreaks_v3": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "pound_walk_l_thebreaks_v3",
+      "linked_from": "pound_walk_l_thebreaks_v2"
+    },
+    "pound_walk_r_thebreaks_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "pound_walk_l_thebreaks_v1",
+      "linked_from": "pound_walk_l_thebreaks_v0"
+    },
+    "pound_walk_r_thebreaks_v2": {
+      "avg_beats_per_second": 1.87,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "pound_walk_l_thebreaks_v2",
+      "linked_from": ""
+    }
+  }
+}

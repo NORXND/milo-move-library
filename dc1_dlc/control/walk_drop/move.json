@@ -1,0 +1,26 @@
+{
+  "name": "walk_drop",
+  "difficulty": 1,
+  "display_name": "Walk Drop",
+  "ham_move_name": "Hip_Boom_Boom_control.move",
+  "milo_name": "hip_boom_boom_control",
+  "song_name": "control",
+  "clips": {
+    "walk_drop_control_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "walk_drop_control_v1": {
+      "avg_beats_per_second": 1.95,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

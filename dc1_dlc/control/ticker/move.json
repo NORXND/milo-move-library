@@ -1,0 +1,42 @@
+{
+  "name": "ticker",
+  "difficulty": 0,
+  "display_name": "Ticker",
+  "ham_move_name": "Ticker_control.move",
+  "milo_name": "ticker_control",
+  "song_name": "control",
+  "clips": {
+    "ticker_control_v2": {
+      "avg_beats_per_second": 2.01,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ticker_control_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ticker_control_v3": {
+      "avg_beats_per_second": 2.01,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ticker_control_v1": {
+      "avg_beats_per_second": 2.01,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_control_v1063",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_control.move",
+  "milo_name": "finishing_move_control",
+  "song_name": "control",
+  "clips": {
+    "finishing_move_control_v1063": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

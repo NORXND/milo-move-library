@@ -1,0 +1,26 @@
+{
+  "name": "snake",
+  "difficulty": 0,
+  "display_name": "Snake",
+  "ham_move_name": "Snake_control.move",
+  "milo_name": "snake_control",
+  "song_name": "control",
+  "clips": {
+    "snake_control_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "snake_control_v1": {
+      "avg_beats_per_second": 2.01,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

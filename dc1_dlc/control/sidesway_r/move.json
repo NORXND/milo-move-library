@@ -1,0 +1,26 @@
+{
+  "name": "sidesway_r",
+  "difficulty": 0,
+  "display_name": "Sidesway",
+  "ham_move_name": "Sidesway_R_control.move",
+  "milo_name": "sidesway_r_control",
+  "song_name": "control",
+  "clips": {
+    "sidesway_r_control_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "sidesway_l_control_v0"
+    },
+    "sidesway_r_control_v1": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "sidesway_l_control_v1"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "broken_blades",
+  "difficulty": 0,
+  "display_name": "Broken Blades",
+  "ham_move_name": "Broken_Blades_control.move",
+  "milo_name": "broken_blades_control",
+  "song_name": "control",
+  "clips": {
+    "broken_blades_control_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "broken_blades_control_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

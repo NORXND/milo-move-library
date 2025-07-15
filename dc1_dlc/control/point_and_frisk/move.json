@@ -1,0 +1,18 @@
+{
+  "name": "point_and_frisk",
+  "difficulty": 2,
+  "display_name": "Point / Frisk",
+  "ham_move_name": "Straightjacket_Point_control.move",
+  "milo_name": "straightjacket_point_control",
+  "song_name": "control",
+  "clips": {
+    "point_and_frisk_control_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

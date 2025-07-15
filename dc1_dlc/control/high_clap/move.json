@@ -1,0 +1,26 @@
+{
+  "name": "high_clap",
+  "difficulty": 0,
+  "display_name": "High Clap",
+  "ham_move_name": "High_Clap_control.move",
+  "milo_name": "high_clap_control",
+  "song_name": "control",
+  "clips": {
+    "high_clap_control_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "high_clap_control_v1": {
+      "avg_beats_per_second": 2.01,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

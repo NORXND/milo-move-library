@@ -1,0 +1,26 @@
+{
+  "name": "got_soul_l",
+  "difficulty": 1,
+  "display_name": "Got Soul",
+  "ham_move_name": "Got_Soul_L_control.move",
+  "milo_name": "got_soul_l_control",
+  "song_name": "control",
+  "clips": {
+    "got_soul_l_control_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "got_soul_r_control_v0"
+    },
+    "got_soul_l_control_v1": {
+      "avg_beats_per_second": 2.01,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "got_soul_r_control_v1"
+    }
+  }
+}

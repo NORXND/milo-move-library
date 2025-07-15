@@ -1,0 +1,26 @@
+{
+  "name": "rock_it_back",
+  "difficulty": 2,
+  "display_name": "Rock It Back",
+  "ham_move_name": "Rock_It_Back_control.move",
+  "milo_name": "rock_it_back_control",
+  "song_name": "control",
+  "clips": {
+    "rock_it_back_control_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rock_it_back_control_v1": {
+      "avg_beats_per_second": 2.01,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

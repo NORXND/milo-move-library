@@ -1,0 +1,34 @@
+{
+  "name": "drag_in",
+  "difficulty": 0,
+  "display_name": "Drag In",
+  "ham_move_name": "Step_Drag_In_brickhouse.move",
+  "milo_name": "step_drag_in_brickhouse",
+  "song_name": "brickhouse",
+  "clips": {
+    "drag_in_brickhouse_v0": {
+      "avg_beats_per_second": 1.78,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drag_in_brickhouse_v1": {
+      "avg_beats_per_second": 1.81,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drag_in_brickhouse_v2": {
+      "avg_beats_per_second": 1.81,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

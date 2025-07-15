@@ -1,0 +1,18 @@
+{
+  "name": "scuff_and_stomp",
+  "difficulty": 1,
+  "display_name": "Scuff & Stomp",
+  "ham_move_name": "Scuff_and_Stomp_brickhouse.move",
+  "milo_name": "scuff_and_stomp_brickhouse",
+  "song_name": "brickhouse",
+  "clips": {
+    "scuff_and_stomp_brickhouse_v0": {
+      "avg_beats_per_second": 1.81,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

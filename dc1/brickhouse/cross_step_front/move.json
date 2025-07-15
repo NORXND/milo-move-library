@@ -1,0 +1,50 @@
+{
+  "name": "cross_step_front",
+  "difficulty": 0,
+  "display_name": "Cross Step Front",
+  "ham_move_name": "B_Boy_brickhouse.move",
+  "milo_name": "b_boy_brickhouse",
+  "song_name": "brickhouse",
+  "clips": {
+    "cross_step_front_brickhouse_v0": {
+      "avg_beats_per_second": 1.77,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_step_front_brickhouse_v1": {
+      "avg_beats_per_second": 1.77,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_step_front_brickhouse_v4": {
+      "avg_beats_per_second": 1.8,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_step_front_brickhouse_v2": {
+      "avg_beats_per_second": 1.8,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_step_front_brickhouse_v3": {
+      "avg_beats_per_second": 1.81,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

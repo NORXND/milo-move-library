@@ -1,0 +1,18 @@
+{
+  "name": "about_face",
+  "difficulty": 2,
+  "display_name": "About Face",
+  "ham_move_name": "About_Face_brickhouse.move",
+  "milo_name": "about_face_brickhouse",
+  "song_name": "brickhouse",
+  "clips": {
+    "about_face_brickhouse_v0": {
+      "avg_beats_per_second": 1.82,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

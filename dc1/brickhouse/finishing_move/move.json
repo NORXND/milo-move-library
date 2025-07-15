@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_brickhouse_v1086",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "End_Pose_brickhouse.move",
+  "milo_name": "end_pose_brickhouse",
+  "song_name": "brickhouse",
+  "clips": {
+    "finishing_move_brickhouse_v1086": {
+      "avg_beats_per_second": 1.81,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

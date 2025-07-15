@@ -1,0 +1,18 @@
+{
+  "name": "groove_snap",
+  "difficulty": 0,
+  "display_name": "Groove Snap",
+  "ham_move_name": "Groove_Snap_brickhouse.move",
+  "milo_name": "groove_snap_brickhouse",
+  "song_name": "brickhouse",
+  "clips": {
+    "groove_snap_brickhouse_v0": {
+      "avg_beats_per_second": 1.79,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

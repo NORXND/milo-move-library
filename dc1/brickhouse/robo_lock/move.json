@@ -1,0 +1,42 @@
+{
+  "name": "robo_lock",
+  "difficulty": 2,
+  "display_name": "Robo Lock",
+  "ham_move_name": "Robo_Lock_brickhouse.move",
+  "milo_name": "robo_lock_brickhouse",
+  "song_name": "brickhouse",
+  "clips": {
+    "robo_lock_brickhouse_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "robo_lock_brickhouse_v1": {
+      "avg_beats_per_second": 1.79,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "robo_lock_brickhouse_v2": {
+      "avg_beats_per_second": 1.8,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "robo_lock_brickhouse_v3": {
+      "avg_beats_per_second": 1.8,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

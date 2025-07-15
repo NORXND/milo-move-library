@@ -1,0 +1,42 @@
+{
+  "name": "clean_house",
+  "difficulty": 2,
+  "display_name": "Clean House",
+  "ham_move_name": "Clean_House_brickhouse.move",
+  "milo_name": "clean_house_brickhouse",
+  "song_name": "brickhouse",
+  "clips": {
+    "clean_house_brickhouse_v1": {
+      "avg_beats_per_second": 1.8,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "clean_house_brickhouse_v2": {
+      "avg_beats_per_second": 1.81,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "clean_house_brickhouse_v3": {
+      "avg_beats_per_second": 1.8,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "clean_house_brickhouse_v0": {
+      "avg_beats_per_second": 1.76,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cool_kid_r",
+  "difficulty": 0,
+  "display_name": "Cool Kid",
+  "ham_move_name": "Kool_Kid_R_brickhouse.move",
+  "milo_name": "kool_kid_l_brickhouse",
+  "song_name": "brickhouse",
+  "clips": {
+    "cool_kid_r_brickhouse_v0": {
+      "avg_beats_per_second": 1.81,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "cool_kid_l_brickhouse_v0",
+      "linked_from": ""
+    },
+    "cool_kid_r_brickhouse_v1": {
+      "avg_beats_per_second": 1.8,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "cool_kid_l_brickhouse_v0"
+    }
+  }
+}

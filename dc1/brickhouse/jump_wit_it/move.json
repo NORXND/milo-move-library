@@ -1,0 +1,18 @@
+{
+  "name": "jump_wit_it",
+  "difficulty": 2,
+  "display_name": "Jump Wit It",
+  "ham_move_name": "Jump_Wit_It_brickhouse.move",
+  "milo_name": "jump_wit_it_brickhouse",
+  "song_name": "brickhouse",
+  "clips": {
+    "jump_wit_it_brickhouse_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

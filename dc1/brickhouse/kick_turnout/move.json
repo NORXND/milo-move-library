@@ -1,0 +1,42 @@
+{
+  "name": "kick_turnout",
+  "difficulty": 1,
+  "display_name": "Kick Turnout",
+  "ham_move_name": "Kick_Turnout_brickhouse.move",
+  "milo_name": "kick_turnout_brickhouse",
+  "song_name": "brickhouse",
+  "clips": {
+    "kick_turnout_brickhouse_v0": {
+      "avg_beats_per_second": 1.77,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_turnout_brickhouse_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_turnout_brickhouse_v2": {
+      "avg_beats_per_second": 1.84,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_turnout_brickhouse_v3": {
+      "avg_beats_per_second": 1.84,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

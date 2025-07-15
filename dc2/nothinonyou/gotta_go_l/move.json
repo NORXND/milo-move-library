@@ -1,0 +1,26 @@
+{
+  "name": "gotta_go_l",
+  "difficulty": 0,
+  "display_name": "Gotta Go",
+  "ham_move_name": "Bring_It_Back_L_nothinonyou.move",
+  "milo_name": "bring_it_back_l_nothinonyou",
+  "song_name": "nothinonyou",
+  "clips": {
+    "gotta_go_l_nothinonyou_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "gotta_go_r_nothinonyou_v0"
+    },
+    "gotta_go_l_nothinonyou_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "gotta_go_r_nothinonyou_v1"
+    }
+  }
+}

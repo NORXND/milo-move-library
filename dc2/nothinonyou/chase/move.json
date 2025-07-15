@@ -1,0 +1,26 @@
+{
+  "name": "chase",
+  "difficulty": 2,
+  "display_name": "Chase",
+  "ham_move_name": "Chase_nothinonyou.move",
+  "milo_name": "chase_nothinonyou",
+  "song_name": "nothinonyou",
+  "clips": {
+    "chase_nothinonyou_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chase_nothinonyou_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "kick_turn_out",
+  "difficulty": 1,
+  "display_name": "Kick Turn Out",
+  "ham_move_name": "Turn_In_Out_nothinonyou.move",
+  "milo_name": "turn_in_out_nothinonyou",
+  "song_name": "nothinonyou",
+  "clips": {
+    "kick_turn_out_nothinonyou_v2": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_turn_out_nothinonyou_v3": {
+      "avg_beats_per_second": 1.49,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_turn_out_nothinonyou_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_turn_out_nothinonyou_v1": {
+      "avg_beats_per_second": 1.49,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

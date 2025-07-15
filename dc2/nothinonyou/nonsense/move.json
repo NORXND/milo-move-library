@@ -1,0 +1,42 @@
+{
+  "name": "nonsense",
+  "difficulty": 0,
+  "display_name": "Nonsense",
+  "ham_move_name": "Nonsense_nothinonyou.move",
+  "milo_name": "nonsense_nothinonyou",
+  "song_name": "nothinonyou",
+  "clips": {
+    "nonsense_nothinonyou_v3": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "nonsense_nothinonyou_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "nonsense_nothinonyou_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "nonsense_nothinonyou_v2": {
+      "avg_beats_per_second": 1.48,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

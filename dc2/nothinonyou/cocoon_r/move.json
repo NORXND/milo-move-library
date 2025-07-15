@@ -1,0 +1,50 @@
+{
+  "name": "cocoon_r",
+  "difficulty": 1,
+  "display_name": "Cocoon",
+  "ham_move_name": "Pull_And_Melt_R_nothinonyou.move",
+  "milo_name": "pull_and_melt_r_nothinonyou",
+  "song_name": "nothinonyou",
+  "clips": {
+    "cocoon_r_nothinonyou_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cocoon_r_nothinonyou_v2": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cocoon_r_nothinonyou_v3": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cocoon_r_nothinonyou_v4": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cocoon_r_nothinonyou_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

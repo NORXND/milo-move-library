@@ -1,0 +1,26 @@
+{
+  "name": "say_what_arms",
+  "difficulty": 0,
+  "display_name": "Say What Arms",
+  "ham_move_name": "Say_What_nothinonyou.move",
+  "milo_name": "say_what_nothinonyou",
+  "song_name": "nothinonyou",
+  "clips": {
+    "say_what_arms_nothinonyou_v1": {
+      "avg_beats_per_second": 1.48,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "say_what_arms_nothinonyou_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

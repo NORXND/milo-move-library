@@ -1,0 +1,26 @@
+{
+  "name": "push_step",
+  "difficulty": 0,
+  "display_name": "Push Step",
+  "ham_move_name": "Push_Step_nothinonyou.move",
+  "milo_name": "push_step_nothinonyou",
+  "song_name": "nothinonyou",
+  "clips": {
+    "push_step_nothinonyou_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "push_step_nothinonyou_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

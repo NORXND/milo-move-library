@@ -1,0 +1,18 @@
+{
+  "name": "stay_strong",
+  "difficulty": 2,
+  "display_name": "Stay Strong",
+  "ham_move_name": "Stay_Strong_iwish.move",
+  "milo_name": "stay_strong_iwish",
+  "song_name": "iwish",
+  "clips": {
+    "stay_strong_iwish_v0": {
+      "avg_beats_per_second": 1.54,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

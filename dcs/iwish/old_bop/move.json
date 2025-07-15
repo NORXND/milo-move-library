@@ -1,0 +1,26 @@
+{
+  "name": "old_bop",
+  "difficulty": 0,
+  "display_name": "Old Bop",
+  "ham_move_name": "Old_Bop_iwish.move",
+  "milo_name": "old_bop_iwish",
+  "song_name": "iwish",
+  "clips": {
+    "old_bop_iwish_v0": {
+      "avg_beats_per_second": 1.54,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "old_bop_iwish_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

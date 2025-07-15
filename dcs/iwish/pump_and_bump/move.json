@@ -1,0 +1,26 @@
+{
+  "name": "pump_and_bump",
+  "difficulty": 1,
+  "display_name": "Pump & Bump",
+  "ham_move_name": "Pump_And_Bump_iwish.move",
+  "milo_name": "pump_and_bump_iwish",
+  "song_name": "iwish",
+  "clips": {
+    "pump_and_bump_iwish_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pump_and_bump_iwish_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

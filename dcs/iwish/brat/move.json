@@ -1,0 +1,18 @@
+{
+  "name": "brat",
+  "difficulty": 1,
+  "display_name": "Brat",
+  "ham_move_name": "Brat_iwish.move",
+  "milo_name": "brat_iwish",
+  "song_name": "iwish",
+  "clips": {
+    "brat_iwish_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

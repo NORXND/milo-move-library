@@ -1,0 +1,18 @@
+{
+  "name": "dizzy_hit",
+  "difficulty": 2,
+  "display_name": "Dizzy Hit",
+  "ham_move_name": "Dizzy_Hit_iwish.move",
+  "milo_name": "dizzy_hit_iwish",
+  "song_name": "iwish",
+  "clips": {
+    "dizzy_hit_iwish_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "shimmy_feet",
+  "difficulty": 1,
+  "display_name": "Shimmy Feet",
+  "ham_move_name": "Shimmy_Feet_iwish.move",
+  "milo_name": "shimmy_feet_iwish",
+  "song_name": "iwish",
+  "clips": {
+    "shimmy_feet_iwish_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shimmy_feet_iwish_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shimmy_feet_iwish_v2": {
+      "avg_beats_per_second": 1.53,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shimmy_feet_iwish_v3": {
+      "avg_beats_per_second": 1.53,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "say_what_now",
+  "difficulty": 2,
+  "display_name": "Say What Now",
+  "ham_move_name": "Say_What_Now_iwish.move",
+  "milo_name": "say_what_now_iwish",
+  "song_name": "iwish",
+  "clips": {
+    "say_what_now_iwish_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

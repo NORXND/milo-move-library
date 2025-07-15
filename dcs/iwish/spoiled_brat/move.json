@@ -1,0 +1,18 @@
+{
+  "name": "spoiled_brat",
+  "difficulty": 2,
+  "display_name": "Spoiled Brat",
+  "ham_move_name": "Spoiled_Brat_iwish.move",
+  "milo_name": "spoiled_brat_iwish",
+  "song_name": "iwish",
+  "clips": {
+    "spoiled_brat_iwish_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

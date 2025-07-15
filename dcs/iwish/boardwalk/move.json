@@ -1,0 +1,26 @@
+{
+  "name": "boardwalk",
+  "difficulty": 0,
+  "display_name": "Boardwalk",
+  "ham_move_name": "Boardwalk_iwish.move",
+  "milo_name": "boardwalk_iwish",
+  "song_name": "iwish",
+  "clips": {
+    "boardwalk_iwish_v0": {
+      "avg_beats_per_second": 1.79,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "boardwalk_iwish_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

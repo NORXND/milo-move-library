@@ -1,0 +1,26 @@
+{
+  "name": "march_and_wipe",
+  "difficulty": 0,
+  "display_name": "March & Wipe",
+  "ham_move_name": "March_And_Wipe_iwish.move",
+  "milo_name": "march_and_wipe_iwish",
+  "song_name": "iwish",
+  "clips": {
+    "march_and_wipe_iwish_v0": {
+      "avg_beats_per_second": 1.54,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "march_and_wipe_iwish_v1": {
+      "avg_beats_per_second": 1.54,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

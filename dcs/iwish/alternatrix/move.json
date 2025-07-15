@@ -1,0 +1,34 @@
+{
+  "name": "alternatrix",
+  "difficulty": 2,
+  "display_name": "Alternatrix",
+  "ham_move_name": "Alternatrix_iwish.move",
+  "milo_name": "alternatrix_iwish",
+  "song_name": "iwish",
+  "clips": {
+    "alternatrix_iwish_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "alternatrix_iwish_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "alternatrix_iwish_v2": {
+      "avg_beats_per_second": 1.53,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

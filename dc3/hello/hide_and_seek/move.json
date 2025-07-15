@@ -1,0 +1,42 @@
+{
+  "name": "hide_and_seek",
+  "difficulty": 2,
+  "display_name": "Hide & Seek",
+  "ham_move_name": "Not_The_One_hello.move",
+  "milo_name": "not_the_one_hello",
+  "song_name": "hello",
+  "clips": {
+    "hide_and_seek_hello_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hide_and_seek_hello_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hide_and_seek_hello_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hide_and_seek_hello_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

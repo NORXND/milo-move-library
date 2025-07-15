@@ -1,0 +1,18 @@
+{
+  "name": "chest_tick",
+  "difficulty": 2,
+  "display_name": "Chest Tick",
+  "ham_move_name": "Ticky_hello.move",
+  "milo_name": "ticky_hello",
+  "song_name": "hello",
+  "clips": {
+    "chest_tick_hello_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

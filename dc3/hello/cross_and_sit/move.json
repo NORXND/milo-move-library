@@ -1,0 +1,18 @@
+{
+  "name": "cross_and_sit",
+  "difficulty": 1,
+  "display_name": "Cross & Sit",
+  "ham_move_name": "Cross_Swings_hello.move",
+  "milo_name": "cross_swings_hello",
+  "song_name": "hello",
+  "clips": {
+    "cross_and_sit_hello_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

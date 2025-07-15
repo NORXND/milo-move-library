@@ -1,0 +1,26 @@
+{
+  "name": "side_pound_l",
+  "difficulty": 1,
+  "display_name": "Side Pound",
+  "ham_move_name": "Side_Pumps_L_hello.move",
+  "milo_name": "side_pumps_l_hello",
+  "song_name": "hello",
+  "clips": {
+    "side_pound_l_hello_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "side_pound_r_hello_v0",
+      "linked_from": ""
+    },
+    "side_pound_l_hello_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "side_pound_r_hello_v1",
+      "linked_from": ""
+    }
+  }
+}

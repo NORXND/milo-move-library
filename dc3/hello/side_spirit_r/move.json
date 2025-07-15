@@ -1,0 +1,26 @@
+{
+  "name": "side_spirit_r",
+  "difficulty": 2,
+  "display_name": "Side Spirit",
+  "ham_move_name": "Push_It_Down_R_hello.move",
+  "milo_name": "push_it_down_r_hello",
+  "song_name": "hello",
+  "clips": {
+    "side_spirit_r_hello_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "side_spirit_l_hello_v1"
+    },
+    "side_spirit_r_hello_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "side_spirit_l_hello_v0"
+    }
+  }
+}

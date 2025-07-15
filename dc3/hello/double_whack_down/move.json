@@ -1,0 +1,42 @@
+{
+  "name": "double_whack_down",
+  "difficulty": 2,
+  "display_name": "Double Whack Down",
+  "ham_move_name": "Whack_It_hello.move",
+  "milo_name": "whack_it_hello",
+  "song_name": "hello",
+  "clips": {
+    "double_whack_down_hello_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_whack_down_hello_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_whack_down_hello_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_whack_down_hello_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

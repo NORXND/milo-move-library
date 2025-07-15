@@ -1,0 +1,18 @@
+{
+  "name": "exception_spotlight_2",
+  "difficulty": 2,
+  "display_name": "Spotlight",
+  "ham_move_name": "Live_It_Up_2_hello.move",
+  "milo_name": "live_it_up_2_hello",
+  "song_name": "hello",
+  "clips": {
+    "spotlight_hello_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "spotlight_hello_v0"
+    }
+  }
+}

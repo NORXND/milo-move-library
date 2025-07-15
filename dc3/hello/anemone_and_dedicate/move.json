@@ -1,0 +1,26 @@
+{
+  "name": "anemone_and_dedicate",
+  "difficulty": 2,
+  "display_name": "Anemone / Dedicate",
+  "ham_move_name": "Find_It_hello.move",
+  "milo_name": "find_it_hello",
+  "song_name": "hello",
+  "clips": {
+    "anemone_and_dedicate_hello_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "anemone_and_dedicate_hello_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

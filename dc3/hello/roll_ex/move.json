@@ -1,0 +1,42 @@
+{
+  "name": "roll_ex",
+  "difficulty": 0,
+  "display_name": "Roll Ex",
+  "ham_move_name": "X_Swivel_hello.move",
+  "milo_name": "x_swivel_hello",
+  "song_name": "hello",
+  "clips": {
+    "roll_ex_hello_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roll_ex_hello_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roll_ex_hello_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roll_ex_hello_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

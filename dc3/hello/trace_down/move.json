@@ -1,0 +1,34 @@
+{
+  "name": "trace_down",
+  "difficulty": 2,
+  "display_name": "Trace Down",
+  "ham_move_name": "My_Body_hello.move",
+  "milo_name": "my_body_hello",
+  "song_name": "hello",
+  "clips": {
+    "trace_down_hello_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "trace_down_hello_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "trace_down_hello_v2": {
+      "avg_beats_per_second": 1.83,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

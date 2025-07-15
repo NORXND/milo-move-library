@@ -1,0 +1,18 @@
+{
+  "name": "fan_out_r",
+  "difficulty": 2,
+  "display_name": "Fan Out",
+  "ham_move_name": "Flashy_Hands_R_hello.move",
+  "milo_name": "flashy_hands_r_hello",
+  "song_name": "hello",
+  "clips": {
+    "fan_out_r_hello_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "fan_out_l_hello_v0",
+      "linked_from": ""
+    }
+  }
+}

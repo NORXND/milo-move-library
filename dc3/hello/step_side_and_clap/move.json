@@ -1,0 +1,26 @@
+{
+  "name": "step_side_and_clap",
+  "difficulty": 0,
+  "display_name": "Step Side & Clap",
+  "ham_move_name": "Side_Clap_hello.move",
+  "milo_name": "side_clap_hello",
+  "song_name": "hello",
+  "clips": {
+    "step_side_and_clap_hello_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_and_clap_hello_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

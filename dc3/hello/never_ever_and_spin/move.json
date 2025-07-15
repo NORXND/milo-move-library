@@ -1,0 +1,26 @@
+{
+  "name": "never_ever_and_spin",
+  "difficulty": 2,
+  "display_name": "Never Ever / Spin",
+  "ham_move_name": "Stompy_Brat_hello.move",
+  "milo_name": "stompy_brat_hello",
+  "song_name": "hello",
+  "clips": {
+    "never_ever_and_spin_hello_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "never_ever_and_spin_hello_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

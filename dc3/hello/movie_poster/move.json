@@ -1,0 +1,26 @@
+{
+  "name": "movie_poster",
+  "difficulty": 2,
+  "display_name": "Movie Poster",
+  "ham_move_name": "Flirtacious_hello.move",
+  "milo_name": "flirtacious_hello",
+  "song_name": "hello",
+  "clips": {
+    "movie_poster_hello_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "movie_poster_hello_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

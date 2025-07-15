@@ -1,0 +1,26 @@
+{
+  "name": "oh_hai",
+  "difficulty": 2,
+  "display_name": "Oh Hai",
+  "ham_move_name": "Oh_Hi_hello.move",
+  "milo_name": "oh_hi_hello",
+  "song_name": "hello",
+  "clips": {
+    "oh_hai_hello_v0": {
+      "avg_beats_per_second": 1.82,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "oh_hai_hello_v1": {
+      "avg_beats_per_second": 1.82,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

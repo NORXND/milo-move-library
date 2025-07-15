@@ -1,0 +1,18 @@
+{
+  "name": "hip_swing_and_grab",
+  "difficulty": 2,
+  "display_name": "Hip Swing & Grab",
+  "ham_move_name": "Hip_Swing_and_Grab_justdance.move",
+  "milo_name": "hip_swing_and_grab_justdance",
+  "song_name": "justdance",
+  "clips": {
+    "hip_swing_and_grab_justdance_v0": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_justdance_v1065",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "End_Pose_justdance.move",
+  "milo_name": "end_pose_justdance",
+  "song_name": "justdance",
+  "clips": {
+    "finishing_move_justdance_v1065": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

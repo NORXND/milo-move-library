@@ -1,0 +1,18 @@
+{
+  "name": "fist_pump",
+  "difficulty": 0,
+  "display_name": "Fist Pump",
+  "ham_move_name": "Fist_Pump_justdance.move",
+  "milo_name": "fist_pump_justdance",
+  "song_name": "justdance",
+  "clips": {
+    "fist_pump_justdance_v0": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

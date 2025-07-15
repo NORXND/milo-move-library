@@ -1,0 +1,26 @@
+{
+  "name": "pose_swing",
+  "difficulty": 0,
+  "display_name": "Pose Swing",
+  "ham_move_name": "Hip_Swing_justdance.move",
+  "milo_name": "hip_swing_justdance",
+  "song_name": "justdance",
+  "clips": {
+    "pose_swing_justdance_v0": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pose_swing_justdance_v1": {
+      "avg_beats_per_second": 1.97,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

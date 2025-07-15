@@ -1,0 +1,18 @@
+{
+  "name": "earache",
+  "difficulty": 1,
+  "display_name": "Earache",
+  "ham_move_name": "Ear_Ache_justdance.move",
+  "milo_name": "ear_ache_justdance",
+  "song_name": "justdance",
+  "clips": {
+    "earache_justdance_v0": {
+      "avg_beats_per_second": 1.97,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

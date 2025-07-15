@@ -1,0 +1,18 @@
+{
+  "name": "prep_and_spin",
+  "difficulty": 2,
+  "display_name": "Prep & Spin",
+  "ham_move_name": "Back_Cross_and_Turn_justdance.move",
+  "milo_name": "back_cross_and_turn_justdance",
+  "song_name": "justdance",
+  "clips": {
+    "prep_and_spin_justdance_v0": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

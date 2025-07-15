@@ -1,0 +1,18 @@
+{
+  "name": "cut_it_out",
+  "difficulty": 1,
+  "display_name": "Cut It Out",
+  "ham_move_name": "Cut_It_Out_justdance.move",
+  "milo_name": "cut_it_out_justdance",
+  "song_name": "justdance",
+  "clips": {
+    "cut_it_out_justdance_v0": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

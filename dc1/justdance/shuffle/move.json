@@ -1,0 +1,18 @@
+{
+  "name": "shuffle",
+  "difficulty": 2,
+  "display_name": "Shuffle",
+  "ham_move_name": "Shuffle_justdance.move",
+  "milo_name": "shuffle_justdance",
+  "song_name": "justdance",
+  "clips": {
+    "shuffle_justdance_v0": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

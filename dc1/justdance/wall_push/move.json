@@ -1,0 +1,18 @@
+{
+  "name": "wall_push",
+  "difficulty": 1,
+  "display_name": "Wall Push",
+  "ham_move_name": "Wall_Push_justdance.move",
+  "milo_name": "wall_push_justdance",
+  "song_name": "justdance",
+  "clips": {
+    "wall_push_justdance_v0": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

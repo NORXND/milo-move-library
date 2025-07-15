@@ -1,0 +1,18 @@
+{
+  "name": "luster",
+  "difficulty": 0,
+  "display_name": "Luster",
+  "ham_move_name": "Reach_4_Stars_justdance.move",
+  "milo_name": "reach_4_stars_justdance",
+  "song_name": "justdance",
+  "clips": {
+    "luster_justdance_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

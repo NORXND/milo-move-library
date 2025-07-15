@@ -1,0 +1,42 @@
+{
+  "name": "breakhouse_shuffle",
+  "difficulty": 1,
+  "display_name": "Breakhouse, Shuffle",
+  "ham_move_name": "Breakhouse_Shuffle_justdance.move",
+  "milo_name": "breakhouse_shuffle_justdance",
+  "song_name": "justdance",
+  "clips": {
+    "breakhouse_shuffle_justdance_v0": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "breakhouse_shuffle_justdance_v1": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "breakhouse_shuffle_justdance_v2": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "breakhouse_shuffle_justdance_v3": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

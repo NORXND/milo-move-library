@@ -1,0 +1,18 @@
+{
+  "name": "insane",
+  "difficulty": 0,
+  "display_name": "Insane",
+  "ham_move_name": "Insane_dontsweat.move",
+  "milo_name": "insane_dontsweat",
+  "song_name": "dontsweat",
+  "clips": {
+    "insane_dontsweat_v0": {
+      "avg_beats_per_second": 1.76,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

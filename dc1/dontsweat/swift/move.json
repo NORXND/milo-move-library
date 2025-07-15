@@ -1,0 +1,50 @@
+{
+  "name": "swift",
+  "difficulty": 0,
+  "display_name": "Swift",
+  "ham_move_name": "Swift_dontsweat.move",
+  "milo_name": "swift_dontsweat",
+  "song_name": "dontsweat",
+  "clips": {
+    "swift_dontsweat_v2": {
+      "avg_beats_per_second": 1.76,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swift_dontsweat_v0": {
+      "avg_beats_per_second": 1.77,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swift_dontsweat_v3": {
+      "avg_beats_per_second": 1.76,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swift_dontsweat_v1": {
+      "avg_beats_per_second": 1.76,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swift_dontsweat_v4": {
+      "avg_beats_per_second": 1.77,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

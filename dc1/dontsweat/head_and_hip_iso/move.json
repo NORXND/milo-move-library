@@ -1,0 +1,18 @@
+{
+  "name": "head_and_hip_iso",
+  "difficulty": 2,
+  "display_name": "Head & Hip Iso",
+  "ham_move_name": "Head_and_Hip_Iso_dontsweat.move",
+  "milo_name": "head_and_hip_iso_dontsweat",
+  "song_name": "dontsweat",
+  "clips": {
+    "head_and_hip_iso_dontsweat_v0": {
+      "avg_beats_per_second": 1.76,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

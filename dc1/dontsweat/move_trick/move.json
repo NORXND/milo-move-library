@@ -1,0 +1,18 @@
+{
+  "name": "move_trick",
+  "difficulty": 1,
+  "display_name": "Move Trick",
+  "ham_move_name": "Move_Trick_dontsweat.move",
+  "milo_name": "move_trick_dontsweat",
+  "song_name": "dontsweat",
+  "clips": {
+    "move_trick_dontsweat_v0": {
+      "avg_beats_per_second": 1.76,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

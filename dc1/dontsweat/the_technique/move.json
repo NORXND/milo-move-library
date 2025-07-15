@@ -1,0 +1,26 @@
+{
+  "name": "the_technique",
+  "difficulty": 0,
+  "display_name": "The Technique",
+  "ham_move_name": "The_Technique_dontsweat.move",
+  "milo_name": "the_technique_dontsweat",
+  "song_name": "dontsweat",
+  "clips": {
+    "the_technique_dontsweat_v0": {
+      "avg_beats_per_second": 1.76,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "the_technique_dontsweat_v1": {
+      "avg_beats_per_second": 1.76,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

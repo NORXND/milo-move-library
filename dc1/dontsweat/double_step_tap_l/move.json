@@ -1,0 +1,18 @@
+{
+  "name": "double_step_tap_l",
+  "difficulty": 2,
+  "display_name": "Double Step Tap",
+  "ham_move_name": "Double_Tap_L_dontsweat.move",
+  "milo_name": "double_tap_l_dontsweat",
+  "song_name": "dontsweat",
+  "clips": {
+    "double_step_tap_l_dontsweat_v0": {
+      "avg_beats_per_second": 1.76,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "double_step_tap_r_dontsweat_v0",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "quick_step",
+  "difficulty": 2,
+  "display_name": "Quick Step",
+  "ham_move_name": "Quick_Step_dontsweat.move",
+  "milo_name": "quick_step_dontsweat",
+  "song_name": "dontsweat",
+  "clips": {
+    "quick_step_dontsweat_v1": {
+      "avg_beats_per_second": 1.77,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "quick_step_dontsweat_v2": {
+      "avg_beats_per_second": 1.77,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "quick_step_dontsweat_v3": {
+      "avg_beats_per_second": 1.76,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "quick_step_dontsweat_v4": {
+      "avg_beats_per_second": 1.77,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "quick_step_dontsweat_v0": {
+      "avg_beats_per_second": 1.77,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

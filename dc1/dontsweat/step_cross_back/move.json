@@ -1,0 +1,18 @@
+{
+  "name": "step_cross_back",
+  "difficulty": 0,
+  "display_name": "Step Cross Back",
+  "ham_move_name": "Step_Cross_Back_dontsweat.move",
+  "milo_name": "step_cross_back_dontsweat",
+  "song_name": "dontsweat",
+  "clips": {
+    "step_cross_back_dontsweat_v0": {
+      "avg_beats_per_second": 1.76,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

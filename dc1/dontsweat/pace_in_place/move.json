@@ -1,0 +1,26 @@
+{
+  "name": "pace_in_place",
+  "difficulty": 2,
+  "display_name": "Pace in Place",
+  "ham_move_name": "Stud_dontsweat.move",
+  "milo_name": "stud_dontsweat",
+  "song_name": "dontsweat",
+  "clips": {
+    "pace_in_place_dontsweat_v0": {
+      "avg_beats_per_second": 1.76,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pace_in_place_dontsweat_v1": {
+      "avg_beats_per_second": 1.76,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

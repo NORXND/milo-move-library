@@ -1,0 +1,18 @@
+{
+  "name": "grab_n_go",
+  "difficulty": 1,
+  "display_name": "Grab 'N Go",
+  "ham_move_name": "Grab_N_Go_dontsweat.move",
+  "milo_name": "grab_n_go_dontsweat",
+  "song_name": "dontsweat",
+  "clips": {
+    "grab_n_go_dontsweat_v0": {
+      "avg_beats_per_second": 1.76,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

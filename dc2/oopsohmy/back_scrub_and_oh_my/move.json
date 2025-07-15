@@ -1,0 +1,34 @@
+{
+  "name": "back_scrub_and_oh_my",
+  "difficulty": 2,
+  "display_name": "Back Scrub / Oh My",
+  "ham_move_name": "Stretch_On_oopsohmy.move",
+  "milo_name": "stretch_on_oopsohmy",
+  "song_name": "oopsohmy",
+  "clips": {
+    "back_scrub_and_oh_my_oopsohmy_v1": {
+      "avg_beats_per_second": 1.33,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "back_scrub_and_oh_my_oopsohmy_v2": {
+      "avg_beats_per_second": 1.33,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "back_scrub_and_oh_my_oopsohmy_v0": {
+      "avg_beats_per_second": 1.33,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "thrown",
+  "difficulty": 0,
+  "display_name": "Thrown",
+  "ham_move_name": "Thrown_oopsohmy.move",
+  "milo_name": "thrown_oopsohmy",
+  "song_name": "oopsohmy",
+  "clips": {
+    "thrown_oopsohmy_v0": {
+      "avg_beats_per_second": 1.33,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "brain_freeze",
+  "difficulty": 0,
+  "display_name": "Brain Freeze",
+  "ham_move_name": "Migrane_oopsohmy.move",
+  "milo_name": "migrane_oopsohmy",
+  "song_name": "oopsohmy",
+  "clips": {
+    "brain_freeze_oopsohmy_v0": {
+      "avg_beats_per_second": 1.33,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

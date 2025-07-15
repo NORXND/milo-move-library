@@ -1,0 +1,18 @@
+{
+  "name": "heartstrong",
+  "difficulty": 2,
+  "display_name": "Heartstrong",
+  "ham_move_name": "Strength_Pull_oopsohmy.move",
+  "milo_name": "strength_pull_oopsohmy",
+  "song_name": "oopsohmy",
+  "clips": {
+    "heartstrong_oopsohmy_v0": {
+      "avg_beats_per_second": 1.33,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

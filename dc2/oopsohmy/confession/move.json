@@ -1,0 +1,18 @@
+{
+  "name": "confession",
+  "difficulty": 2,
+  "display_name": "Confession",
+  "ham_move_name": "Utterance_oopsohmy.move",
+  "milo_name": "utterance_oopsohmy",
+  "song_name": "oopsohmy",
+  "clips": {
+    "confession_oopsohmy_v0": {
+      "avg_beats_per_second": 1.33,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

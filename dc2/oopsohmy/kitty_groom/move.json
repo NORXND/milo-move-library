@@ -1,0 +1,34 @@
+{
+  "name": "kitty_groom",
+  "difficulty": 1,
+  "display_name": "Kitty Groom",
+  "ham_move_name": "Kitty_Together_oopsohmy.move",
+  "milo_name": "kitty_together_oopsohmy",
+  "song_name": "oopsohmy",
+  "clips": {
+    "kitty_groom_oopsohmy_v0": {
+      "avg_beats_per_second": 1.33,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kitty_groom_oopsohmy_v1": {
+      "avg_beats_per_second": 1.33,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kitty_groom_oopsohmy_v2": {
+      "avg_beats_per_second": 1.33,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

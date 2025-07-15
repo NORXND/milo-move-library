@@ -1,0 +1,58 @@
+{
+  "name": "spice_and_raise_l",
+  "difficulty": 2,
+  "display_name": "Spice & Raise",
+  "ham_move_name": "Spice_Groove_L_spiceupyourlife.move",
+  "milo_name": "spice_groove_l_spiceupyourlife",
+  "song_name": "spiceupyourlife",
+  "clips": {
+    "spice_and_raise_l_spiceupyourlife_v4": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "spice_and_raise_r_spiceupyourlife_v2",
+      "linked_from": ""
+    },
+    "spice_and_raise_l_spiceupyourlife_v5": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "spice_and_raise_r_spiceupyourlife_v2"
+    },
+    "spice_and_raise_l_spiceupyourlife_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "spice_and_raise_r_spiceupyourlife_v0",
+      "linked_from": ""
+    },
+    "spice_and_raise_l_spiceupyourlife_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "spice_and_raise_r_spiceupyourlife_v0"
+    },
+    "spice_and_raise_l_spiceupyourlife_v2": {
+      "avg_beats_per_second": 1.78,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "spice_and_raise_r_spiceupyourlife_v1",
+      "linked_from": ""
+    },
+    "spice_and_raise_l_spiceupyourlife_v3": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "spice_and_raise_r_spiceupyourlife_v1"
+    }
+  }
+}

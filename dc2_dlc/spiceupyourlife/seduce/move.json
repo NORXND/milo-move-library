@@ -1,0 +1,18 @@
+{
+  "name": "seduce",
+  "difficulty": 0,
+  "display_name": "Seduce",
+  "ham_move_name": "Sensual_spiceupyourlife.move",
+  "milo_name": "sensual_spiceupyourlife",
+  "song_name": "spiceupyourlife",
+  "clips": {
+    "seduce_spiceupyourlife_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

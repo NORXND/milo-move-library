@@ -1,0 +1,18 @@
+{
+  "name": "i_wantchu",
+  "difficulty": 0,
+  "display_name": "I Wantchu",
+  "ham_move_name": "Point_It_Out_spiceupyourlife.move",
+  "milo_name": "point_it_out_spiceupyourlife",
+  "song_name": "spiceupyourlife",
+  "clips": {
+    "i_wantchu_spiceupyourlife_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "slow_shimmy",
+  "difficulty": 0,
+  "display_name": "Slow Shimmy",
+  "ham_move_name": "Slow_Shimm_spiceupyourlife.move",
+  "milo_name": "slow_shimm_spiceupyourlife",
+  "song_name": "spiceupyourlife",
+  "clips": {
+    "slow_shimmy_spiceupyourlife_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slow_shimmy_spiceupyourlife_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "kichi",
+  "difficulty": 0,
+  "display_name": "Kichi",
+  "ham_move_name": "Hi_Ci_Ja_spiceupyourlife.move",
+  "milo_name": "hi_ci_ja_spiceupyourlife",
+  "song_name": "spiceupyourlife",
+  "clips": {
+    "kichi_spiceupyourlife_v1": {
+      "avg_beats_per_second": 1.77,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kichi_spiceupyourlife_v2": {
+      "avg_beats_per_second": 1.77,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kichi_spiceupyourlife_v3": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kichi_spiceupyourlife_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

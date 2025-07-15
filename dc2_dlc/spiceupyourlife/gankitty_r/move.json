@@ -1,0 +1,18 @@
+{
+  "name": "gankitty_r",
+  "difficulty": 0,
+  "display_name": "Gankitty",
+  "ham_move_name": "Bi_Bi_R_spiceupyourlife.move",
+  "milo_name": "bi_bi_r_spiceupyourlife",
+  "song_name": "spiceupyourlife",
+  "clips": {
+    "gankitty_r_spiceupyourlife_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "gankitty_l_spiceupyourlife_v0"
+    }
+  }
+}

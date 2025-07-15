@@ -1,0 +1,18 @@
+{
+  "name": "bratty_run",
+  "difficulty": 2,
+  "display_name": "Bratty Run",
+  "ham_move_name": "Fairy_Run_spiceupyourlife.move",
+  "milo_name": "fairy_run_spiceupyourlife",
+  "song_name": "spiceupyourlife",
+  "clips": {
+    "bratty_run_spiceupyourlife_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

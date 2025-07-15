@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_spiceupyourlife_v1083",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_spiceupyourlife.move",
+  "milo_name": "finishing_move_spiceupyourlife",
+  "song_name": "spiceupyourlife",
+  "clips": {
+    "finishing_move_spiceupyourlife_v1083": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

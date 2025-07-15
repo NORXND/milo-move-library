@@ -1,0 +1,26 @@
+{
+  "name": "tear_it_down_l",
+  "difficulty": 0,
+  "display_name": "Tear It Down",
+  "ham_move_name": "Yes_L_likeag6.move",
+  "milo_name": "yes_l_likeag6",
+  "song_name": "likeag6",
+  "clips": {
+    "tear_it_down_l_likeag6_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "tear_it_down_r_likeag6_v0",
+      "linked_from": ""
+    },
+    "tear_it_down_l_likeag6_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "tear_it_down_r_likeag6_v1",
+      "linked_from": "tear_it_down_r_likeag6_v0"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "poser_r",
+  "difficulty": 2,
+  "display_name": "Poser",
+  "ham_move_name": "Poser_R_likeag6.move",
+  "milo_name": "poser_r_likeag6",
+  "song_name": "likeag6",
+  "clips": {
+    "poser_r_likeag6_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "poser_l_likeag6_v0"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "put_your_hand_up_r",
+  "difficulty": 0,
+  "display_name": "Put Your Hand Up",
+  "ham_move_name": "Put_Your_Hand_Up_R_likeag6.move",
+  "milo_name": "put_your_hand_up_r_likeag6",
+  "song_name": "likeag6",
+  "clips": {
+    "put_your_hand_up_r_likeag6_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "put_your_hand_up_l_likeag6_v1",
+      "linked_from": ""
+    },
+    "put_your_hand_up_r_likeag6_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "put_your_hand_up_l_likeag6_v0",
+      "linked_from": ""
+    }
+  }
+}

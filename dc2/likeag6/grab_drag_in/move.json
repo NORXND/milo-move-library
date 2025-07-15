@@ -1,0 +1,42 @@
+{
+  "name": "grab_drag_in",
+  "difficulty": 0,
+  "display_name": "Grab Drag In",
+  "ham_move_name": "Bottles_On_Ice_likeag6.move",
+  "milo_name": "bottles_on_ice_likeag6",
+  "song_name": "likeag6",
+  "clips": {
+    "grab_drag_in_likeag6_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "grab_drag_in_likeag6_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "grab_drag_in_likeag6_v2": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "grab_drag_in_likeag6_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

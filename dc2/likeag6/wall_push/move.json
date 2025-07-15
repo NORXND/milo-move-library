@@ -1,0 +1,26 @@
+{
+  "name": "wall_push",
+  "difficulty": 1,
+  "display_name": "Wall Push",
+  "ham_move_name": "Wall_Push_likeag6.move",
+  "milo_name": "wall_push_likeag6",
+  "song_name": "likeag6",
+  "clips": {
+    "wall_push_likeag6_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wall_push_likeag6_v1": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

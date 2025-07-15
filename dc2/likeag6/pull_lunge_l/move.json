@@ -1,0 +1,26 @@
+{
+  "name": "pull_lunge_l",
+  "difficulty": 2,
+  "display_name": "Pull Lunge",
+  "ham_move_name": "Pull_Lunge_L_likeag6.move",
+  "milo_name": "pull_lunge_l_likeag6",
+  "song_name": "likeag6",
+  "clips": {
+    "pull_lunge_l_likeag6_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pull_lunge_l_likeag6_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "pull_lunge_r_likeag6_v0",
+      "linked_from": ""
+    }
+  }
+}

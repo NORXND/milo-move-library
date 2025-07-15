@@ -1,0 +1,18 @@
+{
+  "name": "kick_step_stop",
+  "difficulty": 2,
+  "display_name": "Kick Step Stop!",
+  "ham_move_name": "Kick_Step_Stop_likeag6.move",
+  "milo_name": "kick_step_stop_likeag6",
+  "song_name": "likeag6",
+  "clips": {
+    "kick_step_stop_likeag6_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

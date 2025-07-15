@@ -1,0 +1,58 @@
+{
+  "name": "getting_busy",
+  "difficulty": 1,
+  "display_name": "Getting Busy",
+  "ham_move_name": "Getting_Busy_whoomp.move",
+  "milo_name": "getting_busy_whoomp",
+  "song_name": "whoomp",
+  "clips": {
+    "getting_busy_whoomp_v3": {
+      "avg_beats_per_second": 1.84,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "getting_busy_whoomp_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "getting_busy_whoomp_v4": {
+      "avg_beats_per_second": 2.16,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "getting_busy_whoomp_v2": {
+      "avg_beats_per_second": 2.16,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "getting_busy_whoomp_v0": {
+      "avg_beats_per_second": 2.16,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "getting_busy_whoomp_v5": {
+      "avg_beats_per_second": 1.85,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "sole_step",
+  "difficulty": 2,
+  "display_name": "Sole Step",
+  "ham_move_name": "Sole_Step_whoomp.move",
+  "milo_name": "sole_step_whoomp",
+  "song_name": "whoomp",
+  "clips": {
+    "sole_step_whoomp_v0": {
+      "avg_beats_per_second": 2.16,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

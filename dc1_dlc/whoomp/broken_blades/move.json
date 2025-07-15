@@ -1,0 +1,26 @@
+{
+  "name": "broken_blades",
+  "difficulty": 0,
+  "display_name": "Broken Blades",
+  "ham_move_name": "Broken_Blades_whoomp.move",
+  "milo_name": "broken_blades_whoomp",
+  "song_name": "whoomp",
+  "clips": {
+    "broken_blades_whoomp_v1": {
+      "avg_beats_per_second": 2.29,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "broken_blades_whoomp_v0": {
+      "avg_beats_per_second": 1.85,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

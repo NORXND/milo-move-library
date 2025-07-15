@@ -1,0 +1,34 @@
+{
+  "name": "propeller_r",
+  "difficulty": 1,
+  "display_name": "Propeller",
+  "ham_move_name": "Propeller_R_whoomp.move",
+  "milo_name": "propeller_r_whoomp",
+  "song_name": "whoomp",
+  "clips": {
+    "propeller_r_whoomp_v1": {
+      "avg_beats_per_second": 2.16,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "propeller_l_whoomp_v1",
+      "linked_from": ""
+    },
+    "propeller_r_whoomp_v2": {
+      "avg_beats_per_second": 2.16,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "propeller_l_whoomp_v2",
+      "linked_from": ""
+    },
+    "propeller_r_whoomp_v0": {
+      "avg_beats_per_second": 2.16,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "propeller_l_whoomp_v0",
+      "linked_from": ""
+    }
+  }
+}

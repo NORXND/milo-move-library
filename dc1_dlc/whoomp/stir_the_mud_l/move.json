@@ -1,0 +1,18 @@
+{
+  "name": "stir_the_mud_l",
+  "difficulty": 0,
+  "display_name": "Stir The Mud",
+  "ham_move_name": "Stir_The_Mud_L_whoomp.move",
+  "milo_name": "stir_the_mud_l_whoomp",
+  "song_name": "whoomp",
+  "clips": {
+    "stir_the_mud_l_whoomp_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "stir_the_mud_r_whoomp_v0"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "boxer",
+  "difficulty": 1,
+  "display_name": "Boxer",
+  "ham_move_name": "Bolster_whoomp.move",
+  "milo_name": "bolster_whoomp",
+  "song_name": "whoomp",
+  "clips": {
+    "boxer_whoomp_v0": {
+      "avg_beats_per_second": 1.87,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "boxer_whoomp_v1": {
+      "avg_beats_per_second": 2.16,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

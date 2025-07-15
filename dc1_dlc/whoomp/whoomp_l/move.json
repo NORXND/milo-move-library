@@ -1,0 +1,58 @@
+{
+  "name": "whoomp_l",
+  "difficulty": 2,
+  "display_name": "Whoomp",
+  "ham_move_name": "Whoomp_L_whoomp.move",
+  "milo_name": "whoomp_l_whoomp",
+  "song_name": "whoomp",
+  "clips": {
+    "whoomp_l_whoomp_v2": {
+      "avg_beats_per_second": 2.16,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "whoomp_r_whoomp_v3",
+      "linked_from": "whoomp_r_whoomp_v2"
+    },
+    "whoomp_l_whoomp_v3": {
+      "avg_beats_per_second": 2.15,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "whoomp_r_whoomp_v3"
+    },
+    "whoomp_l_whoomp_v4": {
+      "avg_beats_per_second": 2.16,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "whoomp_r_whoomp_v5",
+      "linked_from": "whoomp_r_whoomp_v4"
+    },
+    "whoomp_l_whoomp_v5": {
+      "avg_beats_per_second": 2.15,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "whoomp_r_whoomp_v5"
+    },
+    "whoomp_l_whoomp_v0": {
+      "avg_beats_per_second": 2.16,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "whoomp_r_whoomp_v1",
+      "linked_from": "whoomp_r_whoomp_v0"
+    },
+    "whoomp_l_whoomp_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "whoomp_r_whoomp_v1"
+    }
+  }
+}

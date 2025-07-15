@@ -1,0 +1,18 @@
+{
+  "name": "shout_out",
+  "difficulty": 1,
+  "display_name": "Shout Out",
+  "ham_move_name": "Shout_Out_whoomp.move",
+  "milo_name": "shout_out_whoomp",
+  "song_name": "whoomp",
+  "clips": {
+    "shout_out_whoomp_v0": {
+      "avg_beats_per_second": 2.16,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

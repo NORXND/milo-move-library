@@ -1,0 +1,34 @@
+{
+  "name": "throw_it_up",
+  "difficulty": 0,
+  "display_name": "Throw It Up",
+  "ham_move_name": "Throw_It_Up_whoomp.move",
+  "milo_name": "throw_it_up_whoomp",
+  "song_name": "whoomp",
+  "clips": {
+    "throw_it_up_whoomp_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "throw_it_up_whoomp_v0": {
+      "avg_beats_per_second": 2.16,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "throw_it_up_whoomp_v1": {
+      "avg_beats_per_second": 2.16,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

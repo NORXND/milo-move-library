@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_alejandro_v1068",
+  "difficulty": 2,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_alejandro.move",
+  "milo_name": "finishing_move_alejandro",
+  "song_name": "alejandro",
+  "clips": {
+    "finishing_move_alejandro_v1068": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 74,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

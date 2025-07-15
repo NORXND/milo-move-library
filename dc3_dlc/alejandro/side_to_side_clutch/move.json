@@ -1,0 +1,26 @@
+{
+  "name": "side_to_side_clutch",
+  "difficulty": 2,
+  "display_name": "Side To Side Clutch",
+  "ham_move_name": "Grasp_alejandro.move",
+  "milo_name": "grasp_alejandro",
+  "song_name": "alejandro",
+  "clips": {
+    "side_to_side_clutch_alejandro_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "side_to_side_clutch_alejandro_v1": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

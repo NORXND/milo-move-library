@@ -1,0 +1,26 @@
+{
+  "name": "vivre",
+  "difficulty": 2,
+  "display_name": "Vivre",
+  "ham_move_name": "Come_2_Life_alejandro.move",
+  "milo_name": "come_2_life_alejandro",
+  "song_name": "alejandro",
+  "clips": {
+    "vivre_alejandro_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "vivre_alejandro_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

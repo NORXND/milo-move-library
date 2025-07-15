@@ -1,0 +1,26 @@
+{
+  "name": "weave",
+  "difficulty": 0,
+  "display_name": "Weave",
+  "ham_move_name": "Hikkup_alejandro.move",
+  "milo_name": "hikkup_alejandro",
+  "song_name": "alejandro",
+  "clips": {
+    "weave_alejandro_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "weave_alejandro_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

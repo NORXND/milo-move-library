@@ -1,0 +1,34 @@
+{
+  "name": "dusk_bow",
+  "difficulty": 2,
+  "display_name": "Dusk Bow",
+  "ham_move_name": "Let_Go_alejandro.move",
+  "milo_name": "let_go_alejandro",
+  "song_name": "alejandro",
+  "clips": {
+    "dusk_bow_alejandro_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dusk_bow_alejandro_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dusk_bow_alejandro_v2": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

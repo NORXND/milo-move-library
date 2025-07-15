@@ -1,0 +1,26 @@
+{
+  "name": "cross_and_tap",
+  "difficulty": 2,
+  "display_name": "Cross & Tap",
+  "ham_move_name": "Access_alejandro.move",
+  "milo_name": "access_alejandro",
+  "song_name": "alejandro",
+  "clips": {
+    "cross_and_tap_alejandro_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_and_tap_alejandro_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

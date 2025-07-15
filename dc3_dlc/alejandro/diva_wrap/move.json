@@ -1,0 +1,34 @@
+{
+  "name": "diva_wrap",
+  "difficulty": 2,
+  "display_name": "Diva Wrap",
+  "ham_move_name": "Soft_Touch_alejandro.move",
+  "milo_name": "soft_touch_alejandro",
+  "song_name": "alejandro",
+  "clips": {
+    "diva_wrap_alejandro_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_wrap_alejandro_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_wrap_alejandro_v2": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

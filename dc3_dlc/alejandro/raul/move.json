@@ -1,0 +1,26 @@
+{
+  "name": "raul",
+  "difficulty": 2,
+  "display_name": "Raul",
+  "ham_move_name": "Clap_It_alejandro.move",
+  "milo_name": "clap_it_alejandro",
+  "song_name": "alejandro",
+  "clips": {
+    "raul_alejandro_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "raul_alejandro_v1",
+      "linked_from": ""
+    },
+    "raul_alejandro_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "raul_alejandro_v0"
+    }
+  }
+}

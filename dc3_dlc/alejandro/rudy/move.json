@@ -1,0 +1,26 @@
+{
+  "name": "rudy",
+  "difficulty": 2,
+  "display_name": "Rudy",
+  "ham_move_name": "Lights_Out_alejandro.move",
+  "milo_name": "lights_out_alejandro",
+  "song_name": "alejandro",
+  "clips": {
+    "rudy_alejandro_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rudy_alejandro_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

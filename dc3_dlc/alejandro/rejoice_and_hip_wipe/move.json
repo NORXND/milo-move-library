@@ -1,0 +1,26 @@
+{
+  "name": "rejoice_and_hip_wipe",
+  "difficulty": 2,
+  "display_name": "Rejoice / Hip Wipe",
+  "ham_move_name": "Torros_alejandro.move",
+  "milo_name": "torros_alejandro",
+  "song_name": "alejandro",
+  "clips": {
+    "rejoice_and_hip_wipe_alejandro_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rejoice_and_hip_wipe_alejandro_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

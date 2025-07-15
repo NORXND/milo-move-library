@@ -1,0 +1,18 @@
+{
+  "name": "i_wantchu",
+  "difficulty": 0,
+  "display_name": "I Wantchu",
+  "ham_move_name": "Spot_It_alejandro.move",
+  "milo_name": "spot_it_alejandro",
+  "song_name": "alejandro",
+  "clips": {
+    "i_wantchu_alejandro_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "fickle_step",
+  "difficulty": 2,
+  "display_name": "Fickle Step",
+  "ham_move_name": "Soft_Demand_alejandro.move",
+  "milo_name": "soft_demand_alejandro",
+  "song_name": "alejandro",
+  "clips": {
+    "fickle_step_alejandro_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

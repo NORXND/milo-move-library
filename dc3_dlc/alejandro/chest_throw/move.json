@@ -1,0 +1,26 @@
+{
+  "name": "chest_throw",
+  "difficulty": 2,
+  "display_name": "Chest Throw",
+  "ham_move_name": "Iso_Pounds_alejandro.move",
+  "milo_name": "iso_pounds_alejandro",
+  "song_name": "alejandro",
+  "clips": {
+    "chest_throw_alejandro_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chest_throw_alejandro_v1": {
+      "avg_beats_per_second": 1.46,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "stay_strong",
+  "difficulty": 0,
+  "display_name": "Stay Strong",
+  "ham_move_name": "Lift_And_Throw_reallove.move",
+  "milo_name": "lift_and_throw_reallove",
+  "song_name": "reallove",
+  "clips": {
+    "stay_strong_reallove_v0": {
+      "avg_beats_per_second": 1.58,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stay_strong_reallove_v1": {
+      "avg_beats_per_second": 1.36,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

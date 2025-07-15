@@ -1,0 +1,42 @@
+{
+  "name": "old_bop",
+  "difficulty": 0,
+  "display_name": "Old Bop",
+  "ham_move_name": "Old_Bop_reallove.move",
+  "milo_name": "old_bop_reallove",
+  "song_name": "reallove",
+  "clips": {
+    "old_bop_reallove_v0": {
+      "avg_beats_per_second": 1.58,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "old_bop_reallove_v1": {
+      "avg_beats_per_second": 1.59,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "old_bop_reallove_v2": {
+      "avg_beats_per_second": 1.58,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "old_bop_reallove_v3": {
+      "avg_beats_per_second": 1.36,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

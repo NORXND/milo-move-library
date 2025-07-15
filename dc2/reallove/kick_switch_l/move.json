@@ -1,0 +1,42 @@
+{
+  "name": "kick_switch_l",
+  "difficulty": 2,
+  "display_name": "Kick Switch",
+  "ham_move_name": "Kick_Rocks_L_reallove.move",
+  "milo_name": "kick_rocks_l_reallove",
+  "song_name": "reallove",
+  "clips": {
+    "kick_switch_l_reallove_v0": {
+      "avg_beats_per_second": 1.58,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "kick_switch_r_reallove_v0",
+      "linked_from": ""
+    },
+    "kick_switch_l_reallove_v1": {
+      "avg_beats_per_second": 1.58,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "kick_switch_r_reallove_v1",
+      "linked_from": ""
+    },
+    "kick_switch_l_reallove_v2": {
+      "avg_beats_per_second": 1.58,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "kick_switch_r_reallove_v2",
+      "linked_from": ""
+    },
+    "kick_switch_l_reallove_v3": {
+      "avg_beats_per_second": 1.58,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "kick_switch_r_reallove_v3",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "stir_step",
+  "difficulty": 1,
+  "display_name": "Stir Step",
+  "ham_move_name": "Thread_In_reallove.move",
+  "milo_name": "thread_in_reallove",
+  "song_name": "reallove",
+  "clips": {
+    "stir_step_reallove_v0": {
+      "avg_beats_per_second": 1.58,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

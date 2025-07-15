@@ -1,0 +1,18 @@
+{
+  "name": "bunny_hill",
+  "difficulty": 0,
+  "display_name": "Bunny Hill",
+  "ham_move_name": "Skii_reallove.move",
+  "milo_name": "skii_reallove",
+  "song_name": "reallove",
+  "clips": {
+    "bunny_hill_reallove_v0": {
+      "avg_beats_per_second": 1.58,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

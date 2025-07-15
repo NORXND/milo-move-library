@@ -1,0 +1,42 @@
+{
+  "name": "cadence_walk",
+  "difficulty": 0,
+  "display_name": "Cadence Walk",
+  "ham_move_name": "Cadence_Walk_impacto.move",
+  "milo_name": "cadence_walk_impacto",
+  "song_name": "impacto",
+  "clips": {
+    "cadence_walk_impacto_v0": {
+      "avg_beats_per_second": 1.67,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cadence_walk_impacto_v1": {
+      "avg_beats_per_second": 1.44,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cadence_walk_impacto_v2": {
+      "avg_beats_per_second": 1.67,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cadence_walk_impacto_v3": {
+      "avg_beats_per_second": 1.44,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

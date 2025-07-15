@@ -1,0 +1,18 @@
+{
+  "name": "pretty_face_stop",
+  "difficulty": 1,
+  "display_name": "Pretty Face Stop",
+  "ham_move_name": "Conceited_Pause_impacto.move",
+  "milo_name": "conceited_pause_impacto",
+  "song_name": "impacto",
+  "clips": {
+    "pretty_face_stop_impacto_v0": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

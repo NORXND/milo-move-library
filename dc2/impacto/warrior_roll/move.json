@@ -1,0 +1,26 @@
+{
+  "name": "warrior_roll",
+  "difficulty": 0,
+  "display_name": "Warrior Roll",
+  "ham_move_name": "Warrior_Roll_impacto.move",
+  "milo_name": "warrior_roll_impacto",
+  "song_name": "impacto",
+  "clips": {
+    "warrior_roll_impacto_v0": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "warrior_roll_impacto_v1": {
+      "avg_beats_per_second": 1.67,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

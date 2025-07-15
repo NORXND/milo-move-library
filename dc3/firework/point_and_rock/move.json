@@ -1,0 +1,42 @@
+{
+  "name": "point_and_rock",
+  "difficulty": 2,
+  "display_name": "Point & Rock",
+  "ham_move_name": "Motivachu_firework.move",
+  "milo_name": "motivachu_firework",
+  "song_name": "firework",
+  "clips": {
+    "point_and_rock_firework_v2": {
+      "avg_beats_per_second": 1.77,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "point_and_rock_firework_v3": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "point_and_rock_firework_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "point_and_rock_firework_v1": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

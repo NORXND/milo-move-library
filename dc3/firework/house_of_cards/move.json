@@ -1,0 +1,18 @@
+{
+  "name": "house_of_cards",
+  "difficulty": 2,
+  "display_name": "House of Cards",
+  "ham_move_name": "Card_Shuffle_firework.move",
+  "milo_name": "card_shuffle_firework",
+  "song_name": "firework",
+  "clips": {
+    "house_of_cards_firework_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

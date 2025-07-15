@@ -1,0 +1,26 @@
+{
+  "name": "no_worries_drag_in",
+  "difficulty": 1,
+  "display_name": "No Worries Drag In",
+  "ham_move_name": "Nah_Mang_Drag_In_firework.move",
+  "milo_name": "nah_mang_drag_in_firework",
+  "song_name": "firework",
+  "clips": {
+    "no_worries_drag_in_firework_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "no_worries_drag_in_firework_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

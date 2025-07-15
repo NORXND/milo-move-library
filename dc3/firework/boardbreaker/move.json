@@ -1,0 +1,26 @@
+{
+  "name": "boardbreaker",
+  "difficulty": 0,
+  "display_name": "Boardbreaker",
+  "ham_move_name": "Austin_Powers_firework.move",
+  "milo_name": "austin_powers_firework",
+  "song_name": "firework",
+  "clips": {
+    "boardbreaker_firework_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "boardbreaker_firework_v1": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

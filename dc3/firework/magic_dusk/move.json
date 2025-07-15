@@ -1,0 +1,42 @@
+{
+  "name": "magic_dusk",
+  "difficulty": 2,
+  "display_name": "Magic Dusk",
+  "ham_move_name": "Bombshell_firework.move",
+  "milo_name": "bombshell_firework",
+  "song_name": "firework",
+  "clips": {
+    "magic_dusk_firework_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "magic_dusk_firework_v2": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "magic_dusk_firework_v3": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "magic_dusk_firework_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "stompy_l",
+  "difficulty": 2,
+  "display_name": "Stompy",
+  "ham_move_name": "Stompy_L_firework.move",
+  "milo_name": "stompy_l_firework",
+  "song_name": "firework",
+  "clips": {
+    "stompy_l_firework_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "stompy_r_firework_v0"
+    }
+  }
+}

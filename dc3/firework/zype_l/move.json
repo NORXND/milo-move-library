@@ -1,0 +1,26 @@
+{
+  "name": "zype_l",
+  "difficulty": 1,
+  "display_name": "Zype",
+  "ham_move_name": "Fenway_Park_L_firework.move",
+  "milo_name": "fenway_park_l_firework",
+  "song_name": "firework",
+  "clips": {
+    "zype_l_firework_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "zype_r_firework_v0"
+    },
+    "zype_l_firework_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "zype_r_firework_v1"
+    }
+  }
+}

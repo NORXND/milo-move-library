@@ -1,0 +1,26 @@
+{
+  "name": "spin",
+  "difficulty": 2,
+  "display_name": "Spin",
+  "ham_move_name": "Fame_Turn_firework.move",
+  "milo_name": "fame_turn_firework",
+  "song_name": "firework",
+  "clips": {
+    "spin_firework_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spin_firework_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "hook_it",
+  "difficulty": 0,
+  "display_name": "Hook It",
+  "ham_move_name": "Hook_It_firework.move",
+  "milo_name": "hook_it_firework",
+  "song_name": "firework",
+  "clips": {
+    "hook_it_firework_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hook_it_firework_v1": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

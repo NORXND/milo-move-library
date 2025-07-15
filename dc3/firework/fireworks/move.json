@@ -1,0 +1,18 @@
+{
+  "name": "fireworks",
+  "difficulty": 2,
+  "display_name": "Fireworks",
+  "ham_move_name": "Fine_Art_firework.move",
+  "milo_name": "fine_art_firework",
+  "song_name": "firework",
+  "clips": {
+    "fireworks_firework_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

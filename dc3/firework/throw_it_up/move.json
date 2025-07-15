@@ -1,0 +1,18 @@
+{
+  "name": "throw_it_up",
+  "difficulty": 0,
+  "display_name": "Throw It Up",
+  "ham_move_name": "Body_Builder_firework.move",
+  "milo_name": "body_builder_firework",
+  "song_name": "firework",
+  "clips": {
+    "throw_it_up_firework_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

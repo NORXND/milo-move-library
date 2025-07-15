@@ -1,0 +1,26 @@
+{
+  "name": "muscle_man",
+  "difficulty": 0,
+  "display_name": "Muscle Man",
+  "ham_move_name": "Muscle_Man_firework.move",
+  "milo_name": "muscle_man_firework",
+  "song_name": "firework",
+  "clips": {
+    "muscle_man_firework_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "muscle_man_firework_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

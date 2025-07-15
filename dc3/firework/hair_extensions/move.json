@@ -1,0 +1,26 @@
+{
+  "name": "hair_extensions",
+  "difficulty": 2,
+  "display_name": "Hair Extensions",
+  "ham_move_name": "Passionhead_firework.move",
+  "milo_name": "passionhead_firework",
+  "song_name": "firework",
+  "clips": {
+    "hair_extensions_firework_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hair_extensions_firework_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

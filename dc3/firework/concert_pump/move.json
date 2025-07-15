@@ -1,0 +1,42 @@
+{
+  "name": "concert_pump",
+  "difficulty": 2,
+  "display_name": "Concert Pump",
+  "ham_move_name": "Concert_Pump_firework.move",
+  "milo_name": "concert_pump_firework",
+  "song_name": "firework",
+  "clips": {
+    "concert_pump_firework_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "concert_pump_firework_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "concert_pump_firework_v2": {
+      "avg_beats_per_second": 1.77,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "concert_pump_firework_v3": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

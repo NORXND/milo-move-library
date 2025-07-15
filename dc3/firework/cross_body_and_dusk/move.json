@@ -1,0 +1,18 @@
+{
+  "name": "cross_body_and_dusk",
+  "difficulty": 2,
+  "display_name": "Cross Body / Dusk",
+  "ham_move_name": "Body_Wrap_Pot_Of_Gold_firework.move",
+  "milo_name": "body_wrap_pot_of_gold_firework",
+  "song_name": "firework",
+  "clips": {
+    "cross_body_and_dusk_firework_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

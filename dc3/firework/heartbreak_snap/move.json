@@ -1,0 +1,66 @@
+{
+  "name": "heartbreak_snap",
+  "difficulty": 2,
+  "display_name": "Heartbreak Snap",
+  "ham_move_name": "Heartbeat_firework.move",
+  "milo_name": "heartbeat_firework",
+  "song_name": "firework",
+  "clips": {
+    "heartbreak_snap_firework_v0": {
+      "avg_beats_per_second": 1.76,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heartbreak_snap_firework_v5": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heartbreak_snap_firework_v3": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heartbreak_snap_firework_v1": {
+      "avg_beats_per_second": 1.76,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heartbreak_snap_firework_v6": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heartbreak_snap_firework_v4": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heartbreak_snap_firework_v2": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

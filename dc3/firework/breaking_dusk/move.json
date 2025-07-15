@@ -1,0 +1,42 @@
+{
+  "name": "breaking_dusk",
+  "difficulty": 0,
+  "display_name": "Breaking Dusk",
+  "ham_move_name": "Metamorphosis_firework.move",
+  "milo_name": "metamorphosis_firework",
+  "song_name": "firework",
+  "clips": {
+    "breaking_dusk_firework_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "breaking_dusk_firework_v1": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "breaking_dusk_firework_v2": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "breaking_dusk_firework_v3": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "extension_snap",
+  "difficulty": 2,
+  "display_name": "Extension Snap",
+  "ham_move_name": "Orgasm_Snap_firework.move",
+  "milo_name": "orgasm_snap_firework",
+  "song_name": "firework",
+  "clips": {
+    "extension_snap_firework_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "extension_snap_firework_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

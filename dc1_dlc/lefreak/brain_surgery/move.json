@@ -1,0 +1,18 @@
+{
+  "name": "brain_surgery",
+  "difficulty": 2,
+  "display_name": "Brain Surgery",
+  "ham_move_name": "Brain_Surgery_lefreak.move",
+  "milo_name": "brain_surgery_lefreak",
+  "song_name": "lefreak",
+  "clips": {
+    "brain_surgery_lefreak_v0": {
+      "avg_beats_per_second": 1.97,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

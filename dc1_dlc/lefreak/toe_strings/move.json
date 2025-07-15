@@ -1,0 +1,42 @@
+{
+  "name": "toe_strings",
+  "difficulty": 0,
+  "display_name": "Toe Strings",
+  "ham_move_name": "Wack_Teezy_lefreak.move",
+  "milo_name": "wack_teezy_lefreak",
+  "song_name": "lefreak",
+  "clips": {
+    "toe_strings_lefreak_v0": {
+      "avg_beats_per_second": 1.95,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "toe_strings_lefreak_v1": {
+      "avg_beats_per_second": 1.97,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "toe_strings_lefreak_v2": {
+      "avg_beats_per_second": 1.98,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "toe_strings_lefreak_v3": {
+      "avg_beats_per_second": 1.96,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

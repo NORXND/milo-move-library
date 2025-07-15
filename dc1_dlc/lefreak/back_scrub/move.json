@@ -1,0 +1,42 @@
+{
+  "name": "back_scrub",
+  "difficulty": 0,
+  "display_name": "Back Scrub",
+  "ham_move_name": "Back_Scrub_lefreak.move",
+  "milo_name": "back_scrub_lefreak",
+  "song_name": "lefreak",
+  "clips": {
+    "back_scrub_lefreak_v0": {
+      "avg_beats_per_second": 1.87,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "back_scrub_lefreak_v1": {
+      "avg_beats_per_second": 1.71,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "back_scrub_lefreak_v2": {
+      "avg_beats_per_second": 1.7,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "back_scrub_lefreak_v3": {
+      "avg_beats_per_second": 1.72,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

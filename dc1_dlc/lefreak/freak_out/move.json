@@ -1,0 +1,138 @@
+{
+  "name": "freak_out",
+  "difficulty": 0,
+  "display_name": "Freak Out",
+  "ham_move_name": "Freak_Out_lefreak.move",
+  "milo_name": "freak_out_lefreak",
+  "song_name": "lefreak",
+  "clips": {
+    "freak_out_lefreak_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freak_out_lefreak_v5": {
+      "avg_beats_per_second": 1.97,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freak_out_lefreak_v14": {
+      "avg_beats_per_second": 1.96,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freak_out_lefreak_v9": {
+      "avg_beats_per_second": 1.97,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freak_out_lefreak_v3": {
+      "avg_beats_per_second": 1.69,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freak_out_lefreak_v12": {
+      "avg_beats_per_second": 1.69,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freak_out_lefreak_v7": {
+      "avg_beats_per_second": 1.69,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freak_out_lefreak_v1": {
+      "avg_beats_per_second": 1.97,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freak_out_lefreak_v10": {
+      "avg_beats_per_second": 1.96,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freak_out_lefreak_v15": {
+      "avg_beats_per_second": 1.71,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freak_out_lefreak_v4": {
+      "avg_beats_per_second": 1.68,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freak_out_lefreak_v13": {
+      "avg_beats_per_second": 1.97,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freak_out_lefreak_v8": {
+      "avg_beats_per_second": 1.68,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freak_out_lefreak_v2": {
+      "avg_beats_per_second": 1.96,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freak_out_lefreak_v11": {
+      "avg_beats_per_second": 1.69,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freak_out_lefreak_v6": {
+      "avg_beats_per_second": 1.96,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

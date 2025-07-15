@@ -1,0 +1,26 @@
+{
+  "name": "to_the_disco_r",
+  "difficulty": 0,
+  "display_name": "To The Disco",
+  "ham_move_name": "To_The_Disco_R_lefreak.move",
+  "milo_name": "to_the_disco_r_lefreak",
+  "song_name": "lefreak",
+  "clips": {
+    "to_the_disco_r_lefreak_v1": {
+      "avg_beats_per_second": 1.97,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "to_the_disco_l_lefreak_v1",
+      "linked_from": "to_the_disco_l_lefreak_v0"
+    },
+    "to_the_disco_r_lefreak_v0": {
+      "avg_beats_per_second": 1.98,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "to_the_disco_l_lefreak_v0",
+      "linked_from": ""
+    }
+  }
+}

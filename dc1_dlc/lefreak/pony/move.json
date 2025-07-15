@@ -1,0 +1,26 @@
+{
+  "name": "pony",
+  "difficulty": 0,
+  "display_name": "Pony",
+  "ham_move_name": "Pony_lefreak.move",
+  "milo_name": "pony_lefreak",
+  "song_name": "lefreak",
+  "clips": {
+    "pony_lefreak_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pony_lefreak_v1": {
+      "avg_beats_per_second": 1.97,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

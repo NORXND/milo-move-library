@@ -1,0 +1,18 @@
+{
+  "name": "gear_change_l",
+  "difficulty": 2,
+  "display_name": "Gear Change",
+  "ham_move_name": "Gear_Change_L_lefreak.move",
+  "milo_name": "gear_change_l_lefreak",
+  "song_name": "lefreak",
+  "clips": {
+    "gear_change_l_lefreak_v0": {
+      "avg_beats_per_second": 1.69,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "gear_change_r_lefreak_v0"
+    }
+  }
+}

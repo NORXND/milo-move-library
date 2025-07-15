@@ -1,0 +1,18 @@
+{
+  "name": "horse_kick",
+  "difficulty": 2,
+  "display_name": "Horse Kick",
+  "ham_move_name": "Horse_Kick_lefreak.move",
+  "milo_name": "horse_kick_lefreak",
+  "song_name": "lefreak",
+  "clips": {
+    "horse_kick_lefreak_v0": {
+      "avg_beats_per_second": 1.96,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

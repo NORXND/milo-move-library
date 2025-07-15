@@ -1,0 +1,42 @@
+{
+  "name": "kicker",
+  "difficulty": 0,
+  "display_name": "Kicker",
+  "ham_move_name": "Jay_Walk_lefreak.move",
+  "milo_name": "jay_walk_lefreak",
+  "song_name": "lefreak",
+  "clips": {
+    "kicker_lefreak_v0": {
+      "avg_beats_per_second": 1.96,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kicker_lefreak_v3": {
+      "avg_beats_per_second": 1.96,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kicker_lefreak_v1": {
+      "avg_beats_per_second": 1.96,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kicker_lefreak_v2": {
+      "avg_beats_per_second": 1.96,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

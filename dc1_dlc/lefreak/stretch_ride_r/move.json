@@ -1,0 +1,26 @@
+{
+  "name": "stretch_ride_r",
+  "difficulty": 0,
+  "display_name": "Stretch Ride",
+  "ham_move_name": "Stretch_Ride_R_lefreak.move",
+  "milo_name": "stretch_ride_r_lefreak",
+  "song_name": "lefreak",
+  "clips": {
+    "stretch_ride_r_lefreak_v0": {
+      "avg_beats_per_second": 1.97,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stretch_ride_r_lefreak_v1": {
+      "avg_beats_per_second": 1.96,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "stretch_ride_l_lefreak_v0",
+      "linked_from": ""
+    }
+  }
+}

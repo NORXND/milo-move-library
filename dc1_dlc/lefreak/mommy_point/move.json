@@ -1,0 +1,26 @@
+{
+  "name": "mommy_point",
+  "difficulty": 2,
+  "display_name": "Mommy Point",
+  "ham_move_name": "Mommy_Point_lefreak.move",
+  "milo_name": "mommy_point_lefreak",
+  "song_name": "lefreak",
+  "clips": {
+    "mommy_point_lefreak_v1": {
+      "avg_beats_per_second": 1.67,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "mommy_point_lefreak_v0": {
+      "avg_beats_per_second": 1.47,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

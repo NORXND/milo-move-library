@@ -1,0 +1,18 @@
+{
+  "name": "dry_off",
+  "difficulty": 2,
+  "display_name": "Dry Off",
+  "ham_move_name": "Pull_Forward_letitrock.move",
+  "milo_name": "pull_forward_letitrock",
+  "song_name": "letitrock",
+  "clips": {
+    "dry_off_letitrock_v0": {
+      "avg_beats_per_second": 1.85,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

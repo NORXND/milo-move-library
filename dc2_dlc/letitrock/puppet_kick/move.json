@@ -1,0 +1,18 @@
+{
+  "name": "puppet_kick",
+  "difficulty": 2,
+  "display_name": "Puppet Kick",
+  "ham_move_name": "Donkey_Kicks_letitrock.move",
+  "milo_name": "donkey_kicks_letitrock",
+  "song_name": "letitrock",
+  "clips": {
+    "puppet_kick_letitrock_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

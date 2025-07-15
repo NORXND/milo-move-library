@@ -1,0 +1,18 @@
+{
+  "name": "tread_softly",
+  "difficulty": 2,
+  "display_name": "Tread Softly",
+  "ham_move_name": "Ispy_letitrock.move",
+  "milo_name": "ispy_letitrock",
+  "song_name": "letitrock",
+  "clips": {
+    "tread_softly_letitrock_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

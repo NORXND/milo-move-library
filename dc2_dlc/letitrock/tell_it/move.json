@@ -1,0 +1,18 @@
+{
+  "name": "tell_it",
+  "difficulty": 0,
+  "display_name": "Tell It",
+  "ham_move_name": "F_The_World_letitrock.move",
+  "milo_name": "f_the_world_letitrock",
+  "song_name": "letitrock",
+  "clips": {
+    "tell_it_letitrock_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "wipe_down",
+  "difficulty": 2,
+  "display_name": "Wipe Down",
+  "ham_move_name": "Wipe_Down_letitrock.move",
+  "milo_name": "wipe_down_letitrock",
+  "song_name": "letitrock",
+  "clips": {
+    "wipe_down_letitrock_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wipe_down_letitrock_v1": {
+      "avg_beats_per_second": 1.89,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

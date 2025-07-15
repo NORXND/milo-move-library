@@ -1,0 +1,18 @@
+{
+  "name": "carpenter",
+  "difficulty": 2,
+  "display_name": "Carpenter",
+  "ham_move_name": "Bang_Down_letitrock.move",
+  "milo_name": "bang_down_letitrock",
+  "song_name": "letitrock",
+  "clips": {
+    "carpenter_letitrock_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

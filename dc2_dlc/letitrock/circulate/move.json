@@ -1,0 +1,34 @@
+{
+  "name": "circulate",
+  "difficulty": 2,
+  "display_name": "Circulate",
+  "ham_move_name": "Round_It_letitrock.move",
+  "milo_name": "round_it_letitrock",
+  "song_name": "letitrock",
+  "clips": {
+    "circulate_letitrock_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "circulate_letitrock_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "circulate_letitrock_v2": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

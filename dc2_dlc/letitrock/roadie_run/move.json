@@ -1,0 +1,34 @@
+{
+  "name": "roadie_run",
+  "difficulty": 2,
+  "display_name": "Roadie Run",
+  "ham_move_name": "Run_In_Place_letitrock.move",
+  "milo_name": "run_in_place_letitrock",
+  "song_name": "letitrock",
+  "clips": {
+    "roadie_run_letitrock_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roadie_run_letitrock_v1": {
+      "avg_beats_per_second": 1.89,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roadie_run_letitrock_v2": {
+      "avg_beats_per_second": 1.89,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "gangnam_finish",
+  "difficulty": 2,
+  "display_name": "Gangnam Finish",
+  "ham_move_name": "Running_Start_gangnamstyle.move",
+  "milo_name": "running_start_gangnamstyle",
+  "song_name": "gangnamstyle",
+  "clips": {
+    "gangnam_finish_gangnamstyle_v0": {
+      "avg_beats_per_second": 2.16,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

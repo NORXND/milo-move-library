@@ -1,0 +1,26 @@
+{
+  "name": "gangnam_lasso_l",
+  "difficulty": 2,
+  "display_name": "Gangnam Lasso",
+  "ham_move_name": "Whoop_Dee_Doo_L_gangnamstyle.move",
+  "milo_name": "whoop_dee_doo_l_gangnamstyle",
+  "song_name": "gangnamstyle",
+  "clips": {
+    "gangnam_lasso_l_gangnamstyle_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "gangnam_lasso_r_gangnamstyle_v0"
+    },
+    "gangnam_lasso_l_gangnamstyle_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "gangnam_lasso_r_gangnamstyle_v2"
+    }
+  }
+}

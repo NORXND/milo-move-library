@@ -1,0 +1,74 @@
+{
+  "name": "slo_mo_rodeo",
+  "difficulty": 2,
+  "display_name": "Slo Mo Rodeo",
+  "ham_move_name": "Slo_Mo_Get_Up_gangnamstyle.move",
+  "milo_name": "slo_mo_get_up_gangnamstyle",
+  "song_name": "gangnamstyle",
+  "clips": {
+    "slo_mo_rodeo_gangnamstyle_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slo_mo_rodeo_gangnamstyle_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "slo_mo_rodeo_gangnamstyle_v2",
+      "linked_from": ""
+    },
+    "slo_mo_rodeo_gangnamstyle_v2": {
+      "avg_beats_per_second": 2.21,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "slo_mo_rodeo_gangnamstyle_v1"
+    },
+    "slo_mo_rodeo_gangnamstyle_v3": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slo_mo_rodeo_gangnamstyle_v4": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slo_mo_rodeo_gangnamstyle_v5": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "slo_mo_rodeo_gangnamstyle_v6",
+      "linked_from": ""
+    },
+    "slo_mo_rodeo_gangnamstyle_v6": {
+      "avg_beats_per_second": 2.21,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "slo_mo_rodeo_gangnamstyle_v5"
+    },
+    "slo_mo_rodeo_gangnamstyle_v7": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

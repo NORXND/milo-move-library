@@ -1,0 +1,42 @@
+{
+  "name": "wednesday_night",
+  "difficulty": 2,
+  "display_name": "Wednesday Night",
+  "ham_move_name": "Cowboy_Call_gangnamstyle.move",
+  "milo_name": "cowboy_call_gangnamstyle",
+  "song_name": "gangnamstyle",
+  "clips": {
+    "wednesday_night_gangnamstyle_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wednesday_night_gangnamstyle_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wednesday_night_gangnamstyle_v2": {
+      "avg_beats_per_second": 1.89,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wednesday_night_gangnamstyle_v3": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

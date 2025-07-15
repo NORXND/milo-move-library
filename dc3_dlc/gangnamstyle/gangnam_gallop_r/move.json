@@ -1,0 +1,66 @@
+{
+  "name": "gangnam_gallop_r",
+  "difficulty": 2,
+  "display_name": "Gangnam Gallop",
+  "ham_move_name": "Gangnam_Giddy_Up_R_gangnamstyle.move",
+  "milo_name": "gangnam_giddy_up_r_gangnamstyle",
+  "song_name": "gangnamstyle",
+  "clips": {
+    "gangnam_gallop_r_gangnamstyle_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "gangnam_gallop_l_gangnamstyle_v0",
+      "linked_from": ""
+    },
+    "gangnam_gallop_r_gangnamstyle_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "gangnam_gallop_l_gangnamstyle_v1",
+      "linked_from": ""
+    },
+    "gangnam_gallop_r_gangnamstyle_v2": {
+      "avg_beats_per_second": 2.21,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "gangnam_gallop_l_gangnamstyle_v2",
+      "linked_from": ""
+    },
+    "gangnam_gallop_r_gangnamstyle_v3": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "gangnam_gallop_l_gangnamstyle_v3",
+      "linked_from": ""
+    },
+    "gangnam_gallop_r_gangnamstyle_v4": {
+      "avg_beats_per_second": 2.21,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "gangnam_gallop_l_gangnamstyle_v4",
+      "linked_from": ""
+    },
+    "gangnam_gallop_r_gangnamstyle_v5": {
+      "avg_beats_per_second": 2.21,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "gangnam_gallop_l_gangnamstyle_v5",
+      "linked_from": ""
+    },
+    "gangnam_gallop_r_gangnamstyle_v6": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "gangnam_gallop_l_gangnamstyle_v6",
+      "linked_from": ""
+    }
+  }
+}

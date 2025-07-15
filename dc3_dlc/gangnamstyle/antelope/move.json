@@ -1,0 +1,42 @@
+{
+  "name": "antelope",
+  "difficulty": 2,
+  "display_name": "Antelope",
+  "ham_move_name": "Lunge_Jumps_Rlrl_Feet_Forward_gangnamstyle.move",
+  "milo_name": "lunge_jumps_rlrl_feet_forward_gangnamstyle",
+  "song_name": "gangnamstyle",
+  "clips": {
+    "antelope_gangnamstyle_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "antelope_gangnamstyle_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "antelope_gangnamstyle_v2": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "antelope_gangnamstyle_v3": {
+      "avg_beats_per_second": 1.89,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "geek_party",
+  "difficulty": 2,
+  "display_name": "Geek Party",
+  "ham_move_name": "D_Bag_gangnamstyle.move",
+  "milo_name": "d_bag_gangnamstyle",
+  "song_name": "gangnamstyle",
+  "clips": {
+    "geek_party_gangnamstyle_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "geek_party_gangnamstyle_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

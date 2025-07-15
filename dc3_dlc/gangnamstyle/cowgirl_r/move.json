@@ -1,0 +1,26 @@
+{
+  "name": "cowgirl_r",
+  "difficulty": 2,
+  "display_name": "Cowgirl",
+  "ham_move_name": "Lasso_R_gangnamstyle.move",
+  "milo_name": "lasso_r_gangnamstyle",
+  "song_name": "gangnamstyle",
+  "clips": {
+    "cowgirl_r_gangnamstyle_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cowgirl_r_gangnamstyle_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

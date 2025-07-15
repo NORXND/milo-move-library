@@ -1,0 +1,42 @@
+{
+  "name": "cat_cow",
+  "difficulty": 2,
+  "display_name": "Cat Cow",
+  "ham_move_name": "Yoga_Pump_gangnamstyle.move",
+  "milo_name": "yoga_pump_gangnamstyle",
+  "song_name": "gangnamstyle",
+  "clips": {
+    "cat_cow_gangnamstyle_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cat_cow_gangnamstyle_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cat_cow_gangnamstyle_v2": {
+      "avg_beats_per_second": 2.21,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cat_cow_gangnamstyle_v3": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

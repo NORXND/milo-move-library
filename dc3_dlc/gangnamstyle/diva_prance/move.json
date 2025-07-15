@@ -1,0 +1,42 @@
+{
+  "name": "diva_prance",
+  "difficulty": 2,
+  "display_name": "Diva Prance",
+  "ham_move_name": "Silly_Boss_gangnamstyle.move",
+  "milo_name": "silly_boss_gangnamstyle",
+  "song_name": "gangnamstyle",
+  "clips": {
+    "diva_prance_gangnamstyle_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_prance_gangnamstyle_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_prance_gangnamstyle_v2": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_prance_gangnamstyle_v3": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

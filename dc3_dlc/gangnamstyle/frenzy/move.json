@@ -1,0 +1,42 @@
+{
+  "name": "frenzy",
+  "difficulty": 2,
+  "display_name": "Frenzy",
+  "ham_move_name": "Hey_Jump_For_Joy_gangnamstyle.move",
+  "milo_name": "hey_jump_for_joy_gangnamstyle",
+  "song_name": "gangnamstyle",
+  "clips": {
+    "frenzy_gangnamstyle_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "frenzy_gangnamstyle_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "frenzy_gangnamstyle_v2": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "frenzy_gangnamstyle_v3": {
+      "avg_beats_per_second": 2.21,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

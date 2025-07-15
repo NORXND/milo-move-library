@@ -1,0 +1,18 @@
+{
+  "name": "the_hunt",
+  "difficulty": 2,
+  "display_name": "The Hunt",
+  "ham_move_name": "The_Hunt_gangnamstyle.move",
+  "milo_name": "the_hunt_gangnamstyle",
+  "song_name": "gangnamstyle",
+  "clips": {
+    "the_hunt_gangnamstyle_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

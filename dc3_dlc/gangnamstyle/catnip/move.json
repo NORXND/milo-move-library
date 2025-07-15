@@ -1,0 +1,42 @@
+{
+  "name": "catnip",
+  "difficulty": 2,
+  "display_name": "Catnip",
+  "ham_move_name": "Yoga_Headwhip_gangnamstyle.move",
+  "milo_name": "yoga_headwhip_gangnamstyle",
+  "song_name": "gangnamstyle",
+  "clips": {
+    "catnip_gangnamstyle_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "catnip_gangnamstyle_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "catnip_gangnamstyle_v2": {
+      "avg_beats_per_second": 2.21,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "catnip_gangnamstyle_v3": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

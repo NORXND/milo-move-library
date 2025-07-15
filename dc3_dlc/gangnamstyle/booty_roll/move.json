@@ -1,0 +1,34 @@
+{
+  "name": "booty_roll",
+  "difficulty": 2,
+  "display_name": "Booty Roll",
+  "ham_move_name": "Booty_Wind_gangnamstyle.move",
+  "milo_name": "booty_wind_gangnamstyle",
+  "song_name": "gangnamstyle",
+  "clips": {
+    "booty_roll_gangnamstyle_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "booty_roll_gangnamstyle_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "booty_roll_gangnamstyle_v2": {
+      "avg_beats_per_second": 2.21,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

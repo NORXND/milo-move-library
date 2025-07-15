@@ -1,0 +1,26 @@
+{
+  "name": "pinpoint",
+  "difficulty": 2,
+  "display_name": "Pinpoint",
+  "ham_move_name": "Points_gangnamstyle.move",
+  "milo_name": "points_gangnamstyle",
+  "song_name": "gangnamstyle",
+  "clips": {
+    "pinpoint_gangnamstyle_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "cat_s_cradle_gangnamstyle_v0",
+      "linked_from": ""
+    },
+    "pinpoint_gangnamstyle_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "cat_s_cradle_gangnamstyle_v1",
+      "linked_from": ""
+    }
+  }
+}

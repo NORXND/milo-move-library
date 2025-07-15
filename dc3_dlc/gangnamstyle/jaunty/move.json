@@ -1,0 +1,26 @@
+{
+  "name": "jaunty",
+  "difficulty": 2,
+  "display_name": "Jaunty",
+  "ham_move_name": "Jackson_Walk_Lrll_gangnamstyle.move",
+  "milo_name": "jackson_walk_lrll_gangnamstyle",
+  "song_name": "gangnamstyle",
+  "clips": {
+    "jaunty_gangnamstyle_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jaunty_gangnamstyle_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

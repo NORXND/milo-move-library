@@ -1,0 +1,26 @@
+{
+  "name": "gallop_turn",
+  "difficulty": 2,
+  "display_name": "Gallop Turn",
+  "ham_move_name": "Giddy_Up_Cc_In_Circle_1_gangnamstyle.move",
+  "milo_name": "giddy_up_cc_in_circle_1_gangnamstyle",
+  "song_name": "gangnamstyle",
+  "clips": {
+    "gallop_turn_gangnamstyle_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "gallop_turn_gangnamstyle_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

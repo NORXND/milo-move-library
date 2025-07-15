@@ -1,0 +1,18 @@
+{
+  "name": "snap_happy_l",
+  "difficulty": 2,
+  "display_name": "Snap Happy",
+  "ham_move_name": "Lkb_Snap_L_gangnamstyle.move",
+  "milo_name": "lkb_snap_l_gangnamstyle",
+  "song_name": "gangnamstyle",
+  "clips": {
+    "snap_happy_l_gangnamstyle_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

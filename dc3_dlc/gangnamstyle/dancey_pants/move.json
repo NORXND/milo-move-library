@@ -1,0 +1,34 @@
+{
+  "name": "dancey_pants",
+  "difficulty": 1,
+  "display_name": "Dancey Pants",
+  "ham_move_name": "Shuffle_Style_gangnamstyle.move",
+  "milo_name": "shuffle_style_gangnamstyle",
+  "song_name": "gangnamstyle",
+  "clips": {
+    "dancey_pants_gangnamstyle_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dancey_pants_gangnamstyle_v1": {
+      "avg_beats_per_second": 2.2,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dancey_pants_gangnamstyle_v2": {
+      "avg_beats_per_second": 2.21,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

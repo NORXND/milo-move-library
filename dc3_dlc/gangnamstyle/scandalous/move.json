@@ -1,0 +1,26 @@
+{
+  "name": "scandalous",
+  "difficulty": 2,
+  "display_name": "Scandalous",
+  "ham_move_name": "Behind_Grind_gangnamstyle.move",
+  "milo_name": "behind_grind_gangnamstyle",
+  "song_name": "gangnamstyle",
+  "clips": {
+    "scandalous_gangnamstyle_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scandalous_gangnamstyle_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

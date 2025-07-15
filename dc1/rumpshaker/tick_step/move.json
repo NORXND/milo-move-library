@@ -1,0 +1,58 @@
+{
+  "name": "tick_step",
+  "difficulty": 1,
+  "display_name": "Tick Step",
+  "ham_move_name": "Tick_Bounce_rumpshaker.move",
+  "milo_name": "tick_bounce_rumpshaker",
+  "song_name": "rumpshaker",
+  "clips": {
+    "tick_step_rumpshaker_v0": {
+      "avg_beats_per_second": 1.71,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tick_step_rumpshaker_v5": {
+      "avg_beats_per_second": 1.71,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tick_step_rumpshaker_v3": {
+      "avg_beats_per_second": 1.71,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tick_step_rumpshaker_v1": {
+      "avg_beats_per_second": 1.71,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tick_step_rumpshaker_v4": {
+      "avg_beats_per_second": 1.71,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tick_step_rumpshaker_v2": {
+      "avg_beats_per_second": 1.71,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "chest_pump",
+  "difficulty": 0,
+  "display_name": "Chest Pump",
+  "ham_move_name": "Chest_Pump_rumpshaker.move",
+  "milo_name": "chest_pump_rumpshaker",
+  "song_name": "rumpshaker",
+  "clips": {
+    "chest_pump_rumpshaker_v0": {
+      "avg_beats_per_second": 1.71,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chest_pump_rumpshaker_v1": {
+      "avg_beats_per_second": 1.71,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

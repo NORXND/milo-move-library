@@ -1,0 +1,18 @@
+{
+  "name": "funky_charleston",
+  "difficulty": 1,
+  "display_name": "Funky Charleston",
+  "ham_move_name": "Bug_Juice_rumpshaker.move",
+  "milo_name": "bug_juice_rumpshaker",
+  "song_name": "rumpshaker",
+  "clips": {
+    "funky_charleston_rumpshaker_v0": {
+      "avg_beats_per_second": 1.71,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

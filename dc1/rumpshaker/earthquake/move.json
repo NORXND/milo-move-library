@@ -1,0 +1,18 @@
+{
+  "name": "exception_earthquake_2",
+  "difficulty": 2,
+  "display_name": "Earthquake",
+  "ham_move_name": "Earthquake_2_rumpshaker.move",
+  "milo_name": "earthquake_2_rumpshaker",
+  "song_name": "rumpshaker",
+  "clips": {
+    "earthquake_rumpshaker_v1": {
+      "avg_beats_per_second": 1.71,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "earthquake_rumpshaker_v0"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "bow_bounce_l",
+  "difficulty": 0,
+  "display_name": "Bow Bounce",
+  "ham_move_name": "Bow_Bounce_L_rumpshaker.move",
+  "milo_name": "bow_bounce_r_rumpshaker",
+  "song_name": "rumpshaker",
+  "clips": {
+    "bow_bounce_l_rumpshaker_v0": {
+      "avg_beats_per_second": 1.71,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "bow_bounce_r_rumpshaker_v0",
+      "linked_from": ""
+    }
+  }
+}

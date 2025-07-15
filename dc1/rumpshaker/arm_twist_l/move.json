@@ -1,0 +1,26 @@
+{
+  "name": "arm_twist_l",
+  "difficulty": 0,
+  "display_name": "Arm Twist",
+  "ham_move_name": "Arm_Twist_L_rumpshaker.move",
+  "milo_name": "arm_twist_r_rumpshaker",
+  "song_name": "rumpshaker",
+  "clips": {
+    "arm_twist_l_rumpshaker_v0": {
+      "avg_beats_per_second": 1.71,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "arm_twist_r_rumpshaker_v0",
+      "linked_from": ""
+    },
+    "arm_twist_l_rumpshaker_v1": {
+      "avg_beats_per_second": 1.72,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "arm_twist_r_rumpshaker_v1",
+      "linked_from": ""
+    }
+  }
+}

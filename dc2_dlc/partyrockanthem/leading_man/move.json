@@ -1,0 +1,18 @@
+{
+  "name": "leading_man",
+  "difficulty": 2,
+  "display_name": "Leading Man",
+  "ham_move_name": "Doug_E_Fresh_partyrockanthem.move",
+  "milo_name": "doug_e_fresh_partyrockanthem",
+  "song_name": "partyrockanthem",
+  "clips": {
+    "leading_man_partyrockanthem_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

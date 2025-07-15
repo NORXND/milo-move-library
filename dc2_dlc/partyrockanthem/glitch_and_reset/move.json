@@ -1,0 +1,18 @@
+{
+  "name": "glitch_and_reset",
+  "difficulty": 2,
+  "display_name": "Glitch & Reset",
+  "ham_move_name": "New_York_City_2_partyrockanthem.move",
+  "milo_name": "new_york_city_2_partyrockanthem",
+  "song_name": "partyrockanthem",
+  "clips": {
+    "glitch_and_reset_partyrockanthem_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

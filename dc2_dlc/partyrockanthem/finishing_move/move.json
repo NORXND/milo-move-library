@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_partyrockanthem_v1084",
+  "difficulty": 2,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_partyrockanthem.move",
+  "milo_name": "finishing_move_partyrockanthem",
+  "song_name": "partyrockanthem",
+  "clips": {
+    "finishing_move_partyrockanthem_v1084": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 74,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

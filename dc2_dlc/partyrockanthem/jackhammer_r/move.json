@@ -1,0 +1,34 @@
+{
+  "name": "jackhammer_r",
+  "difficulty": 2,
+  "display_name": "Jackhammer",
+  "ham_move_name": "Push_It_R_partyrockanthem.move",
+  "milo_name": "push_it_r_partyrockanthem",
+  "song_name": "partyrockanthem",
+  "clips": {
+    "jackhammer_r_partyrockanthem_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "jackhammer_l_partyrockanthem_v1",
+      "linked_from": ""
+    },
+    "jackhammer_r_partyrockanthem_v2": {
+      "avg_beats_per_second": 1.88,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "jackhammer_l_partyrockanthem_v2",
+      "linked_from": ""
+    },
+    "jackhammer_r_partyrockanthem_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "jackhammer_l_partyrockanthem_v0",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "_bow_jerk",
+  "difficulty": 2,
+  "display_name": "'Bow Jerk",
+  "ham_move_name": "Moesha_partyrockanthem.move",
+  "milo_name": "moesha_partyrockanthem",
+  "song_name": "partyrockanthem",
+  "clips": {
+    "_bow_jerk_partyrockanthem_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 114,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

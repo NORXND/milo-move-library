@@ -1,0 +1,26 @@
+{
+  "name": "_bow_bounce_r",
+  "difficulty": 1,
+  "display_name": "'bow Bounce",
+  "ham_move_name": "To_The_Moon_R_partyrockanthem.move",
+  "milo_name": "to_the_moon_r_partyrockanthem",
+  "song_name": "partyrockanthem",
+  "clips": {
+    "_bow_bounce_r_partyrockanthem_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "_bow_bounce_r_partyrockanthem_v1": {
+      "avg_beats_per_second": 1.87,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

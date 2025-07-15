@@ -1,0 +1,34 @@
+{
+  "name": "bring_it_slow",
+  "difficulty": 1,
+  "display_name": "Bring It Slow",
+  "ham_move_name": "Get_Ready_partyrockanthem.move",
+  "milo_name": "get_ready_partyrockanthem",
+  "song_name": "partyrockanthem",
+  "clips": {
+    "bring_it_slow_partyrockanthem_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bring_it_slow_partyrockanthem_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bring_it_slow_partyrockanthem_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

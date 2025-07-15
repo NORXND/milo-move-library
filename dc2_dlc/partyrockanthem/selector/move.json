@@ -1,0 +1,34 @@
+{
+  "name": "selector",
+  "difficulty": 2,
+  "display_name": "Selector",
+  "ham_move_name": "Here_I_Come_partyrockanthem.move",
+  "milo_name": "here_i_come_partyrockanthem",
+  "song_name": "partyrockanthem",
+  "clips": {
+    "selector_partyrockanthem_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "selector_partyrockanthem_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "selector_partyrockanthem_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "push_push",
+  "difficulty": 0,
+  "display_name": "Push Push",
+  "ham_move_name": "Door_Man_partyrockanthem.move",
+  "milo_name": "door_man_partyrockanthem",
+  "song_name": "partyrockanthem",
+  "clips": {
+    "push_push_partyrockanthem_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

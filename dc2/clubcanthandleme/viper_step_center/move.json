@@ -1,0 +1,26 @@
+{
+  "name": "viper_step_center",
+  "difficulty": 1,
+  "display_name": "Viper Step Center",
+  "ham_move_name": "Viper_Stretch_clubcanthandleme.move",
+  "milo_name": "viper_stretch_clubcanthandleme",
+  "song_name": "clubcanthandleme",
+  "clips": {
+    "viper_step_center_clubcanthandleme_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "viper_step_center_clubcanthandleme_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

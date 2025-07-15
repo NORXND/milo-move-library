@@ -1,0 +1,74 @@
+{
+  "name": "right_here_l",
+  "difficulty": 2,
+  "display_name": "Right Here",
+  "ham_move_name": "Tap_Tap_Pull_L_clubcanthandleme.move",
+  "milo_name": "tap_tap_pull_l_clubcanthandleme",
+  "song_name": "clubcanthandleme",
+  "clips": {
+    "right_here_l_clubcanthandleme_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "right_here_r_clubcanthandleme_v0"
+    },
+    "right_here_l_clubcanthandleme_v5": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "right_here_r_clubcanthandleme_v5"
+    },
+    "right_here_l_clubcanthandleme_v3": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "right_here_r_clubcanthandleme_v3"
+    },
+    "right_here_l_clubcanthandleme_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "right_here_r_clubcanthandleme_v1"
+    },
+    "right_here_l_clubcanthandleme_v6": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "right_here_r_clubcanthandleme_v6"
+    },
+    "right_here_l_clubcanthandleme_v4": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "right_here_r_clubcanthandleme_v4"
+    },
+    "right_here_l_clubcanthandleme_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "right_here_r_clubcanthandleme_v2"
+    },
+    "right_here_l_clubcanthandleme_v7": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "right_here_r_clubcanthandleme_v7"
+    }
+  }
+}

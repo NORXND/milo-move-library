@@ -1,0 +1,26 @@
+{
+  "name": "throwback_l",
+  "difficulty": 1,
+  "display_name": "Throwback",
+  "ham_move_name": "Throwback_L_clubcanthandleme.move",
+  "milo_name": "throwback_l_clubcanthandleme",
+  "song_name": "clubcanthandleme",
+  "clips": {
+    "throwback_l_clubcanthandleme_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "throwback_r_clubcanthandleme_v1",
+      "linked_from": "throwback_r_clubcanthandleme_v0"
+    },
+    "throwback_l_clubcanthandleme_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "throwback_r_clubcanthandleme_v1"
+    }
+  }
+}

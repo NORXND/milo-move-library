@@ -1,0 +1,42 @@
+{
+  "name": "bent_clap",
+  "difficulty": 0,
+  "display_name": "Bent Clap",
+  "ham_move_name": "Bent_Clap_clubcanthandleme.move",
+  "milo_name": "bent_clap_clubcanthandleme",
+  "song_name": "clubcanthandleme",
+  "clips": {
+    "bent_clap_clubcanthandleme_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bent_clap_clubcanthandleme_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bent_clap_clubcanthandleme_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bent_clap_clubcanthandleme_v3": {
+      "avg_beats_per_second": 1.82,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

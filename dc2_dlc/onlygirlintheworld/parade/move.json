@@ -1,0 +1,26 @@
+{
+  "name": "parade",
+  "difficulty": 2,
+  "display_name": "Parade",
+  "ham_move_name": "Girly_onlygirlintheworld.move",
+  "milo_name": "girly_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "parade_onlygirlintheworld_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "parade_onlygirlintheworld_v1": {
+      "avg_beats_per_second": 1.81,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

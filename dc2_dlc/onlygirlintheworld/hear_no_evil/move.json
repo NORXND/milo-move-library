@@ -1,0 +1,18 @@
+{
+  "name": "hear_no_evil",
+  "difficulty": 2,
+  "display_name": "Hear No Evil",
+  "ham_move_name": "Secrets_2_onlygirlintheworld.move",
+  "milo_name": "secrets_2_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "hear_no_evil_onlygirlintheworld_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

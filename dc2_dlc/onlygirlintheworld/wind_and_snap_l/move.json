@@ -1,0 +1,18 @@
+{
+  "name": "wind_and_snap_l",
+  "difficulty": 2,
+  "display_name": "Wind & Snap",
+  "ham_move_name": "Diva_Moment_L_onlygirlintheworld.move",
+  "milo_name": "diva_moment_l_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "wind_and_snap_l_onlygirlintheworld_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "wind_and_snap_r_onlygirlintheworld_v0"
+    }
+  }
+}

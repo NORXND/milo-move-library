@@ -1,0 +1,26 @@
+{
+  "name": "diva_slap",
+  "difficulty": 2,
+  "display_name": "Diva Slap",
+  "ham_move_name": "Diva_Slap_onlygirlintheworld.move",
+  "milo_name": "diva_slap_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "diva_slap_onlygirlintheworld_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_slap_onlygirlintheworld_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "laid_back",
+  "difficulty": 2,
+  "display_name": "Laid Back",
+  "ham_move_name": "Princess_onlygirlintheworld.move",
+  "milo_name": "princess_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "laid_back_onlygirlintheworld_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "laid_back_onlygirlintheworld_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "laid_back_onlygirlintheworld_v2": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

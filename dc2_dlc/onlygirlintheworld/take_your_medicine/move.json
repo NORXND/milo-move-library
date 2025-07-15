@@ -1,0 +1,18 @@
+{
+  "name": "take_your_medicine",
+  "difficulty": 2,
+  "display_name": "Take Your Medicine",
+  "ham_move_name": "Choke_Yourself_onlygirlintheworld.move",
+  "milo_name": "choke_yourself_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "take_your_medicine_onlygirlintheworld_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

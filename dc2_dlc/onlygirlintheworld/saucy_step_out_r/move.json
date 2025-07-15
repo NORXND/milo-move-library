@@ -1,0 +1,18 @@
+{
+  "name": "saucy_step_out_r",
+  "difficulty": 2,
+  "display_name": "Saucy Step Out",
+  "ham_move_name": "Row_It_Out_R_onlygirlintheworld.move",
+  "milo_name": "row_it_out_r_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "saucy_step_out_r_onlygirlintheworld_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "saucy_step_out_l_onlygirlintheworld_v0",
+      "linked_from": ""
+    }
+  }
+}

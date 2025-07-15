@@ -1,0 +1,18 @@
+{
+  "name": "horizon_arms",
+  "difficulty": 2,
+  "display_name": "Horizon Arms",
+  "ham_move_name": "Jesus_Swimmers_onlygirlintheworld.move",
+  "milo_name": "jesus_swimmers_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "horizon_arms_onlygirlintheworld_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

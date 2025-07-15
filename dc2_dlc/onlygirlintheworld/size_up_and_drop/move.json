@@ -1,0 +1,18 @@
+{
+  "name": "size_up_and_drop",
+  "difficulty": 2,
+  "display_name": "Size Up & Drop",
+  "ham_move_name": "Numb_2_onlygirlintheworld.move",
+  "milo_name": "numb_2_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "size_up_and_drop_onlygirlintheworld_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

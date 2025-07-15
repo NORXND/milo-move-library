@@ -1,0 +1,34 @@
+{
+  "name": "swipe_skate",
+  "difficulty": 2,
+  "display_name": "Swipe Skate",
+  "ham_move_name": "Ron_De_Jambe_onlygirlintheworld.move",
+  "milo_name": "ron_de_jambe_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "swipe_skate_onlygirlintheworld_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swipe_skate_onlygirlintheworld_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swipe_skate_onlygirlintheworld_v2": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

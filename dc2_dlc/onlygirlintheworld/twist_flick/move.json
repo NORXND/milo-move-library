@@ -1,0 +1,26 @@
+{
+  "name": "twist_flick",
+  "difficulty": 2,
+  "display_name": "Twist Flick",
+  "ham_move_name": "Hee_Hee_onlygirlintheworld.move",
+  "milo_name": "hee_hee_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "twist_flick_onlygirlintheworld_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "twist_flick_onlygirlintheworld_v1": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

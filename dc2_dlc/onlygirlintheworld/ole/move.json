@@ -1,0 +1,18 @@
+{
+  "name": "ole",
+  "difficulty": 2,
+  "display_name": "Ole",
+  "ham_move_name": "Ole_onlygirlintheworld.move",
+  "milo_name": "ole_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "ole_onlygirlintheworld_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

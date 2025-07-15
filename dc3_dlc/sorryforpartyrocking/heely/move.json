@@ -1,0 +1,18 @@
+{
+  "name": "heely",
+  "difficulty": 1,
+  "display_name": "Heely",
+  "ham_move_name": "Cross_Skate_sorryforpartyrocking.move",
+  "milo_name": "cross_skate_sorryforpartyrocking",
+  "song_name": "sorryforpartyrocking",
+  "clips": {
+    "heely_sorryforpartyrocking_v0": {
+      "avg_beats_per_second": 2.24,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

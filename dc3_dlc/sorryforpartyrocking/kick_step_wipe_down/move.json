@@ -1,0 +1,18 @@
+{
+  "name": "kick_step_wipe_down",
+  "difficulty": 2,
+  "display_name": "Kick Step Wipe Down",
+  "ham_move_name": "Brush_Off_sorryforpartyrocking.move",
+  "milo_name": "brush_off_sorryforpartyrocking",
+  "song_name": "sorryforpartyrocking",
+  "clips": {
+    "kick_step_wipe_down_sorryforpartyrocking_v0": {
+      "avg_beats_per_second": 2.24,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

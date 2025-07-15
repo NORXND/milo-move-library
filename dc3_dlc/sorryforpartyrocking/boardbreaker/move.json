@@ -1,0 +1,18 @@
+{
+  "name": "boardbreaker",
+  "difficulty": 0,
+  "display_name": "Boardbreaker",
+  "ham_move_name": "Knee_Raise_Rl_sorryforpartyrocking.move",
+  "milo_name": "knee_raise_rl_sorryforpartyrocking",
+  "song_name": "sorryforpartyrocking",
+  "clips": {
+    "boardbreaker_sorryforpartyrocking_v0": {
+      "avg_beats_per_second": 2.23,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

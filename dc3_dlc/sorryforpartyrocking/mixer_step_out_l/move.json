@@ -1,0 +1,18 @@
+{
+  "name": "mixer_step_out_l",
+  "difficulty": 2,
+  "display_name": "Mixer Step Out",
+  "ham_move_name": "Step_Throw_L_sorryforpartyrocking.move",
+  "milo_name": "step_throw_l_sorryforpartyrocking",
+  "song_name": "sorryforpartyrocking",
+  "clips": {
+    "mixer_step_out_l_sorryforpartyrocking_v0": {
+      "avg_beats_per_second": 2.23,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "mixer_step_out_r_sorryforpartyrocking_v0"
+    }
+  }
+}

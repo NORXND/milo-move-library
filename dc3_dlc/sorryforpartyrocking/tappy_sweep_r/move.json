@@ -1,0 +1,26 @@
+{
+  "name": "tappy_sweep_r",
+  "difficulty": 2,
+  "display_name": "Tappy Sweep",
+  "ham_move_name": "Jump_To_Step_In_R_sorryforpartyrocking.move",
+  "milo_name": "jump_to_step_in_r_sorryforpartyrocking",
+  "song_name": "sorryforpartyrocking",
+  "clips": {
+    "tappy_sweep_r_sorryforpartyrocking_v0": {
+      "avg_beats_per_second": 2.24,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "tappy_sweep_l_sorryforpartyrocking_v0",
+      "linked_from": ""
+    },
+    "tappy_sweep_r_sorryforpartyrocking_v1": {
+      "avg_beats_per_second": 2.23,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "tappy_sweep_l_sorryforpartyrocking_v1",
+      "linked_from": ""
+    }
+  }
+}

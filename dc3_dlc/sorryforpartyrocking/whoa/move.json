@@ -1,0 +1,26 @@
+{
+  "name": "whoa",
+  "difficulty": 0,
+  "display_name": "Whoa",
+  "ham_move_name": "Matrix1_sorryforpartyrocking.move",
+  "milo_name": "matrix1_sorryforpartyrocking",
+  "song_name": "sorryforpartyrocking",
+  "clips": {
+    "whoa_sorryforpartyrocking_v0": {
+      "avg_beats_per_second": 2.24,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "whoa_sorryforpartyrocking_v1": {
+      "avg_beats_per_second": 2.24,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

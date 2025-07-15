@@ -1,0 +1,18 @@
+{
+  "name": "bolgo",
+  "difficulty": 2,
+  "display_name": "Bolgo",
+  "ham_move_name": "Point_Wind_sorryforpartyrocking.move",
+  "milo_name": "point_wind_sorryforpartyrocking",
+  "song_name": "sorryforpartyrocking",
+  "clips": {
+    "bolgo_sorryforpartyrocking_v0": {
+      "avg_beats_per_second": 2.23,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

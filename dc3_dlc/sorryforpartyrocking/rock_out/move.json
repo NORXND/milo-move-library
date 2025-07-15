@@ -1,0 +1,50 @@
+{
+  "name": "rock_out",
+  "difficulty": 2,
+  "display_name": "Rock Out",
+  "ham_move_name": "Rockstar_sorryforpartyrocking.move",
+  "milo_name": "rockstar_sorryforpartyrocking",
+  "song_name": "sorryforpartyrocking",
+  "clips": {
+    "rock_out_sorryforpartyrocking_v0": {
+      "avg_beats_per_second": 2.23,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rock_out_sorryforpartyrocking_v1": {
+      "avg_beats_per_second": 2.23,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rock_out_sorryforpartyrocking_v2": {
+      "avg_beats_per_second": 2.23,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rock_out_sorryforpartyrocking_v3": {
+      "avg_beats_per_second": 2.24,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rock_out_sorryforpartyrocking_v4": {
+      "avg_beats_per_second": 2.23,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "rope_a_dope",
+  "difficulty": 0,
+  "display_name": "Rope-a-dope",
+  "ham_move_name": "Groove_Back_sorryforpartyrocking.move",
+  "milo_name": "groove_back_sorryforpartyrocking",
+  "song_name": "sorryforpartyrocking",
+  "clips": {
+    "rope_a_dope_sorryforpartyrocking_v0": {
+      "avg_beats_per_second": 2.23,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rope_a_dope_sorryforpartyrocking_v1": {
+      "avg_beats_per_second": 2.24,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

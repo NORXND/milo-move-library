@@ -1,0 +1,26 @@
+{
+  "name": "swag_drag",
+  "difficulty": 2,
+  "display_name": "Swag Drag",
+  "ham_move_name": "Step_Drag_Rl_sorryforpartyrocking.move",
+  "milo_name": "step_drag_rl_sorryforpartyrocking",
+  "song_name": "sorryforpartyrocking",
+  "clips": {
+    "swag_drag_sorryforpartyrocking_v0": {
+      "avg_beats_per_second": 2.24,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swag_drag_sorryforpartyrocking_v1": {
+      "avg_beats_per_second": 2.23,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

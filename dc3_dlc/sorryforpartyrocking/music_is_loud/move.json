@@ -1,0 +1,18 @@
+{
+  "name": "music_is_loud",
+  "difficulty": 2,
+  "display_name": "Music Is Loud",
+  "ham_move_name": "Headphones_sorryforpartyrocking.move",
+  "milo_name": "headphones_sorryforpartyrocking",
+  "song_name": "sorryforpartyrocking",
+  "clips": {
+    "music_is_loud_sorryforpartyrocking_v0": {
+      "avg_beats_per_second": 2.23,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

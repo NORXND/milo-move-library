@@ -1,0 +1,26 @@
+{
+  "name": "triple_punch_r",
+  "difficulty": 2,
+  "display_name": "Triple Punch",
+  "ham_move_name": "Shoulder_Hits_R_sorryforpartyrocking.move",
+  "milo_name": "shoulder_hits_r_sorryforpartyrocking",
+  "song_name": "sorryforpartyrocking",
+  "clips": {
+    "triple_punch_r_sorryforpartyrocking_v0": {
+      "avg_beats_per_second": 2.24,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "triple_punch_r_sorryforpartyrocking_v1": {
+      "avg_beats_per_second": 1.91,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

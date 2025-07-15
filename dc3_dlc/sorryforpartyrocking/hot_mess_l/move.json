@@ -1,0 +1,26 @@
+{
+  "name": "hot_mess_l",
+  "difficulty": 2,
+  "display_name": "Hot Mess",
+  "ham_move_name": "Slo_Mo_L_sorryforpartyrocking.move",
+  "milo_name": "slo_mo_l_sorryforpartyrocking",
+  "song_name": "sorryforpartyrocking",
+  "clips": {
+    "hot_mess_l_sorryforpartyrocking_v0": {
+      "avg_beats_per_second": 2.24,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "hot_mess_r_sorryforpartyrocking_v0"
+    },
+    "hot_mess_l_sorryforpartyrocking_v1": {
+      "avg_beats_per_second": 2.23,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "hot_mess_r_sorryforpartyrocking_v1"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "strum",
+  "difficulty": 0,
+  "display_name": "Strum",
+  "ham_move_name": "Guitar_sorryforpartyrocking.move",
+  "milo_name": "guitar_sorryforpartyrocking",
+  "song_name": "sorryforpartyrocking",
+  "clips": {
+    "strum_sorryforpartyrocking_v0": {
+      "avg_beats_per_second": 2.24,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "strum_sorryforpartyrocking_v1": {
+      "avg_beats_per_second": 2.23,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "strum_sorryforpartyrocking_v2": {
+      "avg_beats_per_second": 2.23,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "strum_sorryforpartyrocking_v3": {
+      "avg_beats_per_second": 1.93,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

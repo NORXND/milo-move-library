@@ -1,0 +1,34 @@
+{
+  "name": "cross_hit",
+  "difficulty": 2,
+  "display_name": "Cross Hit",
+  "ham_move_name": "Fist_Cross_sorryforpartyrocking.move",
+  "milo_name": "fist_cross_sorryforpartyrocking",
+  "song_name": "sorryforpartyrocking",
+  "clips": {
+    "cross_hit_sorryforpartyrocking_v0": {
+      "avg_beats_per_second": 2.23,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_hit_sorryforpartyrocking_v1": {
+      "avg_beats_per_second": 2.23,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_hit_sorryforpartyrocking_v2": {
+      "avg_beats_per_second": 2.24,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

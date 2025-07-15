@@ -1,0 +1,18 @@
+{
+  "name": "kick_step_flap",
+  "difficulty": 2,
+  "display_name": "Kick Step Flap",
+  "ham_move_name": "Crunch_In_sorryforpartyrocking.move",
+  "milo_name": "crunch_in_sorryforpartyrocking",
+  "song_name": "sorryforpartyrocking",
+  "clips": {
+    "kick_step_flap_sorryforpartyrocking_v0": {
+      "avg_beats_per_second": 1.91,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

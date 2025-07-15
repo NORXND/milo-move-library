@@ -1,0 +1,50 @@
+{
+  "name": "_1988",
+  "difficulty": 2,
+  "display_name": "1988",
+  "ham_move_name": "Hop_Drag_sorryforpartyrocking.move",
+  "milo_name": "hop_drag_sorryforpartyrocking",
+  "song_name": "sorryforpartyrocking",
+  "clips": {
+    "_1988_sorryforpartyrocking_v0": {
+      "avg_beats_per_second": 2.23,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "_1988_sorryforpartyrocking_v1": {
+      "avg_beats_per_second": 2.23,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "_1988_sorryforpartyrocking_v2": {
+      "avg_beats_per_second": 2.23,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "_1988_sorryforpartyrocking_v3": {
+      "avg_beats_per_second": 2.24,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "_1988_sorryforpartyrocking_v4": {
+      "avg_beats_per_second": 2.23,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

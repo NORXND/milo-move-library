@@ -1,0 +1,18 @@
+{
+  "name": "break_and_heartthrob",
+  "difficulty": 2,
+  "display_name": "Break / Heartthrob",
+  "ham_move_name": "Party_Bounce_sorryforpartyrocking.move",
+  "milo_name": "party_bounce_sorryforpartyrocking",
+  "song_name": "sorryforpartyrocking",
+  "clips": {
+    "break_and_heartthrob_sorryforpartyrocking_v0": {
+      "avg_beats_per_second": 2.24,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

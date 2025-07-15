@@ -1,0 +1,42 @@
+{
+  "name": "jersey",
+  "difficulty": 2,
+  "display_name": "Jersey",
+  "ham_move_name": "Fist_Pump_sorryforpartyrocking.move",
+  "milo_name": "fist_pump_sorryforpartyrocking",
+  "song_name": "sorryforpartyrocking",
+  "clips": {
+    "jersey_sorryforpartyrocking_v0": {
+      "avg_beats_per_second": 2.24,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jersey_sorryforpartyrocking_v1": {
+      "avg_beats_per_second": 2.23,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jersey_sorryforpartyrocking_v2": {
+      "avg_beats_per_second": 1.92,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jersey_sorryforpartyrocking_v3": {
+      "avg_beats_per_second": 2.23,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

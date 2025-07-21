@@ -1,0 +1,18 @@
+{
+  "name": "which_way_and_my_way",
+  "difficulty": 2,
+  "display_name": "Which Way / My Way",
+  "ham_move_name": "Come_Here_Doggy_onlygirlintheworld.move",
+  "milo_name": "come_here_doggy_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "which_way_and_my_way_onlygirlintheworld_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "stompy",
+  "difficulty": 0,
+  "display_name": "Stompy",
+  "ham_move_name": "Stomp_The_Heart_marrythenight.move",
+  "milo_name": "stomp_the_heart_marrythenight",
+  "song_name": "marrythenight",
+  "clips": {
+    "stompy_marrythenight_v0": {
+      "avg_beats_per_second": 2.19,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

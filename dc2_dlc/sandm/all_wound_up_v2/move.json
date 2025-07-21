@@ -1,0 +1,74 @@
+{
+  "name": "all_wound_up",
+  "difficulty": 2,
+  "display_name": "All Wound Up",
+  "ham_move_name": "I_Like_It_Like_It_sandm.move",
+  "milo_name": "i_like_it_like_it_sandm",
+  "song_name": "sandm",
+  "clips": {
+    "all_wound_up_sandm_v2": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "all_wound_up_sandm_v7": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "all_wound_up_sandm_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "all_wound_up_sandm_v5": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "all_wound_up_sandm_v3": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "all_wound_up_sandm_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "all_wound_up_sandm_v6": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "all_wound_up_sandm_v4": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

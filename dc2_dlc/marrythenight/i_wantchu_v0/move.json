@@ -1,0 +1,18 @@
+{
+  "name": "i_wantchu",
+  "difficulty": 0,
+  "display_name": "I Wantchu",
+  "ham_move_name": "Point_Out_marrythenight.move",
+  "milo_name": "point_out_marrythenight",
+  "song_name": "marrythenight",
+  "clips": {
+    "i_wantchu_marrythenight_v0": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

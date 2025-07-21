@@ -1,0 +1,74 @@
+{
+  "name": "diva_house",
+  "difficulty": 2,
+  "display_name": "Diva House",
+  "ham_move_name": "Follow_My_Lead_promiscuous.move",
+  "milo_name": "follow_my_lead_promiscuous",
+  "song_name": "promiscuous",
+  "clips": {
+    "diva_house_promiscuous_v0": {
+      "avg_beats_per_second": 1.91,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_house_promiscuous_v6": {
+      "avg_beats_per_second": 1.9,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_house_promiscuous_v3": {
+      "avg_beats_per_second": 1.69,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_house_promiscuous_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_house_promiscuous_v7": {
+      "avg_beats_per_second": 1.91,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_house_promiscuous_v4": {
+      "avg_beats_per_second": 1.91,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_house_promiscuous_v5": {
+      "avg_beats_per_second": 1.9,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_house_promiscuous_v2": {
+      "avg_beats_per_second": 1.9,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

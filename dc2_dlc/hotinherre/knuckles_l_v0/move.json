@@ -1,0 +1,26 @@
+{
+  "name": "knuckles_l",
+  "difficulty": 2,
+  "display_name": "Knuckles",
+  "ham_move_name": "Low_Punch_L_hotinherre.move",
+  "milo_name": "low_punch_l_hotinherre",
+  "song_name": "hotinherre",
+  "clips": {
+    "knuckles_l_hotinherre_v0": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "fresh_and_knuckles_r_hotinherre_v0"
+    },
+    "knuckles_l_hotinherre_v1": {
+      "avg_beats_per_second": 1.78,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "fresh_and_knuckles_r_hotinherre_v1"
+    }
+  }
+}

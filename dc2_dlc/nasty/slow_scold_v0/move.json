@@ -1,0 +1,34 @@
+{
+  "name": "slow_scold",
+  "difficulty": 0,
+  "display_name": "Slow Scold",
+  "ham_move_name": "Scandelous_nasty.move",
+  "milo_name": "scandelous_nasty",
+  "song_name": "nasty",
+  "clips": {
+    "slow_scold_nasty_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slow_scold_nasty_v1": {
+      "avg_beats_per_second": 1.49,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slow_scold_nasty_v2": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

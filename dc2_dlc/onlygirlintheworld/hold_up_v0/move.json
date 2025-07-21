@@ -1,0 +1,18 @@
+{
+  "name": "hold_up",
+  "difficulty": 2,
+  "display_name": "Hold Up",
+  "ham_move_name": "Hold_Up_onlygirlintheworld.move",
+  "milo_name": "hold_up_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "hold_up_onlygirlintheworld_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

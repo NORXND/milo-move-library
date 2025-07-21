@@ -1,0 +1,26 @@
+{
+  "name": "exception_rolling_flip_step_1",
+  "difficulty": 2,
+  "display_name": "Rolling Flip Step",
+  "ham_move_name": "Roll_And_Rock_scenario.move",
+  "milo_name": "roll_and_rock_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "rolling_flip_step_scenario_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rolling_flip_step_scenario_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

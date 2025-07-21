@@ -1,0 +1,26 @@
+{
+  "name": "man_square",
+  "difficulty": 2,
+  "display_name": "Man Square ",
+  "ham_move_name": "Man_Square_scenario.move",
+  "milo_name": "man_square_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "man_square_scenario_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "man_square_scenario_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

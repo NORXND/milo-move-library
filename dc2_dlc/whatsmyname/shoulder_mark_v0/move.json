@@ -1,0 +1,26 @@
+{
+  "name": "shoulder_mark",
+  "difficulty": 2,
+  "display_name": "Shoulder Mark",
+  "ham_move_name": "Shoulder_Mark_whatsmyname.move",
+  "milo_name": "shoulder_mark_whatsmyname",
+  "song_name": "whatsmyname",
+  "clips": {
+    "shoulder_mark_whatsmyname_v0": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_mark_whatsmyname_v1": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

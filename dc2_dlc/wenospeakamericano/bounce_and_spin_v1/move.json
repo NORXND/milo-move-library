@@ -1,0 +1,26 @@
+{
+  "name": "bounce_and_spin",
+  "difficulty": 2,
+  "display_name": "Bounce & Spin",
+  "ham_move_name": "Step_And_Spin_wenospeakamericano.move",
+  "milo_name": "step_and_spin_wenospeakamericano",
+  "song_name": "wenospeakamericano",
+  "clips": {
+    "bounce_and_spin_wenospeakamericano_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bounce_and_spin_wenospeakamericano_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

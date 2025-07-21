@@ -1,0 +1,18 @@
+{
+  "name": "little_mama",
+  "difficulty": 2,
+  "display_name": "Little Mama",
+  "ham_move_name": "Backside_whatsmyname.move",
+  "milo_name": "backside_whatsmyname",
+  "song_name": "whatsmyname",
+  "clips": {
+    "little_mama_whatsmyname_v0": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

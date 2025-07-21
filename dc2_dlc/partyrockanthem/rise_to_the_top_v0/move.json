@@ -1,0 +1,18 @@
+{
+  "name": "rise_to_the_top",
+  "difficulty": 2,
+  "display_name": "Rise To The Top",
+  "ham_move_name": "New_York_City_1_partyrockanthem.move",
+  "milo_name": "new_york_city_1_partyrockanthem",
+  "song_name": "partyrockanthem",
+  "clips": {
+    "rise_to_the_top_partyrockanthem_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

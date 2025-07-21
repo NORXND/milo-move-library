@@ -1,0 +1,26 @@
+{
+  "name": "blocker_step",
+  "difficulty": 2,
+  "display_name": "Blocker Step",
+  "ham_move_name": "Groove_March_neversaynever.move",
+  "milo_name": "groove_march_neversaynever",
+  "song_name": "neversaynever",
+  "clips": {
+    "blocker_step_neversaynever_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "blocker_step_neversaynever_v1": {
+      "avg_beats_per_second": 1.61,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

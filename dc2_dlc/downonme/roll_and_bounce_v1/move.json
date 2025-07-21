@@ -1,0 +1,26 @@
+{
+  "name": "roll_and_bounce",
+  "difficulty": 2,
+  "display_name": "Roll & Bounce",
+  "ham_move_name": "Hype_Bounce_downonme.move",
+  "milo_name": "hype_bounce_downonme",
+  "song_name": "downonme",
+  "clips": {
+    "roll_and_bounce_downonme_v1": {
+      "avg_beats_per_second": 1.33,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roll_and_bounce_downonme_v0": {
+      "avg_beats_per_second": 1.33,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

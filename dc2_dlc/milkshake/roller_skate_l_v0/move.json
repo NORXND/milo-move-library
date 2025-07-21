@@ -1,0 +1,18 @@
+{
+  "name": "roller_skate_l",
+  "difficulty": 1,
+  "display_name": "Roller Skate",
+  "ham_move_name": "Pull_Through_L_milkshake.move",
+  "milo_name": "pull_through_l_milkshake",
+  "song_name": "milkshake",
+  "clips": {
+    "roller_skate_l_milkshake_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "roller_skate_r_milkshake_v0",
+      "linked_from": ""
+    }
+  }
+}

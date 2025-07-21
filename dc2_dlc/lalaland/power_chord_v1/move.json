@@ -1,0 +1,50 @@
+{
+  "name": "power_chord",
+  "difficulty": 0,
+  "display_name": "Power Chord",
+  "ham_move_name": "Epic_Guitar_lalaland.move",
+  "milo_name": "epic_guitar_lalaland",
+  "song_name": "lalaland",
+  "clips": {
+    "power_chord_lalaland_v1": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "power_chord_lalaland_v3": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "power_chord_lalaland_v2": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "power_chord_lalaland_v0": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "power_chord_lalaland_v4": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

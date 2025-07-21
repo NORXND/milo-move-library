@@ -1,0 +1,26 @@
+{
+  "name": "swing_step",
+  "difficulty": 0,
+  "display_name": "Swing Step",
+  "ham_move_name": "Swing_Step_In_sandm.move",
+  "milo_name": "swing_step_in_sandm",
+  "song_name": "sandm",
+  "clips": {
+    "swing_step_sandm_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swing_step_sandm_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

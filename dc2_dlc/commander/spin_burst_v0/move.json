@@ -1,0 +1,26 @@
+{
+  "name": "spin_burst",
+  "difficulty": 2,
+  "display_name": "Spin Burst",
+  "ham_move_name": "Turn_And_Hold_commander.move",
+  "milo_name": "turn_and_hold_commander",
+  "song_name": "commander",
+  "clips": {
+    "spin_burst_commander_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spin_burst_commander_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

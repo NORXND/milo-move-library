@@ -1,0 +1,26 @@
+{
+  "name": "liquid_knees",
+  "difficulty": 2,
+  "display_name": "Liquid Knees",
+  "ham_move_name": "Soldier_Boy_partyrockanthem.move",
+  "milo_name": "soldier_boy_partyrockanthem",
+  "song_name": "partyrockanthem",
+  "clips": {
+    "liquid_knees_partyrockanthem_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "liquid_knees_partyrockanthem_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

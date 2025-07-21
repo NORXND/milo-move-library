@@ -1,0 +1,18 @@
+{
+  "name": "pump",
+  "difficulty": 2,
+  "display_name": "Pump",
+  "ham_move_name": "Bodysuit_gonnamakeyousweat.move",
+  "milo_name": "bodysuit_gonnamakeyousweat",
+  "song_name": "gonnamakeyousweat",
+  "clips": {
+    "pump_gonnamakeyousweat_v0": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

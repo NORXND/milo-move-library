@@ -1,0 +1,18 @@
+{
+  "name": "i_m_so_miss_aubrey",
+  "difficulty": 2,
+  "display_name": "I'm So Miss Aubrey",
+  "ham_move_name": "Body_Form_whatsmyname.move",
+  "milo_name": "body_form_whatsmyname",
+  "song_name": "whatsmyname",
+  "clips": {
+    "i_m_so_miss_aubrey_whatsmyname_v0": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

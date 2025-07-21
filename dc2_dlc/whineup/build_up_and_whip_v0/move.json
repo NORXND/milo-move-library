@@ -1,0 +1,18 @@
+{
+  "name": "build_up_and_whip",
+  "difficulty": 2,
+  "display_name": "Build Up & Whip",
+  "ham_move_name": "Hype_And_Wip_whineup.move",
+  "milo_name": "hype_and_wip_whineup",
+  "song_name": "whineup",
+  "clips": {
+    "build_up_and_whip_whineup_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

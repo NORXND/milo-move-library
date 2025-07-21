@@ -1,0 +1,42 @@
+{
+  "name": "brush_tap_l",
+  "difficulty": 1,
+  "display_name": "Brush Tap",
+  "ham_move_name": "Brush_Tap_L_closer.move",
+  "milo_name": "brush_tap_l_closer",
+  "song_name": "closer",
+  "clips": {
+    "brush_tap_l_closer_v3": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "brush_tap_r_closer_v3"
+    },
+    "brush_tap_l_closer_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "brush_tap_r_closer_v1"
+    },
+    "brush_tap_l_closer_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "brush_tap_r_closer_v0"
+    },
+    "brush_tap_l_closer_v2": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "brush_tap_r_closer_v2"
+    }
+  }
+}

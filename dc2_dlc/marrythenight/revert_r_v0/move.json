@@ -1,0 +1,18 @@
+{
+  "name": "revert_r",
+  "difficulty": 0,
+  "display_name": "Revert",
+  "ham_move_name": "Sadness_R_marrythenight.move",
+  "milo_name": "sadness_r_marrythenight",
+  "song_name": "marrythenight",
+  "clips": {
+    "revert_r_marrythenight_v0": {
+      "avg_beats_per_second": 2.22,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

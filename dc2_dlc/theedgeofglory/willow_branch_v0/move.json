@@ -1,0 +1,18 @@
+{
+  "name": "willow_branch",
+  "difficulty": 2,
+  "display_name": "Willow Branch",
+  "ham_move_name": "Branch_R_2_theedgeofglory.move",
+  "milo_name": "branch_r_2_theedgeofglory",
+  "song_name": "theedgeofglory",
+  "clips": {
+    "willow_branch_theedgeofglory_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

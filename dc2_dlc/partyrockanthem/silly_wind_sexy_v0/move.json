@@ -1,0 +1,18 @@
+{
+  "name": "silly_wind_sexy",
+  "difficulty": 2,
+  "display_name": "Silly Wind Sexy",
+  "ham_move_name": "The_Mess_Around_Head_partyrockanthem.move",
+  "milo_name": "the_mess_around_head_partyrockanthem",
+  "song_name": "partyrockanthem",
+  "clips": {
+    "silly_wind_sexy_partyrockanthem_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

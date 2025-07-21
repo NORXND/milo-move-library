@@ -1,0 +1,26 @@
+{
+  "name": "dawn_til_dusk",
+  "difficulty": 1,
+  "display_name": "Dawn 'Til Dusk",
+  "ham_move_name": "The_Answer_commander.move",
+  "milo_name": "the_answer_commander",
+  "song_name": "commander",
+  "clips": {
+    "dawn_til_dusk_commander_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dawn_til_dusk_commander_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

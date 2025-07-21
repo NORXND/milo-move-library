@@ -1,0 +1,18 @@
+{
+  "name": "sky_taffy_r",
+  "difficulty": 0,
+  "display_name": "Sky Taffy",
+  "ham_move_name": "Sky_Taffy_R_givemeeverything.move",
+  "milo_name": "sky_taffy_r_givemeeverything",
+  "song_name": "givemeeverything",
+  "clips": {
+    "sky_taffy_r_givemeeverything_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "sky_taffy_l_givemeeverything_v0",
+      "linked_from": ""
+    }
+  }
+}

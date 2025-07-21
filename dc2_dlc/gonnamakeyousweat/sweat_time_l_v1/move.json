@@ -1,0 +1,42 @@
+{
+  "name": "sweat_time_l",
+  "difficulty": 2,
+  "display_name": "Sweat Time",
+  "ham_move_name": "Sweat_Time_L_gonnamakeyousweat.move",
+  "milo_name": "sweat_time_l_gonnamakeyousweat",
+  "song_name": "gonnamakeyousweat",
+  "clips": {
+    "sweat_time_l_gonnamakeyousweat_v1": {
+      "avg_beats_per_second": 1.64,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "sweat_time_r_gonnamakeyousweat_v1"
+    },
+    "sweat_time_l_gonnamakeyousweat_v2": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "sweat_time_r_gonnamakeyousweat_v2"
+    },
+    "sweat_time_l_gonnamakeyousweat_v3": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "sweat_time_r_gonnamakeyousweat_v3"
+    },
+    "sweat_time_l_gonnamakeyousweat_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "sweat_time_r_gonnamakeyousweat_v0"
+    }
+  }
+}

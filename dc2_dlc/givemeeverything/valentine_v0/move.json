@@ -1,0 +1,26 @@
+{
+  "name": "valentine",
+  "difficulty": 2,
+  "display_name": "Valentine",
+  "ham_move_name": "Shake_N_Roll_givemeeverything.move",
+  "milo_name": "shake_n_roll_givemeeverything",
+  "song_name": "givemeeverything",
+  "clips": {
+    "valentine_givemeeverything_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "valentine_givemeeverything_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

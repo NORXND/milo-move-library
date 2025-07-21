@@ -1,0 +1,26 @@
+{
+  "name": "victor",
+  "difficulty": 0,
+  "display_name": "Victor",
+  "ham_move_name": "Hands_Up_donttouchme.move",
+  "milo_name": "hands_up_donttouchme",
+  "song_name": "donttouchme",
+  "clips": {
+    "victor_donttouchme_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "victor_donttouchme_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

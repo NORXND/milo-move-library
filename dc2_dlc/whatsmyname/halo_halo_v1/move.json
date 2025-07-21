@@ -1,0 +1,26 @@
+{
+  "name": "halo_halo",
+  "difficulty": 2,
+  "display_name": "Halo-Halo",
+  "ham_move_name": "Arch_Slam_Wave_whatsmyname.move",
+  "milo_name": "arch_slam_wave_whatsmyname",
+  "song_name": "whatsmyname",
+  "clips": {
+    "halo_halo_whatsmyname_v1": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "halo_halo_whatsmyname_v0": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

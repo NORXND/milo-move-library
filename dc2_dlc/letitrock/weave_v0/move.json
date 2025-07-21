@@ -1,0 +1,26 @@
+{
+  "name": "weave",
+  "difficulty": 0,
+  "display_name": "Weave",
+  "ham_move_name": "Hunchback_letitrock.move",
+  "milo_name": "hunchback_letitrock",
+  "song_name": "letitrock",
+  "clips": {
+    "weave_letitrock_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "weave_letitrock_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

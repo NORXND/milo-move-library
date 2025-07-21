@@ -1,0 +1,26 @@
+{
+  "name": "ice_breaker",
+  "difficulty": 2,
+  "display_name": "Ice Breaker",
+  "ham_move_name": "Break_Glide_promiscuous.move",
+  "milo_name": "break_glide_promiscuous",
+  "song_name": "promiscuous",
+  "clips": {
+    "ice_breaker_promiscuous_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ice_breaker_promiscuous_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

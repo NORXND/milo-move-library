@@ -1,0 +1,26 @@
+{
+  "name": "heel_taps",
+  "difficulty": 2,
+  "display_name": "Heel Taps",
+  "ham_move_name": "Mraz_wenospeakamericano.move",
+  "milo_name": "mraz_wenospeakamericano",
+  "song_name": "wenospeakamericano",
+  "clips": {
+    "heel_taps_wenospeakamericano_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heel_taps_wenospeakamericano_v1": {
+      "avg_beats_per_second": 1.79,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

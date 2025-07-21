@@ -1,0 +1,42 @@
+{
+  "name": "swipe_and_raise",
+  "difficulty": 2,
+  "display_name": "Swipe & Raise",
+  "ham_move_name": "Off_Balance_whatsmyname.move",
+  "milo_name": "off_balance_whatsmyname",
+  "song_name": "whatsmyname",
+  "clips": {
+    "swipe_and_raise_whatsmyname_v0": {
+      "avg_beats_per_second": 1.44,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swipe_and_raise_whatsmyname_v1": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swipe_and_raise_whatsmyname_v2": {
+      "avg_beats_per_second": 1.61,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swipe_and_raise_whatsmyname_v3": {
+      "avg_beats_per_second": 1.44,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

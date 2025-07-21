@@ -1,0 +1,74 @@
+{
+  "name": "dog_paddle",
+  "difficulty": 1,
+  "display_name": "Dog Paddle",
+  "ham_move_name": "Chica_Chica_spiceupyourlife.move",
+  "milo_name": "chica_chica_spiceupyourlife",
+  "song_name": "spiceupyourlife",
+  "clips": {
+    "dog_paddle_spiceupyourlife_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dog_paddle_spiceupyourlife_v5": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dog_paddle_spiceupyourlife_v3": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dog_paddle_spiceupyourlife_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dog_paddle_spiceupyourlife_v6": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dog_paddle_spiceupyourlife_v4": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dog_paddle_spiceupyourlife_v2": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dog_paddle_spiceupyourlife_v7": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "helicopter",
+  "difficulty": 2,
+  "display_name": "Helicopter",
+  "ham_move_name": "Helicopter_promiscuous.move",
+  "milo_name": "helicopter_promiscuous",
+  "song_name": "promiscuous",
+  "clips": {
+    "helicopter_promiscuous_v3": {
+      "avg_beats_per_second": 1.71,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "helicopter_promiscuous_v2": {
+      "avg_beats_per_second": 1.71,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "helicopter_promiscuous_v0": {
+      "avg_beats_per_second": 1.91,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "helicopter_promiscuous_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

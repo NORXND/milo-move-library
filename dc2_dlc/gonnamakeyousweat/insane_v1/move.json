@@ -1,0 +1,42 @@
+{
+  "name": "insane",
+  "difficulty": 0,
+  "display_name": "Insane",
+  "ham_move_name": "Insane_gonnamakeyousweat.move",
+  "milo_name": "insane_gonnamakeyousweat",
+  "song_name": "gonnamakeyousweat",
+  "clips": {
+    "insane_gonnamakeyousweat_v1": {
+      "avg_beats_per_second": 1.64,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "insane_gonnamakeyousweat_v2": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "insane_gonnamakeyousweat_v3": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "insane_gonnamakeyousweat_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

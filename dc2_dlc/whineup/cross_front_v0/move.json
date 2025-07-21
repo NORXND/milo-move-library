@@ -1,0 +1,18 @@
+{
+  "name": "cross_front",
+  "difficulty": 0,
+  "display_name": "Cross Front",
+  "ham_move_name": "Demand_whineup.move",
+  "milo_name": "demand_whineup",
+  "song_name": "whineup",
+  "clips": {
+    "cross_front_whineup_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

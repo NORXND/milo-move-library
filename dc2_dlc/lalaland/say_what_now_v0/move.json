@@ -1,0 +1,18 @@
+{
+  "name": "say_what_now",
+  "difficulty": 2,
+  "display_name": "Say What Now",
+  "ham_move_name": "Who_Said_lalaland.move",
+  "milo_name": "who_said_lalaland",
+  "song_name": "lalaland",
+  "clips": {
+    "say_what_now_lalaland_v0": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

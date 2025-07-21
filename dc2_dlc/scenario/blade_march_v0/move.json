@@ -1,0 +1,26 @@
+{
+  "name": "blade_march",
+  "difficulty": 2,
+  "display_name": "Blade March",
+  "ham_move_name": "Frat_scenario.move",
+  "milo_name": "frat_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "blade_march_scenario_v0": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "blade_march_scenario_v1": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

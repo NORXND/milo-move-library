@@ -1,0 +1,42 @@
+{
+  "name": "step_drag_in",
+  "difficulty": 0,
+  "display_name": "Step Drag In",
+  "ham_move_name": "Step_Drag_In_closer.move",
+  "milo_name": "step_drag_in_closer",
+  "song_name": "closer",
+  "clips": {
+    "step_drag_in_closer_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_drag_in_closer_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_drag_in_closer_v2": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_drag_in_closer_v3": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

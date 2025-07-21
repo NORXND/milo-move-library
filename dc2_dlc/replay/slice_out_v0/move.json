@@ -1,0 +1,26 @@
+{
+  "name": "slice_out",
+  "difficulty": 2,
+  "display_name": "Slice Out",
+  "ham_move_name": "Slice_Out_replay.move",
+  "milo_name": "slice_out_replay",
+  "song_name": "replay",
+  "clips": {
+    "slice_out_replay_v0": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slice_out_replay_v1": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

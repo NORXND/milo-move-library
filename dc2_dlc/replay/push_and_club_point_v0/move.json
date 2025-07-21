@@ -1,0 +1,66 @@
+{
+  "name": "push_and_club_point",
+  "difficulty": 2,
+  "display_name": "Push & Club Point",
+  "ham_move_name": "Push_And_Kick_Conductor_replay.move",
+  "milo_name": "push_and_kick_conductor_replay",
+  "song_name": "replay",
+  "clips": {
+    "push_and_club_point_replay_v0": {
+      "avg_beats_per_second": 1.34,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "push_and_club_point_replay_v5": {
+      "avg_beats_per_second": 1.3,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "push_and_club_point_replay_v3": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "push_and_club_point_replay_v1": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "push_and_club_point_replay_v6": {
+      "avg_beats_per_second": 1.3,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "push_and_club_point_replay_v4": {
+      "avg_beats_per_second": 1.3,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "push_and_club_point_replay_v2": {
+      "avg_beats_per_second": 1.3,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

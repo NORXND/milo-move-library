@@ -1,0 +1,42 @@
+{
+  "name": "feather_duster",
+  "difficulty": 2,
+  "display_name": "Feather Duster",
+  "ham_move_name": "X3_whineup.move",
+  "milo_name": "x3_whineup",
+  "song_name": "whineup",
+  "clips": {
+    "feather_duster_whineup_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "feather_duster_whineup_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "feather_duster_whineup_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "feather_duster_whineup_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "twisted_run",
+  "difficulty": 2,
+  "display_name": "Twisted Run",
+  "ham_move_name": "Run_Around_letitrock.move",
+  "milo_name": "run_around_letitrock",
+  "song_name": "letitrock",
+  "clips": {
+    "twisted_run_letitrock_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

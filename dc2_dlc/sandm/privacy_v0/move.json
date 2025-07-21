@@ -1,0 +1,26 @@
+{
+  "name": "privacy",
+  "difficulty": 0,
+  "display_name": "Privacy",
+  "ham_move_name": "Statement_sandm.move",
+  "milo_name": "statement_sandm",
+  "song_name": "sandm",
+  "clips": {
+    "privacy_sandm_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "privacy_sandm_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

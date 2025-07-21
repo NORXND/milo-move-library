@@ -1,0 +1,26 @@
+{
+  "name": "high_step",
+  "difficulty": 2,
+  "display_name": "High Step",
+  "ham_move_name": "High_Step_neversaynever.move",
+  "milo_name": "high_step_neversaynever",
+  "song_name": "neversaynever",
+  "clips": {
+    "high_step_neversaynever_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "high_step_neversaynever_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

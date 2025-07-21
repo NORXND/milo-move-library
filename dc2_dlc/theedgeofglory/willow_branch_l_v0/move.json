@@ -1,0 +1,26 @@
+{
+  "name": "willow_branch_l",
+  "difficulty": 2,
+  "display_name": "Willow Branch",
+  "ham_move_name": "Branch_L_theedgeofglory.move",
+  "milo_name": "branch_l_theedgeofglory",
+  "song_name": "theedgeofglory",
+  "clips": {
+    "willow_branch_l_theedgeofglory_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "willow_branch_r_theedgeofglory_v0"
+    },
+    "willow_branch_l_theedgeofglory_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "dragonflies",
+  "difficulty": 2,
+  "display_name": "Dragonflies",
+  "ham_move_name": "Na_Na_Na_sandm.move",
+  "milo_name": "na_na_na_sandm",
+  "song_name": "sandm",
+  "clips": {
+    "dragonflies_sandm_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

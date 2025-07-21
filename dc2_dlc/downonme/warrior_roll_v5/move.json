@@ -1,0 +1,18 @@
+{
+  "name": "exception_warrior_roll_2",
+  "difficulty": 2,
+  "display_name": "Warrior Roll",
+  "ham_move_name": "Get_It_Get_It_2_downonme.move",
+  "milo_name": "get_it_get_it_2_downonme",
+  "song_name": "downonme",
+  "clips": {
+    "warrior_roll_downonme_v5": {
+      "avg_beats_per_second": 1.33,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "warrior_roll_downonme_v4"
+    }
+  }
+}

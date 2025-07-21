@@ -1,0 +1,18 @@
+{
+  "name": "sweep_strong",
+  "difficulty": 2,
+  "display_name": "Sweep Strong",
+  "ham_move_name": "Sweep_Strong_whatsmyname.move",
+  "milo_name": "sweep_strong_whatsmyname",
+  "song_name": "whatsmyname",
+  "clips": {
+    "sweep_strong_whatsmyname_v0": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

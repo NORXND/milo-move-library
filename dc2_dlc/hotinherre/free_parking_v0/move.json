@@ -1,0 +1,18 @@
+{
+  "name": "free_parking",
+  "difficulty": 2,
+  "display_name": "Free Parking",
+  "ham_move_name": "Wind_Up_Rl_hotinherre.move",
+  "milo_name": "wind_up_rl_hotinherre",
+  "song_name": "hotinherre",
+  "clips": {
+    "free_parking_hotinherre_v0": {
+      "avg_beats_per_second": 1.78,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

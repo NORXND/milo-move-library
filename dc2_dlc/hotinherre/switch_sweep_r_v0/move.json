@@ -1,0 +1,18 @@
+{
+  "name": "switch_sweep_r",
+  "difficulty": 2,
+  "display_name": "Switch Sweep",
+  "ham_move_name": "Scoop_Sweep_R_hotinherre.move",
+  "milo_name": "scoop_sweep_r_hotinherre",
+  "song_name": "hotinherre",
+  "clips": {
+    "switch_sweep_r_hotinherre_v0": {
+      "avg_beats_per_second": 1.78,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "switch_sweep_l_hotinherre_v0"
+    }
+  }
+}

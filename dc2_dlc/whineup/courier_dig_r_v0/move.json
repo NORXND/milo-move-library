@@ -1,0 +1,18 @@
+{
+  "name": "courier_dig_r",
+  "difficulty": 2,
+  "display_name": "Courier Dig",
+  "ham_move_name": "Low_Seizure_R_whineup.move",
+  "milo_name": "low_seizure_r_whineup",
+  "song_name": "whineup",
+  "clips": {
+    "courier_dig_r_whineup_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "courier_dig_l_whineup_v0",
+      "linked_from": ""
+    }
+  }
+}

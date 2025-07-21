@@ -1,0 +1,18 @@
+{
+  "name": "reach_and_slam",
+  "difficulty": 0,
+  "display_name": "Reach And Slam",
+  "ham_move_name": "Reach_And_Slam_gonnamakeyousweat.move",
+  "milo_name": "reach_and_slam_gonnamakeyousweat",
+  "song_name": "gonnamakeyousweat",
+  "clips": {
+    "reach_and_slam_gonnamakeyousweat_v0": {
+      "avg_beats_per_second": 1.64,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

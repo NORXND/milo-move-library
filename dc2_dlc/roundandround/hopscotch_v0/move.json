@@ -1,0 +1,34 @@
+{
+  "name": "hopscotch",
+  "difficulty": 2,
+  "display_name": "Hopscotch",
+  "ham_move_name": "Jump_Turn_roundandround.move",
+  "milo_name": "jump_turn_roundandround",
+  "song_name": "roundandround",
+  "clips": {
+    "hopscotch_roundandround_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hopscotch_roundandround_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hopscotch_roundandround_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

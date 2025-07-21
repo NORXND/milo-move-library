@@ -1,0 +1,18 @@
+{
+  "name": "slither",
+  "difficulty": 2,
+  "display_name": "Slither",
+  "ham_move_name": "Pride_onlygirlintheworld.move",
+  "milo_name": "pride_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "slither_onlygirlintheworld_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

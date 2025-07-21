@@ -1,0 +1,26 @@
+{
+  "name": "concert_drag_in",
+  "difficulty": 2,
+  "display_name": "Concert Drag In",
+  "ham_move_name": "Concert_Slide_low.move",
+  "milo_name": "concert_slide_low",
+  "song_name": "low",
+  "clips": {
+    "concert_drag_in_low_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "concert_drag_in_low_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "hip_swing_pound",
+  "difficulty": 0,
+  "display_name": "Hip Swing Pound",
+  "ham_move_name": "Hip_Swing_Pound_commander.move",
+  "milo_name": "hip_swing_pound_commander",
+  "song_name": "commander",
+  "clips": {
+    "hip_swing_pound_commander_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_swing_pound_commander_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_swing_pound_commander_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_swing_pound_commander_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_swing_pound_commander_v4": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_swing_pound_commander_v5": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "name": "hood",
+  "difficulty": 0,
+  "display_name": "Hood",
+  "ham_move_name": "Here_We_Go_scenario.move",
+  "milo_name": "here_we_go_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "hood_scenario_v4": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hood_scenario_v2": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hood_scenario_v7": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hood_scenario_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hood_scenario_v5": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hood_scenario_v3": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hood_scenario_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hood_scenario_v6": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

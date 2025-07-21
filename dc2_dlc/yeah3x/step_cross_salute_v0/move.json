@@ -1,0 +1,74 @@
+{
+  "name": "step_cross_salute",
+  "difficulty": 2,
+  "display_name": "Step Cross Salute",
+  "ham_move_name": "House_Master_yeah3x.move",
+  "milo_name": "house_master_yeah3x",
+  "song_name": "yeah3x",
+  "clips": {
+    "step_cross_salute_yeah3x_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_cross_salute_yeah3x_v5": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_cross_salute_yeah3x_v3": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_cross_salute_yeah3x_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_cross_salute_yeah3x_v6": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_cross_salute_yeah3x_v4": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_cross_salute_yeah3x_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_cross_salute_yeah3x_v7": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

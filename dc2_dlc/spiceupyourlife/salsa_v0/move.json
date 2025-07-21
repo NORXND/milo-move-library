@@ -1,0 +1,74 @@
+{
+  "name": "salsa",
+  "difficulty": 1,
+  "display_name": "Salsa",
+  "ham_move_name": "Ginger_spiceupyourlife.move",
+  "milo_name": "ginger_spiceupyourlife",
+  "song_name": "spiceupyourlife",
+  "clips": {
+    "salsa_spiceupyourlife_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "salsa_spiceupyourlife_v5": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "salsa_spiceupyourlife_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "salsa_spiceupyourlife_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "salsa_spiceupyourlife_v6": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "salsa_spiceupyourlife_v4": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "salsa_spiceupyourlife_v2": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "salsa_spiceupyourlife_v7": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

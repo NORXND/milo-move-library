@@ -1,0 +1,74 @@
+{
+  "name": "skates",
+  "difficulty": 0,
+  "display_name": "Skates",
+  "ham_move_name": "Skate_closer.move",
+  "milo_name": "skate_closer",
+  "song_name": "closer",
+  "clips": {
+    "skates_closer_v4": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "skates_closer_v2": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "skates_closer_v7": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "skates_closer_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "skates_closer_v5": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "skates_closer_v3": {
+      "avg_beats_per_second": 2.11,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "skates_closer_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "skates_closer_v6": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

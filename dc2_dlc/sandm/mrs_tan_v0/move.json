@@ -1,0 +1,18 @@
+{
+  "name": "mrs_tan",
+  "difficulty": 2,
+  "display_name": "Mrs. Tan",
+  "ham_move_name": "X_Grasp_sandm.move",
+  "milo_name": "x_grasp_sandm",
+  "song_name": "sandm",
+  "clips": {
+    "mrs_tan_sandm_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

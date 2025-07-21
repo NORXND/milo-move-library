@@ -1,0 +1,34 @@
+{
+  "name": "hood",
+  "difficulty": 0,
+  "display_name": "Hood",
+  "ham_move_name": "Hoodie_letitrock.move",
+  "milo_name": "hoodie_letitrock",
+  "song_name": "letitrock",
+  "clips": {
+    "hood_letitrock_v1": {
+      "avg_beats_per_second": 1.89,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hood_letitrock_v2": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hood_letitrock_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

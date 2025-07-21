@@ -1,0 +1,26 @@
+{
+  "name": "slide_and_throw",
+  "difficulty": 2,
+  "display_name": "Slide & Throw",
+  "ham_move_name": "Slide_And_Throw_hellogoodmorning.move",
+  "milo_name": "slide_and_throw_hellogoodmorning",
+  "song_name": "hellogoodmorning",
+  "clips": {
+    "slide_and_throw_hellogoodmorning_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slide_and_throw_hellogoodmorning_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

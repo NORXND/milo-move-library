@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_onlygirlintheworld_v1083",
+  "difficulty": 2,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Mexican_Pose_onlygirlintheworld.move",
+  "milo_name": "mexican_pose_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "finishing_move_onlygirlintheworld_v1083": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

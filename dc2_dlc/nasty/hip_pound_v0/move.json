@@ -1,0 +1,26 @@
+{
+  "name": "hip_pound",
+  "difficulty": 0,
+  "display_name": "Hip Pound",
+  "ham_move_name": "Desire_nasty.move",
+  "milo_name": "desire_nasty",
+  "song_name": "nasty",
+  "clips": {
+    "hip_pound_nasty_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_pound_nasty_v1": {
+      "avg_beats_per_second": 1.48,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

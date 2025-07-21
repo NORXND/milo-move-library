@@ -1,0 +1,18 @@
+{
+  "name": "big_please_r",
+  "difficulty": 2,
+  "display_name": "Big Please",
+  "ham_move_name": "Swing_Low_R_partyrockanthem.move",
+  "milo_name": "swing_low_r_partyrockanthem",
+  "song_name": "partyrockanthem",
+  "clips": {
+    "big_please_r_partyrockanthem_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "big_please_l_partyrockanthem_v1",
+      "linked_from": "big_please_l_partyrockanthem_v0"
+    }
+  }
+}

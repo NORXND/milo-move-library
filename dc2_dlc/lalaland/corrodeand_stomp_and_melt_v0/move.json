@@ -1,0 +1,18 @@
+{
+  "name": "corrodeand_stomp_and_melt",
+  "difficulty": 2,
+  "display_name": "Corrode/ Stomp & Melt",
+  "ham_move_name": "Just_Me_lalaland.move",
+  "milo_name": "just_me_lalaland",
+  "song_name": "lalaland",
+  "clips": {
+    "corrodeand_stomp_and_melt_lalaland_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

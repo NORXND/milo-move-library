@@ -1,0 +1,18 @@
+{
+  "name": "pledge",
+  "difficulty": 2,
+  "display_name": "Pledge",
+  "ham_move_name": "Roll_Into_Chest_Bump_neversaynever.move",
+  "milo_name": "roll_into_chest_bump_neversaynever",
+  "song_name": "neversaynever",
+  "clips": {
+    "pledge_neversaynever_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

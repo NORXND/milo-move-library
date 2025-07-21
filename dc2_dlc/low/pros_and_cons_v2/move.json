@@ -1,0 +1,34 @@
+{
+  "name": "exception_pros_and_cons_1",
+  "difficulty": 2,
+  "display_name": "Pros & Cons",
+  "ham_move_name": "Pros_And_Cons_low.move",
+  "milo_name": "pros_and_cons_low",
+  "song_name": "low",
+  "clips": {
+    "pros_and_cons_low_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "pros_and_cons_low_v3",
+      "linked_from": ""
+    },
+    "pros_and_cons_low_v4": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "pros_and_cons_low_v5",
+      "linked_from": ""
+    },
+    "pros_and_cons_low_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "pros_and_cons_low_v1",
+      "linked_from": ""
+    }
+  }
+}

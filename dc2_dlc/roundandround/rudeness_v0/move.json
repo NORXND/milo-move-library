@@ -1,0 +1,26 @@
+{
+  "name": "rudeness",
+  "difficulty": 2,
+  "display_name": "Rudeness",
+  "ham_move_name": "Push_Step_Rl_roundandround.move",
+  "milo_name": "push_step_rl_roundandround",
+  "song_name": "roundandround",
+  "clips": {
+    "rudeness_roundandround_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "rudeness_roundandround_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "screwey",
+  "difficulty": 2,
+  "display_name": "Screwey",
+  "ham_move_name": "Shake_wenospeakamericano.move",
+  "milo_name": "shake_wenospeakamericano",
+  "song_name": "wenospeakamericano",
+  "clips": {
+    "screwey_wenospeakamericano_v0": {
+      "avg_beats_per_second": 1.79,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "helicopter",
+  "difficulty": 2,
+  "display_name": "Helicopter",
+  "ham_move_name": "Helicopter_sayhey.move",
+  "milo_name": "helicopter_sayhey",
+  "song_name": "sayhey",
+  "clips": {
+    "helicopter_sayhey_v1": {
+      "avg_beats_per_second": 1.55,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "helicopter_sayhey_v2": {
+      "avg_beats_per_second": 1.55,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "helicopter_sayhey_v3": {
+      "avg_beats_per_second": 1.55,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "helicopter_sayhey_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

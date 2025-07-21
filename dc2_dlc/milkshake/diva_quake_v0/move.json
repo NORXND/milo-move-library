@@ -1,0 +1,50 @@
+{
+  "name": "diva_quake",
+  "difficulty": 2,
+  "display_name": "Diva Quake",
+  "ham_move_name": "Seizure_milkshake.move",
+  "milo_name": "seizure_milkshake",
+  "song_name": "milkshake",
+  "clips": {
+    "diva_quake_milkshake_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_quake_milkshake_v1": {
+      "avg_beats_per_second": 1.67,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_quake_milkshake_v2": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_quake_milkshake_v3": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "diva_quake_milkshake_v4": {
+      "avg_beats_per_second": 1.89,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

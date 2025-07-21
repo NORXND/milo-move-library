@@ -1,0 +1,26 @@
+{
+  "name": "fighting_carter",
+  "difficulty": 2,
+  "display_name": "Fighting Carter",
+  "ham_move_name": "Elbow_Uprock_scenario.move",
+  "milo_name": "elbow_uprock_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "fighting_carter_scenario_v0": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "fighting_carter_scenario_v1": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

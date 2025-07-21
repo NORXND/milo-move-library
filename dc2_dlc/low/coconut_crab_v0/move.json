@@ -1,0 +1,26 @@
+{
+  "name": "coconut_crab",
+  "difficulty": 2,
+  "display_name": "Coconut Crab",
+  "ham_move_name": "Knee_Wobble_low.move",
+  "milo_name": "knee_wobble_low",
+  "song_name": "low",
+  "clips": {
+    "coconut_crab_low_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "coconut_crab_low_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

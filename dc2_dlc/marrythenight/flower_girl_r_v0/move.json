@@ -1,0 +1,26 @@
+{
+  "name": "flower_girl_r",
+  "difficulty": 0,
+  "display_name": "Flower Girl",
+  "ham_move_name": "Slow_Boq_R_marrythenight.move",
+  "milo_name": "slow_boq_r_marrythenight",
+  "song_name": "marrythenight",
+  "clips": {
+    "flower_girl_r_marrythenight_v0": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "flower_girl_r_marrythenight_v1": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "flower_girl_l_marrythenight_v0",
+      "linked_from": ""
+    }
+  }
+}

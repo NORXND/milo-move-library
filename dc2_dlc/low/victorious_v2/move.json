@@ -1,0 +1,34 @@
+{
+  "name": "exception_victorious_1",
+  "difficulty": 2,
+  "display_name": "Victorious",
+  "ham_move_name": "Low_Chick_1_low.move",
+  "milo_name": "low_chick_1_low",
+  "song_name": "low",
+  "clips": {
+    "victorious_low_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "victorious_low_v4": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "victorious_low_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

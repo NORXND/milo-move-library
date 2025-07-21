@@ -1,0 +1,18 @@
+{
+  "name": "dewey_d_r",
+  "difficulty": 1,
+  "display_name": "Dewey D",
+  "ham_move_name": "Dougie_Roll_R_hotinherre.move",
+  "milo_name": "dougie_roll_r_hotinherre",
+  "song_name": "hotinherre",
+  "clips": {
+    "dewey_d_r_hotinherre_v0": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "dewey_d_l_hotinherre_v0",
+      "linked_from": ""
+    }
+  }
+}

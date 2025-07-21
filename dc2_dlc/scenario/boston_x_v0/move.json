@@ -1,0 +1,26 @@
+{
+  "name": "boston_x",
+  "difficulty": 0,
+  "display_name": "Boston X",
+  "ham_move_name": "Boston_X_scenario.move",
+  "milo_name": "boston_x_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "boston_x_scenario_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "boston_x_scenario_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

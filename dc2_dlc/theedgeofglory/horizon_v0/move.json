@@ -1,0 +1,26 @@
+{
+  "name": "horizon",
+  "difficulty": 2,
+  "display_name": "Horizon",
+  "ham_move_name": "Horizon_theedgeofglory.move",
+  "milo_name": "horizon_theedgeofglory",
+  "song_name": "theedgeofglory",
+  "clips": {
+    "horizon_theedgeofglory_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "horizon_theedgeofglory_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

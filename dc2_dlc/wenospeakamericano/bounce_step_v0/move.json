@@ -1,0 +1,26 @@
+{
+  "name": "bounce_step",
+  "difficulty": 0,
+  "display_name": "Bounce Step",
+  "ham_move_name": "Bounce_Step_wenospeakamericano.move",
+  "milo_name": "bounce_step_wenospeakamericano",
+  "song_name": "wenospeakamericano",
+  "clips": {
+    "bounce_step_wenospeakamericano_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bounce_step_wenospeakamericano_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

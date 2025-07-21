@@ -1,0 +1,18 @@
+{
+  "name": "pound_em_out",
+  "difficulty": 1,
+  "display_name": "Pound 'Em Out",
+  "ham_move_name": "Hit_Pound_donttouchme.move",
+  "milo_name": "hit_pound_donttouchme",
+  "song_name": "donttouchme",
+  "clips": {
+    "pound_em_out_donttouchme_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

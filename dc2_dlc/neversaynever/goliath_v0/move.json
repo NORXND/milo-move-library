@@ -1,0 +1,26 @@
+{
+  "name": "goliath",
+  "difficulty": 2,
+  "display_name": "Goliath",
+  "ham_move_name": "Reach_Out_And_In_neversaynever.move",
+  "milo_name": "reach_out_and_in_neversaynever",
+  "song_name": "neversaynever",
+  "clips": {
+    "goliath_neversaynever_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "goliath_neversaynever_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

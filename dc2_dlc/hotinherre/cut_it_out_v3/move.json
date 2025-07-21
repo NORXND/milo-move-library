@@ -1,0 +1,42 @@
+{
+  "name": "cut_it_out",
+  "difficulty": 1,
+  "display_name": "Cut It Out",
+  "ham_move_name": "Elbow_Slide_hotinherre.move",
+  "milo_name": "elbow_slide_hotinherre",
+  "song_name": "hotinherre",
+  "clips": {
+    "cut_it_out_hotinherre_v3": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cut_it_out_hotinherre_v1": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cut_it_out_hotinherre_v0": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cut_it_out_hotinherre_v2": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

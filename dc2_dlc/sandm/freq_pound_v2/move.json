@@ -1,0 +1,74 @@
+{
+  "name": "freq_pound",
+  "difficulty": 2,
+  "display_name": "Freq Pound",
+  "ham_move_name": "Hip_Smash_sandm.move",
+  "milo_name": "hip_smash_sandm",
+  "song_name": "sandm",
+  "clips": {
+    "freq_pound_sandm_v2": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freq_pound_sandm_v5": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freq_pound_sandm_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freq_pound_sandm_v3": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freq_pound_sandm_v6": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freq_pound_sandm_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freq_pound_sandm_v4": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freq_pound_sandm_v7": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

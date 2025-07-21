@@ -1,0 +1,18 @@
+{
+  "name": "dive_roll",
+  "difficulty": 1,
+  "display_name": "Dive Roll",
+  "ham_move_name": "Body_Roll_1_onlygirlintheworld.move",
+  "milo_name": "body_roll_1_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "dive_roll_onlygirlintheworld_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

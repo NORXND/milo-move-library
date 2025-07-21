@@ -1,0 +1,34 @@
+{
+  "name": "blushing_bride",
+  "difficulty": 1,
+  "display_name": "Blushing Bride",
+  "ham_move_name": "Bouquet_marrythenight.move",
+  "milo_name": "bouquet_marrythenight",
+  "song_name": "marrythenight",
+  "clips": {
+    "blushing_bride_marrythenight_v0": {
+      "avg_beats_per_second": 2.19,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "blushing_bride_marrythenight_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "blushing_bride_marrythenight_v2": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "fly_step_center",
+  "difficulty": 2,
+  "display_name": "Fly Step Center",
+  "ham_move_name": "Resist_milkshake.move",
+  "milo_name": "resist_milkshake",
+  "song_name": "milkshake",
+  "clips": {
+    "fly_step_center_milkshake_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "fly_step_center_milkshake_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

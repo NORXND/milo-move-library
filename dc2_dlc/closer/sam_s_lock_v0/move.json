@@ -1,0 +1,26 @@
+{
+  "name": "sam_s_lock",
+  "difficulty": 2,
+  "display_name": "Sam's Lock",
+  "ham_move_name": "Sams_Lock_closer.move",
+  "milo_name": "sams_lock_closer",
+  "song_name": "closer",
+  "clips": {
+    "sam_s_lock_closer_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sam_s_lock_closer_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

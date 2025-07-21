@@ -1,0 +1,18 @@
+{
+  "name": "ruffle_r",
+  "difficulty": 2,
+  "display_name": "Ruffle",
+  "ham_move_name": "Shake_It_R_sayhey.move",
+  "milo_name": "shake_it_r_sayhey",
+  "song_name": "sayhey",
+  "clips": {
+    "ruffle_r_sayhey_v0": {
+      "avg_beats_per_second": 1.55,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "ruffle_l_sayhey_v0",
+      "linked_from": ""
+    }
+  }
+}

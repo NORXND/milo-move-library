@@ -1,0 +1,18 @@
+{
+  "name": "turnand_piston_march",
+  "difficulty": 2,
+  "display_name": "Turn/ Piston March",
+  "ham_move_name": "Change_Clothes_opp.move",
+  "milo_name": "change_clothes_opp",
+  "song_name": "opp",
+  "clips": {
+    "turnand_piston_march_opp_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

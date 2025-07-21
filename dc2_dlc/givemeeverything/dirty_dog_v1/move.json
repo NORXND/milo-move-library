@@ -1,0 +1,26 @@
+{
+  "name": "dirty_dog",
+  "difficulty": 0,
+  "display_name": "Dirty Dog",
+  "ham_move_name": "Dirty_Dog_givemeeverything.move",
+  "milo_name": "dirty_dog_givemeeverything",
+  "song_name": "givemeeverything",
+  "clips": {
+    "dirty_dog_givemeeverything_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dirty_dog_givemeeverything_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "gauntlet",
+  "difficulty": 2,
+  "display_name": "Gauntlet",
+  "ham_move_name": "Fist_Down_scenario.move",
+  "milo_name": "fist_down_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "gauntlet_scenario_v0": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "gauntlet_scenario_v1": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

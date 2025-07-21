@@ -1,0 +1,26 @@
+{
+  "name": "pimp_cane",
+  "difficulty": 2,
+  "display_name": "Pimp Cane",
+  "ham_move_name": "Punch_And_Bounce_hellogoodmorning.move",
+  "milo_name": "punch_and_bounce_hellogoodmorning",
+  "song_name": "hellogoodmorning",
+  "clips": {
+    "pimp_cane_hellogoodmorning_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pimp_cane_hellogoodmorning_v1": {
+      "avg_beats_per_second": 1.49,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

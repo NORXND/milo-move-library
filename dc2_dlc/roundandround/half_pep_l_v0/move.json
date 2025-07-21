@@ -1,0 +1,18 @@
+{
+  "name": "half_pep_l",
+  "difficulty": 2,
+  "display_name": "Half Pep",
+  "ham_move_name": "Shoulder_Groove_Up_L_roundandround.move",
+  "milo_name": "shoulder_groove_up_l_roundandround",
+  "song_name": "roundandround",
+  "clips": {
+    "half_pep_l_roundandround_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "half_pep_r_roundandround_v0"
+    }
+  }
+}

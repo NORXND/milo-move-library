@@ -1,0 +1,58 @@
+{
+  "name": "dawn",
+  "difficulty": 0,
+  "display_name": "Dawn",
+  "ham_move_name": "Arm_Lift_roundandround.move",
+  "milo_name": "arm_lift_roundandround",
+  "song_name": "roundandround",
+  "clips": {
+    "dawn_roundandround_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dawn_roundandround_v5": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dawn_roundandround_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dawn_roundandround_v3": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dawn_roundandround_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dawn_roundandround_v4": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

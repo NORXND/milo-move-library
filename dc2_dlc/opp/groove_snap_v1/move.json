@@ -1,0 +1,42 @@
+{
+  "name": "groove_snap",
+  "difficulty": 0,
+  "display_name": "Groove Snap",
+  "ham_move_name": "Groove_Step_opp.move",
+  "milo_name": "groove_step_opp",
+  "song_name": "opp",
+  "clips": {
+    "groove_snap_opp_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "groove_snap_opp_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "groove_snap_opp_v2": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "groove_snap_opp_v3": {
+      "avg_beats_per_second": 1.62,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

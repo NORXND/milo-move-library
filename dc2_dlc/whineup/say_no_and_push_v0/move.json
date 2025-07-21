@@ -1,0 +1,18 @@
+{
+  "name": "say_no_and_push",
+  "difficulty": 2,
+  "display_name": "Say No & Push",
+  "ham_move_name": "Stutter_Stop_whineup.move",
+  "milo_name": "stutter_stop_whineup",
+  "song_name": "whineup",
+  "clips": {
+    "say_no_and_push_whineup_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

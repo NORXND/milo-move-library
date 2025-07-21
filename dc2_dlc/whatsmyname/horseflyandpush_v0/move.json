@@ -1,0 +1,18 @@
+{
+  "name": "horseflyandpush",
+  "difficulty": 2,
+  "display_name": "Horsefly/Push",
+  "ham_move_name": "Walkit_Mouth_whatsmyname.move",
+  "milo_name": "walkit_mouth_whatsmyname",
+  "song_name": "whatsmyname",
+  "clips": {
+    "horseflyandpush_whatsmyname_v0": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "drink_up",
+  "difficulty": 2,
+  "display_name": "Drink Up",
+  "ham_move_name": "Drag_And_Sip_whatsmyname.move",
+  "milo_name": "drag_and_sip_whatsmyname",
+  "song_name": "whatsmyname",
+  "clips": {
+    "drink_up_whatsmyname_v0": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

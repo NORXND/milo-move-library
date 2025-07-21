@@ -1,0 +1,26 @@
+{
+  "name": "allure_march",
+  "difficulty": 2,
+  "display_name": "Allure March",
+  "ham_move_name": "Yall_Feel_Me_opp.move",
+  "milo_name": "yall_feel_me_opp",
+  "song_name": "opp",
+  "clips": {
+    "allure_march_opp_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "allure_march_opp_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

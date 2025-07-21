@@ -1,0 +1,18 @@
+{
+  "name": "look_behind_l",
+  "difficulty": 2,
+  "display_name": "Look Behind",
+  "ham_move_name": "Get_Off_Me_Now_L_yeah3x.move",
+  "milo_name": "get_off_me_now_l_yeah3x",
+  "song_name": "yeah3x",
+  "clips": {
+    "look_behind_l_yeah3x_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "look_behind_r_yeah3x_v0"
+    }
+  }
+}

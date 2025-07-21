@@ -1,0 +1,26 @@
+{
+  "name": "freq_pound",
+  "difficulty": 2,
+  "display_name": "Freq Pound",
+  "ham_move_name": "Smash_It_theedgeofglory.move",
+  "milo_name": "smash_it_theedgeofglory",
+  "song_name": "theedgeofglory",
+  "clips": {
+    "freq_pound_theedgeofglory_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "freq_pound_theedgeofglory_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

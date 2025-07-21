@@ -1,0 +1,18 @@
+{
+  "name": "conceited_r",
+  "difficulty": 2,
+  "display_name": "Conceited",
+  "ham_move_name": "Conceited_R_downonme.move",
+  "milo_name": "conceited_r_downonme",
+  "song_name": "downonme",
+  "clips": {
+    "conceited_r_downonme_v0": {
+      "avg_beats_per_second": 1.33,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "conceited_l_downonme_v0",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "knockout_pause_r",
+  "difficulty": 2,
+  "display_name": "Knockout Pause",
+  "ham_move_name": "Knock_And_Pause_R_gonnamakeyousweat.move",
+  "milo_name": "knock_and_pause_r_gonnamakeyousweat",
+  "song_name": "gonnamakeyousweat",
+  "clips": {
+    "knockout_pause_r_gonnamakeyousweat_v0": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

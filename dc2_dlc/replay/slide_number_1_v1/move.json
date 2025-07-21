@@ -1,0 +1,26 @@
+{
+  "name": "slide_number_1",
+  "difficulty": 2,
+  "display_name": "Slide Number 1",
+  "ham_move_name": "Slide_1_replay.move",
+  "milo_name": "slide_1_replay",
+  "song_name": "replay",
+  "clips": {
+    "slide_number_1_replay_v1": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slide_number_1_replay_v0": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

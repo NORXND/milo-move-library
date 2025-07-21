@@ -1,0 +1,26 @@
+{
+  "name": "blade_sweep_r",
+  "difficulty": 2,
+  "display_name": "Blade Sweep",
+  "ham_move_name": "Razor_Sharp_R_partyrockanthem.move",
+  "milo_name": "razor_sharp_r_partyrockanthem",
+  "song_name": "partyrockanthem",
+  "clips": {
+    "blade_sweep_r_partyrockanthem_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "blade_sweep_r_partyrockanthem_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

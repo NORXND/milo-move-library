@@ -1,0 +1,50 @@
+{
+  "name": "kick_star",
+  "difficulty": 2,
+  "display_name": "Kick Star",
+  "ham_move_name": "Nasty_nasty.move",
+  "milo_name": "nasty_nasty",
+  "song_name": "nasty",
+  "clips": {
+    "kick_star_nasty_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_star_nasty_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_star_nasty_v2": {
+      "avg_beats_per_second": 1.73,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_star_nasty_v3": {
+      "avg_beats_per_second": 1.73,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_star_nasty_v4": {
+      "avg_beats_per_second": 1.73,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

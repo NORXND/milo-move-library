@@ -1,0 +1,42 @@
+{
+  "name": "step_and_roc",
+  "difficulty": 2,
+  "display_name": "Step & Roc",
+  "ham_move_name": "Step_Toss_hotinherre.move",
+  "milo_name": "step_toss_hotinherre",
+  "song_name": "hotinherre",
+  "clips": {
+    "step_and_roc_hotinherre_v0": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_and_roc_hotinherre_v1": {
+      "avg_beats_per_second": 1.78,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_and_roc_hotinherre_v2": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_and_roc_hotinherre_v3": {
+      "avg_beats_per_second": 1.78,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

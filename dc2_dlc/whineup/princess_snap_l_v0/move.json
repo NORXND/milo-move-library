@@ -1,0 +1,18 @@
+{
+  "name": "princess_snap_l",
+  "difficulty": 2,
+  "display_name": "Princess Snap",
+  "ham_move_name": "Princess_Snap_L_whineup.move",
+  "milo_name": "princess_snap_l_whineup",
+  "song_name": "whineup",
+  "clips": {
+    "princess_snap_l_whineup_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "cut_it_out",
+  "difficulty": 1,
+  "display_name": "Cut It Out",
+  "ham_move_name": "Wild_Groove_scenario.move",
+  "milo_name": "wild_groove_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "cut_it_out_scenario_v2": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cut_it_out_scenario_v0": {
+      "avg_beats_per_second": 1.46,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cut_it_out_scenario_v1": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "scrub_it_up_r",
+  "difficulty": 1,
+  "display_name": "Scrub It Up",
+  "ham_move_name": "Toss_Up_R_donttouchme.move",
+  "milo_name": "toss_up_r_donttouchme",
+  "song_name": "donttouchme",
+  "clips": {
+    "scrub_it_up_r_donttouchme_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "scrub_it_up_l_donttouchme_v0",
+      "linked_from": ""
+    }
+  }
+}

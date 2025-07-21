@@ -1,0 +1,18 @@
+{
+  "name": "exception_shoulder_pep_2",
+  "difficulty": 1,
+  "display_name": "Shoulder Pep",
+  "ham_move_name": "Butterball_nasty.move",
+  "milo_name": "butterball_nasty",
+  "song_name": "nasty",
+  "clips": {
+    "shoulder_pep_nasty_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "shoulder_pep_nasty_v2",
+      "linked_from": ""
+    }
+  }
+}

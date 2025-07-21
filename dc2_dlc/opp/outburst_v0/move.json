@@ -1,0 +1,18 @@
+{
+  "name": "outburst",
+  "difficulty": 2,
+  "display_name": "Outburst",
+  "ham_move_name": "Confetti_opp.move",
+  "milo_name": "confetti_opp",
+  "song_name": "opp",
+  "clips": {
+    "outburst_opp_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

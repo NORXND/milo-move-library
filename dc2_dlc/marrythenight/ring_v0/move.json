@@ -1,0 +1,18 @@
+{
+  "name": "ring",
+  "difficulty": 0,
+  "display_name": "Ring",
+  "ham_move_name": "Slow_Pull_marrythenight.move",
+  "milo_name": "slow_pull_marrythenight",
+  "song_name": "marrythenight",
+  "clips": {
+    "ring_marrythenight_v0": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

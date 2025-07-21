@@ -1,0 +1,26 @@
+{
+  "name": "dole_out",
+  "difficulty": 2,
+  "display_name": "Dole Out",
+  "ham_move_name": "Hand_It_Over_hellogoodmorning.move",
+  "milo_name": "hand_it_over_hellogoodmorning",
+  "song_name": "hellogoodmorning",
+  "clips": {
+    "dole_out_hellogoodmorning_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dole_out_hellogoodmorning_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

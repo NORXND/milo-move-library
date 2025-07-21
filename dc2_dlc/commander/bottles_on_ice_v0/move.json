@@ -1,0 +1,26 @@
+{
+  "name": "bottles_on_ice",
+  "difficulty": 1,
+  "display_name": "Bottles On Ice",
+  "ham_move_name": "Provide_It_commander.move",
+  "milo_name": "provide_it_commander",
+  "song_name": "commander",
+  "clips": {
+    "bottles_on_ice_commander_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bottles_on_ice_commander_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

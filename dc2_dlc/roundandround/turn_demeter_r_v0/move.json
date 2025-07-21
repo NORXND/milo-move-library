@@ -1,0 +1,18 @@
+{
+  "name": "turn_demeter_r",
+  "difficulty": 2,
+  "display_name": "Turn Demeter",
+  "ham_move_name": "Feelin_Yourself_R_roundandround.move",
+  "milo_name": "feelin_yourself_r_roundandround",
+  "song_name": "roundandround",
+  "clips": {
+    "turn_demeter_r_roundandround_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "turn_demeter_l_roundandround_v0",
+      "linked_from": ""
+    }
+  }
+}

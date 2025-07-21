@@ -1,0 +1,26 @@
+{
+  "name": "old_timer",
+  "difficulty": 2,
+  "display_name": "Old Timer",
+  "ham_move_name": "Broken_Sin_sandm.move",
+  "milo_name": "broken_sin_sandm",
+  "song_name": "sandm",
+  "clips": {
+    "old_timer_sandm_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "old_timer_sandm_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

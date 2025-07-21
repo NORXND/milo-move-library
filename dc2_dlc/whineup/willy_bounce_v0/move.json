@@ -1,0 +1,18 @@
+{
+  "name": "willy_bounce",
+  "difficulty": 0,
+  "display_name": "Willy Bounce",
+  "ham_move_name": "Willy_Bounce_whineup.move",
+  "milo_name": "willy_bounce_whineup",
+  "song_name": "whineup",
+  "clips": {
+    "willy_bounce_whineup_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "rest_yeah3x_v1086",
+  "difficulty": 2,
+  "display_name": "",
+  "ham_move_name": "Rest.move",
+  "milo_name": "rest",
+  "song_name": "yeah3x",
+  "clips": {
+    "rest_yeah3x_v1086": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 96,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

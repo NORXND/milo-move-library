@@ -1,0 +1,66 @@
+{
+  "name": "step_side",
+  "difficulty": 0,
+  "display_name": "Step Side",
+  "ham_move_name": "Side_Step_lalaland.move",
+  "milo_name": "side_step_lalaland",
+  "song_name": "lalaland",
+  "clips": {
+    "step_side_lalaland_v5": {
+      "avg_beats_per_second": 1.21,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_lalaland_v4": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_lalaland_v2": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_lalaland_v6": {
+      "avg_beats_per_second": 1.42,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_lalaland_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_lalaland_v3": {
+      "avg_beats_per_second": 1.22,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_lalaland_v1": {
+      "avg_beats_per_second": 1.21,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

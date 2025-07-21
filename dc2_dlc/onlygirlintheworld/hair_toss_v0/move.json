@@ -1,0 +1,18 @@
+{
+  "name": "hair_toss",
+  "difficulty": 2,
+  "display_name": "Hair Toss",
+  "ham_move_name": "Watch_My_Weave_onlygirlintheworld.move",
+  "milo_name": "watch_my_weave_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "hair_toss_onlygirlintheworld_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "stop_and_the_technique",
+  "difficulty": 2,
+  "display_name": "Stop / The Technique",
+  "ham_move_name": "Stop_partyrockanthem.move",
+  "milo_name": "stop_partyrockanthem",
+  "song_name": "partyrockanthem",
+  "clips": {
+    "stop_and_the_technique_partyrockanthem_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

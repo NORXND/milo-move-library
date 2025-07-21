@@ -1,0 +1,18 @@
+{
+  "name": "sidekicks_r",
+  "difficulty": 0,
+  "display_name": "Sidekicks",
+  "ham_move_name": "Kick_Punch_Combo_R_hotinherre.move",
+  "milo_name": "kick_punch_combo_r_hotinherre",
+  "song_name": "hotinherre",
+  "clips": {
+    "sidekicks_r_hotinherre_v0": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "sidekicks_l_hotinherre_v0",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "mrs_tan",
+  "difficulty": 2,
+  "display_name": "Mrs. Tan",
+  "ham_move_name": "Hold_Tight_whineup.move",
+  "milo_name": "hold_tight_whineup",
+  "song_name": "whineup",
+  "clips": {
+    "mrs_tan_whineup_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

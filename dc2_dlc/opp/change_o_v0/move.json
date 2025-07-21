@@ -1,0 +1,18 @@
+{
+  "name": "change_o",
+  "difficulty": 2,
+  "display_name": "Change-o",
+  "ham_move_name": "Give_Em_The_Cock_opp.move",
+  "milo_name": "give_em_the_cock_opp",
+  "song_name": "opp",
+  "clips": {
+    "change_o_opp_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

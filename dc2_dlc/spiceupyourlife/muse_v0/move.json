@@ -1,0 +1,42 @@
+{
+  "name": "muse",
+  "difficulty": 0,
+  "display_name": "Muse",
+  "ham_move_name": "One_Hand_Serve_spiceupyourlife.move",
+  "milo_name": "one_hand_serve_spiceupyourlife",
+  "song_name": "spiceupyourlife",
+  "clips": {
+    "muse_spiceupyourlife_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "muse_spiceupyourlife_v3": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "muse_spiceupyourlife_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "muse_spiceupyourlife_v2": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "lil_tilt",
+  "difficulty": 2,
+  "display_name": "lil' Tilt",
+  "ham_move_name": "Linny_marrythenight.move",
+  "milo_name": "linny_marrythenight",
+  "song_name": "marrythenight",
+  "clips": {
+    "lil_tilt_marrythenight_v0": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "lil_tilt_marrythenight_v1": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "blossom_l",
+  "difficulty": 2,
+  "display_name": "Blossom",
+  "ham_move_name": "Ride_Up_L_theedgeofglory.move",
+  "milo_name": "ride_up_l_theedgeofglory",
+  "song_name": "theedgeofglory",
+  "clips": {
+    "blossom_l_theedgeofglory_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "blossom_r_theedgeofglory_v1",
+      "linked_from": "blossom_r_theedgeofglory_v0"
+    },
+    "blossom_l_theedgeofglory_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "blossom_r_theedgeofglory_v1"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "dr_tan",
+  "difficulty": 0,
+  "display_name": "Dr. Tan",
+  "ham_move_name": "Sneaky_letitrock.move",
+  "milo_name": "sneaky_letitrock",
+  "song_name": "letitrock",
+  "clips": {
+    "dr_tan_letitrock_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dr_tan_letitrock_v1": {
+      "avg_beats_per_second": 1.89,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

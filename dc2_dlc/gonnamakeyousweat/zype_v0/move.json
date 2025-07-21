@@ -1,0 +1,26 @@
+{
+  "name": "zype",
+  "difficulty": 2,
+  "display_name": "Zype",
+  "ham_move_name": "Do_The_Right_Thing_gonnamakeyousweat.move",
+  "milo_name": "do_the_right_thing_gonnamakeyousweat",
+  "song_name": "gonnamakeyousweat",
+  "clips": {
+    "zype_gonnamakeyousweat_v0": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "zype_gonnamakeyousweat_v1": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "dragging_carter",
+  "difficulty": 2,
+  "display_name": "Dragging Carter",
+  "ham_move_name": "Slide_Into_Fall_neversaynever.move",
+  "milo_name": "slide_into_fall_neversaynever",
+  "song_name": "neversaynever",
+  "clips": {
+    "dragging_carter_neversaynever_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dragging_carter_neversaynever_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dragging_carter_neversaynever_v2": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dragging_carter_neversaynever_v3": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

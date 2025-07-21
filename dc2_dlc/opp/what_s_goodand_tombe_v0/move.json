@@ -1,0 +1,18 @@
+{
+  "name": "what_s_goodand_tombe",
+  "difficulty": 2,
+  "display_name": "What's Good/ Tombe",
+  "ham_move_name": "Open_Close_Kick_opp.move",
+  "milo_name": "open_close_kick_opp",
+  "song_name": "opp",
+  "clips": {
+    "what_s_goodand_tombe_opp_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

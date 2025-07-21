@@ -1,0 +1,18 @@
+{
+  "name": "me_and_you",
+  "difficulty": 2,
+  "display_name": "Me & You",
+  "ham_move_name": "Me_And_U_givemeeverything.move",
+  "milo_name": "me_and_u_givemeeverything",
+  "song_name": "givemeeverything",
+  "clips": {
+    "me_and_you_givemeeverything_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

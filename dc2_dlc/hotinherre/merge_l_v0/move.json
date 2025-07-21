@@ -1,0 +1,18 @@
+{
+  "name": "merge_l",
+  "difficulty": 2,
+  "display_name": "Merge",
+  "ham_move_name": "Jump_And_Scuff_L_hotinherre.move",
+  "milo_name": "jump_and_scuff_l_hotinherre",
+  "song_name": "hotinherre",
+  "clips": {
+    "merge_l_hotinherre_v0": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "merge_r_hotinherre_v0"
+    }
+  }
+}

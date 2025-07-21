@@ -1,0 +1,18 @@
+{
+  "name": "knockout_l",
+  "difficulty": 0,
+  "display_name": "Knockout",
+  "ham_move_name": "Knock_And_Dodge_L_gonnamakeyousweat.move",
+  "milo_name": "knock_and_dodge_l_gonnamakeyousweat",
+  "song_name": "gonnamakeyousweat",
+  "clips": {
+    "knockout_l_gonnamakeyousweat_v0": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "knockout_r_gonnamakeyousweat_v0"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "smooth",
+  "difficulty": 0,
+  "display_name": "Smooth",
+  "ham_move_name": "Smooth_givemeeverything.move",
+  "milo_name": "smooth_givemeeverything",
+  "song_name": "givemeeverything",
+  "clips": {
+    "smooth_givemeeverything_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smooth_givemeeverything_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

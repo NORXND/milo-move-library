@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_replay_v1059",
+  "difficulty": 2,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Headphones_Shimmy_Down2_replay.move",
+  "milo_name": "headphones_shimmy_down2_replay",
+  "song_name": "replay",
+  "clips": {
+    "finishing_move_replay_v1059": {
+      "avg_beats_per_second": 1.31,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

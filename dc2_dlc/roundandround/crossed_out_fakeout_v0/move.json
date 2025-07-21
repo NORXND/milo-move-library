@@ -1,0 +1,34 @@
+{
+  "name": "crossed_out_fakeout",
+  "difficulty": 2,
+  "display_name": "Crossed Out Fakeout",
+  "ham_move_name": "No_Not_Going_roundandround.move",
+  "milo_name": "no_not_going_roundandround",
+  "song_name": "roundandround",
+  "clips": {
+    "crossed_out_fakeout_roundandround_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "crossed_out_fakeout_roundandround_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "crossed_out_fakeout_roundandround_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

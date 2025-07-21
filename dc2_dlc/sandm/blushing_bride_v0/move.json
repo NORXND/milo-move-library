@@ -1,0 +1,26 @@
+{
+  "name": "blushing_bride",
+  "difficulty": 1,
+  "display_name": "Blushing Bride",
+  "ham_move_name": "Pressure_sandm.move",
+  "milo_name": "pressure_sandm",
+  "song_name": "sandm",
+  "clips": {
+    "blushing_bride_sandm_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "blushing_bride_sandm_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

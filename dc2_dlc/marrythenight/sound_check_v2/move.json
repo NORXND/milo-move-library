@@ -1,0 +1,50 @@
+{
+  "name": "sound_check",
+  "difficulty": 0,
+  "display_name": "Sound Check",
+  "ham_move_name": "Memoirs_marrythenight.move",
+  "milo_name": "memoirs_marrythenight",
+  "song_name": "marrythenight",
+  "clips": {
+    "sound_check_marrythenight_v2": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sound_check_marrythenight_v0": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sound_check_marrythenight_v3": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sound_check_marrythenight_v1": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sound_check_marrythenight_v4": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

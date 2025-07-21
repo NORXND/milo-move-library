@@ -1,0 +1,18 @@
+{
+  "name": "sunblock",
+  "difficulty": 2,
+  "display_name": "Sunblock",
+  "ham_move_name": "Blocks_letitrock.move",
+  "milo_name": "blocks_letitrock",
+  "song_name": "letitrock",
+  "clips": {
+    "sunblock_letitrock_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

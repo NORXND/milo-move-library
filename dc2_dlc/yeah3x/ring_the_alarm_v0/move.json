@@ -1,0 +1,18 @@
+{
+  "name": "ring_the_alarm",
+  "difficulty": 0,
+  "display_name": "Ring The Alarm",
+  "ham_move_name": "Fireman_yeah3x.move",
+  "milo_name": "fireman_yeah3x",
+  "song_name": "yeah3x",
+  "clips": {
+    "ring_the_alarm_yeah3x_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

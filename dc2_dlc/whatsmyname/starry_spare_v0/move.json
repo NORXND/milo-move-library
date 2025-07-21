@@ -1,0 +1,26 @@
+{
+  "name": "starry_spare",
+  "difficulty": 2,
+  "display_name": "Starry Spare",
+  "ham_move_name": "Boy_Spare_whatsmyname.move",
+  "milo_name": "boy_spare_whatsmyname",
+  "song_name": "whatsmyname",
+  "clips": {
+    "starry_spare_whatsmyname_v0": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "starry_spare_whatsmyname_v1": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

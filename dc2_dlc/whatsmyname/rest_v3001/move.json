@@ -1,0 +1,18 @@
+{
+  "name": "rest_whatsmyname_v3001",
+  "difficulty": 2,
+  "display_name": "",
+  "ham_move_name": "Rest.move",
+  "milo_name": "rest",
+  "song_name": "whatsmyname",
+  "clips": {
+    "rest_whatsmyname_v3001": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 64,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

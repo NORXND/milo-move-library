@@ -1,0 +1,18 @@
+{
+  "name": "quick_drop",
+  "difficulty": 2,
+  "display_name": "Quick Drop",
+  "ham_move_name": "Kick_In_The_Door_partyrockanthem.move",
+  "milo_name": "kick_in_the_door_partyrockanthem",
+  "song_name": "partyrockanthem",
+  "clips": {
+    "quick_drop_partyrockanthem_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

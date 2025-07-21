@@ -1,0 +1,34 @@
+{
+  "name": "single_cycle_step",
+  "difficulty": 2,
+  "display_name": "Single Cycle Step",
+  "ham_move_name": "Roll_And_Step_roundandround.move",
+  "milo_name": "roll_and_step_roundandround",
+  "song_name": "roundandround",
+  "clips": {
+    "single_cycle_step_roundandround_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "single_cycle_step_roundandround_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "single_cycle_step_roundandround_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

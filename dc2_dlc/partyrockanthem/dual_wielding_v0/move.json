@@ -1,0 +1,18 @@
+{
+  "name": "dual_wielding",
+  "difficulty": 2,
+  "display_name": "Dual Wielding",
+  "ham_move_name": "Cannon_partyrockanthem.move",
+  "milo_name": "cannon_partyrockanthem",
+  "song_name": "partyrockanthem",
+  "clips": {
+    "dual_wielding_partyrockanthem_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

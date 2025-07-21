@@ -1,0 +1,18 @@
+{
+  "name": "cha_cha_wind_step",
+  "difficulty": 2,
+  "display_name": "Cha Cha Wind Step",
+  "ham_move_name": "Overboard_whineup.move",
+  "milo_name": "overboard_whineup",
+  "song_name": "whineup",
+  "clips": {
+    "cha_cha_wind_step_whineup_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

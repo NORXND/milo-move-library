@@ -1,0 +1,26 @@
+{
+  "name": "exception_step_cross_back_2",
+  "difficulty": 1,
+  "display_name": "Step Cross Back",
+  "ham_move_name": "Grillin_donttouchme.move",
+  "milo_name": "grillin_donttouchme",
+  "song_name": "donttouchme",
+  "clips": {
+    "step_cross_back_donttouchme_v2": {
+      "avg_beats_per_second": 1.89,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_cross_back_donttouchme_v3": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_marrythenight_v1087",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_marrythenight.move",
+  "milo_name": "finishing_move_marrythenight",
+  "song_name": "marrythenight",
+  "clips": {
+    "finishing_move_marrythenight_v1087": {
+      "avg_beats_per_second": 2.19,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

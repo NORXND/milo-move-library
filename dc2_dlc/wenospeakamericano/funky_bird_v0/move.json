@@ -1,0 +1,26 @@
+{
+  "name": "funky_bird",
+  "difficulty": 2,
+  "display_name": "Funky Bird",
+  "ham_move_name": "Funky_Chicken_wenospeakamericano.move",
+  "milo_name": "funky_chicken_wenospeakamericano",
+  "song_name": "wenospeakamericano",
+  "clips": {
+    "funky_bird_wenospeakamericano_v0": {
+      "avg_beats_per_second": 1.79,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "funky_bird_wenospeakamericano_v1": {
+      "avg_beats_per_second": 1.81,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

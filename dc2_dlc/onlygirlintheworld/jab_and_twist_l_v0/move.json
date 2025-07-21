@@ -1,0 +1,18 @@
+{
+  "name": "jab_and_twist_l",
+  "difficulty": 2,
+  "display_name": "Jab & Twist",
+  "ham_move_name": "Slow_Michael_L_onlygirlintheworld.move",
+  "milo_name": "slow_michael_l_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "jab_and_twist_l_onlygirlintheworld_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

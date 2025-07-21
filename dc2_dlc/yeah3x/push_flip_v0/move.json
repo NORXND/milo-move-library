@@ -1,0 +1,18 @@
+{
+  "name": "push_flip",
+  "difficulty": 2,
+  "display_name": "Push Flip",
+  "ham_move_name": "Sidewalk_yeah3x.move",
+  "milo_name": "sidewalk_yeah3x",
+  "song_name": "yeah3x",
+  "clips": {
+    "push_flip_yeah3x_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

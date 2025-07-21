@@ -1,0 +1,18 @@
+{
+  "name": "snatch_step_center",
+  "difficulty": 2,
+  "display_name": "Snatch Step Center",
+  "ham_move_name": "Hip_Grab_givemeeverything.move",
+  "milo_name": "hip_grab_givemeeverything",
+  "song_name": "givemeeverything",
+  "clips": {
+    "snatch_step_center_givemeeverything_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

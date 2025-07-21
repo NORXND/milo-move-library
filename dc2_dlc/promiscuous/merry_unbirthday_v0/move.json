@@ -1,0 +1,26 @@
+{
+  "name": "merry_unbirthday",
+  "difficulty": 0,
+  "display_name": "Merry Unbirthday",
+  "ham_move_name": "Girl_It_Down_promiscuous.move",
+  "milo_name": "girl_it_down_promiscuous",
+  "song_name": "promiscuous",
+  "clips": {
+    "merry_unbirthday_promiscuous_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "merry_unbirthday_promiscuous_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

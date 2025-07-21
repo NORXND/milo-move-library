@@ -1,0 +1,18 @@
+{
+  "name": "rest_wenospeakamericano_v1001",
+  "difficulty": 2,
+  "display_name": "",
+  "ham_move_name": "Rest.move",
+  "milo_name": "rest",
+  "song_name": "wenospeakamericano",
+  "clips": {
+    "rest_wenospeakamericano_v1001": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 96,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

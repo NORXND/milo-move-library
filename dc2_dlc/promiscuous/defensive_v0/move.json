@@ -1,0 +1,42 @@
+{
+  "name": "defensive",
+  "difficulty": 2,
+  "display_name": "Defensive",
+  "ham_move_name": "The_Gentleman_promiscuous.move",
+  "milo_name": "the_gentleman_promiscuous",
+  "song_name": "promiscuous",
+  "clips": {
+    "defensive_promiscuous_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "defensive_promiscuous_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "defensive_promiscuous_v2": {
+      "avg_beats_per_second": 1.9,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "defensive_promiscuous_v3": {
+      "avg_beats_per_second": 1.9,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

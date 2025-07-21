@@ -1,0 +1,42 @@
+{
+  "name": "whack_down_lunge",
+  "difficulty": 1,
+  "display_name": "Whack Down Lunge",
+  "ham_move_name": "Reach_Lunge_commander.move",
+  "milo_name": "reach_lunge_commander",
+  "song_name": "commander",
+  "clips": {
+    "whack_down_lunge_commander_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "whack_down_lunge_commander_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "whack_down_lunge_commander_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "whack_down_lunge_commander_v2": {
+      "avg_beats_per_second": 1.78,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

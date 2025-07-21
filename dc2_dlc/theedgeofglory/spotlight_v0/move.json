@@ -1,0 +1,18 @@
+{
+  "name": "exception_spotlight_1",
+  "difficulty": 2,
+  "display_name": "Spotlight",
+  "ham_move_name": "Glam_Life_1_theedgeofglory.move",
+  "milo_name": "glam_life_1_theedgeofglory",
+  "song_name": "theedgeofglory",
+  "clips": {
+    "spotlight_theedgeofglory_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "head_crunch_and_no_worries",
+  "difficulty": 2,
+  "display_name": "Head Crunch / No Worries",
+  "ham_move_name": "Head_And_No_replay.move",
+  "milo_name": "head_and_no_replay",
+  "song_name": "replay",
+  "clips": {
+    "head_crunch_and_no_worries_replay_v0": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "head_crunch_and_no_worries_replay_v5": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "head_crunch_and_no_worries_replay_v3": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "head_crunch_and_no_worries_replay_v1": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "head_crunch_and_no_worries_replay_v6": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "head_crunch_and_no_worries_replay_v4": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "head_crunch_and_no_worries_replay_v2": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

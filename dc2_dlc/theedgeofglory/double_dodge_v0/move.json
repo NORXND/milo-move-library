@@ -1,0 +1,26 @@
+{
+  "name": "double_dodge",
+  "difficulty": 1,
+  "display_name": "Double Dodge",
+  "ham_move_name": "Dbl_Dodge_theedgeofglory.move",
+  "milo_name": "dbl_dodge_theedgeofglory",
+  "song_name": "theedgeofglory",
+  "clips": {
+    "double_dodge_theedgeofglory_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "double_dodge_theedgeofglory_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

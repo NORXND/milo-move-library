@@ -1,0 +1,18 @@
+{
+  "name": "watch_tick",
+  "difficulty": 2,
+  "display_name": "Watch Tick",
+  "ham_move_name": "Watch_Tick_givemeeverything.move",
+  "milo_name": "watch_tick_givemeeverything",
+  "song_name": "givemeeverything",
+  "clips": {
+    "watch_tick_givemeeverything_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

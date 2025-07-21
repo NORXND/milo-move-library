@@ -1,0 +1,18 @@
+{
+  "name": "dip_and_wind",
+  "difficulty": 2,
+  "display_name": "Dip & Wind",
+  "ham_move_name": "Squat_milkshake.move",
+  "milo_name": "squat_milkshake",
+  "song_name": "milkshake",
+  "clips": {
+    "dip_and_wind_milkshake_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

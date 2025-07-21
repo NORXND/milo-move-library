@@ -1,0 +1,42 @@
+{
+  "name": "clock_out",
+  "difficulty": 2,
+  "display_name": "Clock Out",
+  "ham_move_name": "Punch_And_High_Knees_hotinherre.move",
+  "milo_name": "punch_and_high_knees_hotinherre",
+  "song_name": "hotinherre",
+  "clips": {
+    "clock_out_hotinherre_v0": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "clock_out_hotinherre_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "clock_out_hotinherre_v2": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "clock_out_hotinherre_v3": {
+      "avg_beats_per_second": 1.79,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

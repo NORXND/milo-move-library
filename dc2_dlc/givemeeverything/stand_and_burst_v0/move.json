@@ -1,0 +1,26 @@
+{
+  "name": "stand_and_burst",
+  "difficulty": 2,
+  "display_name": "Stand & Burst",
+  "ham_move_name": "Champagne_Pop_givemeeverything.move",
+  "milo_name": "champagne_pop_givemeeverything",
+  "song_name": "givemeeverything",
+  "clips": {
+    "stand_and_burst_givemeeverything_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stand_and_burst_givemeeverything_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

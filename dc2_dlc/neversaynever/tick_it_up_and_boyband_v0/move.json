@@ -1,0 +1,26 @@
+{
+  "name": "tick_it_up_and_boyband",
+  "difficulty": 2,
+  "display_name": "Tick It Up / Boyband",
+  "ham_move_name": "Tick_Arms_Up_neversaynever.move",
+  "milo_name": "tick_arms_up_neversaynever",
+  "song_name": "neversaynever",
+  "clips": {
+    "tick_it_up_and_boyband_neversaynever_v0": {
+      "avg_beats_per_second": 1.39,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tick_it_up_and_boyband_neversaynever_v1": {
+      "avg_beats_per_second": 1.61,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

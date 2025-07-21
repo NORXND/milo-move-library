@@ -1,0 +1,18 @@
+{
+  "name": "exception_shove_in_1",
+  "difficulty": 2,
+  "display_name": "Shove In",
+  "ham_move_name": "G_Checkin_Lr_partyrockanthem.move",
+  "milo_name": "g_checkin_lr_partyrockanthem",
+  "song_name": "partyrockanthem",
+  "clips": {
+    "shove_in_partyrockanthem_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

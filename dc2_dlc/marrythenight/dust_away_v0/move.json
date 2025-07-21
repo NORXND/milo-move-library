@@ -1,0 +1,18 @@
+{
+  "name": "dust_away",
+  "difficulty": 1,
+  "display_name": "Dust Away",
+  "ham_move_name": "Shake_It_Off_marrythenight.move",
+  "milo_name": "shake_it_off_marrythenight",
+  "song_name": "marrythenight",
+  "clips": {
+    "dust_away_marrythenight_v0": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

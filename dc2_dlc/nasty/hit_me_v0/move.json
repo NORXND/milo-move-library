@@ -1,0 +1,50 @@
+{
+  "name": "hit_me",
+  "difficulty": 1,
+  "display_name": "Hit Me",
+  "ham_move_name": "Hit_Me_nasty.move",
+  "milo_name": "hit_me_nasty",
+  "song_name": "nasty",
+  "clips": {
+    "hit_me_nasty_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hit_me_nasty_v3": {
+      "avg_beats_per_second": 1.73,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hit_me_nasty_v1": {
+      "avg_beats_per_second": 1.72,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hit_me_nasty_v4": {
+      "avg_beats_per_second": 1.48,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hit_me_nasty_v2": {
+      "avg_beats_per_second": 1.73,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

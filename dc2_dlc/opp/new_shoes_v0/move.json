@@ -1,0 +1,18 @@
+{
+  "name": "new_shoes",
+  "difficulty": 2,
+  "display_name": "New Shoes",
+  "ham_move_name": "New_Shoes_opp.move",
+  "milo_name": "new_shoes_opp",
+  "song_name": "opp",
+  "clips": {
+    "new_shoes_opp_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

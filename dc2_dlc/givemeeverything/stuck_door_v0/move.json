@@ -1,0 +1,26 @@
+{
+  "name": "stuck_door",
+  "difficulty": 2,
+  "display_name": "Stuck Door",
+  "ham_move_name": "Pull_Apart_givemeeverything.move",
+  "milo_name": "pull_apart_givemeeverything",
+  "song_name": "givemeeverything",
+  "clips": {
+    "stuck_door_givemeeverything_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stuck_door_givemeeverything_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

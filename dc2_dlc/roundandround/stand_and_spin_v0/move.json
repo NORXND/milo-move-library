@@ -1,0 +1,34 @@
+{
+  "name": "stand_and_spin",
+  "difficulty": 2,
+  "display_name": "Stand & Spin",
+  "ham_move_name": "Turn_Jump_Open_roundandround.move",
+  "milo_name": "turn_jump_open_roundandround",
+  "song_name": "roundandround",
+  "clips": {
+    "stand_and_spin_roundandround_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stand_and_spin_roundandround_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "stand_and_spin_roundandround_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

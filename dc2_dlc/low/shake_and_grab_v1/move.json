@@ -1,0 +1,26 @@
+{
+  "name": "shake_and_grab",
+  "difficulty": 2,
+  "display_name": "Shake & Grab",
+  "ham_move_name": "Shake_Shake_Boobies_low.move",
+  "milo_name": "shake_shake_boobies_low",
+  "song_name": "low",
+  "clips": {
+    "shake_and_grab_low_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shake_and_grab_low_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

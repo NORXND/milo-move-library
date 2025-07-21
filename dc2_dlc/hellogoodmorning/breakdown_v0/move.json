@@ -1,0 +1,18 @@
+{
+  "name": "breakdown",
+  "difficulty": 0,
+  "display_name": "Breakdown",
+  "ham_move_name": "Robo_Drop_hellogoodmorning.move",
+  "milo_name": "robo_drop_hellogoodmorning",
+  "song_name": "hellogoodmorning",
+  "clips": {
+    "breakdown_hellogoodmorning_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "look_hop",
+  "difficulty": 2,
+  "display_name": "Look Hop",
+  "ham_move_name": "Sunblock_scenario.move",
+  "milo_name": "sunblock_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "look_hop_scenario_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "look_hop_scenario_v1": {
+      "avg_beats_per_second": 1.46,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

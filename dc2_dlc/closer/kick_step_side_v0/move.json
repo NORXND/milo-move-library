@@ -1,0 +1,26 @@
+{
+  "name": "kick_step_side",
+  "difficulty": 1,
+  "display_name": "Kick Step Side",
+  "ham_move_name": "Kick_Step_Side_closer.move",
+  "milo_name": "kick_step_side_closer",
+  "song_name": "closer",
+  "clips": {
+    "kick_step_side_closer_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kick_step_side_closer_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

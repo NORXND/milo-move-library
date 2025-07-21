@@ -1,0 +1,42 @@
+{
+  "name": "heatwave_l",
+  "difficulty": 0,
+  "display_name": "Heatwave",
+  "ham_move_name": "Heatwave_L_donttouchme.move",
+  "milo_name": "heatwave_l_donttouchme",
+  "song_name": "donttouchme",
+  "clips": {
+    "heatwave_l_donttouchme_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "heatwave_r_donttouchme_v0"
+    },
+    "heatwave_l_donttouchme_v1": {
+      "avg_beats_per_second": 1.61,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "heatwave_r_donttouchme_v1"
+    },
+    "heatwave_l_donttouchme_v2": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "heatwave_r_donttouchme_v2"
+    },
+    "heatwave_l_donttouchme_v3": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "heatwave_r_donttouchme_v3"
+    }
+  }
+}

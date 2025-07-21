@@ -1,0 +1,26 @@
+{
+  "name": "sweep_and_snap",
+  "difficulty": 2,
+  "display_name": "Sweep & Snap",
+  "ham_move_name": "Sweep_Arms_Snap_neversaynever.move",
+  "milo_name": "sweep_arms_snap_neversaynever",
+  "song_name": "neversaynever",
+  "clips": {
+    "sweep_and_snap_neversaynever_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sweep_and_snap_neversaynever_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

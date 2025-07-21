@@ -1,0 +1,18 @@
+{
+  "name": "exception_tropic_rain_1",
+  "difficulty": 2,
+  "display_name": "Tropic Rain",
+  "ham_move_name": "Glitter_Rain_1_theedgeofglory.move",
+  "milo_name": "glitter_rain_1_theedgeofglory",
+  "song_name": "theedgeofglory",
+  "clips": {
+    "tropic_rain_theedgeofglory_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

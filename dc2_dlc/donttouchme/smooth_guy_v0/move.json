@@ -1,0 +1,18 @@
+{
+  "name": "smooth_guy",
+  "difficulty": 2,
+  "display_name": "Smooth Guy",
+  "ham_move_name": "Smooth_Guy_donttouchme.move",
+  "milo_name": "smooth_guy_donttouchme",
+  "song_name": "donttouchme",
+  "clips": {
+    "smooth_guy_donttouchme_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

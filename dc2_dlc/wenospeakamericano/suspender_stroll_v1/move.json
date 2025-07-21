@@ -1,0 +1,26 @@
+{
+  "name": "exception_suspender_stroll_b",
+  "difficulty": 2,
+  "display_name": "Suspender Stroll",
+  "ham_move_name": "Happy_Stroll_Back_wenospeakamericano.move",
+  "milo_name": "happy_stroll_back_wenospeakamericano",
+  "song_name": "wenospeakamericano",
+  "clips": {
+    "suspender_stroll_wenospeakamericano_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "suspender_stroll_wenospeakamericano_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

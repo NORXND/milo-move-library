@@ -1,0 +1,42 @@
+{
+  "name": "bobble_down",
+  "difficulty": 1,
+  "display_name": "Bobble Down",
+  "ham_move_name": "Bobble_Down_escapade.move",
+  "milo_name": "bobble_down_escapade",
+  "song_name": "escapade",
+  "clips": {
+    "bobble_down_escapade_v2": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bobble_down_escapade_v3": {
+      "avg_beats_per_second": 1.77,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bobble_down_escapade_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bobble_down_escapade_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "all_for_you",
+  "difficulty": 0,
+  "display_name": "All For You",
+  "ham_move_name": "Boy_Band_onlygirlintheworld.move",
+  "milo_name": "boy_band_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "all_for_you_onlygirlintheworld_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "hip_sway_onlygirlintheworld_v0",
+      "linked_from": ""
+    }
+  }
+}

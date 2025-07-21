@@ -1,0 +1,18 @@
+{
+  "name": "what_s_up_bodie",
+  "difficulty": 2,
+  "display_name": "What's Up Bodie",
+  "ham_move_name": "W_U_N_opp.move",
+  "milo_name": "w_u_n_opp",
+  "song_name": "opp",
+  "clips": {
+    "what_s_up_bodie_opp_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

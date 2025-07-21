@@ -1,0 +1,42 @@
+{
+  "name": "x_down",
+  "difficulty": 0,
+  "display_name": "X Down",
+  "ham_move_name": "X_Down_commander.move",
+  "milo_name": "x_down_commander",
+  "song_name": "commander",
+  "clips": {
+    "x_down_commander_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "x_down_commander_v1": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "x_down_commander_v2": {
+      "avg_beats_per_second": 1.79,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "x_down_commander_v3": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

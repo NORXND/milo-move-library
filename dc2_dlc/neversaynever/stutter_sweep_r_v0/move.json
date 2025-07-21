@@ -1,0 +1,26 @@
+{
+  "name": "stutter_sweep_r",
+  "difficulty": 2,
+  "display_name": "Stutter Sweep",
+  "ham_move_name": "Push_Sweep_Stutter_R_neversaynever.move",
+  "milo_name": "push_sweep_stutter_r_neversaynever",
+  "song_name": "neversaynever",
+  "clips": {
+    "stutter_sweep_r_neversaynever_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "stutter_sweep_l_neversaynever_v0",
+      "linked_from": ""
+    },
+    "stutter_sweep_r_neversaynever_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "stutter_sweep_l_neversaynever_v1",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "anemone",
+  "difficulty": 2,
+  "display_name": "Anemone",
+  "ham_move_name": "Low_Wave_sandm.move",
+  "milo_name": "low_wave_sandm",
+  "song_name": "sandm",
+  "clips": {
+    "anemone_sandm_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "anemone_sandm_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

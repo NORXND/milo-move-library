@@ -1,0 +1,18 @@
+{
+  "name": "double_freq_whip",
+  "difficulty": 2,
+  "display_name": "Double Freq Whip",
+  "ham_move_name": "Double_Freq_Whip_gonnamakeyousweat.move",
+  "milo_name": "double_freq_whip_gonnamakeyousweat",
+  "song_name": "gonnamakeyousweat",
+  "clips": {
+    "double_freq_whip_gonnamakeyousweat_v0": {
+      "avg_beats_per_second": 1.64,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

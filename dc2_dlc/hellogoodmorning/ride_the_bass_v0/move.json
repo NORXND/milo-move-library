@@ -1,0 +1,26 @@
+{
+  "name": "ride_the_bass",
+  "difficulty": 2,
+  "display_name": "Ride The Bass",
+  "ham_move_name": "Rollin_Down_And_Snappin_hellogoodmorning.move",
+  "milo_name": "rollin_down_and_snappin_hellogoodmorning",
+  "song_name": "hellogoodmorning",
+  "clips": {
+    "ride_the_bass_hellogoodmorning_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ride_the_bass_hellogoodmorning_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

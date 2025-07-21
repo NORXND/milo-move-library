@@ -1,0 +1,42 @@
+{
+  "name": "exception_step_cross_back_1",
+  "difficulty": 1,
+  "display_name": "Step Cross Back",
+  "ham_move_name": "Hop_Cross_Back_donttouchme.move",
+  "milo_name": "hop_cross_back_donttouchme",
+  "song_name": "donttouchme",
+  "clips": {
+    "step_cross_back_donttouchme_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_cross_back_donttouchme_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_cross_back_donttouchme_v4": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_cross_back_donttouchme_v5": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "shoulder_dip",
+  "difficulty": 0,
+  "display_name": "Shoulder Dip",
+  "ham_move_name": "Shoulder_Hit_escapade.move",
+  "milo_name": "shoulder_hit_escapade",
+  "song_name": "escapade",
+  "clips": {
+    "shoulder_dip_escapade_v0": {
+      "avg_beats_per_second": 1.93,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_dip_escapade_v5": {
+      "avg_beats_per_second": 1.91,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_dip_escapade_v3": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_dip_escapade_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_dip_escapade_v6": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_dip_escapade_v4": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_dip_escapade_v2": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

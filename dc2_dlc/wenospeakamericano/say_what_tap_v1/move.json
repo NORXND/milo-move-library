@@ -1,0 +1,26 @@
+{
+  "name": "say_what_tap",
+  "difficulty": 2,
+  "display_name": "Say What Tap",
+  "ham_move_name": "Charlie_wenospeakamericano.move",
+  "milo_name": "charlie_wenospeakamericano",
+  "song_name": "wenospeakamericano",
+  "clips": {
+    "say_what_tap_wenospeakamericano_v1": {
+      "avg_beats_per_second": 2.09,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "say_what_tap_wenospeakamericano_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

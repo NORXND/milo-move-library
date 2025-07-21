@@ -1,0 +1,26 @@
+{
+  "name": "hop_hop_clap",
+  "difficulty": 1,
+  "display_name": "Hop Hop Clap",
+  "ham_move_name": "Stomp_The_Yard_scenario.move",
+  "milo_name": "stomp_the_yard_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "hop_hop_clap_scenario_v0": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_hop_clap_scenario_v1": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "dive_tap",
+  "difficulty": 2,
+  "display_name": "Dive Tap",
+  "ham_move_name": "Run_The_World_onlygirlintheworld.move",
+  "milo_name": "run_the_world_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "dive_tap_onlygirlintheworld_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

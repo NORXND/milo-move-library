@@ -1,0 +1,42 @@
+{
+  "name": "sun_march",
+  "difficulty": 1,
+  "display_name": "Sun March",
+  "ham_move_name": "Glitter_Spin_marrythenight.move",
+  "milo_name": "glitter_spin_marrythenight",
+  "song_name": "marrythenight",
+  "clips": {
+    "sun_march_marrythenight_v0": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sun_march_marrythenight_v1": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sun_march_marrythenight_v2": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sun_march_marrythenight_v3": {
+      "avg_beats_per_second": 2.19,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "step_ballchange_l",
+  "difficulty": 2,
+  "display_name": "Step Ballchange",
+  "ham_move_name": "Housing_L_onlygirlintheworld.move",
+  "milo_name": "housing_l_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "step_ballchange_l_onlygirlintheworld_v2": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_ballchange_l_onlygirlintheworld_v3": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_ballchange_l_onlygirlintheworld_v4": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_ballchange_l_onlygirlintheworld_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_ballchange_l_onlygirlintheworld_v5": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_ballchange_l_onlygirlintheworld_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

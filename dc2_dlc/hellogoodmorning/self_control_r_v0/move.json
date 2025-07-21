@@ -1,0 +1,18 @@
+{
+  "name": "self_control_r",
+  "difficulty": 2,
+  "display_name": "Self Control",
+  "ham_move_name": "Iso_And_Up_R_hellogoodmorning.move",
+  "milo_name": "iso_and_up_r_hellogoodmorning",
+  "song_name": "hellogoodmorning",
+  "clips": {
+    "self_control_r_hellogoodmorning_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "self_control_l_hellogoodmorning_v0",
+      "linked_from": ""
+    }
+  }
+}

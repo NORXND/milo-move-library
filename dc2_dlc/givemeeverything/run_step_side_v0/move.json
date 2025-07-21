@@ -1,0 +1,18 @@
+{
+  "name": "run_step_side",
+  "difficulty": 2,
+  "display_name": "Run Step Side",
+  "ham_move_name": "Side_Run_Single_givemeeverything.move",
+  "milo_name": "side_run_single_givemeeverything",
+  "song_name": "givemeeverything",
+  "clips": {
+    "run_step_side_givemeeverything_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

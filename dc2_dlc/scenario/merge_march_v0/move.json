@@ -1,0 +1,26 @@
+{
+  "name": "merge_march",
+  "difficulty": 2,
+  "display_name": "Merge March",
+  "ham_move_name": "Whiplash_scenario.move",
+  "milo_name": "whiplash_scenario",
+  "song_name": "scenario",
+  "clips": {
+    "merge_march_scenario_v0": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "merge_march_scenario_v1": {
+      "avg_beats_per_second": 1.69,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "dusk",
+  "difficulty": 0,
+  "display_name": "Dusk",
+  "ham_move_name": "Rainbow_Point_roundandround.move",
+  "milo_name": "rainbow_point_roundandround",
+  "song_name": "roundandround",
+  "clips": {
+    "dusk_roundandround_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "jerk_power",
+  "difficulty": 2,
+  "display_name": "Jerk Power",
+  "ham_move_name": "Groove_And_Pop_yeah3x.move",
+  "milo_name": "groove_and_pop_yeah3x",
+  "song_name": "yeah3x",
+  "clips": {
+    "jerk_power_yeah3x_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "battle_shimmy",
+  "difficulty": 1,
+  "display_name": "Battle Shimmy",
+  "ham_move_name": "Battle_Shimme_spiceupyourlife.move",
+  "milo_name": "battle_shimme_spiceupyourlife",
+  "song_name": "spiceupyourlife",
+  "clips": {
+    "battle_shimmy_spiceupyourlife_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

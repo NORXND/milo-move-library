@@ -1,0 +1,26 @@
+{
+  "name": "slot_machine",
+  "difficulty": 2,
+  "display_name": "Slot Machine",
+  "ham_move_name": "Gun_It_Back_letitrock.move",
+  "milo_name": "gun_it_back_letitrock",
+  "song_name": "letitrock",
+  "clips": {
+    "slot_machine_letitrock_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slot_machine_letitrock_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "scoop_and_sidekick",
+  "difficulty": 2,
+  "display_name": "Scoop & Sidekick",
+  "ham_move_name": "Swoop_Knee_Bounce_neversaynever.move",
+  "milo_name": "swoop_knee_bounce_neversaynever",
+  "song_name": "neversaynever",
+  "clips": {
+    "scoop_and_sidekick_neversaynever_v0": {
+      "avg_beats_per_second": 1.39,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scoop_and_sidekick_neversaynever_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scoop_and_sidekick_neversaynever_v2": {
+      "avg_beats_per_second": 1.61,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scoop_and_sidekick_neversaynever_v3": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

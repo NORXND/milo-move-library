@@ -1,0 +1,18 @@
+{
+  "name": "army_man",
+  "difficulty": 2,
+  "display_name": "Army Man",
+  "ham_move_name": "Army_Man_yeah3x.move",
+  "milo_name": "army_man_yeah3x",
+  "song_name": "yeah3x",
+  "clips": {
+    "army_man_yeah3x_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

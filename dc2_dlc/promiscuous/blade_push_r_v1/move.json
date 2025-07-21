@@ -1,0 +1,26 @@
+{
+  "name": "blade_push_r",
+  "difficulty": 2,
+  "display_name": "Blade Push",
+  "ham_move_name": "Im_All_Yours_R_promiscuous.move",
+  "milo_name": "im_all_yours_r_promiscuous",
+  "song_name": "promiscuous",
+  "clips": {
+    "blade_push_r_promiscuous_v1": {
+      "avg_beats_per_second": 1.9,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "blade_push_l_promiscuous_v1",
+      "linked_from": ""
+    },
+    "blade_push_r_promiscuous_v0": {
+      "avg_beats_per_second": 1.9,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "blade_push_l_promiscuous_v0",
+      "linked_from": ""
+    }
+  }
+}

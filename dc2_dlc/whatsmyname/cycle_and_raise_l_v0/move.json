@@ -1,0 +1,18 @@
+{
+  "name": "cycle_and_raise_l",
+  "difficulty": 2,
+  "display_name": "Cycle & Raise",
+  "ham_move_name": "Tappy_Time_L_whatsmyname.move",
+  "milo_name": "tappy_time_l_whatsmyname",
+  "song_name": "whatsmyname",
+  "clips": {
+    "cycle_and_raise_l_whatsmyname_v0": {
+      "avg_beats_per_second": 1.67,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "cycle_and_raise_r_whatsmyname_v0",
+      "linked_from": ""
+    }
+  }
+}

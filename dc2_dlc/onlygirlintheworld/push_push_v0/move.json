@@ -1,0 +1,26 @@
+{
+  "name": "push_push",
+  "difficulty": 0,
+  "display_name": "Push Push",
+  "ham_move_name": "Mj_onlygirlintheworld.move",
+  "milo_name": "mj_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "push_push_onlygirlintheworld_v0": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "push_push_onlygirlintheworld_v1": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

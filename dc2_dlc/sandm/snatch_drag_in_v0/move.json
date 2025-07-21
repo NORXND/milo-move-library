@@ -1,0 +1,42 @@
+{
+  "name": "snatch_drag_in",
+  "difficulty": 2,
+  "display_name": "Snatch Drag In",
+  "ham_move_name": "Snatch_Drag_sandm.move",
+  "milo_name": "snatch_drag_sandm",
+  "song_name": "sandm",
+  "clips": {
+    "snatch_drag_in_sandm_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "snatch_drag_in_sandm_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "snatch_drag_in_sandm_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "snatch_drag_in_sandm_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

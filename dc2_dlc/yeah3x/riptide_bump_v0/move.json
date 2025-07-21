@@ -1,0 +1,26 @@
+{
+  "name": "riptide_bump",
+  "difficulty": 2,
+  "display_name": "Riptide Bump",
+  "ham_move_name": "Stairmaster_yeah3x.move",
+  "milo_name": "stairmaster_yeah3x",
+  "song_name": "yeah3x",
+  "clips": {
+    "riptide_bump_yeah3x_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "riptide_bump_yeah3x_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

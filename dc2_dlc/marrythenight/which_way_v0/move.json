@@ -1,0 +1,26 @@
+{
+  "name": "which_way",
+  "difficulty": 0,
+  "display_name": "Which Way",
+  "ham_move_name": "Point_Em_Out_marrythenight.move",
+  "milo_name": "point_em_out_marrythenight",
+  "song_name": "marrythenight",
+  "clips": {
+    "which_way_marrythenight_v0": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "which_way_marrythenight_v1": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "stir_it_and_what_l",
+  "difficulty": 2,
+  "display_name": "Stir It & What",
+  "ham_move_name": "Whine_Down_And_What_L_whineup.move",
+  "milo_name": "whine_down_and_what_l_whineup",
+  "song_name": "whineup",
+  "clips": {
+    "stir_it_and_what_l_whineup_v0": {
+      "avg_beats_per_second": 1.79,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

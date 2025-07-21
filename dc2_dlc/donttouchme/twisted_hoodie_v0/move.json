@@ -1,0 +1,26 @@
+{
+  "name": "twisted_hoodie",
+  "difficulty": 0,
+  "display_name": "Twisted Hoodie",
+  "ham_move_name": "Cool_Guy_donttouchme.move",
+  "milo_name": "cool_guy_donttouchme",
+  "song_name": "donttouchme",
+  "clips": {
+    "twisted_hoodie_donttouchme_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "twisted_hoodie_donttouchme_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

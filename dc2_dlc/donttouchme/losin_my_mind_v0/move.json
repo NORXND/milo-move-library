@@ -1,0 +1,26 @@
+{
+  "name": "losin_my_mind",
+  "difficulty": 1,
+  "display_name": "Losin' My Mind",
+  "ham_move_name": "Losin_My_Mind_donttouchme.move",
+  "milo_name": "losin_my_mind_donttouchme",
+  "song_name": "donttouchme",
+  "clips": {
+    "losin_my_mind_donttouchme_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "losin_my_mind_donttouchme_v1": {
+      "avg_beats_per_second": 1.87,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

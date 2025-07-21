@@ -1,0 +1,42 @@
+{
+  "name": "miss_step_out_r",
+  "difficulty": 0,
+  "display_name": "Miss Step Out",
+  "ham_move_name": "Nation_R_escapade.move",
+  "milo_name": "nation_r_escapade",
+  "song_name": "escapade",
+  "clips": {
+    "miss_step_out_r_escapade_v0": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "miss_step_out_l_escapade_v1",
+      "linked_from": "miss_step_out_l_escapade_v0"
+    },
+    "miss_step_out_r_escapade_v1": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "miss_step_out_l_escapade_v1"
+    },
+    "miss_step_out_r_escapade_v2": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "miss_step_out_l_escapade_v3",
+      "linked_from": "miss_step_out_l_escapade_v2"
+    },
+    "miss_step_out_r_escapade_v3": {
+      "avg_beats_per_second": 1.92,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "miss_step_out_l_escapade_v3"
+    }
+  }
+}

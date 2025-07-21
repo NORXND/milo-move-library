@@ -1,0 +1,18 @@
+{
+  "name": "push_push",
+  "difficulty": 0,
+  "display_name": "Push Push",
+  "ham_move_name": "Side_Push_downonme.move",
+  "milo_name": "side_push_downonme",
+  "song_name": "downonme",
+  "clips": {
+    "push_push_downonme_v0": {
+      "avg_beats_per_second": 1.33,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

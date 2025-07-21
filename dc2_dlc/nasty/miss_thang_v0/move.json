@@ -1,0 +1,18 @@
+{
+  "name": "miss_thang",
+  "difficulty": 2,
+  "display_name": "Miss Thang",
+  "ham_move_name": "Ms_Jackson_nasty.move",
+  "milo_name": "ms_jackson_nasty",
+  "song_name": "nasty",
+  "clips": {
+    "miss_thang_nasty_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

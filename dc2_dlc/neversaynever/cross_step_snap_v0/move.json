@@ -1,0 +1,26 @@
+{
+  "name": "cross_step_snap",
+  "difficulty": 2,
+  "display_name": "Cross Step Snap",
+  "ham_move_name": "Cross_Step_Snap_neversaynever.move",
+  "milo_name": "cross_step_snap_neversaynever",
+  "song_name": "neversaynever",
+  "clips": {
+    "cross_step_snap_neversaynever_v0": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_step_snap_neversaynever_v1": {
+      "avg_beats_per_second": 1.62,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

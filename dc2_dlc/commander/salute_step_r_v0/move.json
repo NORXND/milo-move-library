@@ -1,0 +1,26 @@
+{
+  "name": "salute_step_r",
+  "difficulty": 1,
+  "display_name": "Salute Step",
+  "ham_move_name": "Salute_March_R_commander.move",
+  "milo_name": "salute_march_r_commander",
+  "song_name": "commander",
+  "clips": {
+    "salute_step_r_commander_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "salute_step_r_commander_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "salute_step_l_commander_v0",
+      "linked_from": ""
+    }
+  }
+}

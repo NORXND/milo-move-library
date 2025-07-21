@@ -1,0 +1,26 @@
+{
+  "name": "minicopter",
+  "difficulty": 1,
+  "display_name": "Minicopter",
+  "ham_move_name": "Overhead_milkshake.move",
+  "milo_name": "overhead_milkshake",
+  "song_name": "milkshake",
+  "clips": {
+    "minicopter_milkshake_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "minicopter_milkshake_v1": {
+      "avg_beats_per_second": 1.89,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

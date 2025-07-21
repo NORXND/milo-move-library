@@ -1,0 +1,58 @@
+{
+  "name": "jazz_square_clap",
+  "difficulty": 2,
+  "display_name": "Jazz Square Clap",
+  "ham_move_name": "Jazz_Sq_Clap_marrythenight.move",
+  "milo_name": "jazz_sq_clap_marrythenight",
+  "song_name": "marrythenight",
+  "clips": {
+    "jazz_square_clap_marrythenight_v3": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jazz_square_clap_marrythenight_v4": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jazz_square_clap_marrythenight_v5": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jazz_square_clap_marrythenight_v0": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jazz_square_clap_marrythenight_v1": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jazz_square_clap_marrythenight_v2": {
+      "avg_beats_per_second": 2.18,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

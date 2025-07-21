@@ -1,0 +1,18 @@
+{
+  "name": "gank_flip",
+  "difficulty": 1,
+  "display_name": "Gank Flip",
+  "ham_move_name": "Gank_Flip_commander.move",
+  "milo_name": "gank_flip_commander",
+  "song_name": "commander",
+  "clips": {
+    "gank_flip_commander_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

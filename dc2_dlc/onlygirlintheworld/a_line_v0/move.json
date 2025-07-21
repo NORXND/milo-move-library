@@ -1,0 +1,18 @@
+{
+  "name": "a_line",
+  "difficulty": 2,
+  "display_name": "A-Line",
+  "ham_move_name": "Feel_Right_onlygirlintheworld.move",
+  "milo_name": "feel_right_onlygirlintheworld",
+  "song_name": "onlygirlintheworld",
+  "clips": {
+    "a_line_onlygirlintheworld_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

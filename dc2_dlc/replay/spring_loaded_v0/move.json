@@ -1,0 +1,26 @@
+{
+  "name": "spring_loaded",
+  "difficulty": 2,
+  "display_name": "Spring Loaded",
+  "ham_move_name": "Crazy_Run_replay.move",
+  "milo_name": "crazy_run_replay",
+  "song_name": "replay",
+  "clips": {
+    "spring_loaded_replay_v0": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spring_loaded_replay_v1": {
+      "avg_beats_per_second": 1.52,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

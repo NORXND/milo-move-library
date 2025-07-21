@@ -1,0 +1,34 @@
+{
+  "name": "shakey_shuffle_l",
+  "difficulty": 2,
+  "display_name": "Shakey Shuffle",
+  "ham_move_name": "Pimp_Daddy_L_partyrockanthem.move",
+  "milo_name": "pimp_daddy_l_partyrockanthem",
+  "song_name": "partyrockanthem",
+  "clips": {
+    "shakey_shuffle_l_partyrockanthem_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shakey_shuffle_l_partyrockanthem_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shakey_shuffle_l_partyrockanthem_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

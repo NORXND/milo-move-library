@@ -1,0 +1,26 @@
+{
+  "name": "muscle_swish_r",
+  "difficulty": 2,
+  "display_name": "Muscle Swish",
+  "ham_move_name": "Hip_Swish_R_whatsmyname.move",
+  "milo_name": "hip_swish_r_whatsmyname",
+  "song_name": "whatsmyname",
+  "clips": {
+    "muscle_swish_r_whatsmyname_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "muscle_swish_r_whatsmyname_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

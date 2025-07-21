@@ -1,0 +1,26 @@
+{
+  "name": "snappy_r",
+  "difficulty": 2,
+  "display_name": "Snappy",
+  "ham_move_name": "Janet_R_yeah3x.move",
+  "milo_name": "janet_r_yeah3x",
+  "song_name": "yeah3x",
+  "clips": {
+    "snappy_r_yeah3x_v0": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "snappy_l_yeah3x_v0",
+      "linked_from": ""
+    },
+    "snappy_r_yeah3x_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "snappy_l_yeah3x_v1",
+      "linked_from": ""
+    }
+  }
+}

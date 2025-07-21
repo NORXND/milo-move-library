@@ -1,0 +1,18 @@
+{
+  "name": "exception_stukie_r1",
+  "difficulty": 2,
+  "display_name": "Stukie",
+  "ham_move_name": "Stukie_R1_calabria.move",
+  "milo_name": "stukie_r1_calabria",
+  "song_name": "calabria",
+  "clips": {
+    "stukie_calabria_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

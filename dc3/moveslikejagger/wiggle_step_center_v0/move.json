@@ -1,0 +1,18 @@
+{
+  "name": "exception_wiggle_step_center_1",
+  "difficulty": 2,
+  "display_name": "Wiggle Step Center",
+  "ham_move_name": "Girly_Alcoholic_moveslikejagger.move",
+  "milo_name": "girly_alcoholic_moveslikejagger",
+  "song_name": "moveslikejagger",
+  "clips": {
+    "wiggle_step_center_moveslikejagger_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

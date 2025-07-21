@@ -1,0 +1,26 @@
+{
+  "name": "exception_choir_step_1",
+  "difficulty": 2,
+  "display_name": "Choir Step",
+  "ham_move_name": "Presenation_1_ymca.move",
+  "milo_name": "presenation_1_ymca",
+  "song_name": "ymca",
+  "clips": {
+    "choir_step_ymca_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "choir_step_ymca_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

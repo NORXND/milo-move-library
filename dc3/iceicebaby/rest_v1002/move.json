@@ -1,0 +1,18 @@
+{
+  "name": "rest_iceicebaby_v1002",
+  "difficulty": 2,
+  "display_name": "",
+  "ham_move_name": "Rest.move",
+  "milo_name": "rest",
+  "song_name": "iceicebaby",
+  "clips": {
+    "rest_iceicebaby_v1002": {
+      "avg_beats_per_second": 1.93,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 96,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

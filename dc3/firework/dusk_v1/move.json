@@ -1,0 +1,18 @@
+{
+  "name": "exception_dusk_2",
+  "difficulty": 0,
+  "display_name": "Dusk",
+  "ham_move_name": "Dusk_2_firework.move",
+  "milo_name": "dusk_2_firework",
+  "song_name": "firework",
+  "clips": {
+    "dusk_firework_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

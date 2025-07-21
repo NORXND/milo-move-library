@@ -1,0 +1,18 @@
+{
+  "name": "exception_nightshade_walk_f",
+  "difficulty": 2,
+  "display_name": "Nightshade Walk",
+  "ham_move_name": "South_East_Walk_Front_iamthebest.move",
+  "milo_name": "south_east_walk_front_iamthebest",
+  "song_name": "iamthebest",
+  "clips": {
+    "nightshade_walk_iamthebest_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "nightshade_walk_iamthebest_v1",
+      "linked_from": ""
+    }
+  }
+}

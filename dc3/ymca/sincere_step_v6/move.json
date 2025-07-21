@@ -1,0 +1,26 @@
+{
+  "name": "exception_sincere_step_l1",
+  "difficulty": 2,
+  "display_name": "Sincere Step",
+  "ham_move_name": "Left_Offer_1_ymca.move",
+  "milo_name": "left_offer_1_ymca",
+  "song_name": "ymca",
+  "clips": {
+    "sincere_step_ymca_v6": {
+      "avg_beats_per_second": 2.09,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sincere_step_ymca_v2": {
+      "avg_beats_per_second": 2.09,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

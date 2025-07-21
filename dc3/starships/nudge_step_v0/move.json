@@ -1,0 +1,18 @@
+{
+  "name": "exception_nudge_step_1",
+  "difficulty": 2,
+  "display_name": "Nudge Step",
+  "ham_move_name": "Collar_Rl_starships.move",
+  "milo_name": "collar_rl_starships",
+  "song_name": "starships",
+  "clips": {
+    "nudge_step_starships_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

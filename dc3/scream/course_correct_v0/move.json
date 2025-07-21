@@ -1,0 +1,18 @@
+{
+  "name": "exception_course_correct_1",
+  "difficulty": 2,
+  "display_name": "Course Correct",
+  "ham_move_name": "Spin_R_Ll_scream.move",
+  "milo_name": "spin_r_ll_scream",
+  "song_name": "scream",
+  "clips": {
+    "course_correct_scream_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

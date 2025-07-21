@@ -1,0 +1,18 @@
+{
+  "name": "exception_wiggle_wobble",
+  "difficulty": 2,
+  "display_name": "Wiggle Wobble",
+  "ham_move_name": "Wiggle_Front_Birdie_sexyandiknowit.move",
+  "milo_name": "wiggle_front_birdie_sexyandiknowit",
+  "song_name": "sexyandiknowit",
+  "clips": {
+    "wiggle_wobble_sexyandiknowit_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

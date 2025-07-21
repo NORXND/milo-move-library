@@ -1,0 +1,18 @@
+{
+  "name": "exception_pound_walk_d",
+  "difficulty": 2,
+  "display_name": "Pound Walk",
+  "ham_move_name": "Marching_Band_Down_moveslikejagger.move",
+  "milo_name": "marching_band_down_moveslikejagger",
+  "song_name": "moveslikejagger",
+  "clips": {
+    "pound_walk_moveslikejagger_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

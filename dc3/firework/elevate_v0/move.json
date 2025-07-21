@@ -1,0 +1,18 @@
+{
+  "name": "exception_elevate_1",
+  "difficulty": 2,
+  "display_name": "Elevate",
+  "ham_move_name": "Bodie_Ball_Lift_firework.move",
+  "milo_name": "bodie_ball_lift_firework",
+  "song_name": "firework",
+  "clips": {
+    "elevate_firework_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "elevate_firework_v1",
+      "linked_from": ""
+    }
+  }
+}

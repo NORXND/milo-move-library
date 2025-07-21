@@ -1,0 +1,18 @@
+{
+  "name": "exception_juliet_down_r",
+  "difficulty": 2,
+  "display_name": "Juliet Down",
+  "ham_move_name": "Feeling_Awkard_R_D_discoinferno.move",
+  "milo_name": "feeling_awkard_r_d_discoinferno",
+  "song_name": "discoinferno",
+  "clips": {
+    "juliet_down_discoinferno_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "juliet_up_discoinferno_v0",
+      "linked_from": ""
+    }
+  }
+}

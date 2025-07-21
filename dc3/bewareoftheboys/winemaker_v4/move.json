@@ -1,0 +1,34 @@
+{
+  "name": "exception_winemaker_1",
+  "difficulty": 2,
+  "display_name": "Winemaker",
+  "ham_move_name": "Pain_In_The_Ass_bewareoftheboys.move",
+  "milo_name": "pain_in_the_ass_bewareoftheboys",
+  "song_name": "bewareoftheboys",
+  "clips": {
+    "winemaker_bewareoftheboys_v4": {
+      "avg_beats_per_second": 1.45,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "winemaker_bewareoftheboys_v0": {
+      "avg_beats_per_second": 1.4,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "winemaker_bewareoftheboys_v2": {
+      "avg_beats_per_second": 1.4,
+      "genre": "other",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

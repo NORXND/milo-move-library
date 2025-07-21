@@ -1,0 +1,18 @@
+{
+  "name": "exception_ever_and_always_1",
+  "difficulty": 2,
+  "display_name": "Ever & Always",
+  "ham_move_name": "Overhead_hello.move",
+  "milo_name": "overhead_hello",
+  "song_name": "hello",
+  "clips": {
+    "ever_and_always_hello_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "ever_and_always_hello_v1",
+      "linked_from": ""
+    }
+  }
+}

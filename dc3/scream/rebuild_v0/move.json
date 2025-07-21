@@ -1,0 +1,18 @@
+{
+  "name": "exception_rebuild_1",
+  "difficulty": 2,
+  "display_name": "Rebuild",
+  "ham_move_name": "Toys_R_Up_1_scream.move",
+  "milo_name": "toys_r_up_1_scream",
+  "song_name": "scream",
+  "clips": {
+    "rebuild_scream_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

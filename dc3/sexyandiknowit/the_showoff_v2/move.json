@@ -1,0 +1,26 @@
+{
+  "name": "exception_the_showoff_1",
+  "difficulty": 2,
+  "display_name": "The Showoff",
+  "ham_move_name": "X_sexyandiknowit.move",
+  "milo_name": "x_sexyandiknowit",
+  "song_name": "sexyandiknowit",
+  "clips": {
+    "the_showoff_sexyandiknowit_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "the_showoff_sexyandiknowit_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

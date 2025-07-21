@@ -1,0 +1,18 @@
+{
+  "name": "rest_everybody_v1007",
+  "difficulty": 2,
+  "display_name": "",
+  "ham_move_name": "Rest.move",
+  "milo_name": "rest",
+  "song_name": "everybody",
+  "clips": {
+    "rest_everybody_v1007": {
+      "avg_beats_per_second": 1.81,
+      "genre": "pop",
+      "era": "1990s",
+      "flags": 96,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

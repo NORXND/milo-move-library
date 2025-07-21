@@ -1,0 +1,18 @@
+{
+  "name": "exception_last_laugh_1",
+  "difficulty": 2,
+  "display_name": "Last Laugh",
+  "ham_move_name": "Laughing_whatdoesntkillyou.move",
+  "milo_name": "laughing_whatdoesntkillyou",
+  "song_name": "whatdoesntkillyou",
+  "clips": {
+    "last_laugh_whatdoesntkillyou_v0": {
+      "avg_beats_per_second": 1.94,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

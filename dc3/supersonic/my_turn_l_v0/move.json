@@ -1,0 +1,18 @@
+{
+  "name": "exception_my_turn_l_1",
+  "difficulty": 2,
+  "display_name": "My Turn",
+  "ham_move_name": "Coup_Passe_L_supersonic.move",
+  "milo_name": "coup_passe_l_supersonic",
+  "song_name": "supersonic",
+  "clips": {
+    "my_turn_l_supersonic_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

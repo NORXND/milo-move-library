@@ -1,0 +1,34 @@
+{
+  "name": "exception_kickabout_1",
+  "difficulty": 2,
+  "display_name": "Kickabout",
+  "ham_move_name": "Kick_Turn_cupidshuffle.move",
+  "milo_name": "kick_turn_cupidshuffle",
+  "song_name": "cupidshuffle",
+  "clips": {
+    "kickabout_cupidshuffle_v4": {
+      "avg_beats_per_second": 2.04,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "kickabout_cupidshuffle_v5",
+      "linked_from": ""
+    },
+    "kickabout_cupidshuffle_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "kickabout_cupidshuffle_v1",
+      "linked_from": ""
+    },
+    "kickabout_cupidshuffle_v2": {
+      "avg_beats_per_second": 2.04,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "kickabout_cupidshuffle_v3",
+      "linked_from": ""
+    }
+  }
+}

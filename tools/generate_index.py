@@ -118,14 +118,13 @@ async def scan_game_directory_async(game_path, game_name, executor):
         if song_data['moves']:  # Only include songs that have moves
             game_data['songs'][song_name] = song_data
             game_data['total_songs'] += 1
-            game_data['total_moves'] += len(song_data['moves'])
-    
+            game_data['total_moves'] += song_data['move_count']
     return game_data
 
 
 async def scan_song_directory_async(song_path, song_name, executor):
     """
-    Scan a song directory for move files asynchronously.
+    Scan a song directory for move folders asynchronously.
     
     Args:
         song_path: Path to the song directory
@@ -138,56 +137,31 @@ async def scan_song_directory_async(song_path, song_name, executor):
     song_data = {
         'name': song_name,
         'path': song_path,
-        'moves': {},
+        'moves': [],
         'move_count': 0,
-        'file_types': set(),
-        'total_size': 0
+        'last_updated': datetime.now().isoformat()
     }
     
-    # Collect all files first (fast operation)
-    all_files = []
-    for root, dirs, files in os.walk(song_path):
-        for file in files:
-            file_path = os.path.join(root, file)
-            rel_path = os.path.relpath(file_path, song_path)
-            all_files.append((file_path, rel_path, file))
+    if not os.path.exists(song_path):
+        return song_data
     
-    # Process files in parallel batches
-    batch_size = 50  # Process 50 files at a time
-    for i in range(0, len(all_files), batch_size):
-        batch = all_files[i:i + batch_size]
-        
-        # Create tasks for this batch
-        file_tasks = []
-        for file_path, rel_path, file_name in batch:
-            task = get_file_info_with_hash(file_path, executor)
-            file_tasks.append((task, file_path, rel_path, file_name))
-        
-        # Wait for batch to complete
-        for task, file_path, rel_path, file_name in file_tasks:
-            file_info = await task
-            if file_info:
-                file_ext = os.path.splitext(file_name)[1].lower()
-                song_data['moves'][rel_path] = {
-                    'name': file_name,
-                    'path': rel_path,
-                    'full_path': file_path,
-                    'extension': file_ext,
-                    **file_info
-                }
-                song_data['file_types'].add(file_ext)
-                song_data['total_size'] += file_info['size']
-                song_data['move_count'] += 1
+    # Scan for move directories (not files)
+    for item in os.listdir(song_path):
+        item_path = os.path.join(song_path, item)
+        if os.path.isdir(item_path):
+            # Add move folder name to the list
+            song_data['moves'].append(item)
+            song_data['move_count'] += 1
     
-    # Convert set to list for JSON serialization
-    song_data['file_types'] = sorted(list(song_data['file_types']))
+    # Sort moves alphabetically
+    song_data['moves'].sort()
     
     return song_data
 
 
 async def scan_midi_banks_async(midi_bank_path, executor):
     """
-    Scan MIDI bank directory asynchronously.
+    Scan MIDI bank directory for folder names only asynchronously.
     
     Args:
         midi_bank_path: Path to the midi_bank directory
@@ -198,53 +172,24 @@ async def scan_midi_banks_async(midi_bank_path, executor):
     """
     midi_data = {
         'path': midi_bank_path,
-        'files': {},
-        'total_files': 0,
-        'total_size': 0,
-        'file_types': set(),
+        'sounds': [],
+        'total_sounds': 0,
         'last_updated': datetime.now().isoformat()
     }
     
     if not os.path.exists(midi_bank_path):
         return midi_data
     
-    # Collect all files first
-    all_files = []
-    for root, dirs, files in os.walk(midi_bank_path):
-        for file in files:
-            file_path = os.path.join(root, file)
-            rel_path = os.path.relpath(file_path, midi_bank_path)
-            all_files.append((file_path, rel_path, file))
+    # Scan for folder names only (direct child folders)
+    for item in os.listdir(midi_bank_path):
+        item_path = os.path.join(midi_bank_path, item)
+        if os.path.isdir(item_path):
+            # Add folder name to the list
+            midi_data['sounds'].append(item)
+            midi_data['total_sounds'] += 1
     
-    # Process files in parallel batches
-    batch_size = 100  # MIDI files are typically smaller
-    for i in range(0, len(all_files), batch_size):
-        batch = all_files[i:i + batch_size]
-        
-        # Create tasks for this batch
-        file_tasks = []
-        for file_path, rel_path, file_name in batch:
-            task = get_file_info_with_hash(file_path, executor)
-            file_tasks.append((task, file_path, rel_path, file_name))
-        
-        # Wait for batch to complete
-        for task, file_path, rel_path, file_name in file_tasks:
-            file_info = await task
-            if file_info:
-                file_ext = os.path.splitext(file_name)[1].lower()
-                midi_data['files'][rel_path] = {
-                    'name': file_name,
-                    'path': rel_path,
-                    'full_path': file_path,
-                    'extension': file_ext,
-                    **file_info
-                }
-                midi_data['file_types'].add(file_ext)
-                midi_data['total_size'] += file_info['size']
-                midi_data['total_files'] += 1
-    
-    # Convert set to list for JSON serialization
-    midi_data['file_types'] = sorted(list(midi_data['file_types']))
+    # Sort sounds alphabetically
+    midi_data['sounds'].sort()
     
     return midi_data
 
@@ -263,15 +208,13 @@ def create_search_index(games_data):
         'games': [],
         'songs': [],
         'moves': [],
-        'file_types': set(),
         'games_by_name': {},
         'songs_by_name': {},
         'moves_by_name': {},
         'stats': {
             'total_games': 0,
             'total_songs': 0,
-            'total_moves': 0,
-            'total_size': 0
+            'total_moves': 0
         }
     }
     
@@ -292,32 +235,22 @@ def create_search_index(games_data):
                 'name': song_name,
                 'game': game_name,
                 'move_count': song_data['move_count'],
-                'size': song_data['total_size'],
-                'file_types': song_data['file_types']
+                'moves': song_data['moves']
             }
             search_index['songs'].append(song_entry)
             search_index['songs_by_name'][f"{game_name}:{song_name}"] = song_entry
             search_index['stats']['total_songs'] += 1
-            search_index['stats']['total_size'] += song_data['total_size']
             
-            for move_path, move_data in song_data['moves'].items():
+            for move_name in song_data['moves']:
                 # Add move to index
                 move_entry = {
-                    'name': move_data['name'],
-                    'path': move_path,
+                    'name': move_name,
                     'song': song_name,
-                    'game': game_name,
-                    'extension': move_data['extension'],
-                    'size': move_data['size'],
-                    'modified': move_data['modified']
+                    'game': game_name
                 }
                 search_index['moves'].append(move_entry)
-                search_index['moves_by_name'][f"{game_name}:{song_name}:{move_data['name']}"] = move_entry
+                search_index['moves_by_name'][f"{game_name}:{song_name}:{move_name}"] = move_entry
                 search_index['stats']['total_moves'] += 1
-                search_index['file_types'].add(move_data['extension'])
-    
-    # Convert set to list for JSON serialization
-    search_index['file_types'] = sorted(list(search_index['file_types']))
     
     return search_index
 
@@ -424,7 +357,7 @@ async def main_async():
         
         # Wait for MIDI scan to complete
         midi_data = await midi_task
-        print(f"  ✓ MIDI bank: {midi_data['total_files']} files")
+        print(f"  ✓ MIDI bank: {midi_data['total_sounds']} sounds")
         
         # Create search indexes (CPU bound, but relatively fast)
         print("\nCreating search indexes...")
@@ -443,9 +376,7 @@ async def main_async():
         print(f"Total games: {search_index['stats']['total_games']}")
         print(f"Total songs: {search_index['stats']['total_songs']}")
         print(f"Total moves: {search_index['stats']['total_moves']}")
-        print(f"Total MIDI files: {midi_data['total_files']}")
-        print(f"Total size: {search_index['stats']['total_size'] / (1024*1024):.2f} MB")
-        print(f"File types found: {', '.join(search_index['file_types'])}")
+        print(f"Total MIDI sounds: {midi_data['total_sounds']}")
         print(f"Processing time: {elapsed_time:.2f} seconds")
         print(f"Thread pool workers: {max_workers}")
         print()
@@ -517,7 +448,7 @@ def main_sync():
         print("\nScanning MIDI banks...")
         midi_bank_path = os.path.join(workspace_root, 'midi_bank')
         midi_data = asyncio.run(scan_midi_banks_async(midi_bank_path, executor))
-        print(f"  Found {midi_data['total_files']} MIDI files")
+        print(f"  Found {midi_data['total_sounds']} sounds")
     
     # Create search indexes
     print("\nCreating search indexes...")
@@ -536,9 +467,7 @@ def main_sync():
     print(f"Total games: {search_index['stats']['total_games']}")
     print(f"Total songs: {search_index['stats']['total_songs']}")
     print(f"Total moves: {search_index['stats']['total_moves']}")
-    print(f"Total MIDI files: {midi_data['total_files']}")
-    print(f"Total size: {search_index['stats']['total_size'] / (1024*1024):.2f} MB")
-    print(f"File types found: {', '.join(search_index['file_types'])}")
+    print(f"Total MIDI sounds: {midi_data['total_sounds']}")
     print(f"Processing time: {elapsed_time:.2f} seconds")
     print()
     print("Index files created:")

@@ -1,0 +1,26 @@
+{
+  "name": "magna_cum_laude_r",
+  "difficulty": 0,
+  "display_name": "Magna Cum Laude",
+  "ham_move_name": "Magna_Cum_Laude_R_titanium.move",
+  "milo_name": "magna_cum_laude_r_titanium",
+  "song_name": "titanium",
+  "clips": {
+    "magna_cum_laude_r_titanium_v0": {
+      "avg_beats_per_second": 2.46,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "magna_cum_laude_r_titanium_v2": {
+      "avg_beats_per_second": 2.46,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

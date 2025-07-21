@@ -1,0 +1,18 @@
+{
+  "name": "magna_cum_laude_l_2",
+  "difficulty": 0,
+  "display_name": "Magna Cum Laude",
+  "ham_move_name": "Magna_Cum_Laude_L_2_titanium.move",
+  "milo_name": "magna_cum_laude_l_2_titanium",
+  "song_name": "titanium",
+  "clips": {
+    "magna_cum_laude_l_titanium_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "danceelectronic",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

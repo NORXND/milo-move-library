@@ -1,0 +1,18 @@
+{
+  "name": "rest_leanwitit_v1034",
+  "difficulty": 2,
+  "display_name": "",
+  "ham_move_name": "Rest.move",
+  "milo_name": "rest",
+  "song_name": "leanwitit",
+  "clips": {
+    "rest_leanwitit_v1034": {
+      "avg_beats_per_second": 1.27,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 96,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

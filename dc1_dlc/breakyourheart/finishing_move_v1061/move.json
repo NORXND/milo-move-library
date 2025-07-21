@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_breakyourheart_v1061",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_1_breakyourheart.move",
+  "milo_name": "finishing_move_1_breakyourheart",
+  "song_name": "breakyourheart",
+  "clips": {
+    "finishing_move_breakyourheart_v1061": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

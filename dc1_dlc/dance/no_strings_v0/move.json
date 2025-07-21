@@ -1,0 +1,18 @@
+{
+  "name": "exception_no_strings_f",
+  "difficulty": 2,
+  "display_name": "No Strings",
+  "ham_move_name": "High_Marionette_Front_dance.move",
+  "milo_name": "high_marionette_front_dance",
+  "song_name": "dance",
+  "clips": {
+    "no_strings_dance_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "no_strings_dance_v1",
+      "linked_from": ""
+    }
+  }
+}

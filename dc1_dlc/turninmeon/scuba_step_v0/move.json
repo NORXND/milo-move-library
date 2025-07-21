@@ -1,0 +1,114 @@
+{
+  "name": "exception_scuba_step_1",
+  "difficulty": 0,
+  "display_name": "Scuba Step",
+  "ham_move_name": "Scuba_Step_turninmeon.move",
+  "milo_name": "scuba_step_turninmeon",
+  "song_name": "turninmeon",
+  "clips": {
+    "scuba_step_turninmeon_v0": {
+      "avg_beats_per_second": 2.68,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "scuba_step_turninmeon_v1",
+      "linked_from": ""
+    },
+    "scuba_step_turninmeon_v10": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scuba_step_turninmeon_v15": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scuba_step_turninmeon_v6": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "scuba_step_turninmeon_v7",
+      "linked_from": ""
+    },
+    "scuba_step_turninmeon_v13": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scuba_step_turninmeon_v2": {
+      "avg_beats_per_second": 2.68,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "scuba_step_turninmeon_v3",
+      "linked_from": ""
+    },
+    "scuba_step_turninmeon_v11": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scuba_step_turninmeon_v16": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scuba_step_turninmeon_v8": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scuba_step_turninmeon_v14": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scuba_step_turninmeon_v4": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "scuba_step_turninmeon_v5",
+      "linked_from": ""
+    },
+    "scuba_step_turninmeon_v12": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scuba_step_turninmeon_v9": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

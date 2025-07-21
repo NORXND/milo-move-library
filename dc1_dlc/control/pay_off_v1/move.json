@@ -1,0 +1,18 @@
+{
+  "name": "exception_pay_off_1",
+  "difficulty": 0,
+  "display_name": "Pay Off",
+  "ham_move_name": "Pay_Off_control.move",
+  "milo_name": "pay_off_control",
+  "song_name": "control",
+  "clips": {
+    "pay_off_control_v1": {
+      "avg_beats_per_second": 2.01,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "pay_off_control_v0"
+    }
+  }
+}

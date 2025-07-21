@@ -1,0 +1,26 @@
+{
+  "name": "exception_blade_step_side_1",
+  "difficulty": 0,
+  "display_name": "Blade Step Side",
+  "ham_move_name": "Blade_Step_Side_werunthis.move",
+  "milo_name": "blade_step_side_werunthis",
+  "song_name": "werunthis",
+  "clips": {
+    "blade_step_side_werunthis_v0": {
+      "avg_beats_per_second": 1.85,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "blade_step_side_werunthis_v1",
+      "linked_from": ""
+    },
+    "blade_step_side_werunthis_v2": {
+      "avg_beats_per_second": 1.83,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "blade_step_side_werunthis_v3",
+      "linked_from": ""
+    }
+  }
+}

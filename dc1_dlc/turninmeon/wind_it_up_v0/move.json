@@ -1,0 +1,42 @@
+{
+  "name": "exception_wind_it_up_1",
+  "difficulty": 0,
+  "display_name": "Wind it Up",
+  "ham_move_name": "Wind_It_Up_turninmeon.move",
+  "milo_name": "wind_it_up_turninmeon",
+  "song_name": "turninmeon",
+  "clips": {
+    "wind_it_up_turninmeon_v0": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "wind_it_up_turninmeon_v1",
+      "linked_from": ""
+    },
+    "wind_it_up_turninmeon_v2": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "wind_it_up_turninmeon_v3",
+      "linked_from": ""
+    },
+    "wind_it_up_turninmeon_v4": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "wind_it_up_turninmeon_v5",
+      "linked_from": ""
+    },
+    "wind_it_up_turninmeon_v6": {
+      "avg_beats_per_second": 2.67,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "wind_it_up_turninmeon_v7",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "exception_pony_1",
+  "difficulty": 0,
+  "display_name": "Pony",
+  "ham_move_name": "Pony_superfreak.move",
+  "milo_name": "pony_superfreak",
+  "song_name": "superfreak",
+  "clips": {
+    "pony_superfreak_v0": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pony_superfreak_v5": {
+      "avg_beats_per_second": 2.19,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pony_superfreak_v3": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pony_superfreak_v1": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pony_superfreak_v6": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pony_superfreak_v4": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pony_superfreak_v2": {
+      "avg_beats_per_second": 2.21,
+      "genre": "funkdisco",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

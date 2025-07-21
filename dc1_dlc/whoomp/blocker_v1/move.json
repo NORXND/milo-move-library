@@ -1,0 +1,18 @@
+{
+  "name": "exception_blocker_1",
+  "difficulty": 0,
+  "display_name": "Blocker",
+  "ham_move_name": "Buffer_whoomp.move",
+  "milo_name": "buffer_whoomp",
+  "song_name": "whoomp",
+  "clips": {
+    "blocker_whoomp_v1": {
+      "avg_beats_per_second": 2.16,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

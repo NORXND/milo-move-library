@@ -1,0 +1,18 @@
+{
+  "name": "rest_getup_v1039",
+  "difficulty": 2,
+  "display_name": "",
+  "ham_move_name": "Rest.move",
+  "milo_name": "rest",
+  "song_name": "getup",
+  "clips": {
+    "rest_getup_v1039": {
+      "avg_beats_per_second": 1.82,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 96,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

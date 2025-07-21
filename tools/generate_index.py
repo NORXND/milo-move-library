@@ -328,25 +328,22 @@ async def save_indexes_async(output_dir, games_data, midi_data, search_index):
     
     Args:
         output_dir: Output directory for index files
-        games_data: Complete games data
+        games_data: Complete games data (GAME->SONG->MOVE hierarchy)
         midi_data: MIDI bank data
         search_index: Search optimization index
     """
     os.makedirs(output_dir, exist_ok=True)
     
-    # Prepare all file write operations
-    write_tasks = []
+    # Moves index files (GAME->SONG->MOVE hierarchy)
+    moves_file = os.path.join(output_dir, 'moves_index.json')
+    moves_compact_file = os.path.join(output_dir, 'moves_index.min.json')
     
-    # Games index files
-    games_file = os.path.join(output_dir, 'games_index.json')
-    games_compact_file = os.path.join(output_dir, 'games_index.min.json')
-    
-    async def write_games_files():
-        async with aiofiles.open(games_file, 'w', encoding='utf-8') as f:
+    async def write_moves_files():
+        async with aiofiles.open(moves_file, 'w', encoding='utf-8') as f:
             await f.write(json.dumps(games_data, indent=2, ensure_ascii=False))
-        async with aiofiles.open(games_compact_file, 'w', encoding='utf-8') as f:
+        async with aiofiles.open(moves_compact_file, 'w', encoding='utf-8') as f:
             await f.write(json.dumps(games_data, separators=(',', ':'), ensure_ascii=False))
-        print(f"Saved games index: {games_file}")
+        print(f"Saved moves index: {moves_file}")
     
     # MIDI index files
     midi_file = os.path.join(output_dir, 'midi_index.json')
@@ -372,7 +369,7 @@ async def save_indexes_async(output_dir, games_data, midi_data, search_index):
     
     # Run all write operations in parallel
     await asyncio.gather(
-        write_games_files(),
+        write_moves_files(),
         write_midi_files(),
         write_search_files()
     )
@@ -433,7 +430,7 @@ async def main_async():
         print("\nCreating search indexes...")
         search_index = create_search_index(games_data)
         
-        # Save all indexes in parallel
+    # Save all indexes in parallel
         print(f"\nSaving indexes to {output_dir}...")
         await save_indexes_async(output_dir, games_data, midi_data, search_index)
         
@@ -453,7 +450,7 @@ async def main_async():
         print(f"Thread pool workers: {max_workers}")
         print()
         print("Index files created:")
-        print("  - games_index.json (complete game/song/move data)")
+        print("  - moves_index.json (complete GAME->SONG->MOVE hierarchy)")
         print("  - midi_index.json (MIDI bank data)")
         print("  - search_index.json (optimized for searching)")
         print("  - *.min.json (minified versions for production)")
@@ -461,6 +458,10 @@ async def main_async():
         print("Ready for use in React app!")
         
     finally:
+        # Clean up thread pool
+        executor.shutdown(wait=True)
+
+
 def main():
     """Synchronous main function wrapper."""
     try:
@@ -541,7 +542,7 @@ def main_sync():
     print(f"Processing time: {elapsed_time:.2f} seconds")
     print()
     print("Index files created:")
-    print("  - games_index.json (complete game/song/move data)")
+    print("  - moves_index.json (complete GAME->SONG->MOVE hierarchy)")
     print("  - midi_index.json (MIDI bank data)")
     print("  - search_index.json (optimized for searching)")
     print("  - *.min.json (minified versions for production)")
@@ -555,11 +556,11 @@ def save_indexes_sync(output_dir, games_data, midi_data, search_index):
     """
     os.makedirs(output_dir, exist_ok=True)
     
-    # Save complete games index
-    games_file = os.path.join(output_dir, 'games_index.json')
-    with open(games_file, 'w', encoding='utf-8') as f:
+    # Save moves index (GAME->SONG->MOVE hierarchy)
+    moves_file = os.path.join(output_dir, 'moves_index.json')
+    with open(moves_file, 'w', encoding='utf-8') as f:
         json.dump(games_data, f, indent=2, ensure_ascii=False)
-    print(f"Saved games index: {games_file}")
+    print(f"Saved moves index: {moves_file}")
     
     # Save MIDI banks index (separate file)
     midi_file = os.path.join(output_dir, 'midi_index.json')
@@ -574,8 +575,8 @@ def save_indexes_sync(output_dir, games_data, midi_data, search_index):
     print(f"Saved search index: {search_file}")
     
     # Save compact versions for production (minified)
-    games_compact_file = os.path.join(output_dir, 'games_index.min.json')
-    with open(games_compact_file, 'w', encoding='utf-8') as f:
+    moves_compact_file = os.path.join(output_dir, 'moves_index.min.json')
+    with open(moves_compact_file, 'w', encoding='utf-8') as f:
         json.dump(games_data, f, separators=(',', ':'), ensure_ascii=False)
     
     midi_compact_file = os.path.join(output_dir, 'midi_index.min.json')
@@ -587,3 +588,7 @@ def save_indexes_sync(output_dir, games_data, midi_data, search_index):
         json.dump(search_index, f, separators=(',', ':'), ensure_ascii=False)
     
     print(f"Saved compact versions (.min.json files)")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,18 @@
+{
+  "name": "exception_round_and_round_l1",
+  "difficulty": 0,
+  "display_name": "Round & Round",
+  "ham_move_name": "Round_and_Round_L1_heardemall.move",
+  "milo_name": "round_and_round_l1_heardemall",
+  "song_name": "heardemall",
+  "clips": {
+    "round_and_round_heardemall_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "name": "forget_you_r",
+  "difficulty": 2,
+  "display_name": "Forget You",
+  "ham_move_name": "Forget_You_R_forgetyou.move",
+  "milo_name": "forget_you_r_forgetyou",
+  "song_name": "forgetyou",
+  "clips": {
+    "forget_you_r_forgetyou_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "forget_you_l_forgetyou_v0",
+      "linked_from": ""
+    },
+    "forget_you_r_forgetyou_v5": {
+      "avg_beats_per_second": 2.15,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "forget_you_l_forgetyou_v5",
+      "linked_from": ""
+    },
+    "forget_you_r_forgetyou_v3": {
+      "avg_beats_per_second": 2.13,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "forget_you_l_forgetyou_v3",
+      "linked_from": ""
+    },
+    "forget_you_r_forgetyou_v8": {
+      "avg_beats_per_second": 2.15,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "forget_you_l_forgetyou_v8",
+      "linked_from": ""
+    },
+    "forget_you_r_forgetyou_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "forget_you_l_forgetyou_v1",
+      "linked_from": ""
+    },
+    "forget_you_r_forgetyou_v6": {
+      "avg_beats_per_second": 2.13,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "forget_you_l_forgetyou_v6",
+      "linked_from": ""
+    },
+    "forget_you_r_forgetyou_v4": {
+      "avg_beats_per_second": 2.13,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "forget_you_l_forgetyou_v4",
+      "linked_from": ""
+    },
+    "forget_you_r_forgetyou_v2": {
+      "avg_beats_per_second": 2.15,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "forget_you_l_forgetyou_v2",
+      "linked_from": ""
+    },
+    "forget_you_r_forgetyou_v7": {
+      "avg_beats_per_second": 2.13,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "forget_you_l_forgetyou_v7",
+      "linked_from": ""
+    }
+  }
+}

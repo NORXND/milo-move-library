@@ -1,0 +1,50 @@
+{
+  "name": "round_round_hey_l",
+  "difficulty": 1,
+  "display_name": "Round Round Hey",
+  "ham_move_name": "Round_Round_Hey_L_heardemall.move",
+  "milo_name": "round_round_hey_l_heardemall",
+  "song_name": "heardemall",
+  "clips": {
+    "round_round_hey_l_heardemall_v4": {
+      "avg_beats_per_second": 1.4,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "round_round_hey_r_heardemall_v4"
+    },
+    "round_round_hey_l_heardemall_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "round_round_hey_r_heardemall_v0"
+    },
+    "round_round_hey_l_heardemall_v1": {
+      "avg_beats_per_second": 1.21,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "round_round_hey_r_heardemall_v1"
+    },
+    "round_round_hey_l_heardemall_v2": {
+      "avg_beats_per_second": 1.4,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "round_round_hey_r_heardemall_v2"
+    },
+    "round_round_hey_l_heardemall_v3": {
+      "avg_beats_per_second": 1.21,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "round_round_hey_r_heardemall_v3"
+    }
+  }
+}

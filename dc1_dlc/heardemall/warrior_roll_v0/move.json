@@ -1,0 +1,26 @@
+{
+  "name": "warrior_roll",
+  "difficulty": 0,
+  "display_name": "Warrior Roll",
+  "ham_move_name": "Warrior_Roll_heardemall.move",
+  "milo_name": "warrior_roll_heardemall",
+  "song_name": "heardemall",
+  "clips": {
+    "warrior_roll_heardemall_v0": {
+      "avg_beats_per_second": 1.4,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "warrior_roll_heardemall_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

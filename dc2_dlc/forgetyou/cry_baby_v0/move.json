@@ -1,0 +1,18 @@
+{
+  "name": "cry_baby",
+  "difficulty": 2,
+  "display_name": "Cry Baby",
+  "ham_move_name": "Cry_Baby_forgetyou.move",
+  "milo_name": "cry_baby_forgetyou",
+  "song_name": "forgetyou",
+  "clips": {
+    "cry_baby_forgetyou_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

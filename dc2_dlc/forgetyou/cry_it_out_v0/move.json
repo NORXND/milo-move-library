@@ -1,0 +1,42 @@
+{
+  "name": "cry_it_out",
+  "difficulty": 2,
+  "display_name": "Cry It Out",
+  "ham_move_name": "Frustration_forgetyou.move",
+  "milo_name": "frustration_forgetyou",
+  "song_name": "forgetyou",
+  "clips": {
+    "cry_it_out_forgetyou_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cry_it_out_forgetyou_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cry_it_out_forgetyou_v2": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cry_it_out_forgetyou_v3": {
+      "avg_beats_per_second": 2.12,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

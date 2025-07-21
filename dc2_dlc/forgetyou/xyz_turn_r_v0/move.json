@@ -1,0 +1,26 @@
+{
+  "name": "xyz_turn_r",
+  "difficulty": 2,
+  "display_name": "XYZ Turn",
+  "ham_move_name": "Sock_It_To_Me_R_forgetyou.move",
+  "milo_name": "sock_it_to_me_r_forgetyou",
+  "song_name": "forgetyou",
+  "clips": {
+    "xyz_turn_r_forgetyou_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "xyz_turn_l_forgetyou_v0"
+    },
+    "xyz_turn_r_forgetyou_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "xyz_turn_l_forgetyou_v1"
+    }
+  }
+}

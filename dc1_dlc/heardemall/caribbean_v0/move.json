@@ -1,0 +1,42 @@
+{
+  "name": "caribbean",
+  "difficulty": 0,
+  "display_name": "Caribbean",
+  "ham_move_name": "Caribbean_heardemall.move",
+  "milo_name": "caribbean_heardemall",
+  "song_name": "heardemall",
+  "clips": {
+    "caribbean_heardemall_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "caribbean_heardemall_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "caribbean_heardemall_v2": {
+      "avg_beats_per_second": 1.63,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "caribbean_heardemall_v3": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

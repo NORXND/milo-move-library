@@ -1,0 +1,42 @@
+{
+  "name": "cross_hit_it_l",
+  "difficulty": 2,
+  "display_name": "Cross Hit It",
+  "ham_move_name": "Pump_Pump_L_forgetyou.move",
+  "milo_name": "pump_pump_l_forgetyou",
+  "song_name": "forgetyou",
+  "clips": {
+    "cross_hit_it_l_forgetyou_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "cross_hit_it_r_forgetyou_v0"
+    },
+    "cross_hit_it_l_forgetyou_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "cross_hit_it_r_forgetyou_v1"
+    },
+    "cross_hit_it_l_forgetyou_v2": {
+      "avg_beats_per_second": 2.12,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "cross_hit_it_r_forgetyou_v2"
+    },
+    "cross_hit_it_l_forgetyou_v3": {
+      "avg_beats_per_second": 2.12,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "cross_hit_it_r_forgetyou_v3"
+    }
+  }
+}

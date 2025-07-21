@@ -1,0 +1,50 @@
+{
+  "name": "woo_hoo_and_shante",
+  "difficulty": 1,
+  "display_name": "Woo-hoo & Shante",
+  "ham_move_name": "Woo_hoo_and_Shante_heardemall.move",
+  "milo_name": "woo_hoo_and_shante_heardemall",
+  "song_name": "heardemall",
+  "clips": {
+    "woo_hoo_and_shante_heardemall_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "woo_hoo_and_shante_heardemall_v1": {
+      "avg_beats_per_second": 1.63,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "woo_hoo_and_shante_heardemall_v2": {
+      "avg_beats_per_second": 1.63,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "woo_hoo_and_shante_heardemall_v3": {
+      "avg_beats_per_second": 1.63,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "woo_hoo_and_shante_heardemall_v4": {
+      "avg_beats_per_second": 1.63,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

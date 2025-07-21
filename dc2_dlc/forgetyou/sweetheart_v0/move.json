@@ -1,0 +1,34 @@
+{
+  "name": "sweetheart",
+  "difficulty": 2,
+  "display_name": "Sweetheart",
+  "ham_move_name": "Girl_I_Love_forgetyou.move",
+  "milo_name": "girl_i_love_forgetyou",
+  "song_name": "forgetyou",
+  "clips": {
+    "sweetheart_forgetyou_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sweetheart_forgetyou_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sweetheart_forgetyou_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

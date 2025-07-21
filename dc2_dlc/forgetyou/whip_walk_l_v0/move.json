@@ -1,0 +1,18 @@
+{
+  "name": "whip_walk_l",
+  "difficulty": 2,
+  "display_name": "Whip Walk",
+  "ham_move_name": "Which_A_Way_L_forgetyou.move",
+  "milo_name": "which_a_way_l_forgetyou",
+  "song_name": "forgetyou",
+  "clips": {
+    "whip_walk_l_forgetyou_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "whip_walk_r_forgetyou_v0"
+    }
+  }
+}

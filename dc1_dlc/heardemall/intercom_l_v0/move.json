@@ -1,0 +1,18 @@
+{
+  "name": "intercom_l",
+  "difficulty": 0,
+  "display_name": "Intercom",
+  "ham_move_name": "Intercom_L_heardemall.move",
+  "milo_name": "intercom_l_heardemall",
+  "song_name": "heardemall",
+  "clips": {
+    "intercom_l_heardemall_v0": {
+      "avg_beats_per_second": 1.63,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "intercom_r_heardemall_v0",
+      "linked_from": ""
+    }
+  }
+}

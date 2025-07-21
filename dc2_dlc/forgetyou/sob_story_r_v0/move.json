@@ -1,0 +1,18 @@
+{
+  "name": "sob_story_r",
+  "difficulty": 2,
+  "display_name": "Sob Story",
+  "ham_move_name": "Why_R_forgetyou.move",
+  "milo_name": "why_r_forgetyou",
+  "song_name": "forgetyou",
+  "clips": {
+    "sob_story_r_forgetyou_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "sob_story_l_forgetyou_v0"
+    }
+  }
+}

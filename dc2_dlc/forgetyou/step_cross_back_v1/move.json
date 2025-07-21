@@ -1,0 +1,42 @@
+{
+  "name": "step_cross_back",
+  "difficulty": 0,
+  "display_name": "Step Cross Back",
+  "ham_move_name": "Drive_Around_forgetyou.move",
+  "milo_name": "drive_around_forgetyou",
+  "song_name": "forgetyou",
+  "clips": {
+    "step_cross_back_forgetyou_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_cross_back_forgetyou_v2": {
+      "avg_beats_per_second": 1.81,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_cross_back_forgetyou_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_cross_back_forgetyou_v3": {
+      "avg_beats_per_second": 1.81,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

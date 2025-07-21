@@ -1,0 +1,34 @@
+{
+  "name": "libra_step",
+  "difficulty": 2,
+  "display_name": "Libra Step",
+  "ham_move_name": "Pocket_Change_forgetyou.move",
+  "milo_name": "pocket_change_forgetyou",
+  "song_name": "forgetyou",
+  "clips": {
+    "libra_step_forgetyou_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "libra_step_forgetyou_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "libra_step_forgetyou_v2": {
+      "avg_beats_per_second": 2.12,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

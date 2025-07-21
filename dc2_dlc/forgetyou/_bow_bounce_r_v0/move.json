@@ -1,0 +1,18 @@
+{
+  "name": "_bow_bounce_r",
+  "difficulty": 1,
+  "display_name": "'bow Bounce",
+  "ham_move_name": "Glide_R_forgetyou.move",
+  "milo_name": "glide_r_forgetyou",
+  "song_name": "forgetyou",
+  "clips": {
+    "_bow_bounce_r_forgetyou_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "_bow_bounce_l_forgetyou_v0",
+      "linked_from": ""
+    }
+  }
+}

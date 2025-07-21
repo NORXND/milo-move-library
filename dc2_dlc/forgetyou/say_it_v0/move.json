@@ -1,0 +1,26 @@
+{
+  "name": "say_it",
+  "difficulty": 2,
+  "display_name": "Say It!",
+  "ham_move_name": "I_Love_You_forgetyou.move",
+  "milo_name": "i_love_you_forgetyou",
+  "song_name": "forgetyou",
+  "clips": {
+    "say_it_forgetyou_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "say_it_forgetyou_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

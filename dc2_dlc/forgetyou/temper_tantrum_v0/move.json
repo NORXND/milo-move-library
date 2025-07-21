@@ -1,0 +1,18 @@
+{
+  "name": "temper_tantrum",
+  "difficulty": 2,
+  "display_name": "Temper Tantrum",
+  "ham_move_name": "Tempter_Tantrum_forgetyou.move",
+  "milo_name": "tempter_tantrum_forgetyou",
+  "song_name": "forgetyou",
+  "clips": {
+    "temper_tantrum_forgetyou_v0": {
+      "avg_beats_per_second": 1.81,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

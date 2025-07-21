@@ -1,0 +1,26 @@
+{
+  "name": "exception_hook_it_1",
+  "difficulty": 0,
+  "display_name": "Hook It",
+  "ham_move_name": "Hook_It_pokerface.move",
+  "milo_name": "hook_it_pokerface",
+  "song_name": "pokerface",
+  "clips": {
+    "hook_it_pokerface_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "hook_it_pokerface_v1",
+      "linked_from": ""
+    },
+    "hook_it_pokerface_v2": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "hook_it_pokerface_v3",
+      "linked_from": ""
+    }
+  }
+}

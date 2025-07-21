@@ -1,0 +1,26 @@
+{
+  "name": "exception_frenchy_r",
+  "difficulty": 0,
+  "display_name": "Frenchy",
+  "ham_move_name": "pushitgrooveR_pushit.move",
+  "milo_name": "pushitgroover_pushit",
+  "song_name": "pushit",
+  "clips": {
+    "frenchy_pushit_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "frenchy_pushit_v2": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

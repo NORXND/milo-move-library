@@ -1,0 +1,34 @@
+{
+  "name": "exception_hugabout_1",
+  "difficulty": 1,
+  "display_name": "Hugabout",
+  "ham_move_name": "Hugabout_cantgetyou.move",
+  "milo_name": "hugabout_cantgetyou",
+  "song_name": "cantgetyou",
+  "clips": {
+    "hugabout_cantgetyou_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hugabout_cantgetyou_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hugabout_cantgetyou_v2": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "hugabout_cantgetyou_v3",
+      "linked_from": ""
+    }
+  }
+}

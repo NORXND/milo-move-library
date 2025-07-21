@@ -1,0 +1,58 @@
+{
+  "name": "exception_ragga_chest_1",
+  "difficulty": 0,
+  "display_name": "Ragga Chest",
+  "ham_move_name": "Chest_Reggae_Groove_moveyabody.move",
+  "milo_name": "chest_reggae_groove_moveyabody",
+  "song_name": "moveyabody",
+  "clips": {
+    "ragga_chest_moveyabody_v4": {
+      "avg_beats_per_second": 2.02,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ragga_chest_moveyabody_v5": {
+      "avg_beats_per_second": 2.02,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ragga_chest_moveyabody_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ragga_chest_moveyabody_v1": {
+      "avg_beats_per_second": 2.02,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ragga_chest_moveyabody_v2": {
+      "avg_beats_per_second": 2.02,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ragga_chest_moveyabody_v3": {
+      "avg_beats_per_second": 2.02,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

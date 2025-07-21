@@ -1,0 +1,26 @@
+{
+  "name": "exception_jazz_square_slow_1",
+  "difficulty": 1,
+  "display_name": "Jazz Square Slow",
+  "ham_move_name": "Jazz_Square_Slow_1_heymami.move",
+  "milo_name": "jazz_square_slow_1_heymami",
+  "song_name": "heymami",
+  "clips": {
+    "jazz_square_slow_heymami_v0": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jazz_square_slow_heymami_v2": {
+      "avg_beats_per_second": 2.2,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

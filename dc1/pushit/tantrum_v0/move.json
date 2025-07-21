@@ -1,0 +1,18 @@
+{
+  "name": "exception_tantrum_r",
+  "difficulty": 1,
+  "display_name": "Tantrum",
+  "ham_move_name": "stepcircleclapR_pushit.move",
+  "milo_name": "stepcircleclapr_pushit",
+  "song_name": "pushit",
+  "clips": {
+    "tantrum_pushit_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "exception_roger_rabbit_r",
+  "difficulty": 2,
+  "display_name": "Roger Rabbit",
+  "ham_move_name": "rogerrabbitR_pushit.move",
+  "milo_name": "rogerrabbitr_pushit",
+  "song_name": "pushit",
+  "clips": {
+    "roger_rabbit_pushit_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "rest_hellagood_v1065",
+  "difficulty": 2,
+  "display_name": "",
+  "ham_move_name": "rest.move",
+  "milo_name": "rest",
+  "song_name": "hellagood",
+  "clips": {
+    "rest_hellagood_v1065": {
+      "avg_beats_per_second": 1.64,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 96,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

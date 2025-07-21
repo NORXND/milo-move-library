@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_poison_v1067",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "End_Pose_poison.move",
+  "milo_name": "end_pose_poison",
+  "song_name": "poison",
+  "clips": {
+    "finishing_move_poison_v1067": {
+      "avg_beats_per_second": 1.84,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "finishing_move_poison_v1068",
+      "linked_from": ""
+    }
+  }
+}

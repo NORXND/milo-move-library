@@ -1,0 +1,18 @@
+{
+  "name": "exception_knee_push_r",
+  "difficulty": 2,
+  "display_name": "Knee Push",
+  "ham_move_name": "kneestringsR_pushit.move",
+  "milo_name": "kneestringsr_pushit",
+  "song_name": "pushit",
+  "clips": {
+    "knee_push_pushit_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "exception_arm_circle_and_pump_r",
+  "difficulty": 2,
+  "display_name": "Arm Circle & Pump",
+  "ham_move_name": "stiraroundandpumpR_pushit.move",
+  "milo_name": "stiraroundandpumpr_pushit",
+  "song_name": "pushit",
+  "clips": {
+    "arm_circle_and_pump_pushit_v1": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

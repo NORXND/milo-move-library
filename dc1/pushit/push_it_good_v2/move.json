@@ -1,0 +1,26 @@
+{
+  "name": "exception_push_it_good_r",
+  "difficulty": 1,
+  "display_name": "Push It Good",
+  "ham_move_name": "holdandflickpumpR_pushit.move",
+  "milo_name": "holdandflickpumpr_pushit",
+  "song_name": "pushit",
+  "clips": {
+    "push_it_good_pushit_v2": {
+      "avg_beats_per_second": 2.12,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "push_it_good_pushit_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

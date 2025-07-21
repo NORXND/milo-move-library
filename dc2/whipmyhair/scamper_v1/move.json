@@ -1,0 +1,26 @@
+{
+  "name": "scamper",
+  "difficulty": 0,
+  "display_name": "Scamper",
+  "ham_move_name": "Just_Fine_whipmyhair.move",
+  "milo_name": "just_fine_whipmyhair",
+  "song_name": "whipmyhair",
+  "clips": {
+    "scamper_whipmyhair_v1": {
+      "avg_beats_per_second": 1.36,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scamper_whipmyhair_v0": {
+      "avg_beats_per_second": 1.36,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

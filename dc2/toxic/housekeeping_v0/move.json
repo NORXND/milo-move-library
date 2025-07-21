@@ -1,0 +1,34 @@
+{
+  "name": "housekeeping",
+  "difficulty": 1,
+  "display_name": "Housekeeping",
+  "ham_move_name": "Wipe_toxic.move",
+  "milo_name": "wipe_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "housekeeping_toxic_v0": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "housekeeping_toxic_v1": {
+      "avg_beats_per_second": 2.04,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "housekeeping_toxic_v2": {
+      "avg_beats_per_second": 2.06,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

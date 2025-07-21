@@ -1,0 +1,26 @@
+{
+  "name": "boardwalk",
+  "difficulty": 0,
+  "display_name": "Boardwalk",
+  "ham_move_name": "Boardwalk_reallove.move",
+  "milo_name": "boardwalk_reallove",
+  "song_name": "reallove",
+  "clips": {
+    "boardwalk_reallove_v0": {
+      "avg_beats_per_second": 1.36,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "boardwalk_reallove_v1": {
+      "avg_beats_per_second": 1.59,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "leggy_snap_l",
+  "difficulty": 1,
+  "display_name": "Leggy Snap",
+  "ham_move_name": "Leggy_Snap_L_whatislove.move",
+  "milo_name": "leggy_snap_l_whatislove",
+  "song_name": "whatislove",
+  "clips": {
+    "leggy_snap_l_whatislove_v1": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "leggy_snap_r_whatislove_v1"
+    },
+    "leggy_snap_l_whatislove_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "leggy_snap_r_whatislove_v0"
+    }
+  }
+}

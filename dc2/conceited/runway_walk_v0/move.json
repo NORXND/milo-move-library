@@ -1,0 +1,18 @@
+{
+  "name": "runway_walk",
+  "difficulty": 1,
+  "display_name": "Runway Walk",
+  "ham_move_name": "Runway_Walk_conceited.move",
+  "milo_name": "runway_walk_conceited",
+  "song_name": "conceited",
+  "clips": {
+    "runway_walk_conceited_v0": {
+      "avg_beats_per_second": 1.66,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

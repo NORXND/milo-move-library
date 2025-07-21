@@ -1,0 +1,42 @@
+{
+  "name": "heel_flick",
+  "difficulty": 0,
+  "display_name": "Heel Flick",
+  "ham_move_name": "Half_Time_Flick_run.move",
+  "milo_name": "half_time_flick_run",
+  "song_name": "run",
+  "clips": {
+    "heel_flick_run_v0": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heel_flick_run_v3": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heel_flick_run_v1": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heel_flick_run_v2": {
+      "avg_beats_per_second": 2.49,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

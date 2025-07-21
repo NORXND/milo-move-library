@@ -1,0 +1,34 @@
+{
+  "name": "fold_and_flourish",
+  "difficulty": 1,
+  "display_name": "Fold & Flourish",
+  "ham_move_name": "Fancy_Hands_toxic.move",
+  "milo_name": "fancy_hands_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "fold_and_flourish_toxic_v1": {
+      "avg_beats_per_second": 2.39,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "guess_who_toxic_v1",
+      "linked_from": ""
+    },
+    "fold_and_flourish_toxic_v2": {
+      "avg_beats_per_second": 2.32,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "fold_and_flourish_toxic_v0": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "guess_who_toxic_v0",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "chicken",
+  "difficulty": 1,
+  "display_name": "Chicken",
+  "ham_move_name": "Chicken_Head_yeah.move",
+  "milo_name": "chicken_head_yeah",
+  "song_name": "yeah",
+  "clips": {
+    "chicken_yeah_v2": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chicken_yeah_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chicken_yeah_v3": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "chicken_yeah_v1": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

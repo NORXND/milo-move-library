@@ -1,0 +1,26 @@
+{
+  "name": "hop_hit",
+  "difficulty": 0,
+  "display_name": "Hop Hit",
+  "ham_move_name": "Hop_Hit_thisishowwedoit.move",
+  "milo_name": "hop_hit_thisishowwedoit",
+  "song_name": "thisishowwedoit",
+  "clips": {
+    "hop_hit_thisishowwedoit_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hop_hit_thisishowwedoit_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

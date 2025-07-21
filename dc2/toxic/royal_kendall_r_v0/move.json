@@ -1,0 +1,26 @@
+{
+  "name": "royal_kendall_r",
+  "difficulty": 2,
+  "display_name": "Royal Kendall",
+  "ham_move_name": "Rock_In_Chair_R_toxic.move",
+  "milo_name": "rock_in_chair_r_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "royal_kendall_r_toxic_v0": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "royal_kendall_r_toxic_v1": {
+      "avg_beats_per_second": 2.39,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

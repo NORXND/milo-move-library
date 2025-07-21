@@ -1,0 +1,26 @@
+{
+  "name": "zombie_walk",
+  "difficulty": 0,
+  "display_name": "Zombie Walk",
+  "ham_move_name": "Zombie_Walk_djgotusfallininlove.move",
+  "milo_name": "zombie_walk_djgotusfallininlove",
+  "song_name": "djgotusfallininlove",
+  "clips": {
+    "zombie_walk_djgotusfallininlove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "zombie_walk_djgotusfallininlove_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

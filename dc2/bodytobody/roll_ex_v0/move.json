@@ -1,0 +1,74 @@
+{
+  "name": "roll_ex",
+  "difficulty": 0,
+  "display_name": "Roll Ex",
+  "ham_move_name": "X_Swivel_bodytobody.move",
+  "milo_name": "x_swivel_bodytobody",
+  "song_name": "bodytobody",
+  "clips": {
+    "roll_ex_bodytobody_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roll_ex_bodytobody_v5": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roll_ex_bodytobody_v3": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roll_ex_bodytobody_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roll_ex_bodytobody_v6": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roll_ex_bodytobody_v4": {
+      "avg_beats_per_second": 1.89,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roll_ex_bodytobody_v2": {
+      "avg_beats_per_second": 1.89,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "roll_ex_bodytobody_v7": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

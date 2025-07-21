@@ -1,0 +1,42 @@
+{
+  "name": "rolling_thunder_l",
+  "difficulty": 1,
+  "display_name": "Rolling Thunder",
+  "ham_move_name": "Wrist_Roll_L_thebreaks.move",
+  "milo_name": "wrist_roll_l_thebreaks",
+  "song_name": "thebreaks",
+  "clips": {
+    "rolling_thunder_l_thebreaks_v3": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "rolling_thunder_r_thebreaks_v3"
+    },
+    "rolling_thunder_l_thebreaks_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "rolling_thunder_r_thebreaks_v1"
+    },
+    "rolling_thunder_l_thebreaks_v2": {
+      "avg_beats_per_second": 1.87,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "rolling_thunder_r_thebreaks_v2"
+    },
+    "rolling_thunder_l_thebreaks_v0": {
+      "avg_beats_per_second": 1.87,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "rolling_thunder_r_thebreaks_v0"
+    }
+  }
+}

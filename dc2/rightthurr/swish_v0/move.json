@@ -1,0 +1,34 @@
+{
+  "name": "swish",
+  "difficulty": 2,
+  "display_name": "Swish",
+  "ham_move_name": "G_Whoa_rightthurr.move",
+  "milo_name": "g_whoa_rightthurr",
+  "song_name": "rightthurr",
+  "clips": {
+    "swish_rightthurr_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swish_rightthurr_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swish_rightthurr_v2": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

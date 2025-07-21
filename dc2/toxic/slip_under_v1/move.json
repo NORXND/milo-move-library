@@ -1,0 +1,34 @@
+{
+  "name": "slip_under",
+  "difficulty": 2,
+  "display_name": "Slip Under",
+  "ham_move_name": "Blade_Walk_toxic.move",
+  "milo_name": "blade_walk_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "slip_under_toxic_v1": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slip_under_toxic_v2": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slip_under_toxic_v0": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

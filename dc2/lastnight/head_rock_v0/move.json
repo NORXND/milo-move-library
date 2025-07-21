@@ -1,0 +1,26 @@
+{
+  "name": "head_rock",
+  "difficulty": 1,
+  "display_name": "Head Rock",
+  "ham_move_name": "Head_Rock_lastnight.move",
+  "milo_name": "head_rock_lastnight",
+  "song_name": "lastnight",
+  "clips": {
+    "head_rock_lastnight_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "head_rock_lastnight_v1": {
+      "avg_beats_per_second": 2.01,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "snap_sway",
+  "difficulty": 0,
+  "display_name": "Snap Sway",
+  "ham_move_name": "Walk_In_Place_toxic.move",
+  "milo_name": "walk_in_place_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "snap_sway_toxic_v0": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "snap_sway_toxic_v1": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "snap_sway_toxic_v2": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "snap_sway_toxic_v3": {
+      "avg_beats_per_second": 2.39,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

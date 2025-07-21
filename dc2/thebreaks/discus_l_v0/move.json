@@ -1,0 +1,26 @@
+{
+  "name": "discus_l",
+  "difficulty": 2,
+  "display_name": "Discus",
+  "ham_move_name": "Oj_L_thebreaks.move",
+  "milo_name": "oj_l_thebreaks",
+  "song_name": "thebreaks",
+  "clips": {
+    "discus_l_thebreaks_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "discus_r_thebreaks_v0"
+    },
+    "discus_l_thebreaks_v1": {
+      "avg_beats_per_second": 1.61,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "discus_r_thebreaks_v1"
+    }
+  }
+}

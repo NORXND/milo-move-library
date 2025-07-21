@@ -1,0 +1,42 @@
+{
+  "name": "dirty_crook",
+  "difficulty": 0,
+  "display_name": "Dirty Crook",
+  "ham_move_name": "Meow_Meow_Meow_toxic.move",
+  "milo_name": "meow_meow_meow_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "dirty_crook_toxic_v3": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dirty_crook_toxic_v0": {
+      "avg_beats_per_second": 2.39,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dirty_crook_toxic_v1": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dirty_crook_toxic_v2": {
+      "avg_beats_per_second": 2.02,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

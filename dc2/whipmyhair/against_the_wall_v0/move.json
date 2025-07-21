@@ -1,0 +1,26 @@
+{
+  "name": "against_the_wall",
+  "difficulty": 2,
+  "display_name": "Against The Wall",
+  "ham_move_name": "Dont_Give_Up_whipmyhair.move",
+  "milo_name": "dont_give_up_whipmyhair",
+  "song_name": "whipmyhair",
+  "clips": {
+    "against_the_wall_whipmyhair_v0": {
+      "avg_beats_per_second": 1.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "against_the_wall_whipmyhair_v1": {
+      "avg_beats_per_second": 1.36,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

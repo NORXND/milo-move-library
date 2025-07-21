@@ -1,0 +1,42 @@
+{
+  "name": "drag_in",
+  "difficulty": 0,
+  "display_name": "Drag In",
+  "ham_move_name": "Step_Drag_In_reach.move",
+  "milo_name": "step_drag_in_reach",
+  "song_name": "reach",
+  "clips": {
+    "drag_in_reach_v3": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drag_in_reach_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drag_in_reach_v2": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drag_in_reach_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

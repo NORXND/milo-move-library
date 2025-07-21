@@ -1,0 +1,18 @@
+{
+  "name": "look_out_little_mama",
+  "difficulty": 2,
+  "display_name": "Look Out Little Mama",
+  "ham_move_name": "Looky_Lil_Mama_oopsohmy.move",
+  "milo_name": "looky_lil_mama_oopsohmy",
+  "song_name": "oopsohmy",
+  "clips": {
+    "look_out_little_mama_oopsohmy_v0": {
+      "avg_beats_per_second": 1.33,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

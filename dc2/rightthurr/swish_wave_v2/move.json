@@ -1,0 +1,50 @@
+{
+  "name": "swish_wave",
+  "difficulty": 2,
+  "display_name": "Swish Wave",
+  "ham_move_name": "Swish_Wave_rightthurr.move",
+  "milo_name": "swish_wave_rightthurr",
+  "song_name": "rightthurr",
+  "clips": {
+    "swish_wave_rightthurr_v2": {
+      "avg_beats_per_second": 1.54,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swish_wave_rightthurr_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swish_wave_rightthurr_v3": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swish_wave_rightthurr_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swish_wave_rightthurr_v4": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

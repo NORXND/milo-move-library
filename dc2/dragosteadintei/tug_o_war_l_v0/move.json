@@ -1,0 +1,26 @@
+{
+  "name": "tug_o_war_l",
+  "difficulty": 1,
+  "display_name": "Tug O' War",
+  "ham_move_name": "Tug_O_War_L_dragosteadintei.move",
+  "milo_name": "tug_o_war_l_dragosteadintei",
+  "song_name": "dragosteadintei",
+  "clips": {
+    "tug_o_war_l_dragosteadintei_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "tug_o_war_r_dragosteadintei_v0",
+      "linked_from": ""
+    },
+    "tug_o_war_l_dragosteadintei_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "tug_o_war_r_dragosteadintei_v1",
+      "linked_from": "tug_o_war_r_dragosteadintei_v0"
+    }
+  }
+}

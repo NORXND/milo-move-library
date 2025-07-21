@@ -1,0 +1,34 @@
+{
+  "name": "puppy_love",
+  "difficulty": 2,
+  "display_name": "Puppy Love",
+  "ham_move_name": "Puppy_Love_toxic.move",
+  "milo_name": "puppy_love_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "puppy_love_toxic_v1": {
+      "avg_beats_per_second": 2.39,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "puppy_love_toxic_v2": {
+      "avg_beats_per_second": 2.39,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "puppy_love_toxic_v0": {
+      "avg_beats_per_second": 2.39,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

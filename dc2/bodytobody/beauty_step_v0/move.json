@@ -1,0 +1,26 @@
+{
+  "name": "beauty_step",
+  "difficulty": 0,
+  "display_name": "Beauty Step",
+  "ham_move_name": "Beauty_Step_bodytobody.move",
+  "milo_name": "beauty_step_bodytobody",
+  "song_name": "bodytobody",
+  "clips": {
+    "beauty_step_bodytobody_v0": {
+      "avg_beats_per_second": 1.89,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "beauty_step_bodytobody_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

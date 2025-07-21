@@ -1,0 +1,26 @@
+{
+  "name": "_9_to_5",
+  "difficulty": 2,
+  "display_name": "9 to 5",
+  "ham_move_name": "Hot_Pursuit_rudeboy.move",
+  "milo_name": "hot_pursuit_rudeboy",
+  "song_name": "rudeboy",
+  "clips": {
+    "_9_to_5_rudeboy_v0": {
+      "avg_beats_per_second": 1.45,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "_9_to_5_rudeboy_v1": {
+      "avg_beats_per_second": 1.45,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

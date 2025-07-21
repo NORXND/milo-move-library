@@ -1,0 +1,18 @@
+{
+  "name": "ride_it",
+  "difficulty": 0,
+  "display_name": "Ride It",
+  "ham_move_name": "Ride_It_babygotback.move",
+  "milo_name": "ride_it_babygotback",
+  "song_name": "babygotback",
+  "clips": {
+    "ride_it_babygotback_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

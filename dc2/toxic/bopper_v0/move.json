@@ -1,0 +1,18 @@
+{
+  "name": "bopper",
+  "difficulty": 1,
+  "display_name": "Bopper",
+  "ham_move_name": "Bop_It_toxic.move",
+  "milo_name": "bop_it_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "bopper_toxic_v0": {
+      "avg_beats_per_second": 2.39,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

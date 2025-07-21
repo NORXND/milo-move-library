@@ -1,0 +1,18 @@
+{
+  "name": "soul_slide_r",
+  "difficulty": 1,
+  "display_name": "Soul Slide",
+  "ham_move_name": "Soul_4_Real_Slide_R_yeah.move",
+  "milo_name": "soul_4_real_slide_r_yeah",
+  "song_name": "yeah",
+  "clips": {
+    "soul_slide_r_yeah_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "soul_slide_l_yeah_v0"
+    }
+  }
+}

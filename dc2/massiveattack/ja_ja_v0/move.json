@@ -1,0 +1,26 @@
+{
+  "name": "ja_ja",
+  "difficulty": 0,
+  "display_name": "Ja Ja",
+  "ham_move_name": "Ja_Ja_massiveattack.move",
+  "milo_name": "ja_ja_massiveattack",
+  "song_name": "massiveattack",
+  "clips": {
+    "ja_ja_massiveattack_v0": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ja_ja_massiveattack_v1": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

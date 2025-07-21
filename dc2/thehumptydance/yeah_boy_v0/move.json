@@ -1,0 +1,26 @@
+{
+  "name": "yeah_boy",
+  "difficulty": 1,
+  "display_name": "Yeah Boy",
+  "ham_move_name": "Flava_Flav_thehumptydance.move",
+  "milo_name": "flava_flav_thehumptydance",
+  "song_name": "thehumptydance",
+  "clips": {
+    "yeah_boy_thehumptydance_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "yeah_boy_thehumptydance_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

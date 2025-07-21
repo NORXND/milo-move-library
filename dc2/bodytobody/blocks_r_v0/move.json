@@ -1,0 +1,66 @@
+{
+  "name": "blocks_r",
+  "difficulty": 1,
+  "display_name": "Blocks",
+  "ham_move_name": "Move_It_R_bodytobody.move",
+  "milo_name": "move_it_r_bodytobody",
+  "song_name": "bodytobody",
+  "clips": {
+    "blocks_r_bodytobody_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "blocks_l_bodytobody_v0",
+      "linked_from": ""
+    },
+    "blocks_r_bodytobody_v5": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "blocks_l_bodytobody_v5",
+      "linked_from": ""
+    },
+    "blocks_r_bodytobody_v3": {
+      "avg_beats_per_second": 1.89,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "blocks_l_bodytobody_v3",
+      "linked_from": ""
+    },
+    "blocks_r_bodytobody_v1": {
+      "avg_beats_per_second": 1.89,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "blocks_l_bodytobody_v1",
+      "linked_from": ""
+    },
+    "blocks_r_bodytobody_v6": {
+      "avg_beats_per_second": 1.89,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "blocks_l_bodytobody_v6",
+      "linked_from": ""
+    },
+    "blocks_r_bodytobody_v4": {
+      "avg_beats_per_second": 1.89,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "blocks_l_bodytobody_v4",
+      "linked_from": ""
+    },
+    "blocks_r_bodytobody_v2": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "blocks_l_bodytobody_v2",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "lifeline",
+  "difficulty": 0,
+  "display_name": "Lifeline",
+  "ham_move_name": "Reach_Out_badromance.move",
+  "milo_name": "reach_out_badromance",
+  "song_name": "badromance",
+  "clips": {
+    "lifeline_badromance_v0": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "partied_out_r",
+  "difficulty": 0,
+  "display_name": "Partied Out",
+  "ham_move_name": "Bobble_Groove_R_fireburning.move",
+  "milo_name": "bobble_groove_r_fireburning",
+  "song_name": "fireburning",
+  "clips": {
+    "partied_out_r_fireburning_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "partied_out_l_fireburning_v0",
+      "linked_from": ""
+    },
+    "partied_out_r_fireburning_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "partied_out_l_fireburning_v1",
+      "linked_from": ""
+    }
+  }
+}

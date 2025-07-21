@@ -1,0 +1,18 @@
+{
+  "name": "yankee",
+  "difficulty": 0,
+  "display_name": "Yankee",
+  "ham_move_name": "Yankee_impacto.move",
+  "milo_name": "yankee_impacto",
+  "song_name": "impacto",
+  "clips": {
+    "yankee_impacto_v0": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

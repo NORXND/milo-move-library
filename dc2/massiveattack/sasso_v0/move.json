@@ -1,0 +1,34 @@
+{
+  "name": "exception_sasso_1",
+  "difficulty": 1,
+  "display_name": "Sasso",
+  "ham_move_name": "La_Ganster_massiveattack.move",
+  "milo_name": "la_ganster_massiveattack",
+  "song_name": "massiveattack",
+  "clips": {
+    "sasso_massiveattack_v0": {
+      "avg_beats_per_second": 1.43,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sasso_massiveattack_v2": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sasso_massiveattack_v4": {
+      "avg_beats_per_second": 1.23,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

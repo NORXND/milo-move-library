@@ -1,0 +1,26 @@
+{
+  "name": "hammer",
+  "difficulty": 0,
+  "display_name": "Hammer",
+  "ham_move_name": "Hammer_thehumptydance.move",
+  "milo_name": "hammer_thehumptydance",
+  "song_name": "thehumptydance",
+  "clips": {
+    "hammer_thehumptydance_v0": {
+      "avg_beats_per_second": 1.71,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hammer_thehumptydance_v1": {
+      "avg_beats_per_second": 1.74,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

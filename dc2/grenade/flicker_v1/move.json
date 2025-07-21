@@ -1,0 +1,26 @@
+{
+  "name": "flicker",
+  "difficulty": 2,
+  "display_name": "Flicker",
+  "ham_move_name": "Mj_Flick_grenade.move",
+  "milo_name": "mj_flick_grenade",
+  "song_name": "grenade",
+  "clips": {
+    "flicker_grenade_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "flicker_grenade_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

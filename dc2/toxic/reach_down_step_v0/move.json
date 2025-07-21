@@ -1,0 +1,18 @@
+{
+  "name": "reach_down_step",
+  "difficulty": 2,
+  "display_name": "Reach Down Step",
+  "ham_move_name": "Dbl_Reach_Down_toxic.move",
+  "milo_name": "dbl_reach_down_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "reach_down_step_toxic_v0": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

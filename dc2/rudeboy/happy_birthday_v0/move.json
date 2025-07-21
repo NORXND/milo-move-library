@@ -1,0 +1,18 @@
+{
+  "name": "happy_birthday",
+  "difficulty": 0,
+  "display_name": "Happy Birthday",
+  "ham_move_name": "Take_Care_rudeboy.move",
+  "milo_name": "take_care_rudeboy",
+  "song_name": "rudeboy",
+  "clips": {
+    "happy_birthday_rudeboy_v0": {
+      "avg_beats_per_second": 1.45,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

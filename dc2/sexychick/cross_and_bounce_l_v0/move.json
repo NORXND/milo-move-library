@@ -1,0 +1,26 @@
+{
+  "name": "cross_and_bounce_l",
+  "difficulty": 0,
+  "display_name": "Cross & Bounce",
+  "ham_move_name": "Groovy_Town_L_sexychick.move",
+  "milo_name": "groovy_town_l_sexychick",
+  "song_name": "sexychick",
+  "clips": {
+    "cross_and_bounce_l_sexychick_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "cross_and_bounce_r_sexychick_v0",
+      "linked_from": ""
+    },
+    "cross_and_bounce_l_sexychick_v1": {
+      "avg_beats_per_second": 2.16,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "cross_and_bounce_r_sexychick_v1",
+      "linked_from": ""
+    }
+  }
+}

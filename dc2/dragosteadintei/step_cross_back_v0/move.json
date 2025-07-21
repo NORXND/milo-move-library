@@ -1,0 +1,42 @@
+{
+  "name": "step_cross_back",
+  "difficulty": 0,
+  "display_name": "Step Cross Back",
+  "ham_move_name": "Step_Cross_Back_dragosteadintei.move",
+  "milo_name": "step_cross_back_dragosteadintei",
+  "song_name": "dragosteadintei",
+  "clips": {
+    "step_cross_back_dragosteadintei_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_cross_back_dragosteadintei_v3": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_cross_back_dragosteadintei_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_cross_back_dragosteadintei_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

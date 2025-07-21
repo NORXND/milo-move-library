@@ -1,0 +1,26 @@
+{
+  "name": "low_rider",
+  "difficulty": 0,
+  "display_name": "Low Rider",
+  "ham_move_name": "Cruise_conceited.move",
+  "milo_name": "cruise_conceited",
+  "song_name": "conceited",
+  "clips": {
+    "low_rider_conceited_v0": {
+      "avg_beats_per_second": 1.66,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "low_rider_conceited_v1": {
+      "avg_beats_per_second": 1.66,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

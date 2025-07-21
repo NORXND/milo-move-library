@@ -1,0 +1,26 @@
+{
+  "name": "prey_and_predator",
+  "difficulty": 2,
+  "display_name": "Prey / Predator",
+  "ham_move_name": "Prey_Predator_rightthurr.move",
+  "milo_name": "prey_predator_rightthurr",
+  "song_name": "rightthurr",
+  "clips": {
+    "prey_and_predator_rightthurr_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "prey_and_predator_rightthurr_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

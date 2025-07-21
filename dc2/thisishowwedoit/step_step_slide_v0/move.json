@@ -1,0 +1,18 @@
+{
+  "name": "step_step_slide",
+  "difficulty": 2,
+  "display_name": "Step Step Slide",
+  "ham_move_name": "Shrug_And_Slide_thisishowwedoit.move",
+  "milo_name": "shrug_and_slide_thisishowwedoit",
+  "song_name": "thisishowwedoit",
+  "clips": {
+    "step_step_slide_thisishowwedoit_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

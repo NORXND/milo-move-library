@@ -1,0 +1,26 @@
+{
+  "name": "hourglass_clap",
+  "difficulty": 2,
+  "display_name": "Hourglass Clap",
+  "ham_move_name": "Hot_Pour_Clap_goodies.move",
+  "milo_name": "hot_pour_clap_goodies",
+  "song_name": "goodies",
+  "clips": {
+    "hourglass_clap_goodies_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hourglass_clap_goodies_v1": {
+      "avg_beats_per_second": 1.7,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

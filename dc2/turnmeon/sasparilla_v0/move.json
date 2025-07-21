@@ -1,0 +1,58 @@
+{
+  "name": "sasparilla",
+  "difficulty": 2,
+  "display_name": "Sasparilla",
+  "ham_move_name": "Crazy_Love_turnmeon.move",
+  "milo_name": "crazy_love_turnmeon",
+  "song_name": "turnmeon",
+  "clips": {
+    "sasparilla_turnmeon_v0": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sasparilla_turnmeon_v1": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sasparilla_turnmeon_v2": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sasparilla_turnmeon_v3": {
+      "avg_beats_per_second": 1.52,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sasparilla_turnmeon_v4": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sasparilla_turnmeon_v5": {
+      "avg_beats_per_second": 1.51,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

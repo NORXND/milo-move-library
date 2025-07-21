@@ -1,0 +1,42 @@
+{
+  "name": "hype_it_r",
+  "difficulty": 0,
+  "display_name": "Hype It",
+  "ham_move_name": "Hype_It_R_ilikeit.move",
+  "milo_name": "hype_it_r_ilikeit",
+  "song_name": "ilikeit",
+  "clips": {
+    "hype_it_r_ilikeit_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "hype_it_l_ilikeit_v0",
+      "linked_from": ""
+    },
+    "hype_it_r_ilikeit_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "hype_it_l_ilikeit_v1",
+      "linked_from": ""
+    },
+    "hype_it_r_ilikeit_v2": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "hype_it_l_ilikeit_v2",
+      "linked_from": ""
+    },
+    "hype_it_r_ilikeit_v3": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "hype_it_l_ilikeit_v3",
+      "linked_from": ""
+    }
+  }
+}

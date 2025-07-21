@@ -1,0 +1,18 @@
+{
+  "name": "exception_dusk_2",
+  "difficulty": 0,
+  "display_name": "Dusk",
+  "ham_move_name": "Dusk_2_sandstorm.move",
+  "milo_name": "dusk_2_sandstorm",
+  "song_name": "sandstorm",
+  "clips": {
+    "dusk_sandstorm_v1": {
+      "avg_beats_per_second": 1.94,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

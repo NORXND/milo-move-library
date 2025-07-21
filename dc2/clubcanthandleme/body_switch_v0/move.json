@@ -1,0 +1,18 @@
+{
+  "name": "body_switch",
+  "difficulty": 2,
+  "display_name": "Body Switch",
+  "ham_move_name": "Body_Switch_clubcanthandleme.move",
+  "milo_name": "body_switch_clubcanthandleme",
+  "song_name": "clubcanthandleme",
+  "clips": {
+    "body_switch_clubcanthandleme_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

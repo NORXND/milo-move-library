@@ -1,0 +1,34 @@
+{
+  "name": "silver_snood",
+  "difficulty": 2,
+  "display_name": "Silver Snood",
+  "ham_move_name": "Headwrap_toxic.move",
+  "milo_name": "headwrap_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "silver_snood_toxic_v2": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "silver_snood_toxic_v0": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "silver_snood_toxic_v1": {
+      "avg_beats_per_second": 2.02,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

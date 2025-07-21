@@ -1,0 +1,26 @@
+{
+  "name": "exception_throw_it_up_step_1",
+  "difficulty": 0,
+  "display_name": "Throw It Up Step",
+  "ham_move_name": "Throw_It_Up_djgotusfallininlove.move",
+  "milo_name": "throw_it_up_djgotusfallininlove",
+  "song_name": "djgotusfallininlove",
+  "clips": {
+    "throw_it_up_step_djgotusfallininlove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "throw_it_up_step_djgotusfallininlove_v3": {
+      "avg_beats_per_second": 1.71,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

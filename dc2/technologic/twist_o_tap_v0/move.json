@@ -1,0 +1,26 @@
+{
+  "name": "twist_o_tap",
+  "difficulty": 2,
+  "display_name": "Twist-O-Tap",
+  "ham_move_name": "Saccing_technologic.move",
+  "milo_name": "saccing_technologic",
+  "song_name": "technologic",
+  "clips": {
+    "twist_o_tap_technologic_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "twist_o_tap_technologic_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

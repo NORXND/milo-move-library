@@ -1,0 +1,26 @@
+{
+  "name": "crazy",
+  "difficulty": 0,
+  "display_name": "Crazy",
+  "ham_move_name": "Crazy_myprerogative.move",
+  "milo_name": "crazy_myprerogative",
+  "song_name": "myprerogative",
+  "clips": {
+    "crazy_myprerogative_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "randb",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "crazy_myprerogative_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

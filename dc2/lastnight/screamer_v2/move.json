@@ -1,0 +1,42 @@
+{
+  "name": "screamer",
+  "difficulty": 0,
+  "display_name": "Screamer",
+  "ham_move_name": "Whisper_lastnight.move",
+  "milo_name": "whisper_lastnight",
+  "song_name": "lastnight",
+  "clips": {
+    "screamer_lastnight_v2": {
+      "avg_beats_per_second": 2.02,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "screamer_lastnight_v3": {
+      "avg_beats_per_second": 2.01,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "screamer_lastnight_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "screamer_lastnight_v1": {
+      "avg_beats_per_second": 2.01,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

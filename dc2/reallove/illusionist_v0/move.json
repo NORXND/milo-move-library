@@ -1,0 +1,18 @@
+{
+  "name": "illusionist",
+  "difficulty": 1,
+  "display_name": "Illusionist",
+  "ham_move_name": "Illusionist_reallove.move",
+  "milo_name": "illusionist_reallove",
+  "song_name": "reallove",
+  "clips": {
+    "illusionist_reallove_v0": {
+      "avg_beats_per_second": 1.58,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "scoobay_doo",
+  "difficulty": 0,
+  "display_name": "Scoobay Doo",
+  "ham_move_name": "Scoobay_Doo_thehumptydance.move",
+  "milo_name": "scoobay_doo_thehumptydance",
+  "song_name": "thehumptydance",
+  "clips": {
+    "scoobay_doo_thehumptydance_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scoobay_doo_thehumptydance_v1": {
+      "avg_beats_per_second": 1.72,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

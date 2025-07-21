@@ -1,0 +1,18 @@
+{
+  "name": "ligeri",
+  "difficulty": 0,
+  "display_name": "Ligeri",
+  "ham_move_name": "Hawaii_toxic.move",
+  "milo_name": "hawaii_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "ligeri_toxic_v0": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

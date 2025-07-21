@@ -1,0 +1,34 @@
+{
+  "name": "glitch",
+  "difficulty": 0,
+  "display_name": "Glitch",
+  "ham_move_name": "Glitch_impacto.move",
+  "milo_name": "glitch_impacto",
+  "song_name": "impacto",
+  "clips": {
+    "glitch_impacto_v0": {
+      "avg_beats_per_second": 1.44,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "glitch_impacto_v1": {
+      "avg_beats_per_second": 1.44,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "glitch_impacto_v2": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

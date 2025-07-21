@@ -1,0 +1,42 @@
+{
+  "name": "toe_taps_l",
+  "difficulty": 1,
+  "display_name": "Toe Taps",
+  "ham_move_name": "Toe_Taps_L_myprerogative.move",
+  "milo_name": "toe_taps_l_myprerogative",
+  "song_name": "myprerogative",
+  "clips": {
+    "toe_taps_l_myprerogative_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "randb",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "toe_taps_r_myprerogative_v0"
+    },
+    "toe_taps_l_myprerogative_v1": {
+      "avg_beats_per_second": 1.57,
+      "genre": "randb",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "toe_taps_r_myprerogative_v1"
+    },
+    "toe_taps_l_myprerogative_v2": {
+      "avg_beats_per_second": 1.84,
+      "genre": "randb",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "toe_taps_r_myprerogative_v2"
+    },
+    "toe_taps_l_myprerogative_v3": {
+      "avg_beats_per_second": 1.84,
+      "genre": "randb",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "toe_taps_r_myprerogative_v3"
+    }
+  }
+}

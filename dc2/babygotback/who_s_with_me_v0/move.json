@@ -1,0 +1,26 @@
+{
+  "name": "who_s_with_me",
+  "difficulty": 1,
+  "display_name": "Who's With Me",
+  "ham_move_name": "Yo_Fellas_babygotback.move",
+  "milo_name": "yo_fellas_babygotback",
+  "song_name": "babygotback",
+  "clips": {
+    "who_s_with_me_babygotback_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "who_s_with_me_babygotback_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

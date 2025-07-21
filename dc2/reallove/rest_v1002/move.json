@@ -1,0 +1,18 @@
+{
+  "name": "rest_reallove_v1002",
+  "difficulty": 2,
+  "display_name": "",
+  "ham_move_name": "Rest.move",
+  "milo_name": "rest",
+  "song_name": "reallove",
+  "clips": {
+    "rest_reallove_v1002": {
+      "avg_beats_per_second": 1.59,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 96,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

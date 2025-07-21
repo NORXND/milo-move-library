@@ -1,0 +1,26 @@
+{
+  "name": "slam_r",
+  "difficulty": 0,
+  "display_name": "Slam",
+  "ham_move_name": "Shut_Down_R_babygotback.move",
+  "milo_name": "shut_down_r_babygotback",
+  "song_name": "babygotback",
+  "clips": {
+    "slam_r_babygotback_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "slam_r_babygotback_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

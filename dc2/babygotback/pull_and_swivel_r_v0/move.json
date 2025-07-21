@@ -1,0 +1,18 @@
+{
+  "name": "pull_and_swivel_r",
+  "difficulty": 2,
+  "display_name": "Pull & Swivel",
+  "ham_move_name": "Jerk_Around_R_babygotback.move",
+  "milo_name": "jerk_around_r_babygotback",
+  "song_name": "babygotback",
+  "clips": {
+    "pull_and_swivel_r_babygotback_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "pull_and_swivel_l_babygotback_v0",
+      "linked_from": ""
+    }
+  }
+}

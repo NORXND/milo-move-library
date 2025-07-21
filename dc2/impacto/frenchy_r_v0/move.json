@@ -1,0 +1,18 @@
+{
+  "name": "frenchy_r",
+  "difficulty": 0,
+  "display_name": "Frenchy",
+  "ham_move_name": "Frenchy_R_impacto.move",
+  "milo_name": "frenchy_r_impacto",
+  "song_name": "impacto",
+  "clips": {
+    "frenchy_r_impacto_v0": {
+      "avg_beats_per_second": 1.43,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "frenchy_l_impacto_v0",
+      "linked_from": ""
+    }
+  }
+}

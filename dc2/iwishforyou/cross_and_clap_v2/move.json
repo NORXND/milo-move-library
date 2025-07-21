@@ -1,0 +1,42 @@
+{
+  "name": "cross_and_clap",
+  "difficulty": 1,
+  "display_name": "Cross & Clap",
+  "ham_move_name": "Cross_And_Clap_iwishforyou.move",
+  "milo_name": "cross_and_clap_iwishforyou",
+  "song_name": "iwishforyou",
+  "clips": {
+    "cross_and_clap_iwishforyou_v2": {
+      "avg_beats_per_second": 1.71,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_and_clap_iwishforyou_v3": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_and_clap_iwishforyou_v0": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_and_clap_iwishforyou_v1": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

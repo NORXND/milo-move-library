@@ -1,0 +1,26 @@
+{
+  "name": "on_point",
+  "difficulty": 0,
+  "display_name": "On Point",
+  "ham_move_name": "Club_Point_rightthurr.move",
+  "milo_name": "club_point_rightthurr",
+  "song_name": "rightthurr",
+  "clips": {
+    "on_point_rightthurr_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "on_point_rightthurr_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

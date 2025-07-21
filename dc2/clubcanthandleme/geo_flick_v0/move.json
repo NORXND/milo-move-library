@@ -1,0 +1,26 @@
+{
+  "name": "geo_flick",
+  "difficulty": 1,
+  "display_name": "Geo Flick",
+  "ham_move_name": "Cheer_Flick_clubcanthandleme.move",
+  "milo_name": "cheer_flick_clubcanthandleme",
+  "song_name": "clubcanthandleme",
+  "clips": {
+    "geo_flick_clubcanthandleme_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "geo_flick_clubcanthandleme_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

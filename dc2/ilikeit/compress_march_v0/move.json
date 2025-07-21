@@ -1,0 +1,42 @@
+{
+  "name": "compress_march",
+  "difficulty": 1,
+  "display_name": "Compress March",
+  "ham_move_name": "Compress_ilikeit.move",
+  "milo_name": "compress_ilikeit",
+  "song_name": "ilikeit",
+  "clips": {
+    "compress_march_ilikeit_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "compress_march_ilikeit_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "compress_march_ilikeit_v2": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "compress_march_ilikeit_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

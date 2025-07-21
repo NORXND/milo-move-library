@@ -1,0 +1,26 @@
+{
+  "name": "piano_man",
+  "difficulty": 1,
+  "display_name": "Piano Man",
+  "ham_move_name": "Piano_Man_sexychick.move",
+  "milo_name": "piano_man_sexychick",
+  "song_name": "sexychick",
+  "clips": {
+    "piano_man_sexychick_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "piano_man_sexychick_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

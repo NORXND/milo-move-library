@@ -1,0 +1,18 @@
+{
+  "name": "bat_wings",
+  "difficulty": 2,
+  "display_name": "Bat Wings",
+  "ham_move_name": "Zombie_Prep_djgotusfallininlove.move",
+  "milo_name": "zombie_prep_djgotusfallininlove",
+  "song_name": "djgotusfallininlove",
+  "clips": {
+    "bat_wings_djgotusfallininlove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

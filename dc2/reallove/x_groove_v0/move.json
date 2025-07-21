@@ -1,0 +1,74 @@
+{
+  "name": "x_groove",
+  "difficulty": 0,
+  "display_name": "X Groove",
+  "ham_move_name": "X_Love_reallove.move",
+  "milo_name": "x_love_reallove",
+  "song_name": "reallove",
+  "clips": {
+    "x_groove_reallove_v0": {
+      "avg_beats_per_second": 1.58,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "x_groove_reallove_v5": {
+      "avg_beats_per_second": 1.19,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "x_groove_reallove_v3": {
+      "avg_beats_per_second": 1.58,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "x_groove_reallove_v1": {
+      "avg_beats_per_second": 1.58,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "x_groove_reallove_v6": {
+      "avg_beats_per_second": 1.58,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "x_groove_reallove_v4": {
+      "avg_beats_per_second": 1.58,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "x_groove_reallove_v2": {
+      "avg_beats_per_second": 1.58,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "x_groove_reallove_v7": {
+      "avg_beats_per_second": 1.34,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

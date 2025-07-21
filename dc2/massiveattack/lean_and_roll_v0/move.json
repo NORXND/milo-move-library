@@ -1,0 +1,26 @@
+{
+  "name": "lean_and_roll",
+  "difficulty": 2,
+  "display_name": "Lean & Roll",
+  "ham_move_name": "Sexy_Roll_massiveattack.move",
+  "milo_name": "sexy_roll_massiveattack",
+  "song_name": "massiveattack",
+  "clips": {
+    "lean_and_roll_massiveattack_v0": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "lean_and_roll_massiveattack_v1": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

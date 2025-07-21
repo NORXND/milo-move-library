@@ -1,0 +1,42 @@
+{
+  "name": "no_worries_drag_in",
+  "difficulty": 1,
+  "display_name": "No Worries Drag In",
+  "ham_move_name": "Wont_Stop_Slide_ilikeit.move",
+  "milo_name": "wont_stop_slide_ilikeit",
+  "song_name": "ilikeit",
+  "clips": {
+    "no_worries_drag_in_ilikeit_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "no_worries_drag_in_ilikeit_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "no_worries_drag_in_ilikeit_v2": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "no_worries_drag_in_ilikeit_v3": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

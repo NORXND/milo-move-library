@@ -1,0 +1,26 @@
+{
+  "name": "round_hit_it",
+  "difficulty": 0,
+  "display_name": "Round Hit It",
+  "ham_move_name": "Round_Hit_thehumptydance.move",
+  "milo_name": "round_hit_thehumptydance",
+  "song_name": "thehumptydance",
+  "clips": {
+    "round_hit_it_thehumptydance_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "round_hit_it_thehumptydance_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

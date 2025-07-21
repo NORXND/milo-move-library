@@ -1,0 +1,18 @@
+{
+  "name": "no_bigs",
+  "difficulty": 2,
+  "display_name": "No Bigs",
+  "ham_move_name": "Dy_No_Mite_somebodytolove.move",
+  "milo_name": "dy_no_mite_somebodytolove",
+  "song_name": "somebodytolove",
+  "clips": {
+    "no_bigs_somebodytolove_v0": {
+      "avg_beats_per_second": 2.16,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

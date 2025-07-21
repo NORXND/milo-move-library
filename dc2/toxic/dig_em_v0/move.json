@@ -1,0 +1,26 @@
+{
+  "name": "dig_em",
+  "difficulty": 1,
+  "display_name": "Dig Em",
+  "ham_move_name": "Head_Toss_Thing_toxic.move",
+  "milo_name": "head_toss_thing_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "dig_em_toxic_v0": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dig_em_toxic_v1": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

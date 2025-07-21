@@ -1,0 +1,26 @@
+{
+  "name": "wave_lean_l",
+  "difficulty": 0,
+  "display_name": "Wave Lean",
+  "ham_move_name": "Wave_L_technologic.move",
+  "milo_name": "wave_l_technologic",
+  "song_name": "technologic",
+  "clips": {
+    "wave_lean_l_technologic_v0": {
+      "avg_beats_per_second": 2.11,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "wave_lean_r_technologic_v1",
+      "linked_from": "wave_lean_r_technologic_v0"
+    },
+    "wave_lean_l_technologic_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "wave_lean_r_technologic_v1"
+    }
+  }
+}

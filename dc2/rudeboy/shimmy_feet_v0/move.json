@@ -1,0 +1,26 @@
+{
+  "name": "shimmy_feet",
+  "difficulty": 1,
+  "display_name": "Shimmy Feet",
+  "ham_move_name": "Shimmie_Feet_rudeboy.move",
+  "milo_name": "shimmie_feet_rudeboy",
+  "song_name": "rudeboy",
+  "clips": {
+    "shimmy_feet_rudeboy_v0": {
+      "avg_beats_per_second": 1.45,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shimmy_feet_rudeboy_v1": {
+      "avg_beats_per_second": 1.25,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "on_board",
+  "difficulty": 0,
+  "display_name": "On Board",
+  "ham_move_name": "Tapeworm_geturfreakon.move",
+  "milo_name": "tapeworm_geturfreakon",
+  "song_name": "geturfreakon",
+  "clips": {
+    "on_board_geturfreakon_v0": {
+      "avg_beats_per_second": 1.48,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "on_board_geturfreakon_v1": {
+      "avg_beats_per_second": 1.48,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "on_board_geturfreakon_v2": {
+      "avg_beats_per_second": 1.48,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "on_board_geturfreakon_v3": {
+      "avg_beats_per_second": 1.28,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

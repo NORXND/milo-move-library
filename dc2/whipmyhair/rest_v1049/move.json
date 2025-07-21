@@ -1,0 +1,18 @@
+{
+  "name": "rest_whipmyhair_v1049",
+  "difficulty": 2,
+  "display_name": "",
+  "ham_move_name": "Rest.move",
+  "milo_name": "rest",
+  "song_name": "whipmyhair",
+  "clips": {
+    "rest_whipmyhair_v1049": {
+      "avg_beats_per_second": 1.37,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 96,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

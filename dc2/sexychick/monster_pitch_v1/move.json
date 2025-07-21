@@ -1,0 +1,26 @@
+{
+  "name": "monster_pitch",
+  "difficulty": 0,
+  "display_name": "Monster Pitch",
+  "ham_move_name": "Monster_Pitch_sexychick.move",
+  "milo_name": "monster_pitch_sexychick",
+  "song_name": "sexychick",
+  "clips": {
+    "monster_pitch_sexychick_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "monster_pitch_sexychick_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

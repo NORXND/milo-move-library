@@ -1,0 +1,26 @@
+{
+  "name": "tread_water",
+  "difficulty": 0,
+  "display_name": "Tread Water",
+  "ham_move_name": "Tread_iwishforyou.move",
+  "milo_name": "tread_iwishforyou",
+  "song_name": "iwishforyou",
+  "clips": {
+    "tread_water_iwishforyou_v1": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tread_water_iwishforyou_v0": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

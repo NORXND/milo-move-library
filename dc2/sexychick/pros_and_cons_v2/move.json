@@ -1,0 +1,42 @@
+{
+  "name": "pros_and_cons",
+  "difficulty": 0,
+  "display_name": "Pros & Cons",
+  "ham_move_name": "Funky_Talk_sexychick.move",
+  "milo_name": "funky_talk_sexychick",
+  "song_name": "sexychick",
+  "clips": {
+    "pros_and_cons_sexychick_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pros_and_cons_sexychick_v3": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pros_and_cons_sexychick_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pros_and_cons_sexychick_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

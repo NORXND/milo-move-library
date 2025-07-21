@@ -1,0 +1,26 @@
+{
+  "name": "get_over_here",
+  "difficulty": 1,
+  "display_name": "Get Over Here",
+  "ham_move_name": "Take_You_Home_ilikeit.move",
+  "milo_name": "take_you_home_ilikeit",
+  "song_name": "ilikeit",
+  "clips": {
+    "get_over_here_ilikeit_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "get_over_here_ilikeit_v1": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "night_vision",
+  "difficulty": 0,
+  "display_name": "Night Vision",
+  "ham_move_name": "Oo7_djgotusfallininlove.move",
+  "milo_name": "oo7_djgotusfallininlove",
+  "song_name": "djgotusfallininlove",
+  "clips": {
+    "night_vision_djgotusfallininlove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "night_vision_djgotusfallininlove_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

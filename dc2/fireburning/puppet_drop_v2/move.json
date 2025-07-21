@@ -1,0 +1,42 @@
+{
+  "name": "puppet_drop",
+  "difficulty": 1,
+  "display_name": "Puppet Drop",
+  "ham_move_name": "Puppet_Drop_fireburning.move",
+  "milo_name": "puppet_drop_fireburning",
+  "song_name": "fireburning",
+  "clips": {
+    "puppet_drop_fireburning_v2": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "puppet_drop_fireburning_v3": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "puppet_drop_fireburning_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "puppet_drop_fireburning_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_toxic_v1084",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_2_toxic.move",
+  "milo_name": "finishing_move_2_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "finishing_move_toxic_v1084": {
+      "avg_beats_per_second": 2.03,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "finishing_move_toxic_v1085",
+      "linked_from": ""
+    }
+  }
+}

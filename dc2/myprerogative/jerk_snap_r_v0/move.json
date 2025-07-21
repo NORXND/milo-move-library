@@ -1,0 +1,26 @@
+{
+  "name": "jerk_snap_r",
+  "difficulty": 0,
+  "display_name": "Jerk Snap",
+  "ham_move_name": "Groove_and_Snap_R_myprerogative.move",
+  "milo_name": "groove_and_snap_r_myprerogative",
+  "song_name": "myprerogative",
+  "clips": {
+    "jerk_snap_r_myprerogative_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "randb",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "jerk_snap_l_myprerogative_v0",
+      "linked_from": ""
+    },
+    "jerk_snap_r_myprerogative_v1": {
+      "avg_beats_per_second": 1.85,
+      "genre": "randb",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "jerk_snap_l_myprerogative_v1",
+      "linked_from": ""
+    }
+  }
+}

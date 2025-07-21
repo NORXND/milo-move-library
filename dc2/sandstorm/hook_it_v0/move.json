@@ -1,0 +1,26 @@
+{
+  "name": "exception_hook_it_1",
+  "difficulty": 0,
+  "display_name": "Hook It",
+  "ham_move_name": "Hook_It_1_sandstorm.move",
+  "milo_name": "hook_it_1_sandstorm",
+  "song_name": "sandstorm",
+  "clips": {
+    "hook_it_sandstorm_v0": {
+      "avg_beats_per_second": 2.26,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hook_it_sandstorm_v4": {
+      "avg_beats_per_second": 2.26,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "kitty_push",
+  "difficulty": 0,
+  "display_name": "Kitty Push",
+  "ham_move_name": "Push_Away_venus.move",
+  "milo_name": "push_away_venus",
+  "song_name": "venus",
+  "clips": {
+    "kitty_push_venus_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kitty_push_venus_v5": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kitty_push_venus_v3": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kitty_push_venus_v1": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kitty_push_venus_v4": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "kitty_push_venus_v2": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

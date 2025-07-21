@@ -1,0 +1,18 @@
+{
+  "name": "naw_step",
+  "difficulty": 0,
+  "display_name": "Naw Step",
+  "ham_move_name": "Naw_Step_babygotback.move",
+  "milo_name": "naw_step_babygotback",
+  "song_name": "babygotback",
+  "clips": {
+    "naw_step_babygotback_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

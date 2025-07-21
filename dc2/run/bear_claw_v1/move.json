@@ -1,0 +1,34 @@
+{
+  "name": "bear_claw",
+  "difficulty": 1,
+  "display_name": "Bear Claw",
+  "ham_move_name": "Foot_Tap_run.move",
+  "milo_name": "foot_tap_run",
+  "song_name": "run",
+  "clips": {
+    "bear_claw_run_v1": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bear_claw_run_v2": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bear_claw_run_v0": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

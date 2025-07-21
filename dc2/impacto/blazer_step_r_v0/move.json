@@ -1,0 +1,34 @@
+{
+  "name": "blazer_step_r",
+  "difficulty": 0,
+  "display_name": "Blazer Step",
+  "ham_move_name": "Blazer_Step_R_impacto.move",
+  "milo_name": "blazer_step_r_impacto",
+  "song_name": "impacto",
+  "clips": {
+    "blazer_step_r_impacto_v0": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "blazer_step_l_impacto_v0",
+      "linked_from": ""
+    },
+    "blazer_step_r_impacto_v1": {
+      "avg_beats_per_second": 1.44,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "blazer_step_l_impacto_v1",
+      "linked_from": ""
+    },
+    "blazer_step_r_impacto_v2": {
+      "avg_beats_per_second": 1.44,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "blazer_step_l_impacto_v2",
+      "linked_from": ""
+    }
+  }
+}

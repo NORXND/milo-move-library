@@ -1,0 +1,26 @@
+{
+  "name": "oh_my_ribs_r",
+  "difficulty": 2,
+  "display_name": "Oh My Ribs",
+  "ham_move_name": "Oh_My_Ribs_R_rightthurr.move",
+  "milo_name": "oh_my_ribs_r_rightthurr",
+  "song_name": "rightthurr",
+  "clips": {
+    "oh_my_ribs_r_rightthurr_v0": {
+      "avg_beats_per_second": 1.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "oh_my_ribs_r_rightthurr_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

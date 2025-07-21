@@ -1,0 +1,26 @@
+{
+  "name": "don_t_mind_me_r",
+  "difficulty": 0,
+  "display_name": "Don't Mind Me",
+  "ham_move_name": "Gansta_Lean_R_reach.move",
+  "milo_name": "gansta_lean_r_reach",
+  "song_name": "reach",
+  "clips": {
+    "don_t_mind_me_r_reach_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "don_t_mind_me_l_reach_v0"
+    },
+    "don_t_mind_me_r_reach_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "don_t_mind_me_l_reach_v1"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "forget_that_l",
+  "difficulty": 2,
+  "display_name": "Forget That",
+  "ham_move_name": "Forget_That_L_nothinonyou.move",
+  "milo_name": "forget_that_l_nothinonyou",
+  "song_name": "nothinonyou",
+  "clips": {
+    "forget_that_l_nothinonyou_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "forget_that_r_nothinonyou_v1"
+    },
+    "forget_that_l_nothinonyou_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "forget_that_r_nothinonyou_v0"
+    }
+  }
+}

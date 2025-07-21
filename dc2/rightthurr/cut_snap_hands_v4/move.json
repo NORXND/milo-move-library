@@ -1,0 +1,50 @@
+{
+  "name": "cut_snap_hands",
+  "difficulty": 2,
+  "display_name": "Cut Snap Hands",
+  "ham_move_name": "Salivate_rightthurr.move",
+  "milo_name": "salivate_rightthurr",
+  "song_name": "rightthurr",
+  "clips": {
+    "cut_snap_hands_rightthurr_v4": {
+      "avg_beats_per_second": 1.33,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cut_snap_hands_rightthurr_v0": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cut_snap_hands_rightthurr_v1": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cut_snap_hands_rightthurr_v2": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cut_snap_hands_rightthurr_v3": {
+      "avg_beats_per_second": 1.53,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

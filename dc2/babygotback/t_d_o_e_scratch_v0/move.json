@@ -1,0 +1,42 @@
+{
+  "name": "t_d_o_e_scratch",
+  "difficulty": 0,
+  "display_name": "T.D.O.E. Scratch",
+  "ham_move_name": "Tdoe_Scratch_babygotback.move",
+  "milo_name": "tdoe_scratch_babygotback",
+  "song_name": "babygotback",
+  "clips": {
+    "t_d_o_e_scratch_babygotback_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "t_d_o_e_scratch_babygotback_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "t_d_o_e_scratch_babygotback_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "t_d_o_e_scratch_babygotback_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

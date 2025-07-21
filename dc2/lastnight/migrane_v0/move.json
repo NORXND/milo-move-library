@@ -1,0 +1,18 @@
+{
+  "name": "migrane",
+  "difficulty": 2,
+  "display_name": "Migrane",
+  "ham_move_name": "Migrane_lastnight.move",
+  "milo_name": "migrane_lastnight",
+  "song_name": "lastnight",
+  "clips": {
+    "migrane_lastnight_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

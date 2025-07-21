@@ -1,0 +1,26 @@
+{
+  "name": "flying_lock",
+  "difficulty": 2,
+  "display_name": "Flying Lock",
+  "ham_move_name": "Kick_Lock_run.move",
+  "milo_name": "kick_lock_run",
+  "song_name": "run",
+  "clips": {
+    "flying_lock_run_v0": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "flying_lock_run_v1": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

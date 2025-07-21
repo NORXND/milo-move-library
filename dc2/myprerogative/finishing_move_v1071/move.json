@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_myprerogative_v1071",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_myprerogative.move",
+  "milo_name": "finishing_move_myprerogative",
+  "song_name": "myprerogative",
+  "clips": {
+    "finishing_move_myprerogative_v1071": {
+      "avg_beats_per_second": 1.87,
+      "genre": "randb",
+      "era": "1980s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "hot_feet",
+  "difficulty": 0,
+  "display_name": "Hot Feet",
+  "ham_move_name": "Run_Back_thehumptydance.move",
+  "milo_name": "run_back_thehumptydance",
+  "song_name": "thehumptydance",
+  "clips": {
+    "hot_feet_thehumptydance_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

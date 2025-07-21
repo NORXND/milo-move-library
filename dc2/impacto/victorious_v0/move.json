@@ -1,0 +1,34 @@
+{
+  "name": "victorious",
+  "difficulty": 1,
+  "display_name": "Victorious",
+  "ham_move_name": "Victorious_impacto.move",
+  "milo_name": "victorious_impacto",
+  "song_name": "impacto",
+  "clips": {
+    "victorious_impacto_v0": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "victorious_impacto_v1": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "victorious_impacto_v2": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

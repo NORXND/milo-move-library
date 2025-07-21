@@ -1,0 +1,42 @@
+{
+  "name": "jerk_blocker",
+  "difficulty": 0,
+  "display_name": "Jerk Blocker",
+  "ham_move_name": "Cool_Jerk_youreajerk.move",
+  "milo_name": "cool_jerk_youreajerk",
+  "song_name": "youreajerk",
+  "clips": {
+    "jerk_blocker_youreajerk_v2": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jerk_blocker_youreajerk_v3": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jerk_blocker_youreajerk_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jerk_blocker_youreajerk_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

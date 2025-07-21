@@ -1,0 +1,26 @@
+{
+  "name": "wipe_and_rise",
+  "difficulty": 0,
+  "display_name": "Wipe & Rise",
+  "ham_move_name": "Wipe_And_Rise_impacto.move",
+  "milo_name": "wipe_and_rise_impacto",
+  "song_name": "impacto",
+  "clips": {
+    "wipe_and_rise_impacto_v0": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wipe_and_rise_impacto_v1": {
+      "avg_beats_per_second": 1.68,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

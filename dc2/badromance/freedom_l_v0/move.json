@@ -1,0 +1,26 @@
+{
+  "name": "freedom_l",
+  "difficulty": 2,
+  "display_name": "Freedom",
+  "ham_move_name": "Love_Revenge_L_badromance.move",
+  "milo_name": "love_revenge_l_badromance",
+  "song_name": "badromance",
+  "clips": {
+    "freedom_l_badromance_v0": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "freedom_r_badromance_v0"
+    },
+    "freedom_l_badromance_v1": {
+      "avg_beats_per_second": 1.74,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "freedom_r_badromance_v1"
+    }
+  }
+}

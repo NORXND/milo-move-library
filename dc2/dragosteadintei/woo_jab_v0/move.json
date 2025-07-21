@@ -1,0 +1,58 @@
+{
+  "name": "woo_jab",
+  "difficulty": 0,
+  "display_name": "Woo Jab",
+  "ham_move_name": "Whoo_Side_dragosteadintei.move",
+  "milo_name": "whoo_side_dragosteadintei",
+  "song_name": "dragosteadintei",
+  "clips": {
+    "woo_jab_dragosteadintei_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "woo_jab_dragosteadintei_v4": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "woo_jab_dragosteadintei_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "woo_jab_dragosteadintei_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "woo_jab_dragosteadintei_v5": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "woo_jab_dragosteadintei_v3": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

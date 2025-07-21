@@ -1,0 +1,42 @@
+{
+  "name": "wave_low",
+  "difficulty": 1,
+  "display_name": "Wave Low",
+  "ham_move_name": "Wave_Knees_Bent_technologic.move",
+  "milo_name": "wave_knees_bent_technologic",
+  "song_name": "technologic",
+  "clips": {
+    "wave_low_technologic_v2": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wave_low_technologic_v3": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wave_low_technologic_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wave_low_technologic_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

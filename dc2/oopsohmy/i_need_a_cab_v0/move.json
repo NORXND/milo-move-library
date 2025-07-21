@@ -1,0 +1,26 @@
+{
+  "name": "i_need_a_cab",
+  "difficulty": 2,
+  "display_name": "I Need A Cab",
+  "ham_move_name": "Face_Push_Raise_oopsohmy.move",
+  "milo_name": "face_push_raise_oopsohmy",
+  "song_name": "oopsohmy",
+  "clips": {
+    "i_need_a_cab_oopsohmy_v0": {
+      "avg_beats_per_second": 1.15,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "i_need_a_cab_oopsohmy_v1": {
+      "avg_beats_per_second": 1.33,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

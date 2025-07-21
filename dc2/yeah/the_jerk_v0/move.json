@@ -1,0 +1,26 @@
+{
+  "name": "the_jerk",
+  "difficulty": 1,
+  "display_name": "The Jerk",
+  "ham_move_name": "The_O_J_yeah.move",
+  "milo_name": "the_o_j_yeah",
+  "song_name": "yeah",
+  "clips": {
+    "the_jerk_yeah_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "the_jerk_yeah_v1": {
+      "avg_beats_per_second": 1.74,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

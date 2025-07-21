@@ -1,0 +1,42 @@
+{
+  "name": "muse",
+  "difficulty": 0,
+  "display_name": "Muse",
+  "ham_move_name": "Present_Your_Love_satellite.move",
+  "milo_name": "present_your_love_satellite",
+  "song_name": "satellite",
+  "clips": {
+    "muse_satellite_v0": {
+      "avg_beats_per_second": 1.59,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "muse_satellite_v3": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "muse_satellite_v1": {
+      "avg_beats_per_second": 1.59,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "muse_satellite_v2": {
+      "avg_beats_per_second": 1.59,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "party_over_here",
+  "difficulty": 0,
+  "display_name": "Party Over Here",
+  "ham_move_name": "Party_Over_Here_satellite.move",
+  "milo_name": "party_over_here_satellite",
+  "song_name": "satellite",
+  "clips": {
+    "party_over_here_satellite_v0": {
+      "avg_beats_per_second": 1.36,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

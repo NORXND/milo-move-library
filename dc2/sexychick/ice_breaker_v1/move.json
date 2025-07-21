@@ -1,0 +1,26 @@
+{
+  "name": "ice_breaker",
+  "difficulty": 2,
+  "display_name": "Ice Breaker",
+  "ham_move_name": "Roof_Raiser_sexychick.move",
+  "milo_name": "roof_raiser_sexychick",
+  "song_name": "sexychick",
+  "clips": {
+    "ice_breaker_sexychick_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "ice_breaker_sexychick_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

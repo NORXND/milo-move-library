@@ -1,0 +1,18 @@
+{
+  "name": "freeze_and_cross",
+  "difficulty": 0,
+  "display_name": "Freeze & Cross",
+  "ham_move_name": "Hold_And_Prep_toxic.move",
+  "milo_name": "hold_and_prep_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "freeze_and_cross_toxic_v0": {
+      "avg_beats_per_second": 2.39,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

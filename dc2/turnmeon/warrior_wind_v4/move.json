@@ -1,0 +1,58 @@
+{
+  "name": "warrior_wind",
+  "difficulty": 1,
+  "display_name": "Warrior Wind",
+  "ham_move_name": "Wind_Wit_It_turnmeon.move",
+  "milo_name": "wind_wit_it_turnmeon",
+  "song_name": "turnmeon",
+  "clips": {
+    "warrior_wind_turnmeon_v4": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "warrior_wind_turnmeon_v5": {
+      "avg_beats_per_second": 1.51,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "warrior_wind_turnmeon_v0": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "warrior_wind_turnmeon_v1": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "warrior_wind_turnmeon_v2": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "warrior_wind_turnmeon_v3": {
+      "avg_beats_per_second": 1.52,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

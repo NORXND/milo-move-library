@@ -1,0 +1,26 @@
+{
+  "name": "want_cha",
+  "difficulty": 0,
+  "display_name": "Want'cha",
+  "ham_move_name": "Wantcha_ilikeit.move",
+  "milo_name": "wantcha_ilikeit",
+  "song_name": "ilikeit",
+  "clips": {
+    "want_cha_ilikeit_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "want_cha_ilikeit_v1": {
+      "avg_beats_per_second": 1.85,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

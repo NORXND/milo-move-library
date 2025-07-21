@@ -1,0 +1,18 @@
+{
+  "name": "drive_slow",
+  "difficulty": 1,
+  "display_name": "Drive Slow",
+  "ham_move_name": "_1_Foot_Clutch_goodies.move",
+  "milo_name": "_1_foot_clutch_goodies",
+  "song_name": "goodies",
+  "clips": {
+    "drive_slow_goodies_v0": {
+      "avg_beats_per_second": 1.7,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

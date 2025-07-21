@@ -1,0 +1,26 @@
+{
+  "name": "never_ever",
+  "difficulty": 1,
+  "display_name": "Never Ever",
+  "ham_move_name": "Never_Ever_bulletproof.move",
+  "milo_name": "never_ever_bulletproof",
+  "song_name": "bulletproof",
+  "clips": {
+    "never_ever_bulletproof_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "never_ever_bulletproof_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

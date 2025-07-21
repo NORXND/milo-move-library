@@ -1,0 +1,42 @@
+{
+  "name": "heavy_handed",
+  "difficulty": 0,
+  "display_name": "Heavy Handed",
+  "ham_move_name": "Snap_Bam_grenade.move",
+  "milo_name": "snap_bam_grenade",
+  "song_name": "grenade",
+  "clips": {
+    "heavy_handed_grenade_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heavy_handed_grenade_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heavy_handed_grenade_v2": {
+      "avg_beats_per_second": 1.59,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "heavy_handed_grenade_v3": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

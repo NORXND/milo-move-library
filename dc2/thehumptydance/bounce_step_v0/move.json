@@ -1,0 +1,26 @@
+{
+  "name": "bounce_step",
+  "difficulty": 0,
+  "display_name": "Bounce Step",
+  "ham_move_name": "Step_Drag_Side_thehumptydance.move",
+  "milo_name": "step_drag_side_thehumptydance",
+  "song_name": "thehumptydance",
+  "clips": {
+    "bounce_step_thehumptydance_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bounce_step_thehumptydance_v1": {
+      "avg_beats_per_second": 1.71,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

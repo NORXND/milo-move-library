@@ -1,0 +1,18 @@
+{
+  "name": "bass_knock_back_l",
+  "difficulty": 1,
+  "display_name": "Bass Knock Back",
+  "ham_move_name": "Base_Knock_L_ilikeit.move",
+  "milo_name": "base_knock_l_ilikeit",
+  "song_name": "ilikeit",
+  "clips": {
+    "bass_knock_back_l_ilikeit_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "bass_knock_r_ilikeit_v0"
+    }
+  }
+}

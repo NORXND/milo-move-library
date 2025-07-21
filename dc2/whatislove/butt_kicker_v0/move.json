@@ -1,0 +1,26 @@
+{
+  "name": "butt_kicker",
+  "difficulty": 2,
+  "display_name": "Butt Kicker",
+  "ham_move_name": "Kick_Back_whatislove.move",
+  "milo_name": "kick_back_whatislove",
+  "song_name": "whatislove",
+  "clips": {
+    "butt_kicker_whatislove_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "butt_kicker_whatislove_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

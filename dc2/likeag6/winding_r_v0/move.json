@@ -1,0 +1,26 @@
+{
+  "name": "winding_r",
+  "difficulty": 1,
+  "display_name": "Winding",
+  "ham_move_name": "Wild_Ride_R_likeag6.move",
+  "milo_name": "wild_ride_r_likeag6",
+  "song_name": "likeag6",
+  "clips": {
+    "winding_r_likeag6_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "winding_l_likeag6_v0",
+      "linked_from": ""
+    },
+    "winding_r_likeag6_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "winding_l_likeag6_v1",
+      "linked_from": "winding_l_likeag6_v0"
+    }
+  }
+}

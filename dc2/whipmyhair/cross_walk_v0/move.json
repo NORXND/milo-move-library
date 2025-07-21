@@ -1,0 +1,18 @@
+{
+  "name": "cross_walk",
+  "difficulty": 0,
+  "display_name": "Cross Walk",
+  "ham_move_name": "Dont_Care_whipmyhair.move",
+  "milo_name": "dont_care_whipmyhair",
+  "song_name": "whipmyhair",
+  "clips": {
+    "cross_walk_whipmyhair_v0": {
+      "avg_beats_per_second": 1.36,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

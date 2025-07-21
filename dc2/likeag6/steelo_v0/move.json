@@ -1,0 +1,26 @@
+{
+  "name": "steelo",
+  "difficulty": 1,
+  "display_name": "Steelo",
+  "ham_move_name": "Steelo_likeag6.move",
+  "milo_name": "steelo_likeag6",
+  "song_name": "likeag6",
+  "clips": {
+    "steelo_likeag6_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "steelo_likeag6_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

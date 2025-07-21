@@ -1,0 +1,26 @@
+{
+  "name": "to_the_disco_l",
+  "difficulty": 0,
+  "display_name": "To The Disco",
+  "ham_move_name": "To_The_Disco_L_hotstuff.move",
+  "milo_name": "to_the_disco_l_hotstuff",
+  "song_name": "hotstuff",
+  "clips": {
+    "to_the_disco_l_hotstuff_v1": {
+      "avg_beats_per_second": 2.01,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "to_the_disco_r_hotstuff_v1",
+      "linked_from": "to_the_disco_r_hotstuff_v0"
+    },
+    "to_the_disco_l_hotstuff_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "to_the_disco_r_hotstuff_v0",
+      "linked_from": ""
+    }
+  }
+}

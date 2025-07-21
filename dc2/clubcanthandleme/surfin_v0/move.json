@@ -1,0 +1,26 @@
+{
+  "name": "surfin",
+  "difficulty": 0,
+  "display_name": "Surfin'",
+  "ham_move_name": "Zurfin_clubcanthandleme.move",
+  "milo_name": "zurfin_clubcanthandleme",
+  "song_name": "clubcanthandleme",
+  "clips": {
+    "surfin_clubcanthandleme_v0": {
+      "avg_beats_per_second": 2.13,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "surfin_clubcanthandleme_v1": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "knock_out_feet_r",
+  "difficulty": 2,
+  "display_name": "Knock Out Feet",
+  "ham_move_name": "Hott_Toes_R_fireburning.move",
+  "milo_name": "hott_toes_r_fireburning",
+  "song_name": "fireburning",
+  "clips": {
+    "knock_out_feet_r_fireburning_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "knock_out_feet_l_fireburning_v0",
+      "linked_from": ""
+    },
+    "knock_out_feet_r_fireburning_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "knock_out_feet_l_fireburning_v1",
+      "linked_from": "knock_out_feet_l_fireburning_v0"
+    },
+    "knock_out_feet_r_fireburning_v2": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "knock_out_feet_l_fireburning_v2",
+      "linked_from": ""
+    },
+    "knock_out_feet_r_fireburning_v3": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "knock_out_feet_l_fireburning_v3",
+      "linked_from": "knock_out_feet_l_fireburning_v2"
+    }
+  }
+}

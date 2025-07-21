@@ -1,0 +1,26 @@
+{
+  "name": "step_and_hit",
+  "difficulty": 1,
+  "display_name": "Step & Hit",
+  "ham_move_name": "Step_And_Hit_nothinonyou.move",
+  "milo_name": "step_and_hit_nothinonyou",
+  "song_name": "nothinonyou",
+  "clips": {
+    "step_and_hit_nothinonyou_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_and_hit_nothinonyou_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

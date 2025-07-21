@@ -1,0 +1,26 @@
+{
+  "name": "sweep_switch",
+  "difficulty": 2,
+  "display_name": "Sweep Switch",
+  "ham_move_name": "Jonpop_likeag6.move",
+  "milo_name": "jonpop_likeag6",
+  "song_name": "likeag6",
+  "clips": {
+    "sweep_switch_likeag6_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "sweep_switch_likeag6_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

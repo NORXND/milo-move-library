@@ -1,0 +1,18 @@
+{
+  "name": "exception_despair_2",
+  "difficulty": 2,
+  "display_name": "Despair",
+  "ham_move_name": "Eyes_Wide_Shut_2_grenade.move",
+  "milo_name": "eyes_wide_shut_2_grenade",
+  "song_name": "grenade",
+  "clips": {
+    "despair_grenade_v1": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

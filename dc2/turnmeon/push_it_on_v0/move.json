@@ -1,0 +1,26 @@
+{
+  "name": "push_it_on",
+  "difficulty": 0,
+  "display_name": "Push It On",
+  "ham_move_name": "Push_On_Me_turnmeon.move",
+  "milo_name": "push_on_me_turnmeon",
+  "song_name": "turnmeon",
+  "clips": {
+    "push_it_on_turnmeon_v0": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "push_it_on_turnmeon_v1": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

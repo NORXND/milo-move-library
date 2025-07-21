@@ -1,0 +1,26 @@
+{
+  "name": "swing_low",
+  "difficulty": 0,
+  "display_name": "Swing Low",
+  "ham_move_name": "Swing_Low_thehumptydance.move",
+  "milo_name": "swing_low_thehumptydance",
+  "song_name": "thehumptydance",
+  "clips": {
+    "swing_low_thehumptydance_v0": {
+      "avg_beats_per_second": 1.72,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "swing_low_thehumptydance_v1": {
+      "avg_beats_per_second": 1.72,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

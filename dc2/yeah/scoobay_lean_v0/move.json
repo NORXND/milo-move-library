@@ -1,0 +1,26 @@
+{
+  "name": "scoobay_lean",
+  "difficulty": 0,
+  "display_name": "Scoobay Lean",
+  "ham_move_name": "Wind_It_Up_yeah.move",
+  "milo_name": "wind_it_up_yeah",
+  "song_name": "yeah",
+  "clips": {
+    "scoobay_lean_yeah_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "scoobay_lean_yeah_v1": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

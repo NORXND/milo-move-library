@@ -1,0 +1,26 @@
+{
+  "name": "dat_s_it",
+  "difficulty": 1,
+  "display_name": "Dat's It",
+  "ham_move_name": "Fly_Like_A_G_likeag6.move",
+  "milo_name": "fly_like_a_g_likeag6",
+  "song_name": "likeag6",
+  "clips": {
+    "dat_s_it_likeag6_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dat_s_it_likeag6_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "goalie",
+  "difficulty": 1,
+  "display_name": "Goalie",
+  "ham_move_name": "Ball_Change_Sq_Arms_iwishforyou.move",
+  "milo_name": "ball_change_sq_arms_iwishforyou",
+  "song_name": "iwishforyou",
+  "clips": {
+    "goalie_iwishforyou_v1": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "goalie_iwishforyou_v0": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

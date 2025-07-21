@@ -1,0 +1,42 @@
+{
+  "name": "smush",
+  "difficulty": 0,
+  "display_name": "Smush",
+  "ham_move_name": "Smush_venus.move",
+  "milo_name": "smush_venus",
+  "song_name": "venus",
+  "clips": {
+    "smush_venus_v2": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smush_venus_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smush_venus_v3": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smush_venus_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

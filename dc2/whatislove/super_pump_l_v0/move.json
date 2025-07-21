@@ -1,0 +1,26 @@
+{
+  "name": "super_pump_l",
+  "difficulty": 2,
+  "display_name": "Super Pump",
+  "ham_move_name": "Superpump_L_whatislove.move",
+  "milo_name": "superpump_l_whatislove",
+  "song_name": "whatislove",
+  "clips": {
+    "super_pump_l_whatislove_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "super_pump_r_whatislove_v1",
+      "linked_from": "super_pump_r_whatislove_v0"
+    },
+    "super_pump_l_whatislove_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "super_pump_r_whatislove_v1"
+    }
+  }
+}

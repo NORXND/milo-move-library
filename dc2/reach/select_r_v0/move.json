@@ -1,0 +1,34 @@
+{
+  "name": "select_r",
+  "difficulty": 0,
+  "display_name": "Select",
+  "ham_move_name": "Select_R_reach.move",
+  "milo_name": "select_r_reach",
+  "song_name": "reach",
+  "clips": {
+    "select_r_reach_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "select_r_reach_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "select_r_reach_v2": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

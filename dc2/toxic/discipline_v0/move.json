@@ -1,0 +1,18 @@
+{
+  "name": "discipline",
+  "difficulty": 2,
+  "display_name": "Discipline",
+  "ham_move_name": "Chest_Pop_And_Nottiboi_toxic.move",
+  "milo_name": "chest_pop_and_nottiboi_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "discipline_toxic_v0": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

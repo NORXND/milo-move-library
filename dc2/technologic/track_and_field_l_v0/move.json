@@ -1,0 +1,42 @@
+{
+  "name": "track_and_field_l",
+  "difficulty": 2,
+  "display_name": "Track & Field",
+  "ham_move_name": "Quick_Step_L_technologic.move",
+  "milo_name": "quick_step_l_technologic",
+  "song_name": "technologic",
+  "clips": {
+    "track_and_field_l_technologic_v0": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "track_and_field_r_technologic_v1",
+      "linked_from": "track_and_field_r_technologic_v0"
+    },
+    "track_and_field_l_technologic_v1": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "track_and_field_r_technologic_v1"
+    },
+    "track_and_field_l_technologic_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "track_and_field_r_technologic_v3",
+      "linked_from": "track_and_field_r_technologic_v2"
+    },
+    "track_and_field_l_technologic_v3": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "track_and_field_r_technologic_v3"
+    }
+  }
+}

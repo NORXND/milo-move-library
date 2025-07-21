@@ -1,0 +1,18 @@
+{
+  "name": "block_out",
+  "difficulty": 2,
+  "display_name": "Block Out",
+  "ham_move_name": "Sprung_babygotback.move",
+  "milo_name": "sprung_babygotback",
+  "song_name": "babygotback",
+  "clips": {
+    "block_out_babygotback_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

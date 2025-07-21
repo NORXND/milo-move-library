@@ -1,0 +1,18 @@
+{
+  "name": "crowd_point",
+  "difficulty": 0,
+  "display_name": "Crowd Point",
+  "ham_move_name": "Crowd_Point_clubcanthandleme.move",
+  "milo_name": "crowd_point_clubcanthandleme",
+  "song_name": "clubcanthandleme",
+  "clips": {
+    "crowd_point_clubcanthandleme_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

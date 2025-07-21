@@ -1,0 +1,26 @@
+{
+  "name": "hello_l",
+  "difficulty": 0,
+  "display_name": "Hello",
+  "ham_move_name": "Hi_Hater_L_nothinonyou.move",
+  "milo_name": "hi_hater_l_nothinonyou",
+  "song_name": "nothinonyou",
+  "clips": {
+    "hello_l_nothinonyou_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "hello_r_nothinonyou_v1"
+    },
+    "hello_l_nothinonyou_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "hello_r_nothinonyou_v0"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "to_the_disco_r",
+  "difficulty": 0,
+  "display_name": "To The Disco",
+  "ham_move_name": "To_The_Disco_R_thebreaks.move",
+  "milo_name": "to_the_disco_r_thebreaks",
+  "song_name": "thebreaks",
+  "clips": {
+    "to_the_disco_r_thebreaks_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "to_the_disco_l_thebreaks_v0",
+      "linked_from": ""
+    },
+    "to_the_disco_r_thebreaks_v3": {
+      "avg_beats_per_second": 1.88,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "to_the_disco_l_thebreaks_v2",
+      "linked_from": ""
+    },
+    "to_the_disco_r_thebreaks_v2": {
+      "avg_beats_per_second": 1.87,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "to_the_disco_r_thebreaks_v0": {
+      "avg_beats_per_second": 1.83,
+      "genre": "hiphop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

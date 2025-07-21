@@ -1,0 +1,26 @@
+{
+  "name": "march_and_wipe",
+  "difficulty": 0,
+  "display_name": "March & Wipe",
+  "ham_move_name": "Wipe_Down_fireburning.move",
+  "milo_name": "wipe_down_fireburning",
+  "song_name": "fireburning",
+  "clips": {
+    "march_and_wipe_fireburning_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "march_and_wipe_fireburning_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "island_groove",
+  "difficulty": 0,
+  "display_name": "Island Groove",
+  "ham_move_name": "Stop_And_Roll_turnmeon.move",
+  "milo_name": "stop_and_roll_turnmeon",
+  "song_name": "turnmeon",
+  "clips": {
+    "island_groove_turnmeon_v0": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "island_groove_turnmeon_v1": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "island_groove_turnmeon_v2": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "island_groove_turnmeon_v3": {
+      "avg_beats_per_second": 1.78,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

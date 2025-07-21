@@ -1,0 +1,26 @@
+{
+  "name": "shoulder_pop",
+  "difficulty": 1,
+  "display_name": "Shoulder Pop",
+  "ham_move_name": "Tek_Fast_whatislove.move",
+  "milo_name": "tek_fast_whatislove",
+  "song_name": "whatislove",
+  "clips": {
+    "shoulder_pop_whatislove_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shoulder_pop_whatislove_v1": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

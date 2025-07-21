@@ -1,0 +1,18 @@
+{
+  "name": "pump_and_bump",
+  "difficulty": 1,
+  "display_name": "Pump & Bump",
+  "ham_move_name": "Pull_And_Pop_conceited.move",
+  "milo_name": "pull_and_pop_conceited",
+  "song_name": "conceited",
+  "clips": {
+    "pump_and_bump_conceited_v0": {
+      "avg_beats_per_second": 1.66,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

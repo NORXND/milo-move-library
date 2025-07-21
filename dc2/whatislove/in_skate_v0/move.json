@@ -1,0 +1,26 @@
+{
+  "name": "in_skate",
+  "difficulty": 1,
+  "display_name": "In-Skate",
+  "ham_move_name": "In_Skate_whatislove.move",
+  "milo_name": "in_skate_whatislove",
+  "song_name": "whatislove",
+  "clips": {
+    "in_skate_whatislove_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "in_skate_whatislove_v1": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

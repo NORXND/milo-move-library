@@ -1,0 +1,26 @@
+{
+  "name": "shout_out",
+  "difficulty": 1,
+  "display_name": "Shout Out",
+  "ham_move_name": "Shout_Out_djgotusfallininlove.move",
+  "milo_name": "shout_out_djgotusfallininlove",
+  "song_name": "djgotusfallininlove",
+  "clips": {
+    "shout_out_djgotusfallininlove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "shout_out_djgotusfallininlove_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

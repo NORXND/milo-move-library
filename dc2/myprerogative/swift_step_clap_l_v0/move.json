@@ -1,0 +1,26 @@
+{
+  "name": "swift_step_clap_l",
+  "difficulty": 1,
+  "display_name": "Swift Step Clap",
+  "ham_move_name": "Swift_Step_Clap_L_myprerogative.move",
+  "milo_name": "swift_step_clap_l_myprerogative",
+  "song_name": "myprerogative",
+  "clips": {
+    "swift_step_clap_l_myprerogative_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "randb",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "swift_step_clap_r_myprerogative_v0"
+    },
+    "swift_step_clap_l_myprerogative_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "randb",
+      "era": "1980s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "swift_step_clap_r_myprerogative_v1"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "weathervane",
+  "difficulty": 1,
+  "display_name": "Weathervane",
+  "ham_move_name": "Wavin_satellite.move",
+  "milo_name": "wavin_satellite",
+  "song_name": "satellite",
+  "clips": {
+    "weathervane_satellite_v0": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

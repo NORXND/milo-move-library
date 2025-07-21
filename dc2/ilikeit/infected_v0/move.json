@@ -1,0 +1,18 @@
+{
+  "name": "infected",
+  "difficulty": 2,
+  "display_name": "Infected",
+  "ham_move_name": "Too_Strong_ilikeit.move",
+  "milo_name": "too_strong_ilikeit",
+  "song_name": "ilikeit",
+  "clips": {
+    "infected_ilikeit_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

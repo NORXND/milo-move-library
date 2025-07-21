@@ -1,0 +1,42 @@
+{
+  "name": "hipster",
+  "difficulty": 1,
+  "display_name": "Hipster",
+  "ham_move_name": "Aaaaah_Haaaa_whatislove.move",
+  "milo_name": "aaaaah_haaaa_whatislove",
+  "song_name": "whatislove",
+  "clips": {
+    "hipster_whatislove_v3": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hipster_whatislove_v0": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hipster_whatislove_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hipster_whatislove_v2": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "demon",
+  "difficulty": 0,
+  "display_name": "Demon",
+  "ham_move_name": "Ratty_massiveattack.move",
+  "milo_name": "ratty_massiveattack",
+  "song_name": "massiveattack",
+  "clips": {
+    "demon_massiveattack_v0": {
+      "avg_beats_per_second": 1.39,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

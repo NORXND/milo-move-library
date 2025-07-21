@@ -1,0 +1,26 @@
+{
+  "name": "entice_l",
+  "difficulty": 1,
+  "display_name": "Entice",
+  "ham_move_name": "Drive_U_Crazy_L_bodytobody.move",
+  "milo_name": "drive_u_crazy_l_bodytobody",
+  "song_name": "bodytobody",
+  "clips": {
+    "entice_l_bodytobody_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "entice_r_bodytobody_v1",
+      "linked_from": "entice_r_bodytobody_v0"
+    },
+    "entice_l_bodytobody_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "entice_r_bodytobody_v1"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "finishing_move_meddle_v1048",
+  "difficulty": 0,
+  "display_name": "Finishing Move",
+  "ham_move_name": "Finishing_Move_meddle.move",
+  "milo_name": "finishing_move_meddle",
+  "song_name": "meddle",
+  "clips": {
+    "finishing_move_meddle_v1048": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 106,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "snap_bop_side_l",
+  "difficulty": 0,
+  "display_name": "Snap Bop Side",
+  "ham_move_name": "Head_Bop_And_Snap_L_whatislove.move",
+  "milo_name": "head_bop_and_snap_l_whatislove",
+  "song_name": "whatislove",
+  "clips": {
+    "snap_bop_side_l_whatislove_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "snap_bop_side_r_whatislove_v1"
+    },
+    "snap_bop_side_l_whatislove_v2": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "snap_bop_side_r_whatislove_v2"
+    },
+    "snap_bop_side_l_whatislove_v3": {
+      "avg_beats_per_second": 2.06,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "snap_bop_side_r_whatislove_v3"
+    },
+    "snap_bop_side_l_whatislove_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "snap_bop_side_r_whatislove_v0"
+    }
+  }
+}

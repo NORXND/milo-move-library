@@ -1,0 +1,18 @@
+{
+  "name": "rainstick_l",
+  "difficulty": 1,
+  "display_name": "Rainstick",
+  "ham_move_name": "Mone_Rain_L_fireburning.move",
+  "milo_name": "mone_rain_l_fireburning",
+  "song_name": "fireburning",
+  "clips": {
+    "rainstick_l_fireburning_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "rainstick_r_fireburning_v0"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "boopie_r",
+  "difficulty": 1,
+  "display_name": "Boopie",
+  "ham_move_name": "Boop_Boop_R_ilikeit.move",
+  "milo_name": "boop_boop_r_ilikeit",
+  "song_name": "ilikeit",
+  "clips": {
+    "boopie_r_ilikeit_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "boopie_l_ilikeit_v1",
+      "linked_from": ""
+    },
+    "boopie_r_ilikeit_v0": {
+      "avg_beats_per_second": 2.15,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "boopie_l_ilikeit_v0",
+      "linked_from": ""
+    }
+  }
+}

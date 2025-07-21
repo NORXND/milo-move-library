@@ -1,0 +1,50 @@
+{
+  "name": "cross_and_roll_r",
+  "difficulty": 0,
+  "display_name": "Cross & Roll",
+  "ham_move_name": "Cross_And_Roll_R_rudeboy.move",
+  "milo_name": "cross_and_roll_r_rudeboy",
+  "song_name": "rudeboy",
+  "clips": {
+    "cross_and_roll_r_rudeboy_v1": {
+      "avg_beats_per_second": 1.45,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "cross_and_roll_l_rudeboy_v1"
+    },
+    "cross_and_roll_r_rudeboy_v2": {
+      "avg_beats_per_second": 1.45,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "cross_and_roll_l_rudeboy_v2"
+    },
+    "cross_and_roll_r_rudeboy_v3": {
+      "avg_beats_per_second": 1.45,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "cross_and_roll_l_rudeboy_v3"
+    },
+    "cross_and_roll_r_rudeboy_v4": {
+      "avg_beats_per_second": 1.45,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "cross_and_roll_l_rudeboy_v4"
+    },
+    "cross_and_roll_r_rudeboy_v0": {
+      "avg_beats_per_second": 1.45,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "cross_and_roll_l_rudeboy_v0"
+    }
+  }
+}

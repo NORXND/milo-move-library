@@ -1,0 +1,26 @@
+{
+  "name": "geo_flick",
+  "difficulty": 1,
+  "display_name": "Geo Flick",
+  "ham_move_name": "Heel_Flick_babygotback.move",
+  "milo_name": "heel_flick_babygotback",
+  "song_name": "babygotback",
+  "clips": {
+    "geo_flick_babygotback_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "geo_flick_babygotback_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

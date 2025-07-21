@@ -1,0 +1,26 @@
+{
+  "name": "exception_shuffle_block_1",
+  "difficulty": 2,
+  "display_name": "Shuffle Block",
+  "ham_move_name": "Football_Shake_babygotback.move",
+  "milo_name": "football_shake_babygotback",
+  "song_name": "babygotback",
+  "clips": {
+    "shuffle_block_babygotback_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "shuffle_block_babygotback_v1",
+      "linked_from": ""
+    },
+    "shuffle_block_babygotback_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "shuffle_block_babygotback_v3",
+      "linked_from": ""
+    }
+  }
+}

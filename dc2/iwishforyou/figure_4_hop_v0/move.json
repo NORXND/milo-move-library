@@ -1,0 +1,26 @@
+{
+  "name": "figure_4_hop",
+  "difficulty": 2,
+  "display_name": "Figure 4 Hop",
+  "ham_move_name": "Jump_And_Scuff_iwishforyou.move",
+  "milo_name": "jump_and_scuff_iwishforyou",
+  "song_name": "iwishforyou",
+  "clips": {
+    "figure_4_hop_iwishforyou_v0": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "figure_4_hop_iwishforyou_v1": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

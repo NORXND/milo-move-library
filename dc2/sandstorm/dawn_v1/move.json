@@ -1,0 +1,18 @@
+{
+  "name": "exception_dawn_2",
+  "difficulty": 0,
+  "display_name": "Dawn",
+  "ham_move_name": "Dawn_2_sandstorm.move",
+  "milo_name": "dawn_2_sandstorm",
+  "song_name": "sandstorm",
+  "clips": {
+    "dawn_sandstorm_v1": {
+      "avg_beats_per_second": 2.27,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

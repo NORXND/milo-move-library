@@ -1,0 +1,26 @@
+{
+  "name": "amia_bot_r",
+  "difficulty": 1,
+  "display_name": "Amia Bot",
+  "ham_move_name": "Chanel_Bot_R_djgotusfallininlove.move",
+  "milo_name": "chanel_bot_r_djgotusfallininlove",
+  "song_name": "djgotusfallininlove",
+  "clips": {
+    "amia_bot_r_djgotusfallininlove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "amia_bot_l_djgotusfallininlove_v0",
+      "linked_from": ""
+    },
+    "amia_bot_r_djgotusfallininlove_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "amia_bot_l_djgotusfallininlove_v1",
+      "linked_from": ""
+    }
+  }
+}

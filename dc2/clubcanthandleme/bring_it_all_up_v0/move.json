@@ -1,0 +1,74 @@
+{
+  "name": "bring_it_all_up",
+  "difficulty": 2,
+  "display_name": "Bring It All Up",
+  "ham_move_name": "Really_Pick_It_Up_clubcanthandleme.move",
+  "milo_name": "really_pick_it_up_clubcanthandleme",
+  "song_name": "clubcanthandleme",
+  "clips": {
+    "bring_it_all_up_clubcanthandleme_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bring_it_all_up_clubcanthandleme_v5": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bring_it_all_up_clubcanthandleme_v3": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bring_it_all_up_clubcanthandleme_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bring_it_all_up_clubcanthandleme_v6": {
+      "avg_beats_per_second": 1.83,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bring_it_all_up_clubcanthandleme_v4": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bring_it_all_up_clubcanthandleme_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bring_it_all_up_clubcanthandleme_v7": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

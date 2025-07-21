@@ -1,0 +1,26 @@
+{
+  "name": "to_the_dancefloor",
+  "difficulty": 1,
+  "display_name": "To The Dancefloor",
+  "ham_move_name": "Leeleelee_fireburning.move",
+  "milo_name": "leeleelee_fireburning",
+  "song_name": "fireburning",
+  "clips": {
+    "to_the_dancefloor_fireburning_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "to_the_dancefloor_fireburning_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "raise_up",
+  "difficulty": 0,
+  "display_name": "Raise Up",
+  "ham_move_name": "Throw_It_Up_sandstorm.move",
+  "milo_name": "throw_it_up_sandstorm",
+  "song_name": "sandstorm",
+  "clips": {
+    "raise_up_sandstorm_v2": {
+      "avg_beats_per_second": 2.26,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "raise_up_sandstorm_v0": {
+      "avg_beats_per_second": 2.26,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "raise_up_sandstorm_v3": {
+      "avg_beats_per_second": 2.26,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "raise_up_sandstorm_v1": {
+      "avg_beats_per_second": 2.27,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

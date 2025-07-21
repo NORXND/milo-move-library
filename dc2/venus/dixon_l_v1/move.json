@@ -1,0 +1,42 @@
+{
+  "name": "dixon_l",
+  "difficulty": 2,
+  "display_name": "Dixon",
+  "ham_move_name": "Got_It_All_L_venus.move",
+  "milo_name": "got_it_all_l_venus",
+  "song_name": "venus",
+  "clips": {
+    "dixon_l_venus_v1": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "dixon_r_venus_v1"
+    },
+    "dixon_l_venus_v2": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "dixon_r_venus_v2"
+    },
+    "dixon_l_venus_v3": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "dixon_r_venus_v3"
+    },
+    "dixon_l_venus_v0": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "dixon_r_venus_v0"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "jaunty",
+  "difficulty": 2,
+  "display_name": "Jaunty",
+  "ham_move_name": "Pace_In_Place_iwishforyou.move",
+  "milo_name": "pace_in_place_iwishforyou",
+  "song_name": "iwishforyou",
+  "clips": {
+    "jaunty_iwishforyou_v0": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "jaunty_iwishforyou_v1": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

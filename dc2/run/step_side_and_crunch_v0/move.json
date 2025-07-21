@@ -1,0 +1,26 @@
+{
+  "name": "step_side_and_crunch",
+  "difficulty": 0,
+  "display_name": "Step Side & Crunch",
+  "ham_move_name": "Step_Side_And_Crunch_run.move",
+  "milo_name": "step_side_and_crunch_run",
+  "song_name": "run",
+  "clips": {
+    "step_side_and_crunch_run_v0": {
+      "avg_beats_per_second": 2.49,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_and_crunch_run_v1": {
+      "avg_beats_per_second": 2.51,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

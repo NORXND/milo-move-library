@@ -1,0 +1,34 @@
+{
+  "name": "hip_wipe_and_point",
+  "difficulty": 2,
+  "display_name": "Hip Wipe & Point",
+  "ham_move_name": "Hip_Wipe_And_Point_toxic.move",
+  "milo_name": "hip_wipe_and_point_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "hip_wipe_and_point_toxic_v1": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_wipe_and_point_toxic_v2": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_wipe_and_point_toxic_v0": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

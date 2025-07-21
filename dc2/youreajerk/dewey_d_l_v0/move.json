@@ -1,0 +1,26 @@
+{
+  "name": "dewey_d_l",
+  "difficulty": 1,
+  "display_name": "Dewey D",
+  "ham_move_name": "Dougie_L_youreajerk.move",
+  "milo_name": "dougie_l_youreajerk",
+  "song_name": "youreajerk",
+  "clips": {
+    "dewey_d_l_youreajerk_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "dewey_d_r_youreajerk_v0"
+    },
+    "dewey_d_l_youreajerk_v1": {
+      "avg_beats_per_second": 1.41,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "dewey_d_r_youreajerk_v1"
+    }
+  }
+}

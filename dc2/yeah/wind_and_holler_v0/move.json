@@ -1,0 +1,26 @@
+{
+  "name": "wind_and_holler",
+  "difficulty": 0,
+  "display_name": "Wind & Holler",
+  "ham_move_name": "Hip_Roll_Ohhhh_yeah.move",
+  "milo_name": "hip_roll_ohhhh_yeah",
+  "song_name": "yeah",
+  "clips": {
+    "wind_and_holler_yeah_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "wind_and_holler_yeah_v1": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

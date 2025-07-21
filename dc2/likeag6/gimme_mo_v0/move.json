@@ -1,0 +1,26 @@
+{
+  "name": "gimme_mo",
+  "difficulty": 0,
+  "display_name": "Gimme Mo'",
+  "ham_move_name": "Gimme_Mo_likeag6.move",
+  "milo_name": "gimme_mo_likeag6",
+  "song_name": "likeag6",
+  "clips": {
+    "gimme_mo_likeag6_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "gimme_mo_likeag6_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

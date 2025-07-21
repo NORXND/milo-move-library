@@ -1,0 +1,18 @@
+{
+  "name": "think_it_down",
+  "difficulty": 1,
+  "display_name": "Think It Down",
+  "ham_move_name": "Lets_Work_U_Down_somebodytolove.move",
+  "milo_name": "lets_work_u_down_somebodytolove",
+  "song_name": "somebodytolove",
+  "clips": {
+    "think_it_down_somebodytolove_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

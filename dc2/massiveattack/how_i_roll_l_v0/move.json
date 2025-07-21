@@ -1,0 +1,26 @@
+{
+  "name": "how_i_roll_l",
+  "difficulty": 2,
+  "display_name": "How I Roll",
+  "ham_move_name": "How_I_Roll_L_massiveattack.move",
+  "milo_name": "how_i_roll_l_massiveattack",
+  "song_name": "massiveattack",
+  "clips": {
+    "how_i_roll_l_massiveattack_v0": {
+      "avg_beats_per_second": 1.43,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "how_i_roll_r_massiveattack_v0"
+    },
+    "how_i_roll_l_massiveattack_v1": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "how_i_roll_r_massiveattack_v1"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "name": "windmill",
+  "difficulty": 0,
+  "display_name": "Windmill",
+  "ham_move_name": "Windmill_hotstuff.move",
+  "milo_name": "windmill_hotstuff",
+  "song_name": "hotstuff",
+  "clips": {
+    "windmill_hotstuff_v1": {
+      "avg_beats_per_second": 2.02,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "windmill_hotstuff_v6": {
+      "avg_beats_per_second": 2.01,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "windmill_hotstuff_v4": {
+      "avg_beats_per_second": 2.0,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "windmill_hotstuff_v2": {
+      "avg_beats_per_second": 2.01,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "windmill_hotstuff_v7": {
+      "avg_beats_per_second": 2.02,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "windmill_hotstuff_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "windmill_hotstuff_v5": {
+      "avg_beats_per_second": 2.0,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "windmill_hotstuff_v3": {
+      "avg_beats_per_second": 2.03,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

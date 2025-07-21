@@ -1,0 +1,18 @@
+{
+  "name": "dance_battle",
+  "difficulty": 2,
+  "display_name": "Dance Battle",
+  "ham_move_name": "Snap_Down_satellite.move",
+  "milo_name": "snap_down_satellite",
+  "song_name": "satellite",
+  "clips": {
+    "dance_battle_satellite_v0": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

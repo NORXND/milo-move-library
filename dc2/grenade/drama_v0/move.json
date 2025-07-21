@@ -1,0 +1,26 @@
+{
+  "name": "drama",
+  "difficulty": 1,
+  "display_name": "Drama",
+  "ham_move_name": "Suicide_grenade.move",
+  "milo_name": "suicide_grenade",
+  "song_name": "grenade",
+  "clips": {
+    "drama_grenade_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "drama_grenade_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

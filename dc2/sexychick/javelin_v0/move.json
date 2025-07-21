@@ -1,0 +1,26 @@
+{
+  "name": "javelin",
+  "difficulty": 0,
+  "display_name": "Javelin",
+  "ham_move_name": "Heartbreak_sexychick.move",
+  "milo_name": "heartbreak_sexychick",
+  "song_name": "sexychick",
+  "clips": {
+    "javelin_sexychick_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "javelin_sexychick_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

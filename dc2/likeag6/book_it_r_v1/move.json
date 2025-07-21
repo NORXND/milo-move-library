@@ -1,0 +1,26 @@
+{
+  "name": "book_it_r",
+  "difficulty": 1,
+  "display_name": "Book It",
+  "ham_move_name": "Book_It_R_likeag6.move",
+  "milo_name": "book_it_r_likeag6",
+  "song_name": "likeag6",
+  "clips": {
+    "book_it_r_likeag6_v1": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "book_it_r_likeag6_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "firefly",
+  "difficulty": 1,
+  "display_name": "Firefly",
+  "ham_move_name": "Firefly_turnmeon.move",
+  "milo_name": "firefly_turnmeon",
+  "song_name": "turnmeon",
+  "clips": {
+    "firefly_turnmeon_v1": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "firefly_turnmeon_v2": {
+      "avg_beats_per_second": 1.52,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "firefly_turnmeon_v0": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "firefly_turnmeon_v3": {
+      "avg_beats_per_second": 1.52,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

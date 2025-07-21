@@ -1,0 +1,26 @@
+{
+  "name": "boardbreaker",
+  "difficulty": 0,
+  "display_name": "Boardbreaker",
+  "ham_move_name": "Boardbreaker_thehumptydance.move",
+  "milo_name": "boardbreaker_thehumptydance",
+  "song_name": "thehumptydance",
+  "clips": {
+    "boardbreaker_thehumptydance_v0": {
+      "avg_beats_per_second": 1.71,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "boardbreaker_thehumptydance_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

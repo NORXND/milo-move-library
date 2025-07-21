@@ -1,0 +1,26 @@
+{
+  "name": "run_step_side_r",
+  "difficulty": 2,
+  "display_name": "Run Step Side",
+  "ham_move_name": "Side_Run_R_whatislove.move",
+  "milo_name": "side_run_r_whatislove",
+  "song_name": "whatislove",
+  "clips": {
+    "run_step_side_r_whatislove_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "run_step_side_r_whatislove_v1": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

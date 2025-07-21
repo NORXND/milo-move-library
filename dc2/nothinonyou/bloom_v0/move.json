@@ -1,0 +1,26 @@
+{
+  "name": "bloom",
+  "difficulty": 0,
+  "display_name": "Bloom",
+  "ham_move_name": "Rise_Arms_nothinonyou.move",
+  "milo_name": "rise_arms_nothinonyou",
+  "song_name": "nothinonyou",
+  "clips": {
+    "bloom_nothinonyou_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bloom_nothinonyou_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

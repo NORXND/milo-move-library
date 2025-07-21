@@ -1,0 +1,26 @@
+{
+  "name": "exception_dawn_2",
+  "difficulty": 0,
+  "display_name": "Dawn",
+  "ham_move_name": "Drama_Tap_hotstuff.move",
+  "milo_name": "drama_tap_hotstuff",
+  "song_name": "hotstuff",
+  "clips": {
+    "dawn_hotstuff_v4": {
+      "avg_beats_per_second": 2.0,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "dawn_hotstuff_v5",
+      "linked_from": ""
+    },
+    "dawn_hotstuff_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "dawn_hotstuff_v2",
+      "linked_from": ""
+    }
+  }
+}

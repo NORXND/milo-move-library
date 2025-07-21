@@ -1,0 +1,26 @@
+{
+  "name": "throw_it_up",
+  "difficulty": 0,
+  "display_name": "Throw It Up",
+  "ham_move_name": "Crowd_Yeah_babygotback.move",
+  "milo_name": "crowd_yeah_babygotback",
+  "song_name": "babygotback",
+  "clips": {
+    "throw_it_up_babygotback_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "throw_it_up_babygotback_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

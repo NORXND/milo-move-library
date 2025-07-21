@@ -1,0 +1,18 @@
+{
+  "name": "pocket_watch",
+  "difficulty": 1,
+  "display_name": "Pocket Watch",
+  "ham_move_name": "Clockwork_conceited.move",
+  "milo_name": "clockwork_conceited",
+  "song_name": "conceited",
+  "clips": {
+    "pocket_watch_conceited_v0": {
+      "avg_beats_per_second": 1.66,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

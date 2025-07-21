@@ -1,0 +1,58 @@
+{
+  "name": "adonis_twist_r",
+  "difficulty": 1,
+  "display_name": "Adonis Twist",
+  "ham_move_name": "Heel_Point_R_run.move",
+  "milo_name": "heel_point_r_run",
+  "song_name": "run",
+  "clips": {
+    "adonis_twist_r_run_v0": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "adonis_twist_l_run_v0",
+      "linked_from": ""
+    },
+    "adonis_twist_r_run_v1": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "adonis_twist_l_run_v1",
+      "linked_from": "adonis_twist_l_run_v0"
+    },
+    "adonis_twist_r_run_v2": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "adonis_twist_l_run_v2",
+      "linked_from": ""
+    },
+    "adonis_twist_r_run_v3": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "adonis_twist_l_run_v3",
+      "linked_from": "adonis_twist_l_run_v2"
+    },
+    "adonis_twist_r_run_v4": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "adonis_twist_l_run_v4",
+      "linked_from": ""
+    },
+    "adonis_twist_r_run_v5": {
+      "avg_beats_per_second": 2.5,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "adonis_twist_l_run_v5",
+      "linked_from": "adonis_twist_l_run_v4"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "grapevine",
+  "difficulty": 2,
+  "display_name": "Grapevine",
+  "ham_move_name": "Grapevine_thehumptydance.move",
+  "milo_name": "grapevine_thehumptydance",
+  "song_name": "thehumptydance",
+  "clips": {
+    "grapevine_thehumptydance_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

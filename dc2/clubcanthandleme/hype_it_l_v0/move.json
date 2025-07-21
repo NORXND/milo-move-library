@@ -1,0 +1,26 @@
+{
+  "name": "hype_it_l",
+  "difficulty": 0,
+  "display_name": "Hype It",
+  "ham_move_name": "Hype_It_L_clubcanthandleme.move",
+  "milo_name": "hype_it_l_clubcanthandleme",
+  "song_name": "clubcanthandleme",
+  "clips": {
+    "hype_it_l_clubcanthandleme_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "hype_it_r_clubcanthandleme_v1",
+      "linked_from": "hype_it_r_clubcanthandleme_v0"
+    },
+    "hype_it_l_clubcanthandleme_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "hype_it_r_clubcanthandleme_v1"
+    }
+  }
+}

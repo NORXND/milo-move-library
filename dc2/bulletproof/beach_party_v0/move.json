@@ -1,0 +1,26 @@
+{
+  "name": "beach_party",
+  "difficulty": 0,
+  "display_name": "Beach Party",
+  "ham_move_name": "Beach_Party_bulletproof.move",
+  "milo_name": "beach_party_bulletproof",
+  "song_name": "bulletproof",
+  "clips": {
+    "beach_party_bulletproof_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "beach_party_bulletproof_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "side_pound_r",
+  "difficulty": 1,
+  "display_name": "Side Pound",
+  "ham_move_name": "Bop_N_Pop_R_conceited.move",
+  "milo_name": "bop_n_pop_r_conceited",
+  "song_name": "conceited",
+  "clips": {
+    "side_pound_r_conceited_v0": {
+      "avg_beats_per_second": 1.66,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "side_pound_l_conceited_v0",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "name": "hip_pound",
+  "difficulty": 0,
+  "display_name": "Hip Pound",
+  "ham_move_name": "Desire_venus.move",
+  "milo_name": "desire_venus",
+  "song_name": "venus",
+  "clips": {
+    "hip_pound_venus_v3": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_pound_venus_v13": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_pound_venus_v9": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_pound_venus_v1": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_pound_venus_v11": {
+      "avg_beats_per_second": 1.81,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_pound_venus_v7": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_pound_venus_v4": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_pound_venus_v5": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_pound_venus_v2": {
+      "avg_beats_per_second": 2.1,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_pound_venus_v12": {
+      "avg_beats_per_second": 1.89,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_pound_venus_v8": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_pound_venus_v0": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_pound_venus_v10": {
+      "avg_beats_per_second": 1.81,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_pound_venus_v6": {
+      "avg_beats_per_second": 1.8,
+      "genre": "pop",
+      "era": "1980s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "rest_likeag6_v1004",
+  "difficulty": 2,
+  "display_name": "",
+  "ham_move_name": "Rest.move",
+  "milo_name": "rest",
+  "song_name": "likeag6",
+  "clips": {
+    "rest_likeag6_v1004": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 96,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

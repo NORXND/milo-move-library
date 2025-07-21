@@ -1,0 +1,18 @@
+{
+  "name": "triple_bounce",
+  "difficulty": 2,
+  "display_name": "Triple Bounce",
+  "ham_move_name": "Guttah_Bounce_geturfreakon.move",
+  "milo_name": "guttah_bounce_geturfreakon",
+  "song_name": "geturfreakon",
+  "clips": {
+    "triple_bounce_geturfreakon_v0": {
+      "avg_beats_per_second": 1.49,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

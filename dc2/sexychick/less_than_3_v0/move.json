@@ -1,0 +1,18 @@
+{
+  "name": "less_than_3",
+  "difficulty": 2,
+  "display_name": "Less Than 3",
+  "ham_move_name": "Jigglin_Baby_sexychick.move",
+  "milo_name": "jigglin_baby_sexychick",
+  "song_name": "sexychick",
+  "clips": {
+    "less_than_3_sexychick_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

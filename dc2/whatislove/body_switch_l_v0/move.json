@@ -1,0 +1,18 @@
+{
+  "name": "body_switch_l",
+  "difficulty": 2,
+  "display_name": "Body Switch",
+  "ham_move_name": "Leg_Switch_L_whatislove.move",
+  "milo_name": "leg_switch_l_whatislove",
+  "song_name": "whatislove",
+  "clips": {
+    "body_switch_l_whatislove_v0": {
+      "avg_beats_per_second": 2.07,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

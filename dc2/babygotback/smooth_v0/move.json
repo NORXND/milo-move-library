@@ -1,0 +1,34 @@
+{
+  "name": "smooth",
+  "difficulty": 0,
+  "display_name": "Smooth",
+  "ham_move_name": "Smooth_babygotback.move",
+  "milo_name": "smooth_babygotback",
+  "song_name": "babygotback",
+  "clips": {
+    "smooth_babygotback_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smooth_babygotback_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "smooth_babygotback_v2": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

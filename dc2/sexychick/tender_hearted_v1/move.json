@@ -1,0 +1,42 @@
+{
+  "name": "tender_hearted",
+  "difficulty": 2,
+  "display_name": "Tender Hearted",
+  "ham_move_name": "Lose_Your_Head_sexychick.move",
+  "milo_name": "lose_your_head_sexychick",
+  "song_name": "sexychick",
+  "clips": {
+    "tender_hearted_sexychick_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tender_hearted_sexychick_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tender_hearted_sexychick_v3": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "tender_hearted_sexychick_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

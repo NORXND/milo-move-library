@@ -1,0 +1,18 @@
+{
+  "name": "battle_me",
+  "difficulty": 2,
+  "display_name": "Battle Me",
+  "ham_move_name": "Battle_Me_geturfreakon.move",
+  "milo_name": "battle_me_geturfreakon",
+  "song_name": "geturfreakon",
+  "clips": {
+    "battle_me_geturfreakon_v0": {
+      "avg_beats_per_second": 1.48,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

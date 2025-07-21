@@ -1,0 +1,42 @@
+{
+  "name": "my_oh_my",
+  "difficulty": 0,
+  "display_name": "My Oh My",
+  "ham_move_name": "Oh_Love_satellite.move",
+  "milo_name": "oh_love_satellite",
+  "song_name": "satellite",
+  "clips": {
+    "my_oh_my_satellite_v1": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "my_oh_my_satellite_v2": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "my_oh_my_satellite_v3": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "my_oh_my_satellite_v0": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

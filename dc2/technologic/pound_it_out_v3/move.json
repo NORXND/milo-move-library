@@ -1,0 +1,42 @@
+{
+  "name": "pound_it_out",
+  "difficulty": 0,
+  "display_name": "Pound It Out",
+  "ham_move_name": "Wu_Tang_technologic.move",
+  "milo_name": "wu_tang_technologic",
+  "song_name": "technologic",
+  "clips": {
+    "pound_it_out_technologic_v3": {
+      "avg_beats_per_second": 2.12,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_it_out_technologic_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_it_out_technologic_v1": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "pound_it_out_technologic_v2": {
+      "avg_beats_per_second": 2.13,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

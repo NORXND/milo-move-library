@@ -1,0 +1,18 @@
+{
+  "name": "laid_back",
+  "difficulty": 2,
+  "display_name": "Laid Back",
+  "ham_move_name": "Take_A_Pic_hotstuff.move",
+  "milo_name": "take_a_pic_hotstuff",
+  "song_name": "hotstuff",
+  "clips": {
+    "laid_back_hotstuff_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

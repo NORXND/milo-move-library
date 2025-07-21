@@ -1,0 +1,26 @@
+{
+  "name": "move_trick",
+  "difficulty": 1,
+  "display_name": "Move Trick",
+  "ham_move_name": "Move_Trick_nothinonyou.move",
+  "milo_name": "move_trick_nothinonyou",
+  "song_name": "nothinonyou",
+  "clips": {
+    "move_trick_nothinonyou_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "move_trick_nothinonyou_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

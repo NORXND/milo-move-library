@@ -1,0 +1,18 @@
+{
+  "name": "exception_breaking_dusk_2",
+  "difficulty": 0,
+  "display_name": "Breaking Dusk",
+  "ham_move_name": "Shake_2_toxic.move",
+  "milo_name": "shake_2_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "breaking_dusk_toxic_v1": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": "breaking_dusk_toxic_v0"
+    }
+  }
+}

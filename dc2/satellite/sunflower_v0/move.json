@@ -1,0 +1,18 @@
+{
+  "name": "sunflower",
+  "difficulty": 1,
+  "display_name": "Sunflower",
+  "ham_move_name": "Loving_Flower_satellite.move",
+  "milo_name": "loving_flower_satellite",
+  "song_name": "satellite",
+  "clips": {
+    "sunflower_satellite_v0": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

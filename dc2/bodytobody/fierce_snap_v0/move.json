@@ -1,0 +1,34 @@
+{
+  "name": "fierce_snap",
+  "difficulty": 0,
+  "display_name": "Fierce Snap",
+  "ham_move_name": "Fierce_Snap_bodytobody.move",
+  "milo_name": "fierce_snap_bodytobody",
+  "song_name": "bodytobody",
+  "clips": {
+    "fierce_snap_bodytobody_v0": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "fierce_snap_bodytobody_v1": {
+      "avg_beats_per_second": 1.88,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "fierce_snap_bodytobody_v2": {
+      "avg_beats_per_second": 1.89,
+      "genre": "danceelectronic",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

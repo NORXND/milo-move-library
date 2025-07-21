@@ -1,0 +1,26 @@
+{
+  "name": "put_em_up",
+  "difficulty": 0,
+  "display_name": "Put 'em Up",
+  "ham_move_name": "Both_Hands_Up_likeag6.move",
+  "milo_name": "both_hands_up_likeag6",
+  "song_name": "likeag6",
+  "clips": {
+    "put_em_up_likeag6_v0": {
+      "avg_beats_per_second": 2.08,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "put_em_up_likeag6_v1": {
+      "avg_beats_per_second": 2.09,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

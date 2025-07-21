@@ -1,0 +1,42 @@
+{
+  "name": "hair_metal_l",
+  "difficulty": 0,
+  "display_name": "Hair Metal",
+  "ham_move_name": "Fabulous_L_whipmyhair.move",
+  "milo_name": "fabulous_l_whipmyhair",
+  "song_name": "whipmyhair",
+  "clips": {
+    "hair_metal_l_whipmyhair_v1": {
+      "avg_beats_per_second": 1.36,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "hair_metal_r_whipmyhair_v1",
+      "linked_from": ""
+    },
+    "hair_metal_l_whipmyhair_v2": {
+      "avg_beats_per_second": 1.36,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "hair_metal_r_whipmyhair_v2",
+      "linked_from": ""
+    },
+    "hair_metal_l_whipmyhair_v3": {
+      "avg_beats_per_second": 1.36,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "hair_metal_r_whipmyhair_v3",
+      "linked_from": ""
+    },
+    "hair_metal_l_whipmyhair_v0": {
+      "avg_beats_per_second": 1.36,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "hair_metal_r_whipmyhair_v0",
+      "linked_from": ""
+    }
+  }
+}

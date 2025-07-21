@@ -1,0 +1,106 @@
+{
+  "name": "bent_clap",
+  "difficulty": 0,
+  "display_name": "Bent Clap",
+  "ham_move_name": "Bent_Clap_sandstorm.move",
+  "milo_name": "bent_clap_sandstorm",
+  "song_name": "sandstorm",
+  "clips": {
+    "bent_clap_sandstorm_v0": {
+      "avg_beats_per_second": 2.27,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bent_clap_sandstorm_v5": {
+      "avg_beats_per_second": 2.27,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bent_clap_sandstorm_v8": {
+      "avg_beats_per_second": 2.27,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bent_clap_sandstorm_v3": {
+      "avg_beats_per_second": 2.27,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bent_clap_sandstorm_v6": {
+      "avg_beats_per_second": 2.26,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bent_clap_sandstorm_v1": {
+      "avg_beats_per_second": 2.26,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bent_clap_sandstorm_v10": {
+      "avg_beats_per_second": 2.27,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bent_clap_sandstorm_v9": {
+      "avg_beats_per_second": 2.26,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bent_clap_sandstorm_v4": {
+      "avg_beats_per_second": 2.26,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bent_clap_sandstorm_v7": {
+      "avg_beats_per_second": 2.27,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bent_clap_sandstorm_v2": {
+      "avg_beats_per_second": 2.27,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bent_clap_sandstorm_v11": {
+      "avg_beats_per_second": 2.27,
+      "genre": "danceelectronic",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

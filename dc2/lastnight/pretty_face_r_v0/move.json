@@ -1,0 +1,26 @@
+{
+  "name": "pretty_face_r",
+  "difficulty": 1,
+  "display_name": "Pretty Face",
+  "ham_move_name": "Pretty_Face_R_lastnight.move",
+  "milo_name": "pretty_face_r_lastnight",
+  "song_name": "lastnight",
+  "clips": {
+    "pretty_face_r_lastnight_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "pretty_face_l_lastnight_v0",
+      "linked_from": ""
+    },
+    "pretty_face_r_lastnight_v1": {
+      "avg_beats_per_second": 2.02,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "pretty_face_l_lastnight_v1",
+      "linked_from": ""
+    }
+  }
+}

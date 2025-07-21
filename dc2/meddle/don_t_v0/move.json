@@ -1,0 +1,26 @@
+{
+  "name": "don_t_meddle",
+  "difficulty": 1,
+  "display_name": "Don't Meddle",
+  "ham_move_name": "Meddle_meddle.move",
+  "milo_name": "meddle_meddle",
+  "song_name": "meddle",
+  "clips": {
+    "don_t_meddle_meddle_v0": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "don_t_meddle_meddle_v1": {
+      "avg_beats_per_second": 1.41,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

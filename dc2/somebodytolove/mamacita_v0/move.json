@@ -1,0 +1,18 @@
+{
+  "name": "mamacita",
+  "difficulty": 2,
+  "display_name": "Mamacita",
+  "ham_move_name": "Mamacita_somebodytolove.move",
+  "milo_name": "mamacita_somebodytolove",
+  "song_name": "somebodytolove",
+  "clips": {
+    "mamacita_somebodytolove_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

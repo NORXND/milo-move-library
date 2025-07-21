@@ -1,0 +1,26 @@
+{
+  "name": "dog_pound",
+  "difficulty": 0,
+  "display_name": "Dog Pound",
+  "ham_move_name": "Dog_Pound_grenade.move",
+  "milo_name": "dog_pound_grenade",
+  "song_name": "grenade",
+  "clips": {
+    "dog_pound_grenade_v0": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dog_pound_grenade_v1": {
+      "avg_beats_per_second": 1.85,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

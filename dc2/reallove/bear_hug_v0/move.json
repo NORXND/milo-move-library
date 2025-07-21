@@ -1,0 +1,26 @@
+{
+  "name": "bear_hug",
+  "difficulty": 0,
+  "display_name": "Bear Hug",
+  "ham_move_name": "Fake_Love_reallove.move",
+  "milo_name": "fake_love_reallove",
+  "song_name": "reallove",
+  "clips": {
+    "bear_hug_reallove_v0": {
+      "avg_beats_per_second": 1.58,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "bear_hug_reallove_v1": {
+      "avg_beats_per_second": 1.58,
+      "genre": "randb",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

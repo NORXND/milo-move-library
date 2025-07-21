@@ -1,0 +1,26 @@
+{
+  "name": "cross_kick_front",
+  "difficulty": 2,
+  "display_name": "Cross Kick Front",
+  "ham_move_name": "Kick_Ball_Change_bulletproof.move",
+  "milo_name": "kick_ball_change_bulletproof",
+  "song_name": "bulletproof",
+  "clips": {
+    "cross_kick_front_bulletproof_v0": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "cross_kick_front_bulletproof_v1": {
+      "avg_beats_per_second": 2.05,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

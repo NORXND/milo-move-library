@@ -1,0 +1,42 @@
+{
+  "name": "round_hit_it",
+  "difficulty": 0,
+  "display_name": "Round Hit It",
+  "ham_move_name": "Round_Hit_dragosteadintei.move",
+  "milo_name": "round_hit_dragosteadintei",
+  "song_name": "dragosteadintei",
+  "clips": {
+    "round_hit_it_dragosteadintei_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "round_hit_it_dragosteadintei_v3": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "round_hit_it_dragosteadintei_v2": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "round_hit_it_dragosteadintei_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

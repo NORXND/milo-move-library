@@ -1,0 +1,26 @@
+{
+  "name": "baby_girl",
+  "difficulty": 1,
+  "display_name": "Baby Girl",
+  "ham_move_name": "Baby_Wipes_babygotback.move",
+  "milo_name": "baby_wipes_babygotback",
+  "song_name": "babygotback",
+  "clips": {
+    "baby_girl_babygotback_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "baby_girl_babygotback_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

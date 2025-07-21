@@ -1,0 +1,18 @@
+{
+  "name": "got_soul_l",
+  "difficulty": 1,
+  "display_name": "Got Soul",
+  "ham_move_name": "Got_Soul_L_thehumptydance.move",
+  "milo_name": "got_soul_l_thehumptydance",
+  "song_name": "thehumptydance",
+  "clips": {
+    "got_soul_l_thehumptydance_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "got_soul_r_thehumptydance_v0"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "grab_dat",
+  "difficulty": 2,
+  "display_name": "Grab Dat",
+  "ham_move_name": "Grab_Dat_babygotback.move",
+  "milo_name": "grab_dat_babygotback",
+  "song_name": "babygotback",
+  "clips": {
+    "grab_dat_babygotback_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "grab_dat_babygotback_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "hiphop",
+      "era": "1990s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

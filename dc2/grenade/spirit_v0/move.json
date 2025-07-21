@@ -1,0 +1,26 @@
+{
+  "name": "spirit",
+  "difficulty": 1,
+  "display_name": "Spirit",
+  "ham_move_name": "Primary_grenade.move",
+  "milo_name": "primary_grenade",
+  "song_name": "grenade",
+  "clips": {
+    "spirit_grenade_v0": {
+      "avg_beats_per_second": 1.86,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "spirit_grenade_v1": {
+      "avg_beats_per_second": 1.84,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

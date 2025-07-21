@@ -1,0 +1,26 @@
+{
+  "name": "canter",
+  "difficulty": 2,
+  "display_name": "Canter",
+  "ham_move_name": "Rodeo_Run_massiveattack.move",
+  "milo_name": "rodeo_run_massiveattack",
+  "song_name": "massiveattack",
+  "clips": {
+    "canter_massiveattack_v0": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "canter_massiveattack_v1": {
+      "avg_beats_per_second": 1.42,
+      "genre": "hiphop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "zype_r",
+  "difficulty": 1,
+  "display_name": "Zype",
+  "ham_move_name": "Zype_R_clubcanthandleme.move",
+  "milo_name": "zype_r_clubcanthandleme",
+  "song_name": "clubcanthandleme",
+  "clips": {
+    "zype_r_clubcanthandleme_v0": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "zype_l_clubcanthandleme_v0",
+      "linked_from": ""
+    },
+    "zype_r_clubcanthandleme_v1": {
+      "avg_beats_per_second": 2.14,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "zype_l_clubcanthandleme_v1",
+      "linked_from": "zype_l_clubcanthandleme_v0"
+    }
+  }
+}

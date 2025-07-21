@@ -1,0 +1,26 @@
+{
+  "name": "dedicate",
+  "difficulty": 0,
+  "display_name": "Dedicate",
+  "ham_move_name": "Point_Out_grenade.move",
+  "milo_name": "point_out_grenade",
+  "song_name": "grenade",
+  "clips": {
+    "dedicate_grenade_v0": {
+      "avg_beats_per_second": 1.85,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dedicate_grenade_v1": {
+      "avg_beats_per_second": 1.58,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

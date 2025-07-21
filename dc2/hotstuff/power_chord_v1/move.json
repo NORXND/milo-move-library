@@ -1,0 +1,26 @@
+{
+  "name": "power_chord",
+  "difficulty": 0,
+  "display_name": "Power Chord",
+  "ham_move_name": "Less_Epic_Guitar_hotstuff.move",
+  "milo_name": "less_epic_guitar_hotstuff",
+  "song_name": "hotstuff",
+  "clips": {
+    "power_chord_hotstuff_v1": {
+      "avg_beats_per_second": 2.02,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "power_chord_hotstuff_v0": {
+      "avg_beats_per_second": 2.01,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 98,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

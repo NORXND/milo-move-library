@@ -1,0 +1,18 @@
+{
+  "name": "chit_chat_l",
+  "difficulty": 0,
+  "display_name": "Chit Chat",
+  "ham_move_name": "Stupid_Girl_Phone_L_hotstuff.move",
+  "milo_name": "stupid_girl_phone_l_hotstuff",
+  "song_name": "hotstuff",
+  "clips": {
+    "chit_chat_l_hotstuff_v0": {
+      "avg_beats_per_second": 2.02,
+      "genre": "funkdisco",
+      "era": "1970s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "chit_chat_r_hotstuff_v0"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "step_side_and_clap",
+  "difficulty": 0,
+  "display_name": "Step Side & Clap",
+  "ham_move_name": "Side_Clap_nothinonyou.move",
+  "milo_name": "side_clap_nothinonyou",
+  "song_name": "nothinonyou",
+  "clips": {
+    "step_side_and_clap_nothinonyou_v0": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_and_clap_nothinonyou_v3": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_and_clap_nothinonyou_v1": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "step_side_and_clap_nothinonyou_v2": {
+      "avg_beats_per_second": 1.73,
+      "genre": "randb",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

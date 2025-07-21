@@ -1,0 +1,58 @@
+{
+  "name": "dip_n_stop",
+  "difficulty": 1,
+  "display_name": "Dip 'n' Stop",
+  "ham_move_name": "Dip_N_Step_youreajerk.move",
+  "milo_name": "dip_n_step_youreajerk",
+  "song_name": "youreajerk",
+  "clips": {
+    "dip_n_stop_youreajerk_v3": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dip_n_stop_youreajerk_v4": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dip_n_stop_youreajerk_v5": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dip_n_stop_youreajerk_v0": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dip_n_stop_youreajerk_v1": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "dip_n_stop_youreajerk_v2": {
+      "avg_beats_per_second": 1.65,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

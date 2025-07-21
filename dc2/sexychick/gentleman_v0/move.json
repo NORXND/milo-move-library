@@ -1,0 +1,26 @@
+{
+  "name": "gentleman",
+  "difficulty": 1,
+  "display_name": "Gentleman",
+  "ham_move_name": "Salute_sexychick.move",
+  "milo_name": "salute_sexychick",
+  "song_name": "sexychick",
+  "clips": {
+    "gentleman_sexychick_v0": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "gentleman_sexychick_v1": {
+      "avg_beats_per_second": 2.17,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

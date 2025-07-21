@@ -1,0 +1,26 @@
+{
+  "name": "the_bump",
+  "difficulty": 0,
+  "display_name": "The Bump",
+  "ham_move_name": "The_Bump_yeah.move",
+  "milo_name": "the_bump_yeah",
+  "song_name": "yeah",
+  "clips": {
+    "the_bump_yeah_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "the_bump_yeah_v1": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

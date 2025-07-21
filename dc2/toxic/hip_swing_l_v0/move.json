@@ -1,0 +1,26 @@
+{
+  "name": "hip_swing_l",
+  "difficulty": 2,
+  "display_name": "Hip Swing",
+  "ham_move_name": "Hip_Swing_L_toxic.move",
+  "milo_name": "hip_swing_l_toxic",
+  "song_name": "toxic",
+  "clips": {
+    "hip_swing_l_toxic_v0": {
+      "avg_beats_per_second": 2.39,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "hip_swing_l_toxic_v1": {
+      "avg_beats_per_second": 2.38,
+      "genre": "pop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

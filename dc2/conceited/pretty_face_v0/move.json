@@ -1,0 +1,18 @@
+{
+  "name": "exception_pretty_face_1",
+  "difficulty": 2,
+  "display_name": "Pretty Face",
+  "ham_move_name": "Face_conceited.move",
+  "milo_name": "face_conceited",
+  "song_name": "conceited",
+  "clips": {
+    "pretty_face_conceited_v0": {
+      "avg_beats_per_second": 1.66,
+      "genre": "hiphop",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

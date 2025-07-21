@@ -1,0 +1,26 @@
+{
+  "name": "twist_snap_r",
+  "difficulty": 0,
+  "display_name": "Twist Snap",
+  "ham_move_name": "Snap_R_iwishforyou.move",
+  "milo_name": "snap_r_iwishforyou",
+  "song_name": "iwishforyou",
+  "clips": {
+    "twist_snap_r_iwishforyou_v0": {
+      "avg_beats_per_second": 1.98,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "twist_snap_l_iwishforyou_v0",
+      "linked_from": ""
+    },
+    "twist_snap_r_iwishforyou_v1": {
+      "avg_beats_per_second": 1.99,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "twist_snap_l_iwishforyou_v1",
+      "linked_from": "twist_snap_l_iwishforyou_v0"
+    }
+  }
+}

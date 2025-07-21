@@ -1,0 +1,26 @@
+{
+  "name": "lay_up",
+  "difficulty": 1,
+  "display_name": "Lay Up",
+  "ham_move_name": "Crowd_Pump_djgotusfallininlove.move",
+  "milo_name": "crowd_pump_djgotusfallininlove",
+  "song_name": "djgotusfallininlove",
+  "clips": {
+    "lay_up_djgotusfallininlove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "lay_up_djgotusfallininlove_v1": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "longboard_breaker",
+  "difficulty": 1,
+  "display_name": "Longboard Breaker",
+  "ham_move_name": "Extended_Boardbreaker_yeah.move",
+  "milo_name": "extended_boardbreaker_yeah",
+  "song_name": "yeah",
+  "clips": {
+    "longboard_breaker_yeah_v0": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "longboard_breaker_yeah_v1": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "longboard_breaker_yeah_v2": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    },
+    "longboard_breaker_yeah_v3": {
+      "avg_beats_per_second": 1.75,
+      "genre": "randb",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": ""
+    }
+  }
+}

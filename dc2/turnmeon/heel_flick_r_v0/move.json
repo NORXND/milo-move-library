@@ -1,0 +1,26 @@
+{
+  "name": "heel_flick_r",
+  "difficulty": 1,
+  "display_name": "Heel Flick",
+  "ham_move_name": "Hit_That_R_turnmeon.move",
+  "milo_name": "hit_that_r_turnmeon",
+  "song_name": "turnmeon",
+  "clips": {
+    "heel_flick_r_turnmeon_v0": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "heel_flick_l_turnmeon_v0",
+      "linked_from": ""
+    },
+    "heel_flick_r_turnmeon_v1": {
+      "avg_beats_per_second": 1.77,
+      "genre": "raggae",
+      "era": "2000s",
+      "flags": 66,
+      "linked_to": "heel_flick_l_turnmeon_v1",
+      "linked_from": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "get_down_l",
+  "difficulty": 0,
+  "display_name": "Get Down",
+  "ham_move_name": "Point_Down_L_djgotusfallininlove.move",
+  "milo_name": "point_down_l_djgotusfallininlove",
+  "song_name": "djgotusfallininlove",
+  "clips": {
+    "get_down_l_djgotusfallininlove_v0": {
+      "avg_beats_per_second": 2.0,
+      "genre": "pop",
+      "era": "2010s",
+      "flags": 66,
+      "linked_to": "",
+      "linked_from": "get_down_r_djgotusfallininlove_v0"
+    }
+  }
+}
